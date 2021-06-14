@@ -1,14 +1,14 @@
 ---
 title: Gestión de acceso
-description: Comprender el sistema de control de acceso de Adobe Journey Optimizer y los ocho perfiles personalizados. Obtenga información sobre cómo administrar perfiles y permisos de productos y cómo agregar y administrar usuarios.
+description: Comprenda el sistema de control de acceso de Adobe Journey Optimizer y los ocho perfiles personalizados. Obtenga información sobre cómo administrar perfiles y permisos de productos y cómo agregar y administrar usuarios.
 kt: 7677
-thumbnail: 333998
+thumbnail: 333998.jpg
 feature: Administración de acceso
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 10%
@@ -18,7 +18,7 @@ ht-degree: 10%
 
 # Gestión de acceso
 
-Comprender el sistema de control de acceso de Adobe Journey Optimizer y los ocho perfiles personalizados. Obtenga información sobre cómo administrar perfiles y permisos de productos y cómo agregar y administrar usuarios.
+Comprenda el sistema de control de acceso de Adobe Journey Optimizer y los ocho perfiles personalizados. Obtenga información sobre cómo administrar perfiles y permisos de productos y cómo agregar y administrar usuarios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12)
 
