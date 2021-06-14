@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los Tutorials de aprendizaje de Journey Optimizer.
-source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
+source-git-commit: e9f39bb4deb7f57e2b41ef5b6555b4bf3bf1afff
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 13%
+source-wordcount: '69'
+ht-degree: 17%
 
 ---
 
@@ -16,14 +16,14 @@ ht-degree: 13%
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
 + Introducción {#get-started}
    + Control de acceso {#access-set-up}
-      + [Importar y crear contenido de correo electrónico con el editor de mensajes][Access management] (/help/set-up-access/access-management.md)
+      + [Gestión de acceso](/help/set-up-access/access-management.md)
    + Configuración de la fuente de datos {#data-source-configuration}
    + Configuración de canal {#channel-configuration}
    + Configuración de recursos {#resource-set-up}
    + Configuración de administración de decisiones {#decision-management-configuration}
    + Configuración de recorridos{#journey-configuration}
 + Creación de mensajes {#create-messages}
-   + (/help/create-messages/import-and-author-email-content.md)
+   + [Importar y crear contenido de correo electrónico con el editor de mensajes](/help/create-messages/import-and-author-email-content.md)
 + Personalización del contenido {#personalize-content}
    + [Personalización basada en perfiles y segmentos](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Añadir ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
