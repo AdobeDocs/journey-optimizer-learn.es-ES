@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 7f8404d4bf526bf551d8db9ee6cbcd4a95063356
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 2%
 
 ---
 
@@ -21,3 +21,10 @@ ht-degree: 1%
 Obtenga información sobre cómo añadir personalización basada en perfiles a un mensaje y cómo utilizar la pertenencia a un segmento como condición previa a un bloque personalizado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
+
+## Recursos adicionales
+
+* [Introducción a la personalización en Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [Caso de uso: añadir personalización en una notificación push](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
+* [Explicación de la sintaxis de personalización](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
+* [Usar funciones de ayuda](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
