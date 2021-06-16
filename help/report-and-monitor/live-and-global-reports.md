@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
+source-git-commit: d4f4a71695c267e6a9ca32041fe3d0e19394941f
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 3%
 
 ---
 
@@ -21,3 +21,9 @@ ht-degree: 1%
 Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del mensaje, y cómo modificar los tableros del informe.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
+
+## Recursos adicionales
+
+* [Introducción a Live Reports](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html)
+* [Introducción a los informes globales](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html)
+
