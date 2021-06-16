@@ -2,10 +2,10 @@
 title: Vídeos y Tutorials de Journey Optimizer
 description: Esta guía del usuario contiene vídeos y tutoriales sobre las funciones y capacidades de Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
+source-git-commit: d2f39bb7d8e1688f6b6f20096cc6cda4242366c8
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 17%
+source-wordcount: '146'
+ht-degree: 16%
 
 ---
 
@@ -18,7 +18,6 @@ Journey Optimizer ayuda a las empresas a ofrecer a sus clientes experiencias con
 
 Esta guía del usuario contiene vídeos y tutoriales sobre las funciones y capacidades de Adobe Journey Optimizer.
 
-## Selección del personal
 <table>
 <tr>
   <td>
