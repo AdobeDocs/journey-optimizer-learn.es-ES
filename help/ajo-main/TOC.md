@@ -2,9 +2,9 @@
 user-guide-title: Tutorials de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los Tutorials de aprendizaje de Journey Optimizer.
-source-git-commit: 9c9f842176a69e083b3c7d58006ad6d4b6e999e1
+source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '108'
 ht-degree: 12%
 
 ---
@@ -36,5 +36,6 @@ ht-degree: 12%
 + Crear recorridos {#create-journeys}
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso de uso: Leer segmento](/help/create-journeys/use-case-read-segment.md)
+   + [Caso de uso: calificación de segmentos](/help/create-journeys/use-case-read-segment-qualification.md)
 + Informe y monitor {#report-and-monitor}
    + [Informes activos y globales](/help/report-and-monitor/live-and-global-reports.md)
