@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los Tutorials de aprendizaje de Journey Optimizer.
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+source-git-commit: f885d20058826ac9e9c004c8d3544676c36a6e5c
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 14%
+source-wordcount: '98'
+ht-degree: 13%
 
 ---
 
@@ -33,5 +33,7 @@ ht-degree: 14%
    + [Añadir ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Uso de información de evento contextual para la personalización](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + Crear recorridos {#create-journeys}
+   + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
+   + [Caso de uso: Leer segmento](/help/create-journeys/use-case-read-segment.md)
 + Informe y monitor {#report-and-monitor}
    + [Informes activos y globales](/help/report-and-monitor/live-and-global-reports.md)
