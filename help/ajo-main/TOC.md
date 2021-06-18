@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los Tutorials de aprendizaje de Journey Optimizer.
-source-git-commit: 8eef9004135c090db29dcab3203e838c0520e510
+source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 11%
+source-wordcount: '122'
+ht-degree: 10%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 11%
 + Creación de mensajes {#create-messages}
    + [Creación de contenido de correo electrónico con el editor de mensajes](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
+   + [Vista previa, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
 + Personalización del contenido {#personalize-content}
    + [Personalización basada en perfiles y segmentos](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Añadir ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
