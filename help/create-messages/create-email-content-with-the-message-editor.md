@@ -1,6 +1,6 @@
 ---
-title: 'Creación de contenido de correo electrónico con el editor de mensajes '
-description: 'Aprenda a crear correos electrónicos desde cero. Obtenga información sobre cómo utilizar recursos de la biblioteca de AEM Assets Essentials, editar el diseño de correo electrónico interactivo y crear correos electrónicos a partir de plantillas. '
+title: Creación de contenido de correo electrónico con el editor de mensajes
+description: Aprenda a crear correos electrónicos desde cero. Obtenga información sobre cómo utilizar recursos de la biblioteca de AEM Assets Essentials, editar el diseño de correo electrónico interactivo y crear correos electrónicos a partir de plantillas.
 kt: 8057
 thumbnail: 334150.jpg
 feature: Diseño de correo electrónico
@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '146'
 ht-degree: 6%
 
 ---
-
 
 # Creación de contenido de correo electrónico con el editor de mensajes
 
@@ -24,5 +24,8 @@ Aprenda a crear correos electrónicos desde cero. Obtenga información sobre có
 
 ## Recursos adicionales
 
-* [Introducción al diseño de correo electrónico en Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
-* [Uso de los componentes de contenido del diseñador de correo electrónico](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [Introducción al diseño de correo electrónico en Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [Diseño del contenido del correo electrónico en la IU](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html)
+* [Uso de los componentes de contenido del diseñador de correo electrónico](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html)
+* [Uso de AEM Assets Essentials en Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)
+* [Inserción de vínculos y configuración del seguimiento de correo electrónico](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/message-tracking.html)
