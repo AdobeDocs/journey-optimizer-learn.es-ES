@@ -8,9 +8,9 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 71fc3f87f0292f943b7c0b1db397848112b01223
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '96'
 ht-degree: 3%
 
 ---
@@ -25,4 +25,5 @@ Aprenda a transformar los valores de personalización mediante las funciones de 
 ## Recursos adicionales
 
 * [Introducción a la personalización en Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [Plantillas de idioma y funciones de ayuda](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
 * [Caso de uso: Aprovechamiento de varios tipos de personalización en un mensaje](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
