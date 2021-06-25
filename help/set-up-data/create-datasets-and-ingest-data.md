@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 359377095abbf30572f671b61f363abef67074aa
+source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 5%
+source-wordcount: '90'
+ht-degree: 13%
 
 ---
 
@@ -21,3 +21,8 @@ ht-degree: 5%
 Obtenga información sobre cómo crear un conjunto de datos, asignarlo a un esquema, agregarle datos y confirmar que se han introducido los datos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
+
+## Recursos adicionales
+
+* [Crear un esquema, un conjunto de datos e introducir datos para añadir perfiles de prueba](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [Crear y administrar conjuntos de datos](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=es)
