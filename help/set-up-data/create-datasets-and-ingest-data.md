@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
 
-# Configuración de fuente de datos
+# Creación de conjuntos de datos e ingesta de datos
 
 Obtenga información sobre cómo crear un conjunto de datos, asignarlo a un esquema, agregarle datos y confirmar que se han introducido los datos.
 
