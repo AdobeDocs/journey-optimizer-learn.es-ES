@@ -2,9 +2,9 @@
 user-guide-title: Tutorials de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los Tutorials de aprendizaje de Journey Optimizer.
-source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
+source-git-commit: 638d5d7727d0e653d8f31cefdf8a5c311f11eec9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 10%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 10%
    + [Arquitectura](/help/introduction/architecture.md)
 + Introducción {#get-started}
    + [Gestión de acceso](/help/set-up-access/access-management.md)
+   + [Crear y administrar entornos limitados](/help/set-up-access/create-and-manage-sandboxes.md)
    + Configuración de datos {#data-configuration}
       + [Creación de conjuntos de datos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
    + Configuración de canal {#channel-configuration}
