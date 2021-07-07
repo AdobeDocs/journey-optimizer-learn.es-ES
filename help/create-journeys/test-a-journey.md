@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 736175814511c375198d216f7e8f79408d59c9d6
-workflow-type: tm+mt
+exl-id: b0725be6-2a3d-46cf-b78a-d53b6a88d112
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
-
 
 # Prueba de un recorrido mediante eventos y perfiles de prueba
 
