@@ -1,23 +1,23 @@
 ---
-title: Vista previa, prueba y publicación
-description: Obtenga información sobre cómo probar el procesamiento de correos electrónicos en varias bandejas de entrada, cómo previsualizar los correos electrónicos personalizados con perfiles de prueba, enviar pruebas y publicar el correo electrónico.
+title: Previsualización, prueba y publicación
+description: Obtenga información sobre cómo probar el procesamiento de correos electrónicos en varias bandejas de entrada, previsualizar los correos electrónicos personalizados con perfiles de prueba, enviar pruebas y publicar correos electrónicos.
 kt: 7533
 thumbnail: 334239.jpg
-feature: Diseño de correo electrónico, renderización de la bandeja de entrada, procesamiento de correo electrónico
+feature: Diseño de correo electrónico, procesamiento de la bandeja de entrada, procesamiento de correo electrónico
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
-workflow-type: tm+mt
+exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Previsualización, prueba y publicación
 
-# Vista previa, prueba y publicación
-
-Obtenga información sobre cómo probar el procesamiento de correos electrónicos en varias bandejas de entrada, cómo previsualizar los correos electrónicos personalizados con perfiles de prueba, enviar pruebas y publicar el correo electrónico.
+Obtenga información sobre cómo probar el procesamiento de correos electrónicos en varias bandejas de entrada, previsualizar los correos electrónicos personalizados con perfiles de prueba, enviar pruebas y publicar correos electrónicos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334239?quality=12)
