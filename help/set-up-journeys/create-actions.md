@@ -1,6 +1,6 @@
 ---
-title: Crear acciones
-description: Comprender los diferentes estados de un recorrido y el impacto de la publicación.
+title: Creación de acciones
+description: Comprenda los diferentes estados de un recorrido y el impacto de la publicación.
 kt: 7536
 thumbnail: 334257.jpg
 feature: Recorridos, fuentes de datos
@@ -9,14 +9,14 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Crear acciones
+# Creación de acciones
 
 Descubra qué es una acción en Journey Optimizer y cómo configurar una acción personalizada.
 
