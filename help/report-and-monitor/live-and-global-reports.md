@@ -1,6 +1,6 @@
 ---
-title: Informes activos y globales
-description: Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del mensaje, y cómo modificar los tableros del informe.  
+title: Informes en vivo y globales
+description: Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del Mensaje, y cómo modificar los tableros del informe.
 kt: 7690
 thumbnail: 334108.jpg
 feature: Informes
@@ -8,22 +8,21 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# Informes en vivo y globales
 
-# Informes activos y globales
-
-Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del mensaje, y cómo modificar los tableros del informe.  
+Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del Mensaje, y cómo modificar los tableros del informe.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
 
 ## Recursos adicionales
 
-* [Introducción a Live Reports](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html)
-* [Introducción a los informes globales](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html)
-
+* [Introducción a los informes en vivo](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html?lang=es)
+* [Introducción a los informes globales](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html?lang=es)
