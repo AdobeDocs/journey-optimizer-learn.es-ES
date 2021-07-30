@@ -2,10 +2,10 @@
 title: Vídeos y tutoriales de Journey Optimizer
 description: Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+workflow-type: tm+mt
+source-wordcount: '177'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 Journey Optimizer ayuda a las empresas a ofrecer a sus clientes experiencias conectadas, contextuales y personalizadas. El recorrido del cliente es todo el proceso de interacción de un cliente con la marca, desde el primer momento de contacto hasta que se marcha.
 
 Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Journey Optimizer.
+
+## Novedades
+
+* **[Caso de uso: Mensaje de explosión](/help/create-journeys/use-case-read-burst-message.md)**
+
+   *Comprenda los casos de uso aplicables a la mensajería de fragmentación. Aprenda a configurar un recorrido para mensajes de fragmentación y qué prácticas recomendadas aplicar.*
 
 ## Selección del personal
 
