@@ -3,15 +3,15 @@ title: Crear un esquema
 description: Obtenga información sobre cómo crear un esquema, agregar grupos de campos, crear y configurar grupos de campos personalizados.
 kt: 7565
 thumbnail: 334461.jpg
-feature: Esquema
+feature: Esquemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: e920c13276400fbb69467818cf49c2dfa46f28ca
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 5%
+ht-degree: 38%
 
 ---
 
@@ -24,4 +24,4 @@ Obtenga información sobre cómo crear un esquema, agregar grupos de campos, cre
 
 ## Recursos adicionales
 
-* [Crear un esquema, un conjunto de datos e introducir datos para añadir perfiles de prueba](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [Creación de un esquema y un conjunto de datos, e introducción de datos para añadir perfiles de prueba](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lang=es)
