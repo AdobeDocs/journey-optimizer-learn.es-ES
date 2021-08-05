@@ -8,7 +8,7 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
+source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 12%
@@ -27,4 +27,4 @@ Obtenga información sobre los datos de perfil del cliente en tiempo real y los 
 * [Crear un esquema](/help/set-up-data/create-schema.md)
 * [Asigne identidades](/help/set-up-data/map-identities.md)
 * [Creación de conjuntos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [Configuración de fuentes](/help/set-up-data/configure-sources.md)
+* [Configuración de fuentes](/help/set-up-data/configure-data-sources.md)
