@@ -8,14 +8,14 @@ doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '52'
+ht-degree: 3%
 
 ---
 
-# Administración de acceso
+# Crear y administrar entornos limitados
 
 Comprenda cuáles son los entornos limitados y cómo distinguir entre los entornos limitados de desarrollo y producción. Obtenga información sobre cómo crear, restablecer y eliminar entornos limitados.
 
