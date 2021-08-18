@@ -3,9 +3,9 @@ title: Vídeos y tutoriales de Journey Optimizer
 description: Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -22,23 +22,23 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 * **[Configuración de datos: información general](/help/set-up-data/set-up-data-overview.md)**
 
-   *Obtenga información sobre los datos de perfil del cliente en tiempo real y los pasos necesarios para configurar los datos de perfil del cliente para Journey Optimizer.*
+   *Obtenga información acerca de los datos de perfil del cliente en tiempo real y los pasos necesarios para configurar los datos del perfil de cliente para Journey Optimizer.*
 
-* **[Asigne identidades](/help/set-up-data/map-identities.md)**
+* **[Asignación de identidades](/help/set-up-data/map-identities.md)**
 
    *Obtenga información sobre cómo y cuándo etiquetar un campo de esquema como identidad, cómo crear un área de nombres, cuándo crear una identidad principal y cómo introducir y verificar datos de identidad.*
 
 * **[Configuración de fuentes de datos](/help/set-up-data/configure-data-sources.md)**
 
-   *Obtenga información sobre los conectores de origen y cómo configurarlos en Journey Optimizer*
+   *Obtenga información acerca de los conectores de origen y cómo configurarlos en Journey Optimizer*
 
 * **[Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)**
 
    *Comprender los conceptos básicos para construir un recorrido en el lienzo del recorrido.*
 
-* **[Caso de uso: Mensaje de explosión](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Caso de uso: Mensaje de ráfaga](/help/create-journeys/use-case-read-burst-message.md)**
 
-   *Comprenda los casos de uso aplicables a la mensajería de fragmentación. Aprenda a configurar un recorrido para mensajes de fragmentación y qué prácticas recomendadas aplicar.*
+   *Comprenda los casos de uso aplicables a la mensajería de ráfaga. Aprenda a configurar un recorrido para mensajes de ráfaga y qué prácticas recomendadas aplicar.*
 
 ## Selección del personal
 
