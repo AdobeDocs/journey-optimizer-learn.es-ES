@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 88%
    + [Arquitectura](/help/introduction/architecture.md)
 + Introducción {#get-started}
    + [Administración de acceso](/help/set-up-access/access-management.md)
-   + [Crear y administrar entornos limitados](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Creación y administración de espacios aislados](/help/set-up-access/create-and-manage-sandboxes.md)
    + Configuración de datos {#data-configuration}
       + [Información general](/help/set-up-data/set-up-data-overview.md)
-      + [Crear un esquema](/help/set-up-data/create-schema.md)
-      + [Asigne identidades](/help/set-up-data/map-identities.md)
+      + [Creación de un esquema](/help/set-up-data/create-schema.md)
+      + [Asignación de identidades](/help/set-up-data/map-identities.md)
       + [Creación de conjuntos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Configuración de fuentes de datos](/help/set-up-data/configure-data-sources.md)
    + Configuración de canal {#channel-configuration}
@@ -50,7 +50,7 @@ ht-degree: 88%
    + [Caso de uso: Segmento de lectura](/help/create-journeys/use-case-read-segment.md)
    + [Caso de uso: Evento empresarial](/help/create-journeys/use-case-business-event.md)
    + [Caso de uso: Calificación de segmentos](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso de uso: Mensaje de explosión](/help/create-journeys/use-case-read-burst-message.md)
+   + [Caso de uso: Mensaje de ráfaga](/help/create-journeys/use-case-read-burst-message.md)
    + [Prueba de un recorrido](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
 + Informes y monitorización {#report-and-monitor}
