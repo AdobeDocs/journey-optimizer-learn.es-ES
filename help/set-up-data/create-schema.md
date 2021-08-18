@@ -1,6 +1,6 @@
 ---
-title: Crear un esquema
-description: Obtenga información sobre cómo crear un esquema, agregar grupos de campos, crear y configurar grupos de campos personalizados.
+title: Creación de un esquema
+description: Obtenga información sobre cómo crear un esquema, añadir grupos de campos, crear y configurar grupos de campos personalizados.
 kt: 7565
 thumbnail: 334461.jpg
 feature: Esquemas
@@ -9,16 +9,16 @@ team: PM
 role: Developer
 level: Beginner
 source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
 
-# Crear un esquema
+# Creación de un esquema
 
-Obtenga información sobre cómo crear un esquema, agregar grupos de campos, crear y configurar grupos de campos personalizados.
+Obtenga información sobre cómo crear un esquema, añadir grupos de campos, crear y configurar grupos de campos personalizados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12)
 
