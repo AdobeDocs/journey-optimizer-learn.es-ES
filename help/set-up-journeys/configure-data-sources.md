@@ -1,23 +1,23 @@
 ---
 title: Configuración de fuentes de datos
-description: Comprenda qué es una fuente de datos y aprenda a configurar una fuente de datos de Experience Platform y externas.
+description: Comprenda qué es una fuente de datos y aprenda a configurar fuentes de datos externas y de Experience Platform.
 kt: 7538
 thumbnail: 334256.jpg
-feature: Recorridos, fuentes de datos
+feature: Journeys, Data Sources
 doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '45'
-ht-degree: 100%
+source-git-commit: 03519352f37b613e65f4f97c5a94320443b57def
+workflow-type: tm+mt
+source-wordcount: '40'
+ht-degree: 15%
 
 ---
 
 
 # Configuración de fuentes de datos
 
-Comprenda qué es una fuente de datos y aprenda a configurar una fuente de datos de Experience Platform y externas.
+Comprenda qué es una fuente de datos y aprenda a configurar fuentes de datos externas y de Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12)
