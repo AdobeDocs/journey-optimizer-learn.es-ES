@@ -2,7 +2,7 @@
 title: Vídeos y tutoriales de Journey Optimizer
 description: Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -28,7 +28,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
    *Obtenga información acerca de los conectores de origen y cómo configurarlos en Journey Optimizer*
 
-* **[Caso de uso: Mensaje de ráfaga](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Caso de uso: Mensaje de ráfaga](/help/create-journeys/use-case-burst-message.md)**
 
    *Comprenda los casos de uso aplicables a la mensajería de ráfaga. Aprenda a configurar un recorrido para mensajes de ráfaga y qué prácticas recomendadas aplicar.*
 
