@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
 source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 97%
 + Configuración de canal {#channel-configuration}
    + [Configuración del canal de correo electrónico](/help/set-up-email-channel/set-up-email-channel.md)
 + Configuración de administración de decisiones {#decision-management-configuration}
-   + [Introducción a [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [Demostración de [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
-   + [Crear ubicaciones](/help/set-up-decision-management/create-placements.md)
+   + [Introducción a  [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [Demostración de  [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [Creación de ubicaciones](/help/set-up-decision-management/create-placements.md)
    + [Creación de reglas](/help/set-up-decision-management/create-rules.md)
    + [Crear etiquetas](/help/set-up-decision-management/create-tags.md)
    + [Crear ofertas personalizadas](/help/set-up-decision-management/create-personalized-offers.md)
@@ -43,7 +43,7 @@ ht-degree: 97%
    + [Entrega de ofertas con la API Decisions](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Configuración de recorridos{#journey-configuration}
    + [Configuración de fuentes de datos](/help/set-up-journeys/configure-data-sources.md)
-   + [Crear eventos](/help/set-up-journeys/create-events.md)
+   + [Creación de eventos](/help/set-up-journeys/create-events.md)
    + [Creación de acciones](/help/set-up-journeys/create-actions.md)
 + [Creación de segmentos](/help/set-up-resources/create-segments.md)
 + Creación de mensajes {#create-messages}
