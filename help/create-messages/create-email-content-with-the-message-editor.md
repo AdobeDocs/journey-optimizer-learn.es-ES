@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Aprenda a crear correos electrónicos desde cero. Obtenga información sobre có
 * [Diseño del contenido del correo electrónico en la IU](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html?lang=es)
 * [Uso de los componentes de contenido del diseñador de correo electrónico](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html?lang=es)
 * [Uso de AEM Assets Essentials en Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=es)
-* [Adición de vínculos y seguimiento de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html)
+* [Adición de vínculos y seguimiento de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html?lang=es)
