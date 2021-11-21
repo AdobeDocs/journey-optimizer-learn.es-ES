@@ -3,18 +3,18 @@ title: Creación de un esquema
 description: Obtenga información sobre cómo crear un esquema, añadir grupos de campos, crear y configurar grupos de campos personalizados.
 kt: 7565
 thumbnail: 334461.jpg
-feature: Esquemas
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
-workflow-type: ht
-source-wordcount: '59'
+exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: tm+mt
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
-
 
 # Creación de un esquema
 
