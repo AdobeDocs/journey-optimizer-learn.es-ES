@@ -8,14 +8,14 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 7741e6698934749eadaf12dae800b08444c6ffd2
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 12%
+source-wordcount: '32'
+ht-degree: 0%
 
 ---
 
-# Configuración del canal de correo electrónico
+# Delegar subdominios CName
 
 Obtenga información sobre cómo crear un subdominio con CNAME para que apunte a registros específicos de Adobe.
 
