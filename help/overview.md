@@ -2,10 +2,10 @@
 title: Vídeos y tutoriales de Journey Optimizer
 description: Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,10 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 ## Novedades
 
+* **[Delegar subdominios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *Obtenga información sobre cómo crear un subdominio con CNAME para que apunte a registros específicos de Adobe.*
+
 * **[Creación de eventos](/help/set-up-journeys/create-events.md)**
 
    *Obtenga información sobre cómo configurar un evento y especificar el extremo de flujo continuo y la carga útil para un evento.*
@@ -28,9 +32,6 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
    *Obtenga información acerca de los conectores de origen y cómo configurarlos en Journey Optimizer*
 
-* **[Caso de uso: Mensaje de ráfaga](/help/create-journeys/use-case-burst-message.md)**
-
-   *Comprenda los casos de uso aplicables a la mensajería de ráfaga. Aprenda a configurar un recorrido para mensajes de ráfaga y qué prácticas recomendadas aplicar.*
 
 ## Selección del personal
 
