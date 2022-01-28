@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 98%
+ht-degree: 88%
 
 ---
 
@@ -58,11 +58,11 @@ ht-degree: 98%
    + [Uso de funciones de ayuda para la personalización](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Creación de recorridos {#create-journeys}
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
-   + [Caso de uso: Segmento de lectura](/help/create-journeys/use-case-read-segment.md)
-   + [Caso de uso: Evento empresarial](/help/create-journeys/use-case-business-event.md)
-   + [Caso de uso: Calificación de segmentos](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso de uso: Mensaje de ráfaga](/help/create-journeys/use-case-burst-message.md)
+   + [Caso de uso: recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
+   + [Caso de uso: Leer segmento](/help/create-journeys/use-case-read-segment.md)
+   + [Caso de uso: evento empresarial](/help/create-journeys/use-case-business-event.md)
+   + [Caso de uso: calificación de segmentos](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Caso de uso: Mensaje de explosión](/help/create-journeys/use-case-burst-message.md)
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
 + Informes y monitorización {#report-and-monitor}

@@ -5,9 +5,9 @@ feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ Obtenga información general sobre [!DNL Offer Decisioning], un servicio de apli
 >[!INFO]
 >
 > Este vídeo es parte de un curso, [Introducción a Offer Decisioning para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=es), disponible de forma gratuita en Experience League.
-
-## Recursos adicionales
-
-* [Demostración de  [!DNL Offer Decisioning]  (vídeo)](demo-of-offer-decisioning.md)
-*  [[!DNL Offer Decisioning] (documentación)](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html?lang=es)

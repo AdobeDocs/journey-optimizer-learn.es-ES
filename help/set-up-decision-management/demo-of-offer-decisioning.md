@@ -5,9 +5,9 @@ feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ Aprenda鈥痗贸mo las marcas pueden usar el servicio [!DNL Offer Decisioning] de鈥
 >[!INFO]
 >
 > Este v铆deo es parte de un curso, [Introducci贸n a Offer Decisioning para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=es), disponible de forma gratuita en Experience League.
-
-
-## Recursos adicionales
-
-* [Introducci贸n a  [!DNL Offer Decisioning] (v铆deo)](introduction-to-offer-decisioning.md)
-* [[!UICONTROL Administraci贸n de decisiones] (documentaci贸n)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=es)
