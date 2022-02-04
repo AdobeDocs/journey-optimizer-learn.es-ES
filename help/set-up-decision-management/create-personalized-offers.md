@@ -7,15 +7,15 @@ kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # Creación de ofertas personalizadas
 
-Obtenga información sobre cómo crear [ofertas personalizadas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=es) en [!DNL Offer Decisioning]. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes. Por ejemplo, puede restringir una oferta para palas de nieve a regiones donde nieva y solo durante la época de invierno.
+Aprenda a crear [ofertas personalizadas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=es) en [!DNL Offer Decisioning]. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes. Por ejemplo, puede restringir una oferta para palas de nieve a regiones donde nieva y solo durante la época de invierno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
