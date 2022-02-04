@@ -6,15 +6,15 @@ kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 # Creación de etiquetas
 
-Obtenga información sobre cómo [crear etiquetas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=es) en [!DNL Offer Decisioning]. Las etiquetas son componentes opcionales de bloque de creación de ofertas. Se pueden utilizar para organizar ofertas y agruparlas en colecciones dinámicas.
+Aprenda a [crear etiquetas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=es) en [!DNL Offer Decisioning]. Las etiquetas son componentes opcionales de bloque de creación de ofertas. Se pueden utilizar para organizar ofertas y agruparlas en colecciones dinámicas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 
