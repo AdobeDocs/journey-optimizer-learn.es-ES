@@ -6,15 +6,15 @@ kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # Creación de ubicaciones
 
-Obtenga información sobre cómo crear [ubicaciones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=es) en [!DNL Offer Decisioning]. Las ubicaciones son uno de los componentes de bloque de creación para las ofertas. Una ubicación es la combinación de tipo de contenido y canal, como una imagen en un correo electrónico o código HTML de un sitio web.
+Aprenda a crear [ubicaciones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=es) en [!DNL Offer Decisioning]. Las ubicaciones son uno de los componentes de bloque de creación para las ofertas. Una ubicación es la combinación de tipo de contenido y canal, como una imagen en un correo electrónico o código HTML de un sitio web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
