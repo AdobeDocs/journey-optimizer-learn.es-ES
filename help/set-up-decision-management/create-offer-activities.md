@@ -6,19 +6,19 @@ kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # Creación de actividades de oferta
 
-Obtenga información sobre cómo crear [actividades de oferta](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html) en [!DNL Offer Decisioning]. Una actividad de oferta combina las ubicaciones y las colecciones en una sola entidad, para que se pueda tomar la decisión de proporcionar la oferta más relevante al cliente.
+Aprenda a crear [actividades de oferta](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=es) en [!DNL Offer Decisioning]. Una actividad de oferta combina las ubicaciones y las colecciones en una sola entidad, para que se pueda tomar la decisión de proporcionar la oferta más relevante al cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
 
-Para obtener más información sobre cómo crear actividades de oferta con una API, consulte la [guía del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html)
+Para obtener más información sobre cómo crear actividades de oferta con una API, consulte la [guía del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html?lang=es)
 
 >[!INFO]
 >
