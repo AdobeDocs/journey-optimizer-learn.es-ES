@@ -6,15 +6,15 @@ kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # Creación de ofertas de reserva
 
-Obtenga información sobre cómo crear [ofertas de reserva] (https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html) en [!DNL Offer Decisioning]. Las ofertas de reserva son ofertas predeterminadas que se muestran a los clientes que no cumplen los requisitos de ninguna de sus ofertas personalizadas.
+Aprenda a crear [ofertas de reserva] (https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html) en [!DNL Offer Decisioning]. Las ofertas de reserva son ofertas predeterminadas que se muestran a los clientes que no cumplen los requisitos de ninguna de sus ofertas personalizadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on)
 
