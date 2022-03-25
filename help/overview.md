@@ -6,7 +6,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 81%
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
    *Obtenga información sobre cómo configurar suscripciones y crear páginas de aterrizaje.*
 
-* **[Usar y administrar expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[Uso y administración de expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
    *Obtenga información sobre cómo utilizar elementos de biblioteca de personalización guardados en un mensaje y cómo crear y administrar elementos de biblioteca de personalización.*
 
