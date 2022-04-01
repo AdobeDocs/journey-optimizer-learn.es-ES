@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: 43d3e290d3e481fd8ae88813fedd48692a85f118
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,9 @@ ht-degree: 100%
    + [Creación de eventos](/help/set-up-journeys/create-events.md)
    + [Creación de acciones](/help/set-up-journeys/create-actions.md)
 + [Creación de segmentos](/help/set-up-resources/create-segments.md)
++ [Assets Essentials](/help/assets-essentials-overview.md)
 + Creación de mensajes {#create-messages}
+   + [Información general del diseñador de masajes](/help/create-messages/message-designer-overview.md)
    + [Creación de contenido de correo electrónico con el editor de mensajes](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
@@ -59,6 +61,7 @@ ht-degree: 100%
    + [Uso y administración de expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
 + Creación de recorridos {#create-journeys}
+   + [Información general sobre el lienzo del recorrido](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso de uso: Segmento de lectura](/help/create-journeys/use-case-read-segment.md)
