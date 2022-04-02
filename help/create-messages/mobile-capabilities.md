@@ -1,14 +1,14 @@
 ---
 title: Capacidades de Mobile para especialistas en marketing
-description: Conozca las funcionalidades móviles de Adobe Journey Optimizer. (Entre 60 y 160 caracteres)
+description: Comprender qué capacidades móviles ofrece Adobe Journey Optimizer a los especialistas en marketing.
 feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
 kt: 10169
 thumbnail: 342102.jpeg
-source-git-commit: 84e9f93b3bc22a6ebbe2993df28a1efa9ff88b84
+source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Capacidades de Mobile para especialistas en marketing
 
-Conozca las funcionalidades móviles de Adobe Journey Optimizer.
+Comprender qué capacidades móviles ofrece Adobe Journey Optimizer a los especialistas en marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on)
