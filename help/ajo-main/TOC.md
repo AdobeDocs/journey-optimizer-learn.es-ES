@@ -2,9 +2,9 @@
 user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
-source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
+source-git-commit: 3be357a7f91c08bf768d837f32c242ff8b181749
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 88%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 88%
    + [Configuración de fuentes de datos](/help/set-up-journeys/configure-data-sources.md)
    + [Creación de eventos](/help/set-up-journeys/create-events.md)
    + [Creación de acciones](/help/set-up-journeys/create-actions.md)
-+ Perfiles de cliente, segmentos y suscripciones {profiles-segments-subscriptions}
++ Perfiles de cliente, segmentos y suscripciones {#profiles-segments-subscriptions}
    + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creación de segmentos](/help/set-up-resources/create-segments.md)
    + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
