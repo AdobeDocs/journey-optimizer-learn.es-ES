@@ -1,20 +1,20 @@
 ---
-title: Información general
+title: 'Perfil unificado y segmentación: información general'
 description: Obtenga información sobre cómo crear un perfil unificado y, a continuación, generar segmentos basados en atributos de perfil para personalizar los recorridos de los clientes.
 feature: Profiles, Segments
 role: User
 level: Beginner
 kt: 10183
 thumbnail: 342114.jpg
-source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
+source-git-commit: 319eef07c1088b6bc8ba13d404ddffb3383fab82
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 4%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
 
-# Información general
+# Perfil unificado y segmentación: información general
 
 Obtenga información sobre cómo crear un perfil unificado y, a continuación, generar segmentos basados en atributos de perfil para personalizar los recorridos de los clientes.
 
