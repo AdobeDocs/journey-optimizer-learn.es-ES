@@ -4,9 +4,9 @@ description: Esta guía del usuario contiene vídeos y tutoriales sobre las nume
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '210'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 ## Novedades
 
-* **[Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)**
+* **[Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)**
 
    *Obtenga información sobre cómo configurar suscripciones y crear páginas de aterrizaje.*
 
