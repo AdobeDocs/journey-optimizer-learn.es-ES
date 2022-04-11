@@ -5,7 +5,7 @@ user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optim
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -49,10 +49,10 @@ ht-degree: 86%
 + Perfiles de cliente, segmentos y suscripciones {#profiles-segments-subscriptions}
    + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creación de segmentos](/help/set-up-resources/create-segments.md)
-   + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
+   + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creación de mensajes {#create-messages}
-   + [Información general del diseñador de masajes](/help/create-messages/message-designer-overview.md)
+   + [Información general del diseñador de mensajes](/help/create-messages/message-designer-overview.md)
    + [Creación de contenido de correo electrónico con el editor de mensajes](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
