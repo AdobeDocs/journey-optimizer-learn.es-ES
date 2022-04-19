@@ -1,20 +1,20 @@
 ---
 title: Creación de ubicaciones
-description: Obtenga información sobre cómo crear ubicaciones en Offer Decisioning. Las ubicaciones son uno de los componentes de bloque de creación requeridos para las ofertas.
+description: Obtenga información sobre cómo crear ubicaciones para la administración de decisiones. Las ubicaciones son uno de los componentes de bloque de creación requeridos para las ofertas.
 feature: Offers
 kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+source-git-commit: 2b1b6690604e0ce31eb2028c3ad6ad39cc8e820e
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
 # Creación de ubicaciones
 
-Aprenda a crear [ubicaciones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=es) en [!DNL Offer Decisioning]. Las ubicaciones son uno de los componentes de bloque de creación para las ofertas. Una ubicación es la combinación de tipo de contenido y canal, como una imagen en un correo electrónico o código HTML de un sitio web.
+Obtenga información sobre cómo crear [ubicaciones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=es) para la gestión de decisiones. Las ubicaciones son uno de los componentes de bloque de creación para las ofertas. Una ubicación es la combinación de tipo de contenido y canal, como una imagen en un correo electrónico o código HTML de un sitio web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
