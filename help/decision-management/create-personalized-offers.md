@@ -1,21 +1,21 @@
 ---
 title: Creación de ofertas personalizadas
-seo-title: Create personalized offers in Offer Decisioning
-description: Obtenga información sobre cómo crear ofertas personalizadas en  [!DNL Offer Decisioning]. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes.
+seo-title: Create personalized offers for decision management
+description: Aprenda a crear ofertas personalizadas para la gestión de decisiones. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes.
 feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Creación de ofertas personalizadas
 
-Aprenda a crear [ofertas personalizadas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=es) en [!DNL Offer Decisioning]. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes. Por ejemplo, puede restringir una oferta para palas de nieve a regiones donde nieva y solo durante la época de invierno.
+Obtenga información sobre cómo crear [ofertas personalizadas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=es) para la gestión de decisiones. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes. Por ejemplo, puede restringir una oferta para palas de nieve a regiones donde nieva y solo durante la época de invierno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 

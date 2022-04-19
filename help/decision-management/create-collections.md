@@ -1,20 +1,20 @@
 ---
 title: Creación de colecciones
-description: Obtenga información sobre cómo crear colecciones en  [!DNL Offer Decisioning]. Las colecciones tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes.
+description: Aprenda a crear colecciones para la gestión de decisiones. Las colecciones tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes.
 feature: Offers
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Creación de colecciones
 
-Obtenga información sobre cómo crear colecciones en [!DNL Offer Decisioning]. Las colecciones se utilizan para administrar ofertas en grupos lógicos y son necesarias para crear actividades de [!DNL Offer Decisioning]. Las colecciones dinámicas permiten agrupar ofertas basadas en etiquetas, mientras que las colecciones estáticas permiten seleccionar manualmente las ofertas.
+Aprenda a crear colecciones para la gestión de decisiones. Las colecciones se utilizan para administrar ofertas en grupos lógicos y se necesitan para compilar para actividades de administración de decisiones. Las colecciones dinámicas permiten agrupar ofertas basadas en etiquetas, mientras que las colecciones estáticas permiten seleccionar manualmente las ofertas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on)
 
