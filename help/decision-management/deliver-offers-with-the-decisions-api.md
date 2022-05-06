@@ -1,28 +1,28 @@
 ---
-title: Enviar ofertas con la API de centro de decisiones
-description: 'Obtenga información sobre cómo entregar ofertas de Offer Decisioning con la API Decisions. '
+title: Entrega de ofertas con la API de Decisions Hub
+description: 'Obtenga información sobre cómo entregar ofertas de Offer Decisioning con la API de Decisions. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 
-# Enviar ofertas con la API de centro de decisiones
+# Entrega de ofertas con la API de Decisions Hub
 
-Descubra cómo ofrecer ofertas [con la API de centro de decisiones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=es). Con [!DNL Postman] a modo de demostración, se realiza una llamada de API para recuperar el ID del contenedor. A continuación, se personaliza una llamada a la API de Decisions de ejemplo con el ID de actividad, el ID de ubicación, el área de nombres de identidad y el ID de cliente para recuperar una oferta personalizada. Una vez que haya recuperado una oferta personalizada con la API Decisions, puede integrar el contenido de la oferta con su sistema de marketing.
+Obtenga información sobre cómo entregar ofertas [con la API de Decisions Hub](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=es). Con [!DNL Postman] a modo de demostración, se realiza una llamada de API para recuperar el ID del contenedor. A continuación, se personaliza una llamada a la API de Decisions de ejemplo con el ID de actividad, el ID de ubicación, el área de nombres de identidad y el ID de cliente para recuperar una oferta personalizada. Una vez que haya recuperado una oferta personalizada con la API Decisions, puede integrar el contenido de la oferta con su sistema de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso, [Introducción a Offer Decisioning para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=es), disponible de forma gratuita en Experience League.
+> Este vídeo es parte de un curso, [Introducción a Offer Decisioning para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.
 
 ## Recursos adicionales
 
