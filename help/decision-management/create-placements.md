@@ -5,10 +5,10 @@ feature: Offers
 kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: 2b1b6690604e0ce31eb2028c3ad6ad39cc8e820e
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -22,4 +22,4 @@ Para obtener más información sobre cómo crear ubicaciones con una API, consul
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso, [Introducción a Offer Decisioning para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.
+> Este vídeo es parte de un curso, [Introducción a la administración de decisiones para especialistas en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League!
