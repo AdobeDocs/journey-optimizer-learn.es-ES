@@ -3,7 +3,7 @@ title: Vídeos y tutoriales de Journey Optimizer
 description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo aprovechar las ventajas de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
+source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 70%
@@ -25,7 +25,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 * **[Configuración de las reglas de frecuencia de los mensajes](/help/administration/configure-frequency-rules.md)**
 
-   *Obtenga información sobre cómo crear, activar, probar e informar sobre reglas de frecuencia. Cómo determinar qué reglas de frecuencia se heredarán para un mensaje*
+   *Obtenga información sobre cómo crear, activar, probar e informar sobre reglas de frecuencia. Obtenga información sobre cómo determinar qué reglas de frecuencia se heredarán para un mensaje.*
 
 * **[Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)**
 
