@@ -3,10 +3,10 @@ title: Vídeos y tutoriales de Journey Optimizer
 description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo aprovechar las ventajas de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '406'
+ht-degree: 70%
 
 ---
 
@@ -23,6 +23,10 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 ### Tutoriales
 
+* **[Configuración de las reglas de frecuencia de los mensajes](help/administration/configure-frequency-rules.md)**
+
+   *Obtenga información sobre cómo crear, activar, probar e informar sobre reglas de frecuencia. Cómo determinar qué reglas de frecuencia se heredarán para un mensaje*
+
 * **[Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)**
 
    *Obtenga información sobre cómo configurar suscripciones y crear páginas de aterrizaje.*
@@ -31,16 +35,11 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
    *Obtenga información sobre cómo utilizar elementos de biblioteca de personalización guardados en un mensaje y cómo crear y administrar elementos de biblioteca de personalización.*
 
-* **[Delegar subdominios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *Aprenda a crear un subdominio con CNAME para que apunte a registros específicos de Adobe.*
-
 ### Eventos en directo de Experience League
 
-* **[Notificaciones push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+* **[Notificaciones push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=es)**
 
    *En este episodio de Experience League en directo, hablamos de los casos de uso habituales de las notificaciones push con Adobe Journey Optimizer y nos sumamos a los detalles técnicos sobre cómo configurar una aplicación para notificaciones push con tecnología Adobe Experience Platform.*
-
 
 ## Selección del personal
 
