@@ -3,10 +3,10 @@ title: Vídeos y tutoriales de Journey Optimizer
 description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo aprovechar las ventajas de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 ### Tutoriales
 
+* **[Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *Obtenga información sobre cómo configurar, crear e incluir mensajes SMS en sus recorridos de cliente.*
+
 * **[Configuración de las reglas de frecuencia de los mensajes](/help/administration/configure-frequency-rules.md)**
 
    *Obtenga información sobre cómo crear, activar, probar e informar sobre reglas de frecuencia. Obtenga información sobre cómo determinar qué reglas de frecuencia se heredarán para un mensaje.*
@@ -30,10 +34,6 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 * **[Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)**
 
    *Obtenga información sobre cómo configurar suscripciones y crear páginas de aterrizaje.*
-
-* **[Uso y administración de expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *Obtenga información sobre cómo utilizar elementos de biblioteca de personalización guardados en un mensaje y cómo crear y administrar elementos de biblioteca de personalización.*
 
 ### Eventos en directo de Experience League
 

@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
-source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 97%
+source-wordcount: '251'
+ht-degree: 94%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 97%
    + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
    + [Capacidades de Mobile para especialistas en marketing](/help/create-messages/mobile-capabilities.md)
    + [Funciones de Mobile para diseñadores](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
 + Personalización del contenido {#personalize-content}
    + [Personalización basada en perfiles y abono a segmentos](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Adición de ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
