@@ -4,9 +4,9 @@ description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo apro
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '400'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 * **[Compatibilidad con palabras clave entrantes para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *Comprender cómo funciona la compatibilidad de palabras clave de entrada nativas (inicio, parada, sin interrupciones) para SMS.*
+   *Comprender cómo funciona la compatibilidad de palabras clave de entrada nativas (inicio, parada, sin interrupciones) para trabajos de SMS.*
 
 * **[Configuración de las reglas de frecuencia de los mensajes](/help/administration/configure-frequency-rules.md)**
 
@@ -39,7 +39,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 * **[Notificaciones push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=es)**
 
-   *En este episodio de Experience League en directo, hablamos de los casos de uso habituales de las notificaciones push con Adobe Journey Optimizer y nos sumamos a los detalles técnicos sobre cómo configurar una aplicación para notificaciones push con tecnología Adobe Experience Platform.*
+   *En este episodio en directo de Experience League, hablamos sobre los casos de uso comunes de las notificaciones push con Adobe Journey Optimizer y descubra los detalles técnicos sobre cómo configurar una aplicación para notificaciones push con tecnología Adobe Experience Platform.*
 
 ## Selección del personal
 
@@ -68,21 +68,21 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
     </a>
     </div>
     <p>
-    <em>Este vídeo muestra cómo las marcas pueden utilizar las funcionalidades de administración de decisiones de Adobe Journey Optimizer, la calificación de segmentos en tiempo real y la administración de eventos comerciales para llevar sus recorridos de consumidores a nuevas alturas.</em>
+    <em>Este vídeo muestra cómo las marcas pueden utilizar gestión de decisiones, la calificación de segmentos en tiempo real y la administración de eventos empresariales de Adobe Journey Optimizer para llevar los recorridos de sus consumidores a otro nivel.</em>
     <p>
   </td>
   </td>
     <td>
     <a href="./decision-management/create-decisions.md">
-      <img alt="Introducción a las capacidades de administración de decisiones" src="./assets/326961.jpg"/>
+      <img alt="Introducción a las capacidades de gestión de decisiones" src="./assets/326961.jpg"/>
     </a>
     <div>
       <a href="./decision-management/create-decisions.md">
-    <strong>Introducción a las capacidades de administración de decisiones </strong>
+    <strong>Introducción a las capacidades de gestión de decisiones </strong>
     </a>
     </div>
     <p>
-    <em>El vídeo abarca los desafíos comerciales que resuelven las capacidades de administración de decisiones, sus funciones clave, la arquitectura básica y sus principales casos de uso.
+    <em>El vídeo abarca los desafíos comerciales que resuelven las capacidades de gestión de decisiones, sus funciones clave, la arquitectura básica y sus principales casos de uso.
 
 </em>
     <p>
