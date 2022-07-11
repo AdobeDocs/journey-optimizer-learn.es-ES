@@ -1,5 +1,5 @@
 ---
-title: Configuración de las reglas de frecuencia de los mensajes
+title: Configurar las reglas de frecuencia de mensaje
 description: Obtenga información sobre cómo crear, activar, probar e informar sobre reglas de frecuencia. Obtenga información sobre cómo determinar qué reglas de frecuencia se heredarán para un mensaje.
 kt: 9367
 thumbnail: 344451.jpg
@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
-workflow-type: tm+mt
+exl-id: 76d4cb7e-a9ac-470b-bc9c-5792bf5d7482
+source-git-commit: 3f01d1ba1a0968d1daf69b44a0059e1b761d162e
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# Configuración de las reglas de frecuencia de los mensajes
+# Configurar las reglas de frecuencia de mensaje
 
 Obtenga información sobre cómo crear, activar, probar e informar sobre reglas de frecuencia. Obtenga información sobre cómo determinar qué reglas de frecuencia se heredarán para un mensaje.
 
