@@ -3,16 +3,16 @@ user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
 source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '256'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 
 # Tutoriales de aprendizaje de Journey Optimizer {#tutorials}
 
-+ [Tutorials de Journey Optimizer](/help/overview.md)
++ [Tutoriales de Journey Optimizer](/help/overview.md)
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
    + [Información general de Journey Optimizer, parte 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -21,7 +21,7 @@ ht-degree: 92%
    + [Arquitectura](/help/introduction/architecture.md)
 + Control de acceso {#access-control}
    + [Administración de acceso](/help/set-up-access/access-management.md)
-   + [Creación y administración de espacios aislados](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Creación y administración de zonas protegidas](/help/set-up-access/create-and-manage-sandboxes.md)
 + Configuración de datos {#data-configuration}
    + [Información general](/help/set-up-data/set-up-data-overview.md)
    + [Creación de un esquema](/help/set-up-data/create-schema.md)
@@ -31,10 +31,10 @@ ht-degree: 92%
 + Configuración de canal {#channel-configuration}
    + [Configuración del canal de correo electrónico](/help/set-up-email-channel/set-up-email-channel.md)
    + [Delegar subdominios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
-   + [Configuración de las reglas de frecuencia de los mensajes](/help/administration/configure-frequency-rules.md)
-+ Administración de decisiones {#decision-management}
-   + [Introducción a la administración de decisiones](/help/decision-management/introduction-to-decision-management.md)
-   + [Demostración de las capacidades de administración de decisiones](/help/decision-management/demo-of-decision-management-capabilities.md)
+   + [Configurar las reglas de frecuencia de mensaje](/help/administration/configure-frequency-rules.md)
++ Gestión de decisiones {#decision-management}
+   + [Introducción a la gestión de decisiones](/help/decision-management/introduction-to-decision-management.md)
+   + [Demostración de las capacidades de gestión de decisiones](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Creación de ubicaciones](/help/decision-management/create-placements.md)
    + [Creación de reglas](/help/decision-management/create-rules.md)
    + [Crear etiquetas](/help/decision-management/create-tags.md)
@@ -62,7 +62,7 @@ ht-degree: 92%
    + [Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Compatibilidad con palabras clave entrantes para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personalización del contenido {#personalize-content}
-   + [Personalización basada en perfiles y abono a segmentos](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [Personalización basada en perfiles e inscripción a segmentos](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Adición de ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Uso de información de evento contextual para la personalización](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Uso de funciones de ayuda para la personalización](/help/personalize-content/use-helper-functions-for-personalization.md)
