@@ -1,21 +1,22 @@
 ---
 title: Compatibilidad con palabras clave entrantes para SMS
-description: Comprender cómo funciona la compatibilidad de palabras clave de entrada nativas (inicio, parada, sin interrupciones) para SMS.
+description: Comprender cómo funciona la compatibilidad de palabras clave de entrada nativas (inicio, parada, sin interrupciones) para trabajos de SMS.
 feature: SMS
 role: User, Admin
 level: Beginner
 kt: 10616
 thumbnail: 344026.jpg
-source-git-commit: 7a1d4632d16ce090bea5381173848461c685f1f4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: b7233ee0-6450-467d-b41f-f81e3b870005
+source-git-commit: 87394e5b59ee1cc71d3d9df0cecf6be929549f03
+workflow-type: ht
+source-wordcount: '46'
+ht-degree: 100%
 
 ---
 
 # Compatibilidad con palabras clave entrantes para SMS
 
-Comprender cómo funciona la compatibilidad de palabras clave de entrada nativas (inicio, parada, sin interrupciones) para SMS.
+Comprender cómo funciona la compatibilidad de palabras clave de entrada nativas (inicio, parada, sin interrupciones) para trabajos de SMS.
 
 >[!NOTE]
 >
