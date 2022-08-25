@@ -3,10 +3,10 @@ title: Vídeos y tutoriales de Journey Optimizer
 description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo aprovechar las ventajas de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 83%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer ayuda a las empresas a ofrecer a sus clientes experiencias conectadas, contextuales y personalizadas. El recorrido del cliente es todo el proceso de interacción de un cliente con la marca, desde el primer momento de contacto hasta que se marcha del sitio.
+Journey Optimizer ayuda a las empresas a ofrecer a sus clientes experiencias conectadas, contextuales y personalizadas. El recorrido del cliente es todo el proceso de interacción del cliente con la marca, desde los primeros momentos de contacto hasta que el cliente abandona el sitio.
 
 Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Journey Optimizer.
 
 ## Novedades
 
 ### Tutoriales
+
+* **[Creación de una campaña](/help/create-champaigns/create-a-campaign.md)**
+
+   *Obtenga información sobre cómo ofrecer contenido de una sola vez a un segmento de usuario específico ejecutando acciones inmediatamente o siguiendo una programación especificada.*
+
 
 * **[Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 * **[Compatibilidad con palabras clave entrantes para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *Comprender cómo funciona la compatibilidad de palabras clave de entrada nativas (inicio, parada, sin interrupciones) para trabajos de SMS.*
-
-* **[Configuración de las reglas de frecuencia de los mensajes](/help/administration/configure-frequency-rules.md)**
-
-   *Obtenga información sobre cómo crear, activar, probar e informar sobre reglas de frecuencia. Obtenga información sobre cómo determinar qué reglas de frecuencia se heredarán para un mensaje.*
 
 ### Eventos en directo de Experience League
 
