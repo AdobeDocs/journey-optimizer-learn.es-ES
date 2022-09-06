@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: bddd702254d7b804515723e15862521ff90b32ad
+source-git-commit: 5acd6d5adcb120d04cef5eda3cd043fe855e9047
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 83%
@@ -21,3 +21,4 @@ ht-degree: 83%
 Aprenda a crear correos electrónicos desde cero. Obtenga información sobre cómo utilizar recursos de la biblioteca de AEM Assets Essentials, editar el diseño de correo electrónico adaptable y crear correos electrónicos a partir de plantillas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12)
+
