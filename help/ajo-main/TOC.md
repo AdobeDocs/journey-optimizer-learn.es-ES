@@ -5,7 +5,7 @@ user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optim
 source-git-commit: 9390fa4f69307f326df5946000240bf397152690
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 94%
    + [Uso de información de evento contextual para la personalización](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Uso de funciones de ayuda para la personalización](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Uso y administración de expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ Crear campañas {#create-campaigns}
++ Creación de campañas {#create-campaigns}
    + [Creación de una campaña](/help/create-champaigns/create-a-campaign.md)
 + Creación de recorridos {#create-journeys}
    + [Información general sobre el lienzo del recorrido](/help/create-journeys/overview-over-the-journey-canvas.md)
