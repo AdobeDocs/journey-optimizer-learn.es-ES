@@ -8,10 +8,11 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
+source-git-commit: 537d6ed2697aed941efbf572fed8856b5f21ad24
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -19,10 +20,10 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->Esta función solo está disponible para usuarios con acceso a un perfil de producto relacionado con Campaign, como administrador de Campaign, aprobador de campañas, administrador de campañas o visualizador de campañas. Para obtener más información sobre cómo asignar perfiles de producto, consulte [este vídeo](/help/set-up-access/access-management.md).
+>Esta función solo está disponible para usuarios con acceso a un perfil de producto relacionado con Campaign, como administrador de Campaign, aprobador de Campaign, administrador de Campaign y/o visualizador de Campaign. Para obtener más información sobre cómo asignar perfiles de producto, consulte [este vídeo](/help/set-up-access/access-management.md).
 
 Obtenga información sobre cómo enviar contenido de una sola vez a una audiencia específica ejecutando acciones inmediatamente o según una programación especificada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) para obtener más información sobre esta función.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=es) para obtener más información sobre esta función.
