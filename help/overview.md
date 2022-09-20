@@ -3,10 +3,10 @@ title: 'Tutorials de Journey Optimizer: información general'
 description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo aprovechar las ventajas de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 92%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -126,7 +126,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
     </a>
     </div>
     <p>
-    <em>Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del Mensaje, y cómo modificar los tableros del informe.
+    <em>Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar los informes específicos de recorrido y mensaje, y cómo modificar los tableros de informes.
 
 </em>
     <p>
