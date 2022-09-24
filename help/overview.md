@@ -4,10 +4,10 @@ description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo apro
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,10 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 ## Novedades
 
 ### Tutoriales
+
+* **[Copiar un recorrido en otro simulador de pruebas](/help/create-journeys/copy-a-journey.md)**
+
+   *Aprenda a copiar un recorrido y sus objetos dependientes de un simulador para pruebas a otro.*
 
 * **[Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)**
 
