@@ -2,9 +2,9 @@
 user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 3159ae82b8b1ab8ab9d28834cc9c888a967c8722
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 90%
 
 ---
@@ -82,5 +82,6 @@ ht-degree: 90%
    + [Copiar un recorrido en otro simulador de pruebas](/help/create-journeys/copy-a-journey.md)
 + Informes y monitorización {#report-and-monitor}
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
+   + [Usar alertas](/help/administration/alerts.md)
 + Privacidad {#privacy}
    + [Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)
