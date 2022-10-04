@@ -4,10 +4,10 @@ description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo apro
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 66%
+source-wordcount: '492'
+ht-degree: 62%
 
 ---
 
@@ -23,6 +23,10 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 ## Novedades
 
 ### Tutoriales
+
+* **[Creación de contenido dinámico con el generador de reglas de condición](/help/personalize-content/create-dynamic-content.md)**
+
+   *Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales.*
 
 * **[Usar alertas](/help/administration/alerts.md)**
 
