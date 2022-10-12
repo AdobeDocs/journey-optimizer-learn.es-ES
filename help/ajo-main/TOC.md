@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 87%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 87%
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creación de mensajes {#create-messages}
-   + [Información general del diseñador de mensajes](/help/create-messages/message-designer-overview.md)
    + [Crear contenido con el Diseñador de correo electrónico](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
@@ -77,12 +76,11 @@ ht-degree: 87%
    + [Caso de uso: Segmento de lectura](/help/create-journeys/use-case-read-segment.md)
    + [Caso de uso: Evento empresarial](/help/create-journeys/use-case-business-event.md)
    + [Caso de uso: Calificación de segmentos](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso de uso: Mensaje de ráfaga](/help/create-journeys/use-case-burst-message.md)
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
-   + [Copiar un recorrido en otro simulador de pruebas](/help/create-journeys/copy-a-journey.md)
+   + [Copia de un recorrido a otra zona protegida](/help/create-journeys/copy-a-journey.md)
 + Informes y monitorización {#report-and-monitor}
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
-   + [Usar alertas](/help/administration/alerts.md)
+   + [Uso de alertas](/help/administration/alerts.md)
 + Privacidad {#privacy}
    + [Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)
