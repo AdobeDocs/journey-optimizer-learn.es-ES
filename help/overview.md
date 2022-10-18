@@ -4,10 +4,10 @@ description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo apro
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 62%
+ht-degree: 72%
 
 ---
 
@@ -30,19 +30,22 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
    *Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales.*
 
-* **[Usar alertas](/help/administration/alerts.md)**
+* **[Uso de alertas](/help/administration/alerts.md)**
 
-   *Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, Journey Optimizer o mediante una API.*
+   *Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, en Journey Optimizer o mediante una API.*
 
-* **[Copiar un recorrido en otro simulador de pruebas](/help/create-journeys/copy-a-journey.md)**
+* **[Copia de un recorrido a otra zona protegida](/help/create-journeys/copy-a-journey.md)**
 
-   *Aprenda a copiar un recorrido y sus objetos dependientes de un simulador para pruebas a otro.*
+   *Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra.*
 
 * **[Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)**
 
    *Comprender qué es el enmascaramiento de datos y por qué enmascarar datos. Aprenda a ocultar datos en mensajes de Journey Optimizer.*
 
 </div>
+
+
+<div id="events-section">
 
 ### Eventos en directo de Experience League
 
@@ -53,6 +56,15 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 * **[Notificaciones push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=es)**
 
    *En este episodio en directo de Experience League, hablamos sobre los casos de uso comunes de las notificaciones push con Adobe Journey Optimizer y descubra los detalles técnicos sobre cómo configurar una aplicación para notificaciones push con tecnología Adobe Experience Platform.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
