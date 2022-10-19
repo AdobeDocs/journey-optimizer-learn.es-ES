@@ -1,5 +1,5 @@
 ---
-title: 'Tutorials de Journey Optimizer: información general'
+title: 'Tutoriales de Journey Optimizer: información general'
 description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo aprovechar las ventajas de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
@@ -7,7 +7,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 98%
 
 ---
 
@@ -28,17 +28,17 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
    *Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales.*
 
-* **[Uso de alertas](/help/administration/alerts.md)**
+* **[Usar alertas](/help/administration/alerts.md)**
 
-   *Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, en Journey Optimizer o mediante una API.*
+   *Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, Journey Optimizer o mediante una API.*
 
-* **[Copia de un recorrido a otra zona protegida](/help/create-journeys/copy-a-journey.md)**
+* **[Copiar un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)**
 
    *Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra.*
 
 * **[Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)**
 
-   *Comprender qué es el enmascaramiento de datos y por qué enmascarar datos. Aprenda a ocultar datos en mensajes de Journey Optimizer.*
+   *Comprender qué es el enmascaramiento de datos y por qué enmascarar datos. Aprenda a enmascarar datos en mensajes de Journey Optimizer.*
 
 </div>
 
@@ -49,7 +49,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 * **[Ejecución de campañas en Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=es)**
 
-   *En este episodio de Experience League en directo, celebrado originalmente el 22 de septiembre de 2022, consulte la presentadora Sandra Hausmann y los expertos en productos Bridgette Darling y Frederic Mary mientras analizan los casos de uso que cubre esta nueva función y muestran cómo configurar y ejecutar fácilmente una campaña en Journey Optimizer.*
+   *En este episodio de Experience League en directo, celebrado originalmente el 22 de septiembre de 2022, la presentadora Sandra Hausmann y los expertos en productos Bridgette Darling y Frederic Mary analizan casos de uso que cubren esta nueva funcionalidad y muestran cómo configurar y ejecutar fácilmente una campaña en Journey Optimizer.*
 
 * **[Notificaciones push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=es)**
 
@@ -151,7 +151,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
     </a>
     </div>
     <p>
-    <em>Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar los informes específicos de recorrido y mensaje, y cómo modificar los tableros de informes.
+    <em>Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del Mensaje, y cómo modificar los paneles de informes.
 
 </em>
     <p>
