@@ -5,7 +5,7 @@ user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optim
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -53,11 +53,11 @@ ht-degree: 88%
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creación de mensajes {#create-messages}
-   + [Crear contenido con el Diseñador de correo electrónico](/help/create-messages/create-content-with-the-email-designer.md)
+   + [Creación de contenido con el Diseñador de correo electrónico](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
    + [Capacidades de Mobile para especialistas en marketing](/help/create-messages/mobile-capabilities.md)
-   + [Funciones móviles para desarrolladores](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Capacidades de Mobile para desarrolladores](/help/create-messages/mobile-capabilities-for-developers.md)
    + [Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Compatibilidad con palabras clave entrantes para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + En la aplicación {#in-app}
@@ -80,9 +80,9 @@ ht-degree: 88%
    + [Caso de uso: Calificación de segmentos](/help/create-journeys/use-case-read-segment-qualification.md)
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
-   + [Copia de un recorrido a otra zona protegida](/help/create-journeys/copy-a-journey.md)
+   + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
 + Informes y monitorización {#report-and-monitor}
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
    + [Uso de alertas](/help/administration/alerts.md)
 + Privacidad {#privacy}
-   + [Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)
+   + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
