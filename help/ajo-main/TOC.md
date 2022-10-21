@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
-source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
+source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 93%
+source-wordcount: '292'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 93%
    + [Creación de segmentos](/help/set-up-resources/create-segments.md)
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + Creación de mensajes {#create-messages}
-   + [Creación de correos electrónicos] {#create-emails}
+   + Creación de correos electrónicos {#create-emails}
       + [Creación de contenido con el Diseñador de correo electrónico](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
       + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
-   + Creación de mensajes SMS {#create-sms}
+   + Creación de mensajes de texto SMS {#create-sms}
       + [Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [Compatibilidad con palabras clave entrantes para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + Crear mensajes en la aplicación {#create-in-app}
