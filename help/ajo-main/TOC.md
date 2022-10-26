@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de aprendizaje de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de aprendizaje de Journey Optimizer.
 source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 92%
    + [Información general de Journey Optimizer, parte 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Funcionalidades clave y la interfaz de usuario](/help/introduction/key-capabilities-and-user-interface.md)
    + [Arquitectura](/help/introduction/architecture.md)
-   + [Capacidades de Mobile para especialistas en marketing](/help/create-messages/mobile-capabilities.md)
+   + [Capacidades de Mobile para expertos en marketing](/help/create-messages/mobile-capabilities.md)
    + [Capacidades de Mobile para desarrolladores](/help/create-messages/mobile-capabilities-for-developers.md)
 + Creación de campañas {#create-campaigns}
    + [Creación de una campaña](/help/create-champaigns/create-a-campaign.md)
@@ -42,12 +42,12 @@ ht-degree: 92%
       + [Creación de contenido con el Diseñador de correo electrónico](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
       + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
-   + Creación de mensajes de texto SMS {#create-sms}
+   + Creación de SMS {#create-sms}
       + [Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [Compatibilidad con palabras clave entrantes para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
-   + Crear mensajes en la aplicación {#create-in-app}
+   + Creación de mensajes en la aplicación {#create-in-app}
       + [Mensajería en la aplicación para campañas](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [Crear un mensaje en la aplicación](/help/create-messages/author-in-app-messages.md)
+      + [Creación de un mensaje en la aplicación](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalización del contenido {#personalize-content}
    + [Personalización basada en perfiles e inscripción a segmentos](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -71,7 +71,7 @@ ht-degree: 92%
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
    + [Uso de alertas](/help/administration/alerts.md)
 + Configuración {#configuration}
-   + Configurar datos {#data-configuration}
+   + Configuración de datos {#data-configuration}
       + [Información general](/help/set-up-data/set-up-data-overview.md)
       + [Creación de un esquema](/help/set-up-data/create-schema.md)
       + [Asignación de identidades](/help/set-up-data/map-identities.md)
