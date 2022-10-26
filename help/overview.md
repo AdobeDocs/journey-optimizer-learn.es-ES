@@ -5,9 +5,9 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
 
 Journey Optimizer ayuda a las empresas a ofrecer a sus clientes experiencias conectadas, contextuales y personalizadas. El recorrido del cliente es todo el proceso de interacción de un cliente con la marca, desde el primer momento de contacto hasta que se marcha del sitio.
 
-Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Journey Optimizer.
+Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcionalidades y características de Adobe Journey Optimizer.
 
 <div id="whats-new-section">
 
