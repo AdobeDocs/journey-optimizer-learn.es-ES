@@ -6,13 +6,13 @@ feature: Journeys
 role: User
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 4%
 
 ---
-
 
 # Crear un correo electrónico transaccional de confirmación de pedido
 
@@ -238,4 +238,3 @@ La personalización debería tener este aspecto:
 ![ Recorrido ](/help/challenges/assets/c2-journey.png)
 
 +++
-
