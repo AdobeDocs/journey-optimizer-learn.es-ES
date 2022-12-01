@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '683'
 ht-degree: 4%
 
 ---
+
 
 # Crear un correo electrónico transaccional de confirmación de pedido
 
@@ -26,21 +27,27 @@ ht-degree: 4%
 
 ## La historia
 
-Luma, inicia su tienda en línea y desea garantizar una buena experiencia con el cliente, proporcionando un correo electrónico de confirmación de pedido una vez que el cliente ha realizado un pedido.
+Luma inicia su tienda en línea y desea garantizar una buena experiencia con el cliente proporcionando un correo electrónico de confirmación de pedido una vez que el cliente ha realizado un pedido.
 
-Cree y personalice un mensaje de confirmación de pedido transaccional.
 
-## ¿Tiene todo lo que necesita?
 
 ## Su desafío
 
-Cree un correo electrónico de confirmación de pedido que se active cuando un cliente de Luma complete un pedido en línea.
+Cree un recorrido que envíe un correo electrónico de confirmación de pedido cuando un cliente de Luma complete un pedido en línea.
 
-### Creación del correo electrónico de confirmación de pedido
+>[!BEGINTABS]
 
-Cree un nuevo mensaje de correo electrónico llamado &quot;(su nombre)_Luma - Confirmación del pedido&quot;. La línea de asunto debe estar personalizada con el nombre de los destinatarios y debe incluir la frase &quot;gracias por su compra&quot;
+>[!TAB Tarea]
 
-Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de la siguiente manera:
+1. Cree un recorrido llamado &quot;su nombre _Order Confirmation&quot;
+2. Utilice el evento : LumaOnlinePurchase como déclencheur
+
+3. Cree el correo electrónico de confirmación del pedido:
+
+* Categoría transaccional: asegúrese de seleccionar la superficie de correo electrónico transaccional
+* La línea de asunto debe estar personalizada con el nombre de los destinatarios y debe incluir la frase &quot;gracias por su compra&quot;
+
+Siguiendo las directrices de la marca Luma, el correo electrónico debe estructurarse de la siguiente manera: puede utilizar la variable **Luma: Resumen de pedidos** plantilla y modifíquela:
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de l
     <li>Tamaño 35%, fondo blanco centrado </li>
     <li>Debe tener un enlace al sitio web de luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Sugerencia: Encontrará todas las imágenes en la carpeta assets denominadas imágenes de mensajes. <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de l
     <li>Margen: Superior, inferior (10)<div>
     <p>
     <strong>Texto</strong><p>
-    <em>¡Gracias por la compra!</em><p>
+    <em>Oye {nombre}</em><p>
     <li>Alineación: left  </li>
    <li>Color del texto: rgb(101, 106, 119); tamaño de fuente:14 px</li>
     <li>Relleno: izquierda (95), derecha (95)</li><div>
@@ -82,10 +88,13 @@ Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de l
     <li>Alineación: left  </li>
     <li>Color del texto: rgb(101, 106, 119); tamaño de fuente:14 px </li>
     <li>Relleno: izquierda (95), derecha (95)</li><div>
-    </a>
-    <p>
-    <strong>Botón:</strong>
-   <p><em>Ver el pedido</em></p>
+    </a><p>
+    <em>Enviar a:<p>
+    <p>Apellidos de nombre</p>
+    Calle<p>
+    Ciudad, estado, código postal</p></em>
+    <strong>Botón:</strong></p>
+   <p><em>Ver orden</em></p>
       <li>Color de fondo: rgb(25, 121, 195)</li>
       <li>Color del texto: Blanco</li>
       <li>Sin borde</li>
@@ -99,9 +108,10 @@ Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de l
      <strong>Sección Detalles del pedido</strong>
       </div>
       <p>Sugerencias:
-      <li>Esta es información contextual del evento. Solo podrá añadir en el contexto una vez que añada el mensaje al recorrido (consulte el paso 2). No publique el correo electrónico antes de agregarlo al Recorrido y modificarlo con la información de evento contextual.</li>
+      <li>Esta es información contextual del evento.</li>
       <li>Utilice la función de ayuda: Cada</li>
-      <li>Utilice el editor de HTML para dar formato a los datos contextuales. Coloque la información en contenedores utilizando etiquetas DIV.</li>
+      <li>Cambie al formato del editor de código para añadir los datos contextuales. <li>
+      <li>Coloque la información en contenedores utilizando etiquetas DIV.</li>
   </td>
   <td>
     <strong>Header</strong>
@@ -141,19 +151,13 @@ Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de l
   </tr>
 </table>
 
-### Creación del recorrido
-
-1. Llame al recorrido &quot;su nombre _Luma-Order Confirmation&quot;
-1. Utilice el evento : LumaOnlinePurchase
-1. Acción: Añada el mensaje que ha creado en el paso 1
-1. Vuelva al mensaje y añada los atributos contextuales
-1. Publicar el correo electrónico
 
 >[!TIP]
 >
 >Para permitirle solucionar problemas de sus recorridos, la práctica recomendada es agregar una ruta alternativa a todas las acciones de mensajes en caso de tiempo de espera o error.
 
-+++Criterios de éxito
+
+>[!TAB Compruebe su trabajo]
 
 Déclencheur el Recorrido que ha creado en el modo de prueba y envíelo por correo electrónico:
 
@@ -181,17 +185,20 @@ Debe recibir el correo electrónico de confirmación de compra personalizado, co
 
    43913 Terraza Thierer, Washington DC 2009
 
-+++
 
-+++Comprobar su trabajo
+>[!TAB Criterios de éxito]
+
+** Recorrido
+
+![ Recorrido ](/help/challenges/assets/c2-journey.png)
+
+
+** Correo electrónico
 
 **Línea de asunto:**
 
 {{ profile.person.name.firstName }}, gracias por su compra!
 
-**Encabezado y sección de confirmación:**
-
-![Confirmación de encabezado y pedido](/help/challenges/assets/c2-header.png)
 
 **Sección de detalles del orden:**
 
@@ -230,11 +237,4 @@ La personalización debería tener este aspecto:
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Pie de página:**
-![pie de página](/help/challenges/assets/c2-footer.png)
-
-**Recorrido**
-
-![ Recorrido ](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
