@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 8%
@@ -46,18 +46,17 @@ Se le ha encargado que configure un recorrido que envíe automáticamente un cor
 Envíe un correo electrónico cuando un cliente fiel se desplace a un nivel Diamante para felicitarlo e informarle de sus nuevas ventajas. Las
 
 1. Cree un segmento en Journey Optimizer llamado **su nombre - Luma - Estado de diamante**
-2. Cree un recorrido que se active cuando un cliente se desplace al nuevo nivel de lealtad de Diamante (específicamente cuando el cliente entra en el segmento definido para un nuevo miembro de nivel Diamante) para enviar el correo electrónico &quot;Luma - Nuevo estado - Diamante - Transaccional&quot;
-1. Crear un mensaje de correo electrónico transaccional con el título `(your name)_Luma – New Status – Diamond – Transactional email message`.
-2. Dar al correo electrónico una línea de asunto `Welcome to Diamond Status, (recipient's first name)!`.
-3. Utilice el archivo de HTML proporcionado **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** para el cuerpo del correo electrónico.
-3. Una vez finalizado, ponga el recorrido en modo de prueba y déclencheur el recorrido para enviarse a sí mismo  
+1. Cree un recorrido que se active cuando un cliente se desplace al nuevo nivel de lealtad de Diamante (específicamente cuando el cliente entra en el segmento definido para un nuevo miembro de nivel Diamante) para enviar el correo electrónico &quot;Luma - Nuevo estado - Diamante - Transaccional&quot;
 
+   1. Crear un mensaje de correo electrónico transaccional con el título `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   1. Dar al correo electrónico una línea de asunto `Welcome to Diamond Status, (recipient's first name)!`.
+   1. Utilice el archivo de HTML proporcionado **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** para el cuerpo del correo electrónico.
+
+1. Una vez finalizado, ponga el recorrido en modo de prueba y déclencheur el recorrido para enviarse a sí mismo  
 
 ### Crear la Luma: Nuevo estado - Diamante - Mensaje de correo electrónico transaccional
 
 Crear un mensaje de correo electrónico de bienvenida
-
-1. 
 
 ### **Recorrido n.º 3 - Correo electrónico de bienvenida de actualización del estado de los diamantes**
 
@@ -67,10 +66,10 @@ Crear un mensaje de correo electrónico de bienvenida
 Prueba del recorrido:
 
 1. Asegúrese de que el evento de calificación de segmentos tenga el espacio de nombres = correo electrónico
-2. Anule los parámetros de correo electrónico predeterminados y establézcalos en su propia dirección de correo electrónico
-3. Establecer el recorrido en modo de prueba
-4. Déclencheur de un evento
-5. Añada la siguiente dirección de correo electrónico al campo Identificador de perfil : Jenna_Palmer9530@emailsim.io
+1. Anule los parámetros de correo electrónico predeterminados y establézcalos en su propia dirección de correo electrónico
+1. Establecer el recorrido en modo de prueba
+1. Déclencheur de un evento
+1. Añada la siguiente dirección de correo electrónico al campo Identificador de perfil : Jenna_Palmer9530@emailsim.io
 
 Debe recibir el correo electrónico personalizado &quot;Luma - Nuevo estado - Diamante-transaccional&quot;.
 
