@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
+source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
 workflow-type: tm+mt
-source-wordcount: '1138'
+source-wordcount: '1118'
 ht-degree: 2%
 
 ---
@@ -30,8 +30,10 @@ Luma, una empresa de ropa deportiva ficticia, busca promocionar su última colec
 
 ## Su desafío
 
-El equipo de marketing de Luma le pedirá que implemente una campaña de marketing de recopilación de verano en Journey Optimizer. Su desafío es crear un recorrido en Journey Optimizer. Específicamente, debe crear el segmento requerido, crear cuatro mensajes y crear el recorrido.
+El equipo de marketing de Luma le pedirá que implemente una campaña de marketing de recopilación de verano en Journey Optimizer. Su desafío es:
 
+* Cree un segmento que defina qué perfiles cumplen los requisitos para recibir la promoción.
+* Creación del recorrido
 
 ### Paso 1: Definir el segmento: clientes activos
 
@@ -39,15 +41,16 @@ El equipo de marketing de Luma le pedirá que implemente una campaña de marketi
 
 >[!TAB Tarea]
 
-Cree un segmento en Journey Optimizer llamado **Clientes activos**.
+#### Creación de segmentos en Journey Optimizer
 
+* Cree un segmento en Journey Optimizer llamado `Active Customers`.
 * El segmento solo debe incluir clientes de Luma activos.
 * Los clientes activos se definen como clientes que tienen un nivel en el programa de fidelidad de Luma (plata, oro, platino o diamante).
 
 
 >[!TAB Criterios de éxito]
 
-En el generador de segmentos, puede ver el número estimado de perfiles cualificados.
+En el generador de segmentos, puede ver el número estimado de perfiles cualificados. Si trabaja con los datos del simulador para pruebas de formación, tendrá unos 753 perfiles cualificados de 1,29 K.
 
 >[!NOTE]
 >Puede tardar hasta 24 horas en aparecer la pertenencia al segmento para los perfiles existentes, ya que los perfiles existentes deben rellenarse.
@@ -87,31 +90,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB Tarea]
 
-Envíe un anuncio de recopilación de verano a un segmento de los correos electrónicos de los clientes existentes que promocionen la nueva colección de verano de Luma.&quot;
+#### Enviar un anuncio de colección de verano
 
-Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos electrónicos: [Descargar los archivos de correo electrónico de la colección estacional](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos electrónicos:
 
-Cree un recorrido llamado `(your name) - Summer collection announcement` en función de las siguientes directrices:
+* SeasonalCollectionEmail.html
+* Correo electrónico de recopilación de Luma Men
+* Correo electrónico de la colección de mujeres de Luma
+* Luma: 20 % de descuento en el correo electrónico de recopilación
 
-1. Enviar Luma: Nuevo mensaje de correo electrónico de anuncio de recopilación estacional al segmento Clientes activos de Luma, que contiene el 10 % de la audiencia como grupo de control
-   * Título del mensaje `(your name)_Luma New Seasonal Collection Announcement`.
-   * Línea de asunto `(recipient's first name), the new Luma collection is here!`.
-   * Utilice el archivo de HTML proporcionado *SeasonalCollectionEmail.html* para el cuerpo del correo electrónico.
-2. Espere dos días y envíe un mensaje de correo electrónico de seguimiento con contenido de destino más específico:
-   * Los clientes varones deben recibir la variable **Correo electrónico de recopilación de Luma Men**
-      * Título del mensaje: **(su nombre) Colección de hombres de Luma**
-      * Línea de asunto: **(nombre del destinatario), explorar el nuevo equipo atlético masculino!**
-      * Cuerpo del correo electrónico: *MensCollectionEmail.html* para el cuerpo del correo electrónico.
-   * Las clientes femeninas deben recibir el **Correo electrónico de la colección de mujeres de Luma**
-      * Título del mensaje: **(su nombre) Colección de mujeres de Luma**
-      * Línea de asunto: **(nombre del destinatario), explore Luma&#39;s Women Collection!**
-      * Cuerpo del correo electrónico: *WomensCollectionEmail.html*
-   * Otros clientes deben recibir la variable **Luma: 20 % de descuento en el correo electrónico de recopilación**
-      * Título del mensaje: **(su nombre)_Luma - 20 % de descuento en Collection**
-      * Línea de asunto:**(nombre del destinatario), disfrute de un 20% de descuento en las ventas.**
-      * Cuerpo del correo electrónico: *20OOffCollectionEmail.html*
-3. Después de enviar los correos electrónicos de destino anteriores, espere dos días para que se abra el correo electrónico
-4. Si el correo electrónico de destino no se abre en un plazo de 2 días, envíe la variable **Luma - 20 %off Correo electrónico de recopilación** como un intento final de retargeting
+1. [Descargar los archivos de correo electrónico de la colección estacional](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+
+2. Cree un recorrido llamado `Luma - Summer collection announcement` en función de las siguientes directrices:
+
+   1. Enviar *Luma: Nuevo anuncio de recopilación estacional* envíe un correo electrónico a la *Clientes activos* segmento, mantener el 10 % de la audiencia como grupo de control
+      * Título del mensaje `Luma New Seasonal Collection Announcement`.
+      * Línea de asunto `(recipient's first name), the new Luma collection is here!`.
+      * Utilice el archivo de HTML proporcionado *SeasonalCollectionEmail.html* para el cuerpo del correo electrónico.
+   2. Espere dos días y envíe un mensaje de correo electrónico de seguimiento con contenido de destino más específico:
+      * Los clientes varones deben recibir la variable **Correo electrónico de recopilación de Luma Men**
+         * Título del mensaje: `Luma Men's Collection`
+         * Línea de asunto: `(recipient's first name), explore Men's New athletic gear!`
+         * Cuerpo del correo electrónico: *MensCollectionEmail.html* para el cuerpo del correo electrónico.
+      * Las clientes femeninas deben recibir el **Correo electrónico de la colección de mujeres de Luma**
+         * Título del mensaje: `Luma Women's Collection`
+         * Línea de asunto: `(recipient's first name), explore Luma's Women Collection!`
+         * Cuerpo del correo electrónico: *WomensCollectionEmail.html*
+      * Otros clientes deben recibir la variable **Luma: 20 % de descuento en el correo electrónico de recopilación**
+         * Título del mensaje: `Luma - 20 % off Collection`
+         * Línea de asunto: `(recipient's first name), enjoy 20% off sales!`
+         * Cuerpo del correo electrónico: *20OOffCollectionEmail.html*
+   3. Después de enviar los correos electrónicos de destino anteriores, espere dos días para que se abra el correo electrónico
+   4. Si el correo electrónico de destino no se abre en un plazo de 2 días, envíe la variable **Luma - 20 %off Correo electrónico de recopilación** como un intento final de retargeting
 
 
 >[!TAB Criterios de éxito]
