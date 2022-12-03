@@ -7,10 +7,10 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
-ht-degree: 2%
+source-wordcount: '1161'
+ht-degree: 3%
 
 ---
 
@@ -103,20 +103,20 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
 
 2. Cree un recorrido llamado `Luma - Summer collection announcement` en función de las siguientes directrices:
 
-   1. Enviar *Luma: Nuevo anuncio de recopilación estacional* envíe un correo electrónico a la *Clientes activos* segmento, mantener el 10 % de la audiencia como grupo de control
-      * Título del mensaje `Luma New Seasonal Collection Announcement`.
-      * Línea de asunto `(recipient's first name), the new Luma collection is here!`.
+   1. Enviar *Luma: Nuevo anuncio de colección de verano* envíe un correo electrónico a la *Clientes activos* segmento, mantener el 10 % de la audiencia como grupo de control
+      * Título del mensaje `Luma - Summer Collection Announcement`.
+      * Línea de asunto `(recipient's first name), the new Luma summer collection is here!`.
       * Utilice el archivo de HTML proporcionado *SeasonalCollectionEmail.html* para el cuerpo del correo electrónico.
    2. Espere dos días y envíe un mensaje de correo electrónico de seguimiento con contenido de destino más específico:
-      * Los clientes varones deben recibir la variable **Correo electrónico de recopilación de Luma Men**
+      * Los clientes varones deben recibir la variable **Colección Luma Men** correo electrónico.
          * Título del mensaje: `Luma Men's Collection`
          * Línea de asunto: `(recipient's first name), explore Men's New athletic gear!`
          * Cuerpo del correo electrónico: *MensCollectionEmail.html* para el cuerpo del correo electrónico.
-      * Las clientes femeninas deben recibir el **Correo electrónico de la colección de mujeres de Luma**
+      * Las clientes femeninas deben recibir el **Colección de mujeres de Luma** correo electrónico.
          * Título del mensaje: `Luma Women's Collection`
          * Línea de asunto: `(recipient's first name), explore Luma's Women Collection!`
          * Cuerpo del correo electrónico: *WomensCollectionEmail.html*
-      * Otros clientes deben recibir la variable **Luma: 20 % de descuento en el correo electrónico de recopilación**
+      * Otros clientes deben recibir la variable **Luma - 20 % de descuento en la recogida** correo electrónico.
          * Título del mensaje: `Luma - 20 % off Collection`
          * Línea de asunto: `(recipient's first name), enjoy 20% off sales!`
          * Cuerpo del correo electrónico: *20OOffCollectionEmail.html*
@@ -128,36 +128,48 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
 
 #### Vista previa de los correos electrónicos
 
-**Mensaje de correo electrónico 1: nuevo anuncio de recopilación estacional**
+**Mensaje de correo electrónico 1 - Luma - Anuncio de recopilación de verano**
 
-Obtenga una vista previa del correo electrónico mediante el área de nombres de identidad: *Correo electrónico* y el valor de identidad: *Jenna_Palmer9530@emailsim.io*
+Previsualice el correo electrónico:
 
-* La línea de asunto debe decir: Jenna, la nueva colección Luma está aquí!
+1. Añadir un perfil de prueba: Louise Petti:
+   1. Área de nombres de identidad: *ID de Luma CRM*
+   2. Valor de identidad: *d1f132f9f9502bba047a6ec86c4b61f9*
+
+Resultado:
+* La línea de asunto debe decir: Louise, la nueva colección Luma está aquí!
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Nuevo anuncio de colección estacional](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **Mensaje de correo electrónico n.º 2 - Colección de hombres de Luma**
 
-Envíe una prueba a usted mismo
+Envíe una prueba a usted mismo:
 
-* Escriba su dirección de correo electrónico
-* Seleccione el perfil de prueba: Chris_Scott1244@emailsim.io
+1. Añadir un perfil de prueba: Stanleigh Stooke:
+   1. Área de nombres de identidad: *ID de Luma CRM*
+   2. Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
+1. Seleccione el perfil de prueba: Stleigh
+2. Envíe una prueba a usted mismo
 
-Debe recibir un correo electrónico. La línea del asunto debería decir &quot;Chris, ¡explora el nuevo equipo atlético masculino!&quot; y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Resultado:\
+Debe recibir un correo electrónico. La línea del asunto debería decir &quot;Stanleigh, ¡explore el nuevo equipo atlético masculino!&quot; y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>Puede tardar un par de minutos en recibir la prueba.
 
 **Mensaje de correo electrónico 3 - Colección de mujeres de Luma**
 
-Obtenga una vista previa del correo electrónico mediante el área de nombres de identidad: *Correo electrónico* y el valor de identidad: *Jenna_Palmer9530@emailsim.io*
+Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&quot;.
 
-* La línea de asunto debe decir: *Jenna, ¡explora la colección de mujeres de Luma!*
+* La línea de asunto debe decir: *Louise, explora la colección de mujeres de Luma.*
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección de mujeres de Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **Mensaje de correo electrónico 4 - Luma 20 % de la recopilación**
 
-Obtenga una vista previa del correo electrónico mediante el área de nombres de identidad: *Correo electrónico* y el valor de identidad: *Benny_Steer4909@emailsim.io*
+Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&quot;.
 
-* La línea de asunto debe decir: *Benny, disfruta 20% de descuento!*
+* La línea de asunto debe decir: *Louise, disfruta de un 20% de descuento en las ventas!*
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Luma 20 % de descuento en la recogida](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **¡No olvides publicar tus correos electrónicos!**
@@ -168,16 +180,16 @@ Obtenga una vista previa del correo electrónico mediante el área de nombres de
 >
 >Antes de configurar el recorrido en modo de prueba:
 >
->1. Asegúrese de que la actividad Leer segmento tenga el espacio de nombres establecido en Correo electrónico
+>1. Asegúrese de que la actividad Leer segmento tiene el espacio de nombres establecido en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros de correo electrónico predeterminados para los correos electrónicos de modo que se envíen a su dirección de correo electrónico:
->1. Muestre los valores ocultos haciendo clic en el símbolo de ojo.
->1. En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
+   >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
+   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
 
-   >
-   >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. Haga clic en el campo Dirección
->1. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *yourname@yourdomain* en el editor de expresiones y haga clic en aceptar.
+      >
+      >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Haga clic en el campo Dirección
+   >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
 
 >
 
@@ -189,9 +201,9 @@ Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 3. Tiempo de espera: Establezca el temporizador en 120 segundos (escríbalo en el campo ).
 4. entrada de perfil de déclencheur
 5. Puede probar cada rama utilizando una de las siguientes direcciones de correo electrónico como identificadores de perfil:
-   * Mujeres: Jenna Palmer: Jenna_Palmer9530@emailsim.io
-   * Hombre: Chris Scott: Chris_Scott1244@emailsim.io
-   * Sexo no especificado: Benny Steer: Benny_Steer4909@emailsim.io
+   * Mujeres: Louise Petti, valor de identidad: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Hombre: Existencia de código, valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
+   * Sexo no especificado: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. Una vez que déclencheur la entrada del perfil, debe recibir el primer correo electrónico, el encabezado debe personalizarse según el perfil que elija.
 7. El recorrido debe continuar en la rama respectiva y usted debe recibir el correo electrónico relacionado (por ejemplo, si elige Jenna, debe recibir el correo electrónico &quot;Colección de mujeres de Luma&quot;).
