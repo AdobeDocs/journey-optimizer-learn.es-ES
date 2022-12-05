@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
@@ -172,7 +172,6 @@ Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&q
 * La línea de asunto debe decir: *Louise, disfruta de un 20% de descuento en las ventas!*
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Luma 20 % de descuento en la recogida](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**¡No olvides publicar tus correos electrónicos!**
 
 #### Prueba del recorrido
 
@@ -200,10 +199,10 @@ Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 2. Seleccionar un solo perfil a la vez
 3. Tiempo de espera: Establezca el temporizador en 120 segundos (escríbalo en el campo ).
 4. entrada de perfil de déclencheur
-5. Puede probar cada rama utilizando una de las siguientes direcciones de correo electrónico como identificadores de perfil:
-   * Mujeres: Louise Petti, valor de identidad: *d1f132f9f9502bba047a6ec86c4b61f9*
+5. Puede probar cada rama utilizando una de las siguientes *ID de Luma CRM* como identificadores de perfil:
+   * Mujeres: Leora Dietsche, valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
    * Hombre: Existencia de código, valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
-   * Sexo no especificado: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * Sexo no especificado: Louise Petti, valor de identidad: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. Una vez que déclencheur la entrada del perfil, debe recibir el primer correo electrónico, el encabezado debe personalizarse según el perfil que elija.
 7. El recorrido debe continuar en la rama respectiva y usted debe recibir el correo electrónico relacionado (por ejemplo, si elige Jenna, debe recibir el correo electrónico &quot;Colección de mujeres de Luma&quot;).
@@ -216,9 +215,9 @@ Debe recibir los siguientes correos electrónicos:
 
 * Luma: Nuevo anuncio de recopilación estacional
 * Según el perfil de prueba que haya utilizado, debe recibir uno de los siguientes correos electrónicos:
-   * Jenna: Colección de mujeres de Luma
-   * Chris: Colección Luma Men
-   * Benny: Luma: 20 % de descuento en la recopilación
+   * Leora: Colección de mujeres de Luma
+   * Stanleigh: Colección Luma Men
+   * Louise: Luma: 20 % de descuento en la recopilación
 * Si no ha abierto el segundo correo electrónico: La recopilación de Luma (20 % de descuento)
 
 >[!TAB Compruebe su trabajo]
