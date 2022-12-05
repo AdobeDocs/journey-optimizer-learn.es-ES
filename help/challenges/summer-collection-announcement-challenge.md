@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 3%
@@ -147,9 +147,9 @@ Envíe una prueba a usted mismo:
 
 1. Añadir un perfil de prueba: Stanleigh Stooke:
    1. Área de nombres de identidad: *ID de Luma CRM*
-   2. Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
+   1. Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
 1. Seleccione el perfil de prueba: Stleigh
-2. Envíe una prueba a usted mismo
+1. Envíe una prueba a usted mismo
 
 Resultado:\
 Debe recibir un correo electrónico. La línea del asunto debería decir &quot;Stanleigh, ¡explore el nuevo equipo atlético masculino!&quot; y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)
