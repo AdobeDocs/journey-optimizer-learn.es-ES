@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '445'
+ht-degree: 4%
 
 ---
 
@@ -57,7 +57,7 @@ Prueba del recorrido:
 1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene la variable [!UICONTROL namespace] configure como **[!DNL Luma CRM id(lumaCrmId)]**
 2. Anular el valor predeterminado [!UICONTROL parámetros de correo electrónico] y configúrelo en su propia dirección de correo electrónico
 
-+++ Haga clic aquí para obtener más información sobre cómo anular la variable [!!UICONTROL parámetros de correo electrónico].
++++Haga clic aquí para obtener más información sobre cómo anular la variable [!!UICONTROL parámetros de correo electrónico].
 
 * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
 * En el [!UICONTROL Parámetros de correo electrónico], haga clic en el símbolo T (habilitar anulación de parámetros)
