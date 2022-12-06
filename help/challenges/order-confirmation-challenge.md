@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ Cree un recorrido que envíe un correo electrónico de confirmación de pedido c
 >[!TAB Tarea]
 
 1. Cree un recorrido llamado &quot;su nombre _Order Confirmation&quot;
-2. Utilice el evento : LumaOnlinePurchase como déclencheur
+2. Utilice el evento : [!DNL LumaOnlinePurchase] como déclencheur
 
 3. Cree el correo electrónico de confirmación del pedido:
 
