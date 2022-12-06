@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
+source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '437'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
 | Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Clasificación del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importar contenido del HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
-| Recursos que se van a descargar | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
+| Recursos que se van a descargar | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## La historia
 
@@ -56,21 +56,18 @@ Prueba del recorrido:
 
 1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene la variable [!UICONTROL namespace] configure como **[!DNL Luma CRM id(lumaCrmId)]**
 2. Anular el valor predeterminado [!UICONTROL parámetros de correo electrónico] y configúrelo en su propia dirección de correo electrónico
+   * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
+   * En el [!UICONTROL Parámetros de correo electrónico], haga clic en el símbolo T (habilitar anulación de parámetros)
 
-+++Haga clic aquí para obtener más información sobre cómo anular la variable [!!UICONTROL parámetros de correo electrónico].
+       ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+   
+   * Haga clic en [!UICONTROL Campo Dirección]
+   * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
 
-* Muestre los valores ocultos haciendo clic en el símbolo de ojo.
-* En el [!UICONTROL Parámetros de correo electrónico], haga clic en el símbolo T (habilitar anulación de parámetros)
 
-![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-* Haga clic en [!UICONTROL Campo Dirección]
-* En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
-+++
-
-1. Establecer el recorrido en modo de prueba
-2. Déclencheur de un evento
-3. Agregue lo siguiente [!DNL CRM ID] para [!DNL Stanleigh Stooke] en el [!UICONTROL Identificador de perfil] campo: `4f34057d9d9e792c28ba18ecae378e98`
+3. Establecer el recorrido en modo de prueba
+4. Déclencheur de un evento
+5. Agregue lo siguiente [!DNL CRM ID] para [!DNL Stanleigh Stooke] en el [!UICONTROL Identificador de perfil] campo: `4f34057d9d9e792c28ba18ecae378e98`
 
 Debería recibir el *Luma: estado de platino, bienvenida* correo electrónico.
 
