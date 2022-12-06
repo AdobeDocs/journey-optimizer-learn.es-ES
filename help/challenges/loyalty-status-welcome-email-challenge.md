@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '451'
 ht-degree: 4%
 
 ---
@@ -58,15 +58,15 @@ Prueba del recorrido:
 2. Anular el valor predeterminado [!UICONTROL parámetros de correo electrónico] y configúrelo en su propia dirección de correo electrónico
 
 +++ Haga clic aquí para obtener más información sobre cómo anular la variable [!!UICONTROL parámetros de correo electrónico].
-   * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
-   * En el [!UICONTROL Parámetros de correo electrónico], haga clic en el símbolo T (habilitar anulación de parámetros)
 
-   ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-   * Haga clic en [!UICONTROL Campo Dirección]
-   * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+    * Mostrar los valores ocultos haciendo clic en el símbolo de ojo.
+    * En la [!UICONTROL Parámetros de correo electrónico], haga clic en el símbolo T (habilitar anulación de parámetros)
+    
+    ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    * Haga clic en el [!UICONTROL Campo Dirección]
+    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `&quot;yourname@yourdomain&quot;` en el editor de expresiones y haga clic en aceptar.
 +++
-
 
 3. Establecer el recorrido en modo de prueba
 4. Déclencheur de un evento
