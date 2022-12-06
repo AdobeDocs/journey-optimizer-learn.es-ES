@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 3%
 
 ---
@@ -50,7 +50,7 @@ El equipo de marketing de Luma le pedirá que implemente una campaña de marketi
 
 >[!TAB Criterios de éxito]
 
-En el generador de segmentos, puede ver el número estimado de perfiles cualificados. Si trabaja con los datos del simulador para pruebas de formación, tendrá unos 753 perfiles cualificados de 1,29 K.
+En el generador de segmentos, puede ver el número estimado de perfiles cualificados. Si está trabajando con los datos del simulador para pruebas de formación, tiene unos 753 perfiles cualificados de 1,29 K.
 
 >[!NOTE]
 >Puede tardar hasta 24 horas en aparecer la pertenencia al segmento para los perfiles existentes, ya que los perfiles existentes deben rellenarse.
@@ -202,7 +202,7 @@ Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 5. Puede probar cada rama utilizando una de las siguientes *ID de Luma CRM* como identificadores de perfil:
    * Mujeres: Leora Dietsche, valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
    * Hombre: Existencia de código, valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
-   * Sexo no especificado: Louise Petti, valor de identidad: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * Sexo no especificado: Louise Petti, valor de identidad: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. Una vez que déclencheur la entrada del perfil, debe recibir el primer correo electrónico, el encabezado debe personalizarse según el perfil que elija.
 7. El recorrido debe continuar en la rama respectiva y usted debe recibir el correo electrónico relacionado (por ejemplo, si elige Jenna, debe recibir el correo electrónico &quot;Colección de mujeres de Luma&quot;).
