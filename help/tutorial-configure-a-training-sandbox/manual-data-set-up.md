@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
+source-git-commit: f86140ed3d39462ec245303efecade64a610a938
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 8%
@@ -60,11 +60,11 @@ En este paso, se define la estructura de los datos de ejemplo creando seis [[!UI
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
-* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -224,7 +224,7 @@ Ahora tiene la variable [!UICONTROL namespace] y [!DNL Luma Loyalty schema] conf
 
    * Nombre para mostrar: `Luma Product Catalog Field Group`
 
-2. Agregue el siguiente campo al **[!DNL Luma Product Catalog Field Group]**.
+1. Agregue el siguiente campo al **[!DNL Luma Product Catalog Field Group]**.
 
    * Nombre del campo: `product`
 
@@ -234,9 +234,9 @@ Ahora tiene la variable [!UICONTROL namespace] y [!DNL Luma Loyalty schema] conf
 
    * Grupo de campos: [!DNL Luma Product Catalog Field Group]
 
-3. Select **[!UICONTROL Aplicar]**.
+1. Select **[!UICONTROL Aplicar]**.
 
-4. Agregue los campos siguientes al **[!DNL Product]** objeto:
+1. Agregue los campos siguientes al **[!DNL Product]** objeto:
 
    | [!UICONTROL Fieldname] | [!UICONTROL Nombre para mostrar] | [!UICONTROL Tipo] |
    |-------------|-----------|----------|
@@ -250,9 +250,9 @@ Ahora tiene la variable [!UICONTROL namespace] y [!DNL Luma Loyalty schema] conf
    | `ImageURL` | `Image URL` | [!UICONTROL Cadena] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Cadena] |
 
-5. Agregue la variable **[!UICONTROL Nombre para mostrar]** `Luma Product Catalog Field Group` a [!UICONTROL grupo de campos].
+1. Agregue la variable **[!UICONTROL Nombre para mostrar]** `Luma Product Catalog Field Group` a [!UICONTROL grupo de campos].
 
-6. Seleccione **[!UICONTROL Guardar]**.
+1. Seleccione **[!UICONTROL Guardar]**.
 
 
 ### Crear [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
