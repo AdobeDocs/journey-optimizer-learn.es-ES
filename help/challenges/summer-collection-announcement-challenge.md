@@ -1,20 +1,20 @@
 ---
-title: 'Crear un anuncio de colección de verano: Desafío'
-description: Envíe un anuncio de colección de verano a un segmento de los clientes existentes para promocionar la nueva colección de verano de Luma.
+title: 'Crear un anuncio de colección de verano: desafío'
+description: Envíe un anuncio de la colección de verano a un segmento de clientes existentes para promocionar la nueva colección de verano de Luma.
 kt: 8109
 role: User
 level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
 workflow-type: tm+mt
-source-wordcount: '1138'
-ht-degree: 3%
+source-wordcount: '1176'
+ht-degree: 2%
 
 ---
 
-# Crear un anuncio de colección de verano: Desafío
+# Crear un anuncio de colección de verano: desafío
 
 ![Cartel de anuncio de colección de verano de AJO](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
 
@@ -26,14 +26,14 @@ ht-degree: 3%
 
 ## La historia
 
-Luma, una empresa de ropa deportiva ficticia, busca promocionar su última colección de ropa y equipo y dirigir las ventas a los clientes existentes. Luma lanza la nueva colección de verano y desea dirigirse específicamente a diferentes segmentos de clientes.
+Luma, una compañía de ropa deportiva ficticia, está promocionando su última colección de ropa y equipo y impulsando ventas para clientes existentes. Luma inicia la nueva colección de verano y desea dirigirse específicamente a diferentes segmentos de clientes.
 
 ## Su desafío
 
-El equipo de marketing de Luma le pedirá que implemente una campaña de marketing de recopilación de verano en Journey Optimizer. Su desafío es:
+El equipo de marketing de Luma le pedirá que implemente una campaña de marketing de la colección de verano en Journey Optimizer. Su desafío es:
 
 * Cree un segmento que defina qué perfiles cumplen los requisitos para recibir la promoción.
-* Creación del recorrido
+* Creación del recorrido.
 
 ### Paso 1: Definir el segmento: clientes activos
 
@@ -41,9 +41,9 @@ El equipo de marketing de Luma le pedirá que implemente una campaña de marketi
 
 >[!TAB Tarea]
 
-#### Creación de segmentos en Journey Optimizer
+#### Cree un segmento en [!DNL Journey Optimizer]
 
-* Cree un segmento en Journey Optimizer llamado `Active Customers`.
+* Cree un segmento en [!DNL Journey Optimizer] llamado *Clientes activos*.
 * El segmento solo debe incluir clientes de Luma activos.
 * Los clientes activos se definen como clientes que tienen un nivel en el programa de fidelidad de Luma (bronce, plata, oro o platino).
 
@@ -67,7 +67,7 @@ También puede marcar la [!UICONTROL Pertenencia a segmentos] pestaña: El segme
 
 ![Pertenencia a segmentos](assets/C1-S1-profile-segment-membership.png)
 
->[!TAB Comprobar su trabajo]
+>[!TAB Compruebe su trabajo]
 
 Campos de segmento: [!UICONTROL Atributos] > [!UICONTROL Perfil individual XDM] > [!UICONTROL Fidelidad] > [!UICONTROL Nivel]
 
@@ -84,42 +84,42 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### Paso 2: Crear el Recorrido: anuncio de la colección de verano
+### Paso 2: Creación del anuncio Recorrido - Colección de verano
 
 >[!BEGINTABS]
 
 >[!TAB Tarea]
 
-#### Enviar un anuncio de colección de verano
+#### Enviar el anuncio de la colección de verano
 
 Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos electrónicos:
 
-* SeasonalCollectionEmail.html
+* `SeasonalCollectionEmail.html`
 * Correo electrónico de recopilación de Luma Men
 * Correo electrónico de la colección de mujeres de Luma
 * Luma: 20 % de descuento en el correo electrónico de recopilación
 
 1. [Descargar los archivos de correo electrónico de la colección estacional](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-2. Cree un recorrido llamado `Luma - Summer collection announcement` en función de las siguientes directrices:
+2. Cree un recorrido llamado *Luma: Anuncio de la colección de verano* en función de las siguientes directrices:
 
    1. Enviar *Luma: Nuevo anuncio de colección de verano* envíe un correo electrónico a la *Clientes activos* segmento, mantener el 10 % de la audiencia como grupo de control
-      * Título del mensaje `Luma - Summer Collection Announcement`.
-      * Línea de asunto `(recipient's first name), the new Luma summer collection is here!`.
-      * Utilice el archivo de HTML proporcionado *SeasonalCollectionEmail.html* para el cuerpo del correo electrónico.
+      * Título del mensaje *Luma - Anuncio de colección de verano*
+      * Línea de asunto *(nombre del destinatario), la nueva colección de verano de Luma está aquí!*
+      * Utilice el archivo de HTML proporcionado `SeasonalCollectionEmail.html` para el cuerpo del correo electrónico.
    2. Espere dos días y envíe un mensaje de correo electrónico de seguimiento con contenido de destino más específico:
       * Los clientes varones deben recibir la variable **Colección Luma Men** correo electrónico.
-         * Título del mensaje: `Luma Men's Collection`
-         * Línea de asunto: `(recipient's first name), explore Men's New athletic gear!`
-         * Cuerpo del correo electrónico: *MensCollectionEmail.html* para el cuerpo del correo electrónico.
+         * Título del mensaje: *Colección Luma Men*
+         * Línea de asunto: *(nombre del destinatario), explorar el nuevo equipo atlético masculino!*
+         * Cuerpo del correo electrónico: `MensCollectionEmail.html` para el cuerpo del correo electrónico.
       * Las clientes femeninas deben recibir el **Colección de mujeres de Luma** correo electrónico.
-         * Título del mensaje: `Luma Women's Collection`
-         * Línea de asunto: `(recipient's first name), explore Luma's Women Collection!`
-         * Cuerpo del correo electrónico: *WomensCollectionEmail.html*
+         * Título del mensaje: *Colección de mujeres de Luma*
+         * Línea de asunto: *(nombre del destinatario), explore Luma&#39;s Women Collection!*
+         * Cuerpo del correo electrónico: `WomensCollectionEmail.html`
       * Otros clientes deben recibir la variable **Luma - 20 % de descuento en la recogida** correo electrónico.
-         * Título del mensaje: `Luma - 20 % off Collection`
-         * Línea de asunto: `(recipient's first name), enjoy 20% off sales!`
-         * Cuerpo del correo electrónico: *20OOffCollectionEmail.html*
+         * Título del mensaje: *Luma - 20 % de descuento en la recogida*
+         * Línea de asunto: *(nombre del destinatario), disfrute de un 20% de descuento en las ventas.*
+         * Cuerpo del correo electrónico: `20OOffCollectionEmail.html`
    3. Después de enviar los correos electrónicos de destino anteriores, espere dos días para que se abra el correo electrónico
    4. Si el correo electrónico de destino no se abre en un plazo de 2 días, envíe la variable **Luma - 20 %off Correo electrónico de recopilación** como un intento final de retargeting
 
@@ -148,18 +148,18 @@ Envíe una prueba a usted mismo:
 1. Añadir un perfil de prueba: Stanleigh Stooke:
    1. Área de nombres de identidad: *ID de Luma CRM*
    1. Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
-1. Seleccione el perfil de prueba: Stleigh
-1. Envíe una prueba a usted mismo
+1. Seleccione el perfil de prueba: Stanleigh Stooke.
+1. Envíe una prueba a usted mismo.
 
 Resultado:\
-Debe recibir un correo electrónico. La línea del asunto debería decir &quot;Stanleigh, ¡explore el nuevo equipo atlético masculino!&quot; y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Debe recibir un correo electrónico. La línea de asunto debe decir *Stanleigh, explorar el nuevo equipo atlético masculino!* y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)
 
 >[!NOTE]
 >Puede tardar un par de minutos en recibir la prueba.
 
 **Mensaje de correo electrónico 3 - Colección de mujeres de Luma**
 
-Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&quot;.
+Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 
 * La línea de asunto debe decir: *Louise, explora la colección de mujeres de Luma.*
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección de mujeres de Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
@@ -167,7 +167,7 @@ Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&q
 
 **Mensaje de correo electrónico 4 - Luma 20 % de la recopilación**
 
-Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&quot;.
+Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 
 * La línea de asunto debe decir: *Louise, disfruta de un 20% de descuento en las ventas!*
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Luma 20 % de descuento en la recogida](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
@@ -179,15 +179,15 @@ Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&q
 >
 >Antes de configurar el recorrido en modo de prueba:
 >
->1. Asegúrese de que la actividad Leer segmento tiene el espacio de nombres establecido en **ID de Luma CRM (lumaCrmId)**
+>1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el espacio de nombres establecido en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros de correo electrónico predeterminados para los correos electrónicos de modo que se envíen a su dirección de correo electrónico:
    >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
-   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
+   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
 
       >
       >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
    > 
-   >    * Haga clic en el campo Dirección
+   >    * Haga clic en [!UICONTROL Dirección] field
    >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
 
 >
@@ -195,21 +195,21 @@ Previsualice el correo electrónico con el perfil de prueba &quot;Louise Petti&q
 
 Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 
-1. Poner el recorrido en modo de prueba
-2. Seleccionar un solo perfil a la vez
-3. Tiempo de espera: Establezca el temporizador en 120 segundos (escríbalo en el campo ).
-4. entrada de perfil de déclencheur
-5. Puede probar cada rama utilizando una de las siguientes *ID de Luma CRM* como identificadores de perfil:
+1. Ponga el recorrido en modo de prueba.
+1. Seleccione un solo perfil a la vez.
+1. Tiempo de espera: Establezca el temporizador en 120 segundos (escríbalo en el campo ).
+1. entrada de perfil de déclencheur
+1. Puede probar cada rama utilizando una de las siguientes *ID de Luma CRM* como identificadores de perfil:
    * Mujeres: Leora Dietsche, valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
    * Hombre: Existencia de código, valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
    * Sexo no especificado: Louise Petti, valor de identidad: `d1f132f9f9502bba047a6ec86c4b61f9`
 
-6. Una vez que déclencheur la entrada del perfil, debe recibir el primer correo electrónico, el encabezado debe personalizarse según el perfil que elija.
-7. El recorrido debe continuar en la rama respectiva y usted debe recibir el correo electrónico relacionado (por ejemplo, si elige Jenna, debe recibir el correo electrónico &quot;Colección de mujeres de Luma&quot;).
-8. Abra el segundo correo electrónico y el recorrido debería finalizar
-9. Puede repetir el paso 4. - 7. para que los tres perfiles comprueben si todas las ramas funcionan correctamente.
-10. Para probar los tiempos de espera, establezca el tiempo de espera en 30 segundos y vuelva a almacenar en déclencheur la entrada.
-11. No abra los correos electrónicos que reciba (no previsualice el correo electrónico (!)) y deje que transcurra el tiempo de espera.
+1. Después de almacenar en déclencheur la entrada del perfil, debe recibir el primer correo electrónico. El encabezado debe personalizarse según el perfil que elija.
+1. El recorrido debe continuar en la rama correspondiente y debe recibir el correo electrónico relacionado (por ejemplo, si elige *Jenna*, debe recibir la variable *Colección de mujeres de Luma* correo electrónico).
+1. Abra el segundo correo electrónico y el recorrido debería finalizar.
+1. Puede repetir el paso 4. - 7. para que los tres perfiles comprueben si las ramas funcionan correctamente.
+1. Para probar los tiempos de espera, establezca el tiempo de espera en 30 segundos y vuelva a almacenar en déclencheur la entrada.
+1. No abra los correos electrónicos que reciba (no previsualice el correo electrónico (!)) y deje que transcurra el tiempo de espera.
 
 Debe recibir los siguientes correos electrónicos:
 
