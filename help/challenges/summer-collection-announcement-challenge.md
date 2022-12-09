@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 
 1. Ponga el recorrido en modo de prueba.
-1. Seleccione un solo perfil a la vez.
+1. Select **[!UICONTROL Un solo perfil a la vez]**.
 1. Tiempo de espera: Establezca el temporizador en 120 segundos (escríbalo en el campo ).
 1. entrada de perfil de déclencheur
 1. Puede probar cada rama utilizando una de las siguientes *ID de Luma CRM* como identificadores de perfil:
