@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
 source-wordcount: '1065'
 ht-degree: 8%
@@ -250,9 +250,9 @@ Ahora tiene la variable [!UICONTROL namespace] y [!DNL Luma Loyalty schema] conf
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Cadena] |
 
 1. Configure las variables **[!DNL SKU]** como identidad principal
-2. Agregue la variable **[!UICONTROL Nombre para mostrar]** `Luma Product Catalog Field Group` a [!UICONTROL grupo de campos].
+1. Agregue la variable **[!UICONTROL Nombre para mostrar]** `Luma Product Catalog Field Group` a [!UICONTROL grupo de campos].
 
-3. Seleccione **[!UICONTROL Guardar]**.
+1. Seleccione **[!UICONTROL Guardar]**.
 
 
 ### Crear [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}

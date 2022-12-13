@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 4%
 
 ---
@@ -41,13 +41,13 @@ Cree un recorrido que envíe un correo electrónico de confirmación de pedido c
 
 1. Cree un recorrido llamado `Luma - Order Confirmation`
 1. Utilice el evento : [!DNL LumaOnlinePurchase] como déclencheur
-1. Cree el correo electrónico de confirmación de pedido llamado `Luma - Order Confirmation`
+1. Cree el correo electrónico de confirmación de pedido llamado `Luma - Order Confirmation`:
 
 * Categoría transaccional: asegúrese de seleccionar la superficie de correo electrónico transaccional
 * La línea de asunto debe estar personalizada con el nombre de los destinatarios y debe incluir la frase &quot;gracias por su compra&quot;
 * Utilice la variable **Luma: Resumen de pedidos** plantilla y modifíquela:
 
-Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de la siguiente manera:
+El correo electrónico debe estructurarse de la siguiente manera:
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de l
       </p><br>
       <p><b>Sugerencias:</b>
       <li>Esta es información contextual del evento.
-      <li>Utilice la función de ayuda !UICONTROL]: [!UICONTROL Cada uno]
+      <li>Utilice la [!UICONTROL función de ayuda]: [!UICONTROL Cada uno]
       <li>Cambie al formato del editor de código para añadir los datos contextuales.
       <li>Coloque la información en contenedores utilizando etiquetas DIV.
   </td>
