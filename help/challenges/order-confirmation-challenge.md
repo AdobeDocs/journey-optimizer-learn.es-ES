@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 4%
 
 ---
@@ -39,16 +39,15 @@ Cree un recorrido que envíe un correo electrónico de confirmación de pedido c
 
 >[!TAB Tarea]
 
-1. Cree un recorrido llamado &quot;su nombre _Order Confirmation&quot;
-2. Utilice el evento : [!DNL LumaOnlinePurchase] como déclencheur
-
-3. Cree el correo electrónico de confirmación del pedido:
+1. Cree un recorrido llamado `Luma - Order Confirmation`
+1. Utilice el evento : [!DNL LumaOnlinePurchase] como déclencheur
+1. Cree el correo electrónico de confirmación de pedido llamado `Luma - Order Confirmation`
 
 * Categoría transaccional: asegúrese de seleccionar la superficie de correo electrónico transaccional
 * La línea de asunto debe estar personalizada con el nombre de los destinatarios y debe incluir la frase &quot;gracias por su compra&quot;
+* Utilice la variable **Luma: Resumen de pedidos** plantilla y modifíquela:
 
-Siguiendo las directrices de la marca Luma, el correo electrónico debe estructurarse de la siguiente manera: puede utilizar la variable **Luma: Resumen de pedidos** plantilla y modifíquela:
-
+Siguiendo la guía de marca Luma, el correo electrónico debe estructurarse de la siguiente manera:
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ Siguiendo las directrices de la marca Luma, el correo electrónico debe estructu
     <strong>Texto</strong><p>
     <em>Oye {nombre}</em><p>
     <li>Alineación: left  </li>
-   <li>Color del texto: rgb(101, 106, 119); tamaño de fuente:14 px</li>
-    <li>Relleno: izquierda (95), derecha (95)</li><div>
+   <li>Color del texto: rgb(69, 97, 162) #4461a2; 
+   <li>tamaño de fuente: 20px</li>
+   <div>
     <p>
      <em>Se ha realizado el pedido.
     <p>Una vez que el paquete se envíe, le enviaremos un correo electrónico con un número de seguimiento para que pueda realizar un seguimiento de su pedido.</p></em>
-    </strong><p>
-    <li>Alineación: left  </li>
-    <li>Color del texto: rgb(101, 106, 119); tamaño de fuente:14 px </li>
-    <li>Relleno: izquierda (95), derecha (95)</li><div>
-    </a><p>
-    <em>Enviar a:<p>
-    <p>Apellidos de nombre</p>
-    Calle<p>
-    Ciudad, estado, código postal</p></em>
-    <strong>Botón:</strong></p>
-   <p><em>Ver orden</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Enviar a sección</strong>
+      </div>
+      <p><li>Reemplace la dirección codificada en la plantilla por la carga útil de dirección del perfil
+      <li> Eliminar el descuento, el total, la llegada</p>
+  </td>
+  <td>
+  <p> Enviar a:</p>
+      <em>Apellidos de nombre<br>
+      Calle<br>
+      Ciudad, estado, código postal</em></p>
+
+    &lt;strong>Botón:&lt;/strong>&lt;/p>
+<p><em>Ver orden</em></p>
       <li>Color de fondo: rgb(25, 121, 195)</li>
       <li>Color del texto: Blanco</li>
       <li>Sin borde</li>
@@ -107,11 +114,13 @@ Siguiendo las directrices de la marca Luma, el correo electrónico debe estructu
   <div>
      <strong>Sección Detalles del pedido</strong>
       </div>
-      <p>Sugerencias:
-      <li>Esta es información contextual del evento.</li>
-      <li>Utilice la función de ayuda: Cada</li>
-      <li>Cambie al formato del editor de código para añadir los datos contextuales. <li>
-      <li>Coloque la información en contenedores utilizando etiquetas DIV.</li>
+       <p><li>Agregue esta sección entre las variables <b>Enviar a</b> y <b>Ver orden</b> botón
+      </p><br>
+      <p><b>Sugerencias:</b>
+      <li>Esta es información contextual del evento.
+      <li>Utilice la función de ayuda !UICONTROL]: [!UICONTROL Cada uno]
+      <li>Cambie al formato del editor de código para añadir los datos contextuales.
+      <li>Coloque la información en contenedores utilizando etiquetas DIV.
   </td>
   <td>
     <strong>Header</strong>
@@ -156,8 +165,7 @@ Siguiendo las directrices de la marca Luma, el correo electrónico debe estructu
 >
 >Para permitirle solucionar problemas de sus recorridos, la práctica recomendada es agregar una ruta alternativa a todas las acciones de mensajes en caso de tiempo de espera o error.
 
-
->[!TAB Compruebe su trabajo]
+>[!TAB Criterios de éxito]
 
 Déclencheur el Recorrido que ha creado en el modo de prueba y envíelo por correo electrónico:
 
@@ -186,7 +194,8 @@ Debe recibir el correo electrónico de confirmación de compra personalizado, co
    43913 Terraza Thierer, Washington DC 2009
 
 
->[!TAB Criterios de éxito]
+
+>[!TAB Compruebe su trabajo]
 
 ** Recorrido
 
