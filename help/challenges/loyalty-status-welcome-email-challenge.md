@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 4%
 
 ---
@@ -43,12 +43,8 @@ Cuando un cliente fiel califica para el nivel de platino, debe recibir un correo
 1. Cree un [!UICONTROL segmento] en Journey Optimizer llamada `Luma – status upgrade`.
 2. Cree un recorrido llamado `Luma – New Status – platinum`.
    1. Un cliente se traslada al recorrido cuando cumple los requisitos para el nivel de lealtad de platino.
-   2. El cliente debe recibir un mensaje de correo electrónico etiquetado `Luma – Platinum Status - Welcome`, con la línea de asunto `Welcome to Platinum Status, (recipient's first name)!` con el cuerpo del correo electrónico proporcionado por el equipo creativo.
+   2. El cliente debe recibir un mensaje de correo electrónico etiquetado `Luma – Platinum Status - Welcome`, con la línea de asunto `Welcome to Platinum Status, (recipient's first name)!` con el cuerpo del correo electrónico proporcionado por el equipo creativo. Esto es un [!UICONTROL transaccional] Correo electrónico.
    3. Al cargar el archivo HTML, se da cuenta de que el correo electrónico se refiere al estado &quot;diamante&quot;, en lugar de al estado &quot;platino&quot;. En lugar de solicitar un nuevo archivo al equipo creativo, actualice el correo electrónico en el Diseñador de correo electrónico.
-
->[¡SUGERENCIA!]
-> Asegúrese de que el correo electrónico de bienvenida de Luma - Estado platino es[!UICONTROL transaccional].
-
 
 >[!TAB Criterios de éxito]
 
@@ -69,7 +65,7 @@ Prueba del recorrido:
 4. Déclencheur de un evento
 5. Agregue lo siguiente [!DNL CRM ID] para [!DNL Stanleigh Stooke] en el [!UICONTROL Identificador de perfil] campo: `4f34057d9d9e792c28ba18ecae378e98`
 
-Debería recibir el *Luma: estado de platino, bienvenida* correo electrónico.
+**Resultado:** Debería recibir el *Luma: estado de platino, bienvenida* correo electrónico.
 
 >[!TAB Compruebe su trabajo]
 
