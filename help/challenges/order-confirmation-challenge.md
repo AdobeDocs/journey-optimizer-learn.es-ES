@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 4%
 
 ---
@@ -33,19 +33,19 @@ Luma inicia su tienda en línea y desea garantizar una buena experiencia con el 
 
 ## Su desafío
 
-Cree un recorrido que envíe un correo electrónico de confirmación de pedido cuando un cliente de Luma complete un pedido en línea.
+Cree un recorrido que envíe un correo electrónico de confirmación de pedido cuando un cliente de Luma complete un pedido en línea. La Luma
 
 >[!BEGINTABS]
 
 >[!TAB Tarea]
 
 1. Cree un recorrido llamado `Luma - Order Confirmation`
-1. Utilice el evento : [!DNL LumaOnlinePurchase] como déclencheur
-1. Cree el correo electrónico de confirmación de pedido llamado `Luma - Order Confirmation`:
+2. Utilice el evento : `LumaOnlinePurchase` como déclencheur
+3. Cree el correo electrónico de confirmación de pedido llamado `Luma - Order Confirmation`:
 
 * Categoría transaccional: asegúrese de seleccionar la superficie de correo electrónico transaccional
 * La línea de asunto debe estar personalizada con el nombre de los destinatarios y debe incluir la frase &quot;gracias por su compra&quot;
-* Utilice la variable **Luma: Resumen de pedidos** plantilla y modifíquela:
+* Utilice la variable `Luma - Order summary` plantilla y modifíquela:
 
 El correo electrónico debe estructurarse de la siguiente manera:
 <table>
@@ -59,7 +59,6 @@ El correo electrónico debe estructurarse de la siguiente manera:
     <strong>Logotipo de Luma</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Tamaño 35%, fondo blanco centrado </li>
     <li>Debe tener un enlace al sitio web de luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ El correo electrónico debe estructurarse de la siguiente manera:
     </strong>
   </td>
   <td>
-    <strong>Imagen</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Margen: Superior, inferior (10)<div>
     <p>
     <strong>Texto</strong><p>
     <em>Oye {nombre}</em><p>
@@ -91,23 +87,15 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <div>
      <strong> Enviar a sección</strong>
       </div>
-      <p><li>Reemplace la dirección codificada en la plantilla por la carga útil de dirección del perfil
+      <p><li>Reemplace la dirección codificada en la plantilla por la dirección de envío 
+      <li>Los detalles son atributos contextuales del evento (calle, ciudad, código postal, estado)
+      <li>El nombre y los apellidos proceden del perfil
       <li> Eliminar el descuento, el total, la llegada</p>
   </td>
   <td>
   <p> Enviar a:</p>
       <em>Apellidos de nombre<br>
-      Calle<br>
-      Ciudad, estado, código postal</em></p>
-
-    &lt;strong>Botón:&lt;/strong>&lt;/p>
-<p><em>Ver orden</em></p>
-      <li>Color de fondo: rgb(25, 121, 195)</li>
-      <li>Color del texto: Blanco</li>
-      <li>Sin borde</li>
-      <li>Altura: 40</li>
-      <li>Añada un vínculo a un sitio web de su elección </li>
-      <li>Alinea la izquierda con el texto anterior (sugerencia: utilizar el margen del contenedor)</li>
+      Dirección<br></em></p>
   </td>
  <tr>
 <td>
