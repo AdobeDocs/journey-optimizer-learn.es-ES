@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 4%
@@ -63,7 +63,7 @@ Prueba del recorrido:
 
 3. Establecer el recorrido en modo de prueba
 4. Déclencheur de un evento
-5. Agregue lo siguiente [!DNL CRM ID] para [!DNL Stanleigh Stooke] en el [!UICONTROL Identificador de perfil] campo: `4f34057d9d9e792c28ba18ecae378e98`
+5. Agregue lo siguiente [!DNL CRM ID] para `Stanleigh Stooke` en el [!UICONTROL Identificador de perfil] campo: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Resultado:** Debería recibir el *Luma: estado de platino, bienvenida* correo electrónico.
 

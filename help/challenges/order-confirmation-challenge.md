@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '692'
 ht-degree: 4%
 
 ---
@@ -113,7 +113,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
     <strong>Header</strong>
     <p>
-    <em>Pedido {Número de orden de compra}</em>
+    <em>Pedido: `purchaseOrderNumber`</em>
     </p>
     <strong>Lista de productos solicitados:
   </strong>
@@ -164,7 +164,7 @@ Déclencheur el Recorrido que ha creado en el modo de prueba y envíelo por corr
    3. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *yourname@yourdomain* en el editor de expresiones y haga clic en aceptar.
 2. Poner el recorrido en modo de prueba
 3. Déclencheur el evento con los siguientes parámetros:
-   * Establezca el identificador de perfil en: Jenna_Palmer9530@emailsim.io
+   * Establezca el identificador de perfil en: Valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo de evento: commerce.purchases
    * Nombre: Kit Sprite Yoga Companion
    * Cantidad: 1
@@ -172,12 +172,13 @@ Déclencheur el Recorrido que ha creado en el modo de prueba y envíelo por corr
    * Número de pedido: 6253728
    * SKU: 24-WG080
    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 Debe recibir el correo electrónico de confirmación de compra personalizado, con el producto especificado.
 
-* La línea de asunto debe comenzar con el nombre del perfil de prueba: Jenna
+* La línea de asunto debe tener el nombre del perfil de prueba: Leora
 * La sección de detalles del pedido debe rellenarse con los detalles del pedido introducidos durante la prueba
-* La información del cliente debe tener la ciudad y el código postal del perfil de prueba:
+* La variable *Enviar a* debe tener la ciudad y el código postal del perfil de prueba:
 
    43913 Terraza Thierer, Washington DC 2009
 
@@ -185,17 +186,30 @@ Debe recibir el correo electrónico de confirmación de compra personalizado, co
 
 >[!TAB Compruebe su trabajo]
 
-** Recorrido
+**Recorrido**
 
 ![ Recorrido ](/help/challenges/assets/c2-journey.png)
 
 
-** Correo electrónico
+**Correo electrónico**
 
 **Línea de asunto:**
 
 {{ profile.person.name.firstName }}, gracias por su compra!
 
+**Enviar a sección:**
+
+Este es el aspecto que debería tener el código:
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* será un número diferente para usted.
+
+SUGERENCIA: Personalización de cada línea por separado
 
 **Sección de detalles del orden:**
 
