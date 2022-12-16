@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 2bf17de2d6911fd288e257a42000bb5505e04c08
+source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '686'
 ht-degree: 5%
 
 ---
@@ -181,11 +181,6 @@ Debe recibir el correo electrónico de confirmación de compra personalizado, co
 
 * La línea de asunto debe tener el nombre del perfil de prueba: Leora
 * La sección de detalles del pedido debe rellenarse con los detalles del pedido introducidos durante la prueba
-* La variable *Enviar a* debe tener la ciudad y el código postal del perfil de prueba:
-
-   43913 Terraza Thierer, Washington DC 2009
-
-
 
 >[!TAB Compruebe su trabajo]
 
@@ -228,14 +223,21 @@ Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 
 **Lista de productos:**
 
-Utilice la función de ayuda &quot;each&quot; para crear la lista de productos. Este es el aspecto que debería tener el código:
+Utilice la función de ayuda &quot;each&quot; para crear la lista de productos. Mostrarlos en una tabla. Este es el aspecto que debería tener el código:
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}
-<div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.productImageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-<h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}.00</h5>
-<div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div><div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div></div><div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-{{/each}}
+<div class="text-container" contenteditable="true">
+  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
+    </span></p>
+  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
+    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
+    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
+  </div>
+  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
+  {{/each}}<p></p>
+  <p></p>
+</div>
 ```
 
 **Precio total:**
