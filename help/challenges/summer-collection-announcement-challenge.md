@@ -8,7 +8,7 @@ last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 100%
 
@@ -181,13 +181,15 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 >
 >1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el área de nombres establecida en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros predeterminados para los correos electrónicos, de modo que se envíen a su dirección:
->    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
->    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
->
->      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Haga clic en el campo [!UICONTROL Dirección]
->    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+   >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
+   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
+
+      >
+      >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Haga clic en el campo [!UICONTROL Dirección]
+   >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+
 >
 
 

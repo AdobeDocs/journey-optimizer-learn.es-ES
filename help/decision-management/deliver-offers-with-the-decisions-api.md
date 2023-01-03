@@ -1,6 +1,6 @@
 ---
 title: Entrega de ofertas con la API de Decisions Hub
-description: 'Obtenga información sobre cómo ofrecer ofertas de Administración de decisiones con la API de decisiones. '
+description: Obtenga información sobre cómo ofrecer ofertas de Administración de decisiones con la API de decisiones.
 role: Developer
 feature: Offers
 kt: 6819
@@ -9,7 +9,7 @@ exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 80%
+ht-degree: 92%
 
 ---
 
@@ -22,7 +22,7 @@ Obtenga información sobre cómo entregar ofertas [con la API de Decisions Hub](
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso, [Introducción a la administración de decisiones para especialistas en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League!
+> Este vídeo es parte del curso [Introducción a gestión de decisiones para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.
 
 ## Recursos adicionales
 

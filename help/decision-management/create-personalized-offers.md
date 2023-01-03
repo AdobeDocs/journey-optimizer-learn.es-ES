@@ -9,7 +9,7 @@ exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Para obtener más información sobre cómo crear actividades de ofertas personal
 
 >[!INFO]
 >
-> Este vídeo es parte de un curso, [Introducción a la administración de decisiones para especialistas en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League!
+> Este vídeo es parte del curso [Introducción a gestión de decisiones para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.

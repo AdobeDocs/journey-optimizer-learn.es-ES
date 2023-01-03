@@ -10,7 +10,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
@@ -43,7 +43,7 @@ Antes de empezar a configurar el simulador para pruebas de formación, asegúres
 
       Estos archivos contienen los datos de ejemplo que se introducen en el simulador para pruebas.
 
-   1. Abra cada archivo y busque **`yourOrganizationID`** y reemplácelo por su [ID de organización](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. Abra cada archivo y busque **`yourOrganizationID`** y reemplácelo por su [ID de organización](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=es).
 
    1. Guarde los archivos.
 
