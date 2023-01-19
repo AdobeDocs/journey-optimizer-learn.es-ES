@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 95%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
    + [Arquitectura](/help/introduction/architecture.md)
    + [Capacidades de Mobile para expertos en marketing](/help/create-messages/mobile-capabilities.md)
    + [Capacidades de Mobile para desarrolladores](/help/create-messages/mobile-capabilities-for-developers.md)
-+ Creación de campañas {#create-campaigns}
++ Campañas {#create-campaigns}
    + [Creación de una campaña](/help/create-champaigns/create-a-campaign.md)
-+ Creación de recorridos {#create-journeys}
++ Recorridos {#create-journeys}
    + [Información general sobre el lienzo del recorrido](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 100%
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
++ Canal de SMS{#sms-channel}
+   + [Configuración de credenciales de API de SMS y superficies de canal](/help/set-up-channels/set-up-sms-channel.md)
+   + [Creación y envío de mensajes SMS](/help/channels/author-and-deliver-sms-messages.md)
+   + [Compatibilidad con palabras clave entrantes para SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Perfiles de cliente, segmentos y suscripciones {#profiles-segments-subscriptions}
    + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creación de segmentos](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 100%
       + [Creación de contenido con el Diseñador de correo electrónico](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importación y creación de contenido de correo electrónico HTML](/help/create-messages/import-and-author-html-email-content.md)
       + [Previsualización, prueba y publicación](/help/create-messages/preview-proof-and-publish.md)
-   + Creación de SMS {#create-sms}
-      + [Configuración, creación y entrega de mensajes SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [Compatibilidad con palabras clave entrantes para SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + Creación de mensajes en la aplicación {#create-in-app}
       + [Mensajería en la aplicación para campañas](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [Creación de un mensaje en la aplicación](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 100%
       + [Creación de conjuntos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Configuración de conectores de origen](/help/set-up-data/configure-source-connectors.md)
    + Configuración de canales {#channel-configuration}
-      + [Configuración del canal de correo electrónico](/help/set-up-email-channel/set-up-email-channel.md)
-      + [Delegar subdominios CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [Configuración del canal de correo electrónico](/help/set-up-channels/set-up-email-channel.md)
+      + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configurar las reglas de frecuencia de mensaje](/help/administration/configure-frequency-rules.md)
    + Configurar recorridos {#journey-configuration}
       + [Configuración de fuentes de datos](/help/set-up-journeys/configure-data-sources.md)
