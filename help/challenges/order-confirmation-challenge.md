@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 82%
+source-wordcount: '654'
+ht-degree: 61%
 
 ---
 
@@ -41,10 +41,9 @@ Crear un recorrido que envíe un correo electrónico de confirmación de pedido 
 
 1. Cree un recorrido llamado `Luma - Order Confirmation`
 2. Utilice el evento : `LumaOnlinePurchase`
-3. Cree el correo electrónico de confirmación de pedido llamado `Luma - Order Confirmation`:
+3. Cree un **transaccional**  correo electrónico llamado `Luma - Order Confirmation`
 
-* Categoría transaccional: asegúrese de seleccionar la superficie de correo electrónico transaccional
-* La línea de asunto debe estar personalizada con el nombre de los destinatarios e incluir la frase “gracias por su compra”
+* La línea de asunto &quot;Gracias por su compra, `FirstName`&quot;
 * Utilice la plantilla `Luma - Order summary` y modifíquela:
    * Elimine el `You may also like` secciones
    * Añada el vínculo unsubscribe en la parte inferior del correo electrónico
@@ -60,7 +59,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Debe tener un vínculo al sitio web de luma: https://publish1034.adobedemo.com/content/luma/us/en.html?lang=es</li>
+    <li>Debe enlazar al sitio web de luma: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -73,7 +72,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
     <p>
     <strong>Texto</strong><p>
-    <em>Oye {firstName}</em><p>
+    <em>Oye {firstName},</em><p>
    <div>
     <p>
      <em>Se ha hecho el pedido.
@@ -89,7 +88,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
       <li>El nombre y los apellidos proceden del perfil
       <li>Reemplace la dirección codificada en la plantilla por la <b>dirección de envío</b>
       <li>Los detalles de dirección son atributos contextuales del evento (calle 1, ciudad, código postal, estado)
-      <li> Eliminar el descuento, el total, la llegada</p>
+      <li> Eliminar <i>Descuento, total, llegada</i></p>
   </td>
   <td>
   <p> Enviar a:</p>
@@ -105,7 +104,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
        <p><li>Agregue esta sección debajo de <b>Enviar a</b> para obtener más información.
       </p><br>
       <p><b>Sugerencias:</b>
-      <li>Utilice el componente de estructura "1:2 columna izquierda" para esta sección
+      <li>Uso del componente de estructura <b>1:2 columna izquierda</b> para esta sección
       <li>Se trata de información contextual del evento.
       <li>Utilice la [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Cambie al formato del editor de código para añadir los datos contextuales.
@@ -113,13 +112,16 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
     <strong>Encabezado</strong>
     <p>
-    <em>Pedido: `purchaseOrderNumber`</em>
+  Pedido: <em>{purchaseOrderNumber}</em>
     </p>
     <strong>Lista de productos pedidos:
   </strong>
-  <p>Cada uno de los elementos debe tener el siguiente formato:
- <img alt="pedido" src="./assets/c2-order.png"> 
-</p>
+  <p>Enumere cada producto en el orden con una imagen, el precio y el nombre.
+  <p>El diseño de cada elemento debería tener este aspecto:
+   <img alt="pedido" src="./assets/c2-order.png"> 
+<p><b>Agregar el vínculo al carro de compras</b>
+<p>Sustituya el ID de pedido de la dirección URL por el número de orden de compra:
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -133,28 +135,31 @@ El correo electrónico debe estructurarse de la siguiente manera:
 
 Active el recorrido que ha creado en el modo de prueba y envíeselo a sí mismo por correo electrónico:
 
-1. Muestre los valores ocultos haciendo clic en el símbolo del ojo:
-   1. En Parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
-      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-   2. Haga clic en el campo Dirección
-   3. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *yourname@yourdomain* en el editor de expresiones y haga clic en OK.
+1. Antes de cambiar al modo de prueba, anule los parámetros de correo electrónico para enviar al correo electrónico de prueba a su dirección de correo electrónico:
+   1. Abra la vista de detalles del correo electrónico.
+   2. En Parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
+   3. Haga clic en el campo Dirección
+   4. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *&quot;yourname@yourdomain&quot;* en el editor de expresiones y haga clic en aceptar.
 2. Poner el recorrido en modo de prueba
 3. Active el evento con estos parámetros:
    * Establezca el identificador de perfil en: Valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo de evento: commerce.purchases
    * `Quantity`: 1
    * `Price Total:` 69
-   * `Purchase Order Number:` 6253728
+   * `Purchase Order Number:` 90845952-c2ea-4872-8466-5289183e4607
    * `SKU:` LLMH09
-   * `City:` Washington
-   * `Postal Code:` 20099
-   * `State`: DC
-   * `Street:` Terraza más estrecha
+   * `City:`San Jose
+   * `Postal Code:` 95119
+   * `State`: CA
+   * `Street:` 245 Park Avenue
 
-Tiene que recibir el correo electrónico de confirmación de compra personalizado con el producto especificado.
+Debe recibir el correo electrónico de confirmación de compra personalizado.
 
 * La línea de asunto debe tener el nombre del perfil de prueba: Leora
-* La sección de detalles del pedido tiene que rellenarse con los detalles del pedido introducidos durante la prueba
+
+* Este es el aspecto que debería tener su cuerpo de correo electrónico:
+
+![Correo electrónico](//help/challenges/assets/c2-email.png)
 
 >[!TAB Compruebe su trabajo]
 
@@ -168,10 +173,6 @@ Tiene que recibir el correo electrónico de confirmación de compra personalizad
 **Línea de asunto:**
 
 Gracias por su compra, {{ profile.person.name.firstName }}!
-
-Este es el aspecto que debería tener su cuerpo de correo electrónico:
-
-![Correo electrónico](//help/challenges/assets/c2-email.png)
 
 **Enviar a la sección:**
 
@@ -202,8 +203,12 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 Utilice la función de ayuda “cada uno” para crear la lista de productos. Visualizarlos en una tabla. Este es el aspecto que debería tener el código (con variables específicas como su ID de evento), en lugar de `454181416` y su ID de organización en lugar de `techmarketingdemos` ):
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
+
+**Botón Ver orden:**
+
+`https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 
 **Precio total:**
 
