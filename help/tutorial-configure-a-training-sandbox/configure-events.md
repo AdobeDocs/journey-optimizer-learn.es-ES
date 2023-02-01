@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 9%
+source-wordcount: '198'
+ht-degree: 10%
 
 ---
 
@@ -23,13 +23,9 @@ Vea el vídeo [Crear eventos](/help/set-up-journeys/create-events.md) para obten
 
 ## Crear el evento de compra en línea de Luma
 
-1. Desde el panel de navegación izquierdo, vaya a [!UICONTROL ADMINISTRACIÓN] y seleccione *[!UICONTROL Configuración]*
-1. En el [!UICONTROL Panel], seleccione *[!UICONTROL Administrar*]* Eventos
+Al utilizar este evento, Journey Optimizer recibe información cuando una persona compra productos de luma en línea.
 
-![Administrar eventos](assets/create-events.png)
-
-1. Haga clic en *[!UICONTROL Crear evento]*
-1. Complete los detalles y parámetros del evento:
+1. Cree un evento con los parámetros siguientes:
 
    | [!UICONTROL Parámetro] | [!UICONTROL Valor] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ Vea el vídeo [Crear eventos](/help/set-up-journeys/create-events.md) para obten
    | [!UICONTROL Esquema] | `Luma Web Events Schema` |
    | [!UICONTROL Campos] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Agregue la variable [!UICONTROL Condición de ID de evento]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. Agregue la variable [!UICONTROL Condición de ID de evento]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Seleccione el icono de lápiz para editar el campo
    2. En el [!UICONTROL Añadir una condición de ID de evento] modal, arrastre y suelte el `eventType` sobre el lienzo
