@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 61%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 61%
 | Desafío | Crear un correo electrónico transaccional de confirmación de pedido |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html? lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html? lang=es)</li></ul> |
+| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html? lang=es)</li></ul> |
 | Recursos que se van a descargar | [Recursos de confirmación de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## La historia
@@ -86,7 +86,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
       </div>
       <p>
       <li>El nombre y los apellidos proceden del perfil
-      <li>Reemplace la dirección codificada en la plantilla por la <b>dirección de envío</b>
+      <li>Reemplace la dirección codificada en la plantilla por el <b>dirección de envío</b>
       <li>Los detalles de dirección son atributos contextuales del evento (calle 1, ciudad, código postal, estado)
       <li> Eliminar <i>Descuento, total, llegada</i></p>
   </td>
@@ -129,15 +129,15 @@ El correo electrónico debe estructurarse de la siguiente manera:
 
 >[!TIP]
 >
->Para permitirle solucionar problemas sobre sus recorridos, la práctica recomendada es añadir una ruta alternativa a todas las acciones de mensajes en caso de tiempo de espera o error.
+>Para permitirle solucionar los problemas de sus recorridos, se recomienda añadir una ruta alternativa a todas las acciones de mensajes si hay un tiempo de espera o un error.
 
 >[!TAB Requisitos de éxito]
 
-Active el recorrido que ha creado en el modo de prueba y envíeselo a sí mismo por correo electrónico:
+Déclencheur el Recorrido que ha creado en el modo de prueba y envíelo por correo electrónico:
 
 1. Antes de cambiar al modo de prueba, anule los parámetros de correo electrónico para enviar al correo electrónico de prueba a su dirección de correo electrónico:
    1. Abra la vista de detalles del correo electrónico.
-   2. En Parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
+   2. En la sección Email parameters , haga clic en el símbolo T (habilitar anulación de parámetros)
    3. Haga clic en el campo Dirección
    4. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *&quot;yourname@yourdomain&quot;* en el editor de expresiones y haga clic en aceptar.
 2. Poner el recorrido en modo de prueba
@@ -159,7 +159,7 @@ Debe recibir el correo electrónico de confirmación de compra personalizado.
 
 * Este es el aspecto que debería tener su cuerpo de correo electrónico:
 
-![Correo electrónico](//help/challenges/assets/c2-email.png)
+![Correo electrónico](/help/challenges/assets/c2-email.png)
 
 >[!TAB Compruebe su trabajo]
 
@@ -184,7 +184,7 @@ Este es el aspecto que debería tener el código:
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* será un número diferente para usted.
+*event.45481416* es un número diferente para usted.
 
 SUGERENCIA: Personalice cada línea por separado
 
