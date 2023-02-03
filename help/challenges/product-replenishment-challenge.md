@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 100%
+source-wordcount: '570'
+ht-degree: 91%
 
 ---
 
@@ -30,62 +30,34 @@ Al navegar por el sitio web de Luma, los clientes pueden añadir productos que l
 
 Luma le pide que implemente un recorrido en Journey Optimizer que notifique a los clientes, quienes tienen un producto en su lista de deseos que está agotado, cuando este vuelva a estar disponible.
 
-## Defina el segmento: productos agotados en la lista de deseos
+>[!BEGINTABS]
 
-Para dirigirse a los clientes potenciales interesados cuando los productos vuelvan a estar disponibles, cree un segmento que esté formado por clientes
+>[!TAB Tarea]
 
-* que han agregado al menos un producto a su lista de deseos (use el tipo de evento: [!UICONTROL Comercio Guardar para más tarde])
-* Que ha estado **agotado** durante los últimos tres meses (utilizar cantidad de existencias = 0)
+## 1. Defina el segmento: Elementos de lista de deseos fuera de existencias
+
+Para dirigirse a los clientes potenciales interesados cuando los productos vuelvan a estar disponibles, cree un segmento que esté formado por clientes:
+
+* Que han agregado al menos un elemento a su lista de deseos (use el tipo de evento: [!UICONTROL Ahorro de comercio para versiones más recientes])
+* Que ha estado agotado durante los últimos tres meses (utilizar cantidad de existencias = 0)
 * Y desde entonces no han comprado el producto.
 
-Asigne un nombre a este segmento: *su nombre, Lista de deseos sin existencias*
-
-+++**COMPRUEBE SU TRABAJO**
-
-Este es el aspecto que debería tener el segmento:
-
-![Segmento: productos agotados en la lista de deseos](/help/challenges/assets/C1-S2.png)
-
-Clientes que han añadido un producto a su lista de deseos que ha estado agotado durante los últimos tres meses:
-
-* Evento: guardar para más tarde
-   * Incluir al menos 1
-   * Donde la cantidad de stock es 0
-
-y no han comprado desde entonces el producto:
-
-* Excluya los tipos de eventos de Compras donde el SKU coincida con el del **evento Guardar para más tarde**.
-
 >[!TIP]
-> * Seleccione el SKU en Guardar para más tarde en la sección *Examinar variables*
-> * Utilice la opción de comparación al soltar el SKU en Guardar para más tarde en el campo de evento
+>Excluya los tipos de eventos de Compras donde el SKU coincida con el del *evento Guardar para más tarde*. Puede encontrar el campo en la *Examinar variables* para obtener más información.
+
+Asigne un nombre a este segmento: `Out-of-stock-Wishlist`
 
 
-Compruebe el código en la esquina inferior derecha de la pantalla Editar segmento, en Eventos. El código debería tener este aspecto:
-
-Código:
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### Crear correo electrónico: reabastecimiento de productos de Luma
-
-Notifique a los clientes que hayan añadido un producto agotado con una llamada para empezar a comprar ahora que el producto está disponible.
-
-### Creación del recorrido: notificación de reabastecimiento de producto
+### 2. Crear el recorrido: notificación de reabastecimiento de producto
 
 Cuando un producto que antes estaba agotado vuelva a estar disponible, notifique a los clientes que lo hayan añadido con una llamada para que puedan comprar ahora que el producto está disponible.
 
-1. Cree un recorrido llamado “su nombre_Luma: reabastecimiento de producto”
-1. El recorrido tiene que activarse cuando el producto vuelva a estar disponible
-1. Envíe el correo de *reabastecimiento de productos Luma* a
-1. Usuarios que habían añadido este producto a la lista de deseos mientras estaba agotado
+1. Llame al recorrido: `Product Restock`
+2. El recorrido tiene que activarse cuando el producto vuelva a estar disponible
+3. Envíe el correo de *reabastecimiento de productos Luma* a
+4. Usuarios que habían añadido este producto a la lista de deseos mientras estaba agotado
 
->[!TIP]
->
-> Utilice el evento empresarial existente. Tiene que añadir una condición que compruebe que el SKU de reabastecimiento está incluido en (cualquier) tipo de evento guardar para más tarde.
-
-+++**REQUISITOS DE ÉXITO**
+>[!TAB Requisitos de éxito]
 
 Prueba del recorrido:
 
@@ -104,9 +76,14 @@ Prueba del recorrido:
 
 Tiene que recibir el correo electrónico “Reabastecimiento de productos por correo electrónico de Luma” con la información del producto y la personalización para Jenna.
 
-+++
+>[!TAB Compruebe su trabajo]
 
-+++**COMPRUEBE SU TRABAJO**
+Este es el aspecto que debería tener el segmento:
+
+![Segmento: productos agotados en la lista de deseos](/help/challenges/assets/C1-S2.png)
+
+
+
 
 Este es el aspecto que debería tener el recorrido:
 
@@ -120,4 +97,29 @@ Código de condición:
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * Seleccione el SKU en Guardar para más tarde en la sección *Examinar variables*
+> * Utilice la opción de comparación al soltar el SKU en Guardar para más tarde en el campo de evento
+
+
+Compruebe el código en la esquina inferior derecha de la pantalla Editar segmento, en Eventos. El código debería tener este aspecto:
+
+Código:
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### Crear correo electrónico: reabastecimiento de productos de Luma
+
+Notifique a los clientes que hayan añadido un producto agotado con una llamada para empezar a comprar ahora que el producto está disponible.
+
+
+
+>[!TIP]
+>
+> Utilice el evento empresarial existente. Tiene que añadir una condición que compruebe que el SKU de reabastecimiento está incluido en (cualquier) tipo de evento guardar para más tarde.
+
+
+
+
