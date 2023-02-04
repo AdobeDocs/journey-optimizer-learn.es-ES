@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 50%
@@ -42,7 +42,6 @@ Crear un recorrido que envíe un correo electrónico de confirmación de pedido 
 1. Cree un recorrido llamado `Luma - Order Confirmation`
 2. Utilice el evento : `LumaOnlinePurchase`
 3. Cree un **transaccional**  correo electrónico llamado `Luma - Order Confirmation`
-
 * La línea de asunto &quot;Gracias por su compra, `FirstName`&quot;
 * Utilice la plantilla `Luma - Order summary` y modifíquela:
    * Elimine el `You may also like` secciones

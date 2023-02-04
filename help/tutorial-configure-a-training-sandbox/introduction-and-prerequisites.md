@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 9%
 
 ---
@@ -33,18 +33,11 @@ Antes de empezar a configurar el simulador para pruebas de formación, asegúres
 1. [Ajustes preestablecidos de mensajes de correo electrónico](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) configurado para marketing y mensajería transaccional.
 1. **[!UICONTROL Administrador de recorridos]** y **[!UICONTROL Administrador de datos]** derechos para el simulador de pruebas de formación.
 1. Su [ID de organización](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=es).
-
 1. Los archivos JSON con los datos de ejemplo configurados en su instancia de Journey Optimizer:
-
    1. Descargue el `luma-sample-data.zip` file [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), que contiene todos los archivos JSON necesarios para este tutorial.
-
-   1. Desde la carpeta de descargas, mueva la variable `luma-data.zip` en la ubicación deseada del equipo y descomprima el archivo.
-
-      Estos archivos contienen los datos de ejemplo para el simulador para pruebas de formación.
-
-   2. Abra cada archivo y busque **`yourOrganizationID`** y reemplácelo por su [ID de organización](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=es).
-
-   3. Guarde los archivos.
+   1. Desde la carpeta de descargas, mueva la variable `luma-data.zip` a la ubicación deseada en el equipo y descomprima el archivo.Estos archivos contienen los datos de ejemplo para el simulador para pruebas de formación.
+   1. Abra cada archivo y busque **`yourOrganizationID`** y reemplácelo por su [ID de organización](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=es).
+   1. Guarde los archivos.
 
 ## Empecemos
 
