@@ -6,10 +6,11 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '341'
 ht-degree: 9%
 
 ---
@@ -35,17 +36,15 @@ Antes de empezar a configurar el simulador para pruebas de formación, asegúres
 
 1. Los archivos JSON con los datos de ejemplo configurados en su instancia de Journey Optimizer:
 
-   1. Descargue el `luma-data.zip` file [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip), que contiene todos los archivos JSON necesarios para este tutorial.
+   1. Descargue el `luma-sample-data.zip` file [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), que contiene todos los archivos JSON necesarios para este tutorial.
 
    1. Desde la carpeta de descargas, mueva la variable `luma-data.zip` en la ubicación deseada del equipo y descomprima el archivo.
 
-      Debe haber tres archivos JSON: `luma-crm.json`, `luma-loyalty.json`, `luma-products.json`.
+      Estos archivos contienen los datos de ejemplo para el simulador para pruebas de formación.
 
-      Estos archivos contienen los datos de ejemplo que se introducen en el simulador para pruebas.
+   2. Abra cada archivo y busque **`yourOrganizationID`** y reemplácelo por su [ID de organización](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=es).
 
-   1. Abra cada archivo y busque **`yourOrganizationID`** y reemplácelo por su [ID de organización](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=es).
-
-   1. Guarde los archivos.
+   3. Guarde los archivos.
 
 ## Empecemos
 
