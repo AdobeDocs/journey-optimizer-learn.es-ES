@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '456'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ Cada reto de esta sección aborda un caso práctico único que usted implementa.
 
 ### Requisitos del sistema
 
-* Acceso a una zona protegida de Journey Optimizer: recomendamos completar el reto en un simulador para pruebas de formación especializado.
+* Acceso a un simulador para pruebas de Journey Optimizer : se recomienda completar el desafío en un simulador para pruebas de formación dedicado.
 * AEM Assets Essentials debe estar aprovisionado para su instancia
 * Los canales de correo electrónico deben configurarse para los mensajes transaccionales y de marketing
 
@@ -40,7 +40,7 @@ Necesita los siguientes derechos de acceso:
 
 ### Acciones necesarias
 
-* Si acaba de empezar en Adobe Journey Optimizer, complete el curso [Introducción a Journey Optimizer para administradores y gestores de recorridos](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
+* Si acaba de empezar en Adobe Journey Optimizer, complete el curso [Introducción a Journey Optimizer para administradores y gestores de recorridos](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
 
 ## La historia
@@ -69,7 +69,7 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
       <b>Competencias requeridas:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es"> Creación de segmentos</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=es">Lectura de segmento</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=es">Importar el contenido HTML del correo electrónico</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">Importar el contenido HTML del correo electrónico</li>
   </td>
   </tr>
    <tr>
@@ -91,7 +91,7 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
     <b>Competencias requeridas:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es"> Creación de segmentos</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=es">Clasificación del segmento</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=es">Importación y creación de contenido de correo electrónico HTML</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">Importación y creación de contenido de correo electrónico HTML</li>
   </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
     </em>
     <p>
     <b>Competencias requeridas:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html?lang=es"> Creación de contenido de correo electrónico con el editor de mensajes</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> Creación de contenido de correo electrónico con el editor de mensajes</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=es">Uso de información de evento contextual para la personalización</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html? lang=es">Uso de funciones de ayuda para la personalización</li>
   </td>
