@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
+source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 9%
@@ -41,4 +41,6 @@ Antes de empezar a configurar el simulador para pruebas de formación, asegúres
 
 ## Empecemos
 
-Comience con el [Configuración manual de datos](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). En este paso, se define la estructura de datos necesaria. Después de completar la configuración de datos, puede ingerir datos en el simulador para pruebas y configurar eventos.
+Comience con el [Configuración manual de datos](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md).
+
+En este paso, se define la estructura de datos necesaria. Después de completar la configuración de datos, puede ingerir datos en el simulador para pruebas y configurar eventos.
