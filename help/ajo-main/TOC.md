@@ -1,11 +1,11 @@
 ---
 user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Estos son Tutorials de Journey Optimizer.
-source-git-commit: ac590d04a50f20f3767d82c17f9548a372044b6b
+user-guide-description: Estos son los tutoriales de Journey Optimizer.
+source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 93%
+source-wordcount: '293'
+ht-degree: 94%
 
 ---
 
@@ -91,3 +91,4 @@ ht-degree: 93%
    + [Creación y administración de zonas protegidas](/help/set-up-access/create-and-manage-sandboxes.md)
 + Privacidad {#privacy}
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
++ [Summit Lab](/help/summit-lab-731/l731-assets.md)
