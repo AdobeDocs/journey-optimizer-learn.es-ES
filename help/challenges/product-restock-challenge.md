@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 72%
 | Desafío | Reposición de productos |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html? lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html? lang=es)</li> |
+| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html? lang=es)</li> |
 | Recursos que se van a descargar | [Archivo de correo electrónico de reserva de producto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## La historia
 
-Al navegar por el sitio web de Luma, los clientes pueden añadir productos que estén interesados en una lista de deseos, lo que permite a Luma enviar a los clientes mensajes de marketing dirigidos e información sobre los productos.
+Al navegar por el sitio web de Luma, los clientes pueden añadir productos en los que estén interesados en una lista de deseos, lo que permite a Luma enviar a los clientes mensajes de marketing dirigidos e información sobre los productos.
 
 ## Su reto
 
@@ -34,21 +34,21 @@ Luma le pide que implemente un recorrido en Journey Optimizer que notifique a lo
 
 >[!TAB Tarea]
 
-## 1. Defina el segmento: Elementos de lista de deseos fuera de existencias
+## 1. Defina el segmento: productos agotados en la lista de deseos
 
 Para dirigirse a los clientes potenciales interesados cuando los productos vuelvan a estar disponibles, cree un segmento que esté formado por clientes:
 
-* Que han agregado al menos un elemento a su lista de deseos (utilice el tipo de evento: [!UICONTROL Ahorro de comercio para versiones más recientes])
-* Que no estaba en existencias en los últimos tres meses (cantidad de existencias de uso = 0)
+* que han agregado al menos un producto a su lista de deseos (use el tipo de evento: [!UICONTROL Comercio Guardar para más tarde])
+* Que ha estado agotado durante los últimos tres meses (utilizar cantidad de existencias = 0)
 * Y desde entonces no han comprado el producto.
 
 >[!TIP]
->Excluya los tipos de eventos de Compras donde el SKU coincida con el del *evento Guardar para más tarde*. Puede encontrar el campo en la *Examinar variables* para obtener más información.
+>Excluya los tipos de eventos de Compras donde el SKU coincida con el del *evento Guardar para más tarde*. Puede encontrar el campo en la sección *Examinar variables*.
 
 Asigne un nombre a este segmento: `Out-of-stock-Wishlist`
 
 
-### 2. Crear el recorrido: notificación de reabastecimiento de producto
+### 2. Creación del recorrido: notificación de reabastecimiento de producto
 
 Cuando un producto que antes estaba agotado vuelva a estar disponible, notifique a los clientes que lo hayan añadido con una llamada para que puedan comprar ahora que el producto está disponible.
 
@@ -61,7 +61,7 @@ Cuando un producto que antes estaba agotado vuelva a estar disponible, notifique
 
 Prueba del recorrido:
 
-1. Asegúrese de que el evento de segmento leído tenga el espacio de nombres = `Luma CRM ID`
+1. Asegúrese de que el evento de segmento leído tenga el Área de nombres = `Luma CRM ID`
 1. Anule los parámetros de correo electrónico predeterminados y configúrelos en su propia dirección de correo electrónico (consulte el correo electrónico n.º 1 para obtener instrucciones)
 1. Establezca el recorrido en modo de prueba
 1. Active un evento. Introduzca los siguientes datos:
@@ -116,7 +116,7 @@ Notifique a los clientes que hayan añadido un producto agotado con una llamada 
 
 >[!TIP]
 >
-> Utilice el evento empresarial existente. Agregue una condición que compruebe que el SKU de reabastecimiento está incluido en (cualquier) tipo de evento guardado para los posteriores.
+> Utilice el evento empresarial existente. Añadir una condición que compruebe que el SKU de reabastecimiento está incluido en (cualquier) tipo de evento guardar para más tarde.
 
 
 
