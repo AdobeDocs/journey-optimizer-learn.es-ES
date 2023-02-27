@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
+source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 5%
 
 ---
 
@@ -38,12 +38,12 @@ Esta página tiene texto y enlaces que están siendo utilizados en el laboratori
 
 ## Lección 3: Crear un Recorrido de canales múltiples
 
-| Mensaje | Texto | Vínculos | Imagen |
-|----|----|----|
+| Mensaje | Texto | Vínculo profundo | Medios |
+|----|----|----|----|
+| Push | Bienvenido a Vegas Stay. Omita la línea e inicie sesión con la aplicación móvil | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
 | SMS | Bienvenido a Vegas Stay. Omita la línea e inicie sesión con la aplicación móvil: lab://checkin |  |
-| Push | Bienvenido a Vegas Stay. Omita la línea e inicie sesión con la aplicación móvil | lab://checkin |  |
 
 
 Esta es la imagen que utilizamos para el SMS y la notificación push:
 
-![Registro en línea](/help/assets/vegas_online_check_in.jpeg)
+![Registro en línea](/help/assets/vegas_online_check_in.jpg)
