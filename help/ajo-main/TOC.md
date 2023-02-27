@@ -5,7 +5,7 @@ user-guide-description: Estos son los tutoriales de Journey Optimizer.
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
    + [Información general de Journey Optimizer, parte 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Funcionalidades clave y la interfaz de usuario](/help/introduction/key-capabilities-and-user-interface.md)
    + [Arquitectura](/help/introduction/architecture.md)
-   + [Capacidades de Mobile para expertos en marketing](/help/channels/mobile-capabilities.md)
+   + [Capacidades de Mobile para especialistas en marketing](/help/channels/mobile-capabilities.md)
    + [Capacidades de Mobile para desarrolladores](/help/channels/mobile-capabilities-for-developers.md)
 + Campañas {#create-campaigns}
    + [Creación de una campaña](/help/create-campaigns/create-a-campaign.md)
@@ -42,7 +42,7 @@ ht-degree: 94%
    + [Mensajería en la aplicación para campañas](/help/channels/in-app-messaging-for-campaigns.md)
    + [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
 + Canal de SMS{#sms-channel}
-   + [Creación y envío de mensajes SMS](/help/channels/author-and-deliver-sms-messages.md)
+   + [Creación y entrega de mensajes SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Compatibilidad con palabras clave entrantes para SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Perfiles de cliente, segmentos y suscripciones {#profiles-segments-subscriptions}
    + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
