@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 50%
 | Desafío | Crear un correo electrónico transaccional de confirmación de pedido |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html? lang=es)</li></ul> |
+| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html? lang=es)</li></ul> |
 | Recursos que se van a descargar | [Recursos de confirmación de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## La historia
@@ -40,12 +40,12 @@ Crear un recorrido que envíe un correo electrónico de confirmación de pedido 
 >[!TAB Tarea]
 
 1. Cree un recorrido llamado `Luma - Order Confirmation`
-2. Utilice el evento : `LumaOnlinePurchase`
-3. Cree un **transaccional**  correo electrónico llamado `Luma - Order Confirmation`
+2. Utilice el evento: `LumaOnlinePurchase`
+3. Cree un correo electrónico **transaccional**  llamado `Luma - Order Confirmation`
 * La línea de asunto &quot;Gracias por su compra, `FirstName`&quot;
 * Utilice la plantilla `Luma - Order summary` y modifíquela:
-   * Elimine el `You may also like` secciones
-   * Añada el vínculo unsubscribe en la parte inferior del correo electrónico
+   * Quite las secciones `You may also like`
+   * Añada el vínculo de cancelación de suscripción en la parte inferior del correo electrónico
 
 El correo electrónico debe estructurarse de la siguiente manera:
 <table>
@@ -58,7 +58,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Debe enlazar al sitio web de luma: https://luma.enablementadobe.com/content/luma/us/en.html</li>
+    <li>Debe tener un vínculo al sitio web de luma: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -71,7 +71,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
     <p>
     <strong>Texto</strong><p>
-    <em>Oye {firstName},</em><p>
+    <em>Hola {firstName},</em><p>
    <div>
     <p>
      <em>Se ha hecho el pedido.
@@ -85,14 +85,14 @@ El correo electrónico debe estructurarse de la siguiente manera:
       </div>
       <p>
       <li>El nombre y los apellidos proceden del perfil
-      <li>Reemplace la dirección codificada en la plantilla por el <b>dirección de envío</b>
-      <li>Los detalles de dirección son atributos contextuales del evento (calle 1, ciudad, código postal, estado)
-      <li> Eliminar <i>Descuento, total, llegada</i></p>
+      <li>Reemplace la dirección codificada de forma rígida en la plantilla con la <b>dirección de envío</b>
+      <li>Los detalles de la dirección son atributos contextuales del evento (calle 1, ciudad, código postal, estado)
+      <li> Quitar el <i>descuento, el total, la llegada</i></p>
   </td>
   <td>
   <p> Enviar a:</p>
       <em>{firstName} {lastName}<br>
-     {Calle 1}<br>
+     {Street 1}<br>
      {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
@@ -117,10 +117,10 @@ El correo electrónico debe estructurarse de la siguiente manera:
   </strong>
   <p>Enumere cada producto en el orden con una imagen, el precio y el nombre.
   <p>El diseño de cada elemento debería tener este aspecto:
-   <img alt="pedido" src="./assets/c2-order.png"> 
+ <img alt="pedido" src="./assets/c2-order.png"> 
 <p><b>Agregar el vínculo al carro de compras</b>
 <p>Sustituya el ID de pedido de la dirección URL por el número de orden de compra:
-   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
+ <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -128,17 +128,17 @@ El correo electrónico debe estructurarse de la siguiente manera:
 
 >[!TIP]
 >
->Para permitirle solucionar los problemas de sus recorridos, se recomienda añadir una ruta alternativa a todas las acciones de mensajes si hay un tiempo de espera o un error.
+>Para permitirle solucionar problemas sobre sus recorridos, la práctica recomendada es añadir una ruta alternativa a todas las acciones de mensajes en caso de tiempo de espera o error.
 
 >[!TAB Requisitos de éxito]
 
-Déclencheur el Recorrido que ha creado en el modo de prueba y envíelo por correo electrónico:
+Active el recorrido que ha creado en el modo de prueba y envíeselo a sí mismo por correo electrónico:
 
 1. Antes de cambiar al modo de prueba, anule los parámetros de correo electrónico para enviar al correo electrónico de prueba a su dirección de correo electrónico:
    1. Abra la vista de detalles del correo electrónico.
-   2. En la sección Email parameters , haga clic en el símbolo T (habilitar anulación de parámetros)
+   2. En la sección de Parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
    3. Haga clic en el campo Dirección
-   4. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *&quot;yourname@yourdomain&quot;* en el editor de expresiones y haga clic en aceptar.
+   4. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *&quot;yourname@yourdomain&quot;* en el editor de expresiones y haga clic en OK.
 2. Poner el recorrido en modo de prueba
 3. Active el evento con estos parámetros:
    * Establezca el identificador de perfil en: Valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
@@ -156,7 +156,7 @@ Debe recibir el correo electrónico de confirmación de compra personalizado.
 
 * La línea de asunto debe tener el nombre del perfil de prueba: Leora
 
-* Este es el aspecto que debería tener su cuerpo de correo electrónico:
+* Este es el aspecto que debería tener el cuerpo del correo electrónico:
 
 ![Correo electrónico](/help/challenges/assets/c2-email.png)
 
@@ -171,7 +171,7 @@ Debe recibir el correo electrónico de confirmación de compra personalizado.
 
 **Línea de asunto:**
 
-Gracias por su compra, {{ profile.person.name.firstName }}!
+¡Gracias por su compra, {{ profile.person.name.firstName }}!
 
 **Enviar a la sección:**
 
@@ -199,7 +199,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Lista de productos:**
 
-Utilice la función de ayuda “cada uno” para crear la lista de productos. Visualizarlos en una tabla. Este es el aspecto que debería tener el código (con variables específicas como su ID de evento), en lugar de `454181416` y su ID de organización en lugar de `techmarketingdemos` ):
+Utilice la función de ayuda “cada uno” para crear la lista de productos. Visualizarlos en una tabla. Este es el aspecto que debería tener el código (con variables específicas como su ID de evento, en lugar de `454181416` y su ID de organización en lugar de `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
