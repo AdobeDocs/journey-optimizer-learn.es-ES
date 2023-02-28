@@ -1,6 +1,6 @@
 ---
-title: L731 Assets
-description: Esta página tiene texto y enlaces que están siendo utilizados en el laboratorio de la Cumbre L731.
+title: Activos L731
+description: Esta página contiene texto y vínculos que se utilizan en el laboratorio L731 Summit Lab.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -9,16 +9,16 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
+source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '219'
 ht-degree: 5%
 
 ---
 
 # Summit Lab L731
 
-Esta página tiene texto y enlaces que están siendo utilizados en el laboratorio de la Cumbre L731. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
+Esta página contiene texto y vínculos que se utilizan en el laboratorio L731 Summit Lab. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
 
 ## Ejercicio 1.1: descargar e instalar la aplicación
 
@@ -28,31 +28,33 @@ Esta página tiene texto y enlaces que están siendo utilizados en el laboratori
 
 [Haga clic aquí para iniciar sesión en Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
-**Detalles del inicio de sesión:**
+**Detalles de inicio de sesión:**
 
 * Nombre de usuario: `L731+<your seat number>@summitlab.us`
-* Contraseña: ¡Adobe 2023!
+* Contraseña: Adobe 2023!
 
 
 ## Ejercicio 2.1 Creación de una campaña en la aplicación
 
 | Campo | Texto | Vínculos |
 |----|----|----|
-| Opción URL de medios |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Título | ¡Está pasando y está vivo! |  |
-| Cuerpo | Adobe Summit vuelve a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para oradores inspiradores, sesiones de ampliación de habilidades y nuevas conexiones. |  |
-| Botón | Reserva ahora el hotel y ahorra un 10% | lab://booking?suite=presidential&amp;discount=10 |
+| Nombre de campaña | `<your seat number> March Vegas Campaign` |  |
+| Opción Media URL |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| Título | ¡Está sucediendo y está en vivo! |  |
+| Cuerpo | El Adobe Summit regresa a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para inspiradores oradores, sesiones de expansión de habilidades y nuevas conexiones. |  |
+| Botón | Reserve ahora un hotel y ahorre un 10% | lab://booking?suite=presidential&amp;discount=10 |
+| Dirección URL base |  | lab:// |
 
 
 
-## Lección 3: Crear un Recorrido de canales múltiples
+## Lección 3 Creación de un Recorrido omnicanal
 
 | Mensaje | Texto | Vínculo profundo | Medios |
 |----|----|----|----|
-| Push | Bienvenido a Vegas Stay. Omita la línea e inicie sesión con la aplicación móvil | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | Bienvenido a Vegas Stay. Omita la línea e inicie sesión con la aplicación móvil: lab://checkin |  |
+| Push | Bienvenido a Vegas Stay. Omita la línea y haga el registro con la aplicación móvil | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
+| SMS | Bienvenido a Vegas Stay. Omita la línea y haga el registro con la aplicación móvil: lab://checkin |  |
 
 
-Esta es la imagen que utilizamos para el SMS y la notificación push:
+Esta es la imagen que estamos utilizando para el SMS y la notificación push:
 
-![Registro en línea](/help/assets/vegas_online_check_in.jpg)
+![Registro de entrada en línea](/help/assets/vegas_online_check_in.jpg)
