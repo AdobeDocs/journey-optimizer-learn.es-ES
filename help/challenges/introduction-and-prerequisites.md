@@ -113,6 +113,6 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
     <b>Competencias requeridas:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es"> Creación de contenido de correo electrónico con el editor de mensajes</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=es">Uso de información de evento contextual para la personalización</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html? lang=es">Uso de funciones de ayuda para la personalización</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=es">Uso de funciones de ayuda para la personalización</li>
   </td>
 </table>
