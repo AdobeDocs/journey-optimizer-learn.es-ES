@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a4f2d3e7f5cd4255d029315ffb21dd44609ebf38
-workflow-type: ht
+source-git-commit: e9553da0fd85ee6e48d3089a93d51a994635de81
+workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 100%
+ht-degree: 65%
 
 ---
 
@@ -24,11 +24,13 @@ ht-degree: 100%
 | Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li> <li>[Clasificación del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=es)</li><li>[Importar contenido HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=es)</li></ul> |
 | Recursos que se van a descargar | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## La historia
 
 Luma ofrece un programa de fidelidad como una forma de atraer y conservar a sus clientes. El programa ofrece cuatro niveles diferentes: bronce, plata, oro y platino. Cada nivel de fidelidad recibe diferentes recompensas, descuentos y otros incentivos especiales como recompensa por su negocio habitual.
 
-Para destacar el estado especial de platino. Luma quiere enviar un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de platino.
+Para subrayar el estado especial de platino, Luma quiere enviar un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de platino.
 
 ## Su reto
 
@@ -38,28 +40,38 @@ Se le ha pedido que configure un recorrido que envíe automáticamente un correo
 
 >[!TAB Tarea]
 
-Cuando un cliente fiel cumple los requisitos del nivel de platino, debe recibir un correo electrónico para felicitarlo e informarle de sus nuevas ventajas. El equipo creativo ha proporcionado un archivo HTML de **[Luma: actualización de estado; correo electrónico de bienvenida](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** con el cuerpo del correo electrónico.
+Cuando un cliente fiel cumple los requisitos del nivel de platino, debe recibir un correo electrónico para felicitarlo e informarle de sus nuevas ventajas. El equipo creativo ha proporcionado un archivo de HTML **[Luma, actualización de estado: correo electrónico de bienvenida](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** con el cuerpo del correo electrónico.
 
-1. Cree un [!UICONTROL segmento] en Journey Optimizer llamado `Luma – platinum status`.
-2. Cree un recorrido llamado `Luma – New Status – platinum`.
+1. Cree un [!UICONTROL segmento] en Journey Optimizer llamado `Luma - platinum status`.
+
+1. Cree un recorrido llamado `Luma - New Status - platinum`.
+
    1. Un cliente se traslada al recorrido cuando cumple los requisitos para el nivel de fidelidad de platino.
-   2. El cliente tiene que recibir un mensaje de correo electrónico etiquetado como `Luma – Platinum Status - Welcome`, con la línea de asunto `Welcome to Platinum Status, {firstName}!` y con el cuerpo del correo electrónico proporcionado por el equipo creativo. Esto es un correo electrónico [!UICONTROL transaccional].
-   3. Al cargar el archivo HTML, se da cuenta de que el correo electrónico se refiere al estado “diamante” en lugar de “platino”. En vez de solicitar un nuevo archivo al equipo creativo, actualice el correo electrónico en el [!UICONTROL Diseñador de correo electrónico].
+
+   1. El cliente tiene que recibir un mensaje de correo electrónico etiquetado como `Luma - Platinum Status - Welcome`, con la línea de asunto `Welcome to Platinum Status, {firstName}!` y con el cuerpo del correo electrónico proporcionado por el equipo creativo. Este es un [!UICONTROL transaccional] correo electrónico.
+
+   1. Al cargar el archivo HTML, se da cuenta de que el correo electrónico se refiere al estado “diamante” en lugar de “platino”. En vez de solicitar un nuevo archivo al equipo creativo, actualice el correo electrónico en el [!UICONTROL Diseñador de correo electrónico].
 
 >[!TAB Requisitos de éxito]
 
 Prueba del recorrido:
 
-1. Asegúrese de que la variable [!UICONTROL Leer actividad de segmentos] tiene la variable [!UICONTROL área de nombres] configurada como **[!DNL Luma CRM id(lumaCrmId)]**
-2. Anule el valor predeterminado [!UICONTROL parámetros de correo electrónico] y configúrelo en su propia dirección de correo electrónico
-   * En los [!UICONTROL Parámetros de correo electrónico], haga clic en el símbolo T (habilitar anulación de parámetros)
-   * Haga clic en el [!UICONTROL campo Dirección]
-   * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
-3. Establezca el recorrido en modo de prueba
-4. Seleccionar **Activador de un evento**
-5. Añada [!DNL CRM ID] para `Stanleigh Stooke` en el campo [!UICONTROL Identificador de perfil]: `4f34057d9d9e792c28ba18ecae378e98`
+1. Asegúrese de que la variable [!UICONTROL Leer Actividad De Segmentos] tiene el [!UICONTROL namespace] establezca en **[!DNL Luma CRM id(lumaCrmId)]**.
 
-**Resultado:** debería recibir el correo electrónico de bienvenida personalizado *Luma, estado platino*.
+1. Anule el valor predeterminado [!UICONTROL parámetros de correo electrónico] y configúrelo en su propia dirección de correo electrónico:
+   * En el **[!UICONTROL Parámetros de correo electrónico]**, haga clic en el símbolo T (habilitar anulación de parámetros)
+
+   * Haga clic en **[!UICONTROL Dirección]** field.
+
+   * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones, haga clic en **[!UICONTROL OK]**.
+
+1. Establezca el recorrido en modo de prueba.
+
+1. Seleccionar **[!UICONTROL Activador de un evento]**.
+
+1. Añada lo siguiente `CRM ID` para `Stanleigh Stooke` en el **[!UICONTROL Identificador de perfil]** campo: `4f34057d9d9e792c28ba18ecae378e98`
+
+**Resultado:** Debe recibir el personalizado *Luma, estado platino, bienvenida* correo electrónico.
 
 Este es el aspecto que debería tener el correo electrónico:
 

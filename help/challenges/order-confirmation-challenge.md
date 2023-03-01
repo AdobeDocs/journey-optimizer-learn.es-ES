@@ -1,16 +1,16 @@
 ---
 title: Crear un correo electrónico de confirmación del pedido
-description: Pruebe su conocimiento sobre cómo crear y personalizar mensajes transaccionales
+description: Pruebe su conocimiento sobre cómo crear y personalizar mensajes transaccionales.
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 94%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 100%
 | Desafío | Crear un correo electrónico transaccional de confirmación de pedido |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html? lang=es)</li></ul> |
+| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=es)</li></ul> |
 | Recursos que se van a descargar | [Recursos de confirmación de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## La historia
 
-Luma va a lanzar su tienda en línea y quiere garantizar una buena experiencia del cliente proporcionando un correo electrónico de confirmación de pedido cuando el cliente haya hecho uno.
-
-
+Luma va a lanzar su tienda en línea y quiere garantizar una buena experiencia del cliente. Proporcionan un correo electrónico de confirmación de pedido una vez que un cliente ha realizado un pedido.
 
 ## Su reto
 
@@ -39,13 +39,19 @@ Crear un recorrido que envíe un correo electrónico de confirmación de pedido 
 
 >[!TAB Tarea]
 
-1. Cree un recorrido llamado `Luma - Order Confirmation`
-2. Utilice el evento: `LumaOnlinePurchase`
-3. Cree un correo electrónico **transaccional**  llamado `Luma - Order Confirmation`
-* La línea de asunto &quot;Gracias por su compra, `FirstName`&quot;
-* Utilice la plantilla `Luma - Order summary` y modifíquela:
-   * Quite las secciones `You may also like`
-   * Añada el vínculo de cancelación de suscripción en la parte inferior del correo electrónico
+1. Cree un recorrido llamado `Luma - Order Confirmation`.
+
+1. Utilice el evento: `LumaOnlinePurchase`.
+
+1. Cree un correo electrónico **transaccional**  llamado `Luma - Order Confirmation`.
+
+   * La línea de asunto &quot;Gracias por su compra, `FirstName`&quot;
+
+   * Utilice la plantilla `Luma - Order summary` y modifíquela:
+
+      * Quite las secciones `You may also like`
+
+      * Añada el vínculo de cancelación de suscripción en la parte inferior del correo electrónico
 
 El correo electrónico debe estructurarse de la siguiente manera:
 <table>
@@ -125,7 +131,6 @@ El correo electrónico debe estructurarse de la siguiente manera:
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >Para permitirle solucionar problemas sobre sus recorridos, la práctica recomendada es añadir una ruta alternativa a todas las acciones de mensajes en caso de tiempo de espera o error.
@@ -136,11 +141,11 @@ Active el recorrido que ha creado en el modo de prueba y envíeselo a sí mismo 
 
 1. Antes de cambiar al modo de prueba, anule los parámetros de correo electrónico para enviar al correo electrónico de prueba a su dirección de correo electrónico:
    1. Abra la vista de detalles del correo electrónico.
-   2. En la sección de Parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
-   3. Haga clic en el campo Dirección
-   4. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *&quot;yourname@yourdomain&quot;* en el editor de expresiones y haga clic en OK.
-2. Poner el recorrido en modo de prueba
-3. Active el evento con estos parámetros:
+   1. En la sección de Parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros)
+   1. Haga clic en el campo Dirección
+   1. En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: *&quot;yourname@yourdomain&quot;* en el editor de expresiones y haga clic en OK.
+1. Poner el recorrido en modo de prueba
+1. Active el evento con estos parámetros:
    * Establezca el identificador de perfil en: Valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo de evento: commerce.purchases
    * `Quantity`: 1
