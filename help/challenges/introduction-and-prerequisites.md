@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 83%
 
 ---
 
@@ -23,15 +23,18 @@ Cada reto de esta sección aborda un caso práctico único que usted implementa.
 
 ## Requisitos previos
 
+Compruebe que se cumplen los siguientes requisitos previos.
+
 ### Requisitos del sistema
 
-* Acceso a una zona protegida de Journey Optimizer: recomendamos completar el reto en un simulador para pruebas de formación especializado.
-* AEM Assets Essentials debe estar aprovisionado para su instancia
-* El canal de correo electrónico tiene que configurarse para los mensajes transaccionales y de marketing
+* Acceso a una zona protegida de Journey Optimizer: se recomienda completar el desafío en una zona protegida de formación específica.
+* AEM Assets Essentials debe estar aprovisionado para su instancia.
+* El canal de correo electrónico tiene que configurarse para los mensajes transaccionales y de marketing.
 
 ### Derechos de acceso
 
 Necesita los siguientes derechos de acceso:
+
 * *Gestor de recorridos* o *Administrador de recorridos*
 * Ver perfiles de prueba y sus atributos
 
@@ -40,8 +43,7 @@ Necesita los siguientes derechos de acceso:
 
 ### Acciones necesarias
 
-* Si acaba de empezar en Adobe Journey Optimizer, complete el curso [Introducción a Journey Optimizer para administradores y gestores de recorridos](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=es).
-
+* Si acaba de empezar en Adobe Journey Optimizer, complete el curso [Introducción a Journey Optimizer para administradores y gestores de Recorrido](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=es).
 
 ## La historia
 
