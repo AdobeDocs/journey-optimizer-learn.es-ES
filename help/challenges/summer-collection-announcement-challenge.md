@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 100%
 | Grupo de usuarios | Administrador de recorridos |
 | Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html? lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html? lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html? lang=es)</li> |
 | Recursos que se van a descargar | [Archivos de correo electrónico de recopilación estacional](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## La historia
 
@@ -69,7 +71,7 @@ También puede marcar la pestaña [!UICONTROL inscripción a segmentos]: el segm
 
 >[!TAB Compruebe su trabajo]
 
-Campos de segmento: [!UICONTROL Atributos] > [!UICONTROL Perfil individual XDM] > [!UICONTROL Fidelidad] > [!UICONTROL Nivel]
+Campos de segmento: **[!UICONTROL Atributos]** > **[!UICONTROL Perfil individual XDM]** > **[!UICONTROL Fidelidad]** > **[!UICONTROL Nivel]**
 
 Este es el aspecto que debería tener el segmento:
 
@@ -101,13 +103,13 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
 
 1. [Descargar los archivos del correo electrónico de la colección estacional](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-2. Cree un recorrido llamado *Luma: Anuncio de la colección de verano* en función de las siguientes directrices:
+1. Cree un recorrido llamado *Luma: Anuncio de la colección de verano* en función de las siguientes directrices:
 
    1. Envíe el correo electrónico *Luma: Nuevo anuncio de la colección de verano* al segmento de los *Clientes activos*, y mantenga el 10 % de la audiencia como grupo de control.
       * Título del mensaje *Luma - Anuncio de la colección de verano*
       * Línea de asunto *(nombre del destinatario), la nueva colección de verano de Luma está aquí.*
       * Utilice el archivo de HTML proporcionado `SeasonalCollectionEmail.html` para el cuerpo del correo electrónico.
-   2. Espere dos días y envíe un correo electrónico de seguimiento con contenido de destino más específico:
+   1. Espere dos días y envíe un correo electrónico de seguimiento con contenido de destino más específico:
       * Los clientes masculinos deben recibir el correo electrónico **Colección para hombre de Luma** 
          * Título del mensaje: *Colección para hombre de Luma*
          * Línea de asunto: *(nombre del destinatario), Explore los nuevos equipos atléticos para hombres.*
@@ -117,11 +119,11 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
          * Línea de asunto: *(nombre del destinatario), explore la colección para mujer de Luma.*
          * Cuerpo del correo electrónico: `WomensCollectionEmail.html`
       * Otros clientes deben recibir el correo electrónico **20 % de descuento en la colección de Luma**.
-         * Título del mensaje: *20 % de descuento en la colección de Luma*
-         * Línea de asunto: *(nombre del destinatario), disfrute de un 20 % de descuento en su compra.*
-         * Cuerpo del correo electrónico: `20OOffCollectionEmail.html`
-   3. Después de enviar los correos electrónicos de destino anteriores, espere dos días a que se abran.
-   4. Si el correo electrónico de destino no se abre en un plazo de 2 días, envíe el **Correo electrónico de 20 % de descuento en la colección de Luma** como un intento final de resegmentación.
+      * Título del mensaje: *20 % de descuento en la colección de Luma*
+      * Línea de asunto: *(nombre del destinatario), disfrute de un 20 % de descuento en su compra.*
+      * Cuerpo del correo electrónico: `20OOffCollectionEmail.html`
+   1. Después de enviar los correos electrónicos de destino anteriores, espere dos días a que se abran.
+   1. Si el correo electrónico de destino no se abre en un plazo de 2 días, envíe el **Correo electrónico de 20 % de descuento en la colección de Luma** como un intento final de resegmentación.
 
 
 >[!TAB Criterios de éxito]
@@ -133,21 +135,21 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
 Previsualice el correo electrónico:
 
 1. Agregar un perfil de prueba: Louise Petti,
-   1. Área de nombres de identidad: *ID de Luma CRM*
-   2. Valor de identidad: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Área de nombres de identidad: *ID de Luma CRM*
+   * Valor de identidad: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Resultado:
+
 * La línea de asunto debe decir: Louise, la nueva colección de Luma está aquí.
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Nuevo anuncio de la colección estacional](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **Mensaje de correo electrónico n.º 2 - Colección para hombre de Luma**
 
 Envíese una prueba a usted mismo:
 
 1. Añadir un perfil de prueba: Stanleigh Stooke,
-   1. Área de nombres de identidad: *ID de Luma CRM*
-   1. Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
+   * Área de nombres de identidad: *ID de Luma CRM*
+   * Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
 1. Seleccione el perfil de prueba: Stanleigh Stooke.
 1. Envíese una prueba a usted mismo.
 
@@ -164,14 +166,12 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 * La línea de asunto debe decir: *Louise, explore la colección para mujer de Luma.*
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección para mujer de Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **Mensaje de correo electrónico 4 - 20 % de descuento en la colección de Luma**
 
 Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 
 * La línea de asunto debe decir: *Louise, disfruta de un 20 % de descuento en las ventas.*
 * El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [un 20 % de descuento en la colección de Luma.](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### Prueba del recorrido
 
@@ -181,13 +181,15 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 >
 >1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el área de nombres establecida en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros predeterminados para los correos electrónicos, de modo que se envíen a su dirección:
->    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
->    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
->
->      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Haga clic en el campo [!UICONTROL Dirección]
->    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+   >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
+   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
+
+      >
+      >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Haga clic en el campo [!UICONTROL Dirección]
+   >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+
 >
 
 
