@@ -1,5 +1,5 @@
 ---
-title: L731 Recursos
+title: Hoja de características clave L731
 description: Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit Lab.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 78%
+source-wordcount: '222'
+ht-degree: 76%
 
 ---
 
-# Summit Lab L731
+# Summit Lab L731 - Hoja de Cheat
 
 Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit Lab. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
 
