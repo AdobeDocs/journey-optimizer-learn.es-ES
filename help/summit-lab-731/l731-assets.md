@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: c7cd250f01610e7a882b2a58676a931e7991e51a
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 76%
+source-wordcount: '215'
+ht-degree: 79%
 
 ---
 
@@ -22,7 +22,10 @@ Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit L
 
 ## Ejercicio 1.1: descargar e instalar la aplicación
 
-[Haga clic aquí para instalar la aplicación](https://testflight.apple.com/join/H0N5iWvW)
+### iOS
+
+![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
+
 
 ## Ejercicio 1.3: Iniciar sesión en Adobe Journey Optimizer
 
