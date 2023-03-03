@@ -5,10 +5,10 @@ breadcrumb-title: 'Journey Optimizer: Retos'
 breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html
 index: false
 hide: true
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: 4fbb578555827ead66aa0d908b70a61f9280516a
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 + [Reto: crear un anuncio de la colección de verano](/help/challenges/summer-collection-announcement-challenge.md)
 + [Reto: crear un correo electrónico de bienvenida con estado de fidelidad](/help/challenges/loyalty-status-welcome-email-challenge.md)
 + [Reto: crear un correo electrónico de confirmación de pedido](/help/challenges/order-confirmation-challenge.md)
-+ [Tutoriales](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [Tutoriales](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es)
