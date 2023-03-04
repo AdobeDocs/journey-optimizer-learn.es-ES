@@ -1,16 +1,16 @@
 ---
 title: 'Crear un correo electrónico de bienvenida con estado de fidelidad: reto'
-description: Comprender los conceptos básicos para construir un recorrido en el lienzo del recorrido.
+description: Cree un recorrido que envíe automáticamente un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de fidelidad.
 kt: 8109
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 65%
+source-wordcount: '430'
+ht-degree: 61%
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: 'Retos de Journey Optimizer: introducción y requisitos previos'
-description: Comprender los conceptos básicos para construir un recorrido en el lienzo del recorrido.
+description: Los retos ofrecen un escenario y los requisitos necesarios para practicar lo que ha aprendido. Cada desafío aborda un caso de uso único que usted implementa.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 80%
+source-wordcount: '475'
+ht-degree: 79%
 
 ---
 
