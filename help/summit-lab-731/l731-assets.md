@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c7cd250f01610e7a882b2a58676a931e7991e51a
+source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 79%
+source-wordcount: '229'
+ht-degree: 69%
 
 ---
 
@@ -33,29 +33,34 @@ Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit L
 
 **Detalles de inicio de sesión:**
 
-* Nombre de usuario: `L731+<your seat number>@summitlab.us`
+* Nombre de usuario: `L731+<your seat number>@summitlab.us` (ejemplo: L731+001@summitlab.us)
 * Contraseña: Adobe 2023!
 
 
 ## Ejercicio 2.1 Creación de una campaña en la aplicación
 
+
+
 | Campo | Texto | Vínculos |
 |----|----|----|
 | Nombre de campaña | `<your seat number> March Vegas Campaign` |  |
+| Coincidencia | conoce bien |  |
 | Opción URL de medios |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Título | ¡Está sucediendo y en vivo! |  |
 | Cuerpo | Adobe Summit vuelve a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. |  |
 | Botón | Reserve ahora el hotel y ahórrese un 10 % | lab://booking?suite=presidential&amp;discount=10 |
+| Botón: evento interactivo | CTA en la aplicación |  |
 | Dirección URL base |  | lab:// |
 
 
 
 ## Lección 3: Creación de un recorrido omnicanal
 
-| Mensaje | Texto | Vínculo profundo | Medios |
-|----|----|----|----|
-| Push | Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil: lab://checkin |  |
+| Mensaje | Título/Línea de asunto | Texto | Vínculo |
+|----|----|----|----|----|
+| Push | Bienvenido a Vegas Stay! | Omita la línea y regístrese con la aplicación móvil | lab://checkin |  |
+| SMS |  | Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil: lab://checkin |  |
+| email | {{profile.person.name.firstName}}, ya está registrado, ahora consulte nuestras ofertas para su estancia! |  |  |
 
 
 Esta es la imagen que utilizamos para el SMS y la notificación push:
