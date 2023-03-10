@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 53%
+source-wordcount: '259'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,7 @@ Escanee el código QR para descargar la aplicación
 
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![Código QR para Android](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ Escanee el código QR para descargar la aplicación
 | Cuerpo | Adobe Summit vuelve a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. |  |
 | Botón | Reserve ahora el hotel y ahórrese un 10 % | lab://booking?suite=presidential&amp;discount=10 |
 | Botón: evento interactivo | CTA en la aplicación |  |
-| Dirección URL base |  | iOS: lab:// <br>Android: https://lab |
+| Dirección URL base |  | iOS: lab:// <br>Android™: https://lab |
 
 
 ## Lección 3: Creación de un recorrido omnicanal
@@ -79,7 +79,7 @@ Omita la línea y regístrese con la aplicación móvil
 https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-Esta es la imagen que utilizamos para la notificación push:
+Esta es la imagen que se utiliza para la notificación push:
 
 ![Registro en línea](/help/assets/vegas_online_check_in.jpg)
 
