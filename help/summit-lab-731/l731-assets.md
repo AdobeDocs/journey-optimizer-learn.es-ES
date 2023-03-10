@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
+source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 66%
+source-wordcount: '271'
+ht-degree: 50%
 
 ---
 
@@ -22,14 +22,19 @@ Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit L
 
 ## Ejercicio 1.1: descargar e instalar la aplicación
 
-### iOS
+Escanee el código QR para descargar la aplicación
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
 
-### Android: marcador de posición
+>[!TAB Android]
 
 ![Código QR para Android](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## Ejercicio 1.3: Iniciar sesión en Adobe Journey Optimizer
 
@@ -43,8 +48,6 @@ Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit L
 
 ## Ejercicio 2.1 Creación de una campaña en la aplicación
 
-
-
 | Campo | Texto | Vínculos |
 |----|----|----|
 | Nombre de campaña | `<your seat number> March Vegas Campaign` |  |
@@ -57,16 +60,39 @@ Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit L
 | Dirección URL base |  | iOS: lab:// <br>Android: https://lab |
 
 
-
 ## Lección 3: Creación de un recorrido omnicanal
 
-| Mensaje | Título/Línea de asunto | Texto | Vínculo |
-|----|----|----|----|----|
-| Push | Bienvenido a Vegas Stay! | Omita la línea y regístrese con la aplicación móvil | lab://checkin |  |
-| SMS |  | Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil: lab://checkin |  |
-| email | {{profile.person.name.firstName}}, ya está registrado, ahora consulte nuestras ofertas para su estancia! |  |  |
+>[!BEGINTABS]
+
+>[!TAB Mensaje push]
+
+**Título:**\
+Bienvenido a Vegas Stay!
+
+**Cuerpo:**\
+Omita la línea y regístrese con la aplicación móvil
+
+**Vínculo profundo:** lab://checkin
+
+**Medios:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-Esta es la imagen que utilizamos para el SMS y la notificación push:
+Esta es la imagen que utilizamos para la notificación push:
 
 ![Registro en línea](/help/assets/vegas_online_check_in.jpg)
+
+|SMS| ||| |email|{{profile.person.name.firstName}}, ya estás registrado, ¡ahora revisa nuestras ofertas para tu estancia!||
+
+>[!TAB Mensaje SMS]
+
+**Mensaje:**
+Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil: lab://checkin
+
+>[!TAB Mensaje de correo electrónico]
+
+**Línea de asunto:**
+{{profile.person.name.firstName}}, ya está registrado, ahora consulte nuestras ofertas para su estancia!
+
+>[!ENDTABS]
