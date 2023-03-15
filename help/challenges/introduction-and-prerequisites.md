@@ -1,6 +1,6 @@
 ---
-title: 'Retos de Journey Optimizer: introducción y requisitos previos'
-description: Los retos ofrecen un escenario y los requisitos necesarios para practicar lo que ha aprendido. Cada desafío aborda un caso de uso único que usted implementa.
+title: 'Desafíos de Journey Optimizer: introducción y requisitos previos'
+description: Los retos ofrecen un escenario y los requisitos necesarios para practicar lo que ha aprendido. Cada desafío aborda un caso de uso único que implementa.
 feature: Journeys
 role: Admin
 level: Beginner
@@ -8,12 +8,12 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 79%
 
 ---
 
-# Retos de Journey Optimizer: introducción y requisitos previos
+# Desafíos de Journey Optimizer: introducción y requisitos previos
 
 ![Titular de retos de AJO](./assets/ajo-banner-challenges.png)
 
@@ -27,8 +27,8 @@ Compruebe que se cumplen los siguientes requisitos previos.
 
 ### Requisitos del sistema
 
-* Acceso a una zona protegida de Journey Optimizer: se recomienda completar el desafío en una zona protegida de formación específica.
-* AEM Assets Essentials debe estar aprovisionado para su instancia.
+* Acceso a un simulador para pruebas de Journey Optimizer : se recomienda completar el desafío en un simulador para pruebas de formación dedicado.
+* AEM Assets Essentials debe aprovisionarse para su instancia.
 * El canal de correo electrónico tiene que configurarse para los mensajes transaccionales y de marketing.
 
 ### Derechos de acceso
@@ -43,7 +43,7 @@ Necesita los siguientes derechos de acceso:
 
 ### Acciones necesarias
 
-* Si acaba de empezar en Adobe Journey Optimizer, complete el curso [Introducción a Journey Optimizer para administradores y gestores de Recorrido](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=es).
+* Si es nuevo en Adobe Journey Optimizer, complete el curso [Introducción a Journey Optimizer para administradores y gestores de Recorrido](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=es).
 
 ## La historia
 
@@ -88,7 +88,7 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
     </a>
     </div>
     <p>
-    <em>Envíe un correo electrónico cuando un cliente fiel pase a un nuevo nivel para felicitarlo e informarle de sus nuevas ventajas.</em>
+    <em>Envíe un correo electrónico cuando un cliente fiel se desplace a un nuevo nivel para felicitarlo e informarle de sus nuevas ventajas.</em>
     <p>
     <b>Competencias requeridas:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es"> Creación de segmentos</li>
