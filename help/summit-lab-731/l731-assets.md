@@ -1,5 +1,5 @@
 ---
-title: Hoja de características clave L731
+title: Hoja de referencia L731
 description: Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit Lab.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,20 +9,20 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
+source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 42%
+source-wordcount: '327'
+ht-degree: 40%
 
 ---
 
-# Summit Lab L731 - Hoja de Cheat
+# Summit Lab L731 - Hoja de referencia
 
 Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit Lab. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
 
 ## Ejercicio 1.1: descargar e instalar la aplicación
 
-Escanee el código QR para descargar la aplicación
+Analizar el código QR para descargar la aplicación
 
 >[!BEGINTABS]
 
@@ -30,7 +30,7 @@ Escanee el código QR para descargar la aplicación
 
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
 
-Se le pedirá que instale Testflight. Una vez instalado Testflight, siga los pasos para instalar la aplicación Vegas Stay:
+Se le pedirá que instale Testflight. Una vez que haya instalado Testflight, siga los pasos para instalar la aplicación Vegas Stay App:
 
 ![pasos para instalar iOS](/help/assets/lab731-install-ios.png)
 
@@ -40,11 +40,11 @@ Se le pedirá que instale Testflight. Una vez instalado Testflight, siga los pas
 
 Si utiliza el simulador de Android, utilice este vínculo: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
-Como la aplicación no está registrada en la Tienda Google Play, recibirá un mensaje de advertencia:
+Como la aplicación no está registrada en la tienda Google Play, recibirá un mensaje de advertencia:
 
 ![Pantalla de advertencia de Android](/help/assets/lab731-install-android.png)
 
-Clic **Instalar de todos modos**
+Haga clic en **Instalar de todas formas**
 
 >[!ENDTABS]
 
@@ -52,7 +52,7 @@ Clic **Instalar de todos modos**
 
 [Haga clic aquí para iniciar sesión en Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
-**Detalles de inicio de sesión:**
+**Detalles del inicio de sesión:**
 
 * **Nombre de usuario:** `L731+<your seat number>@summitlab.us` (ejemplo: L731+001@summitlab.us)
 * **Contraseña:** ¡Adobe 2023!
@@ -63,12 +63,12 @@ Clic **Instalar de todos modos**
 | Campo | Texto | Vínculos |
 |----|----|----|
 | Nombre de campaña | `<your seat number> March Vegas Campaign` |  |
-| Coincidencia | conoce bien |  |
+| Coincidencia | conocimiento |  |
 | Opción URL de medios |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Título | ¡Está sucediendo y en vivo! |  |
+| Título | ¡Está pasando y está en vivo! |  |
 | Cuerpo | Adobe Summit vuelve a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. |  |
 | Botón | Reserve ahora el hotel y ahórrese un 10 % | lab://booking?suite=presidential&amp;discount=10 |
-| Botón: evento interactivo | CTA en la aplicación |  |
+| Botón: Evento interactivo | CTA en la aplicación |  |
 | Dirección URL base |  | iOS: lab:// <br>Android™: https://lab |
 
 
@@ -91,7 +91,7 @@ Omita la línea y regístrese con la aplicación móvil
 https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-Esta es la imagen que se utiliza para la notificación push:
+Esta es la imagen que utilizamos para la notificación push:
 
 ![Registro en línea](/help/assets/vegas_online_check_in.jpg)
 
