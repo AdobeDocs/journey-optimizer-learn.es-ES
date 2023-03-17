@@ -1,5 +1,5 @@
 ---
-title: Hoja de referencia L731
+title: Hoja de ejercicios L731
 description: Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit Lab.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -12,15 +12,15 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 40%
+ht-degree: 55%
 
 ---
 
-# Summit Lab L731 - Hoja de referencia
+# Summit Lab L731 - Hoja de ejercicios
 
 Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit Lab. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
 
-## Ejercicio 1.1: descargar e instalar la aplicación
+## Lección 1.1: Descargar e instalar la aplicación
 
 Analizar el código QR para descargar la aplicación
 
@@ -48,11 +48,11 @@ Haga clic en **Instalar de todas formas**
 
 >[!ENDTABS]
 
-## Ejercicio 1.3: Iniciar sesión en Adobe Journey Optimizer
+## Lección 1.3: Iniciar sesión en Adobe Journey Optimizer
 
 [Haga clic aquí para iniciar sesión en Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
-**Detalles del inicio de sesión:**
+**Detalles de inicio de sesión:**
 
 * **Nombre de usuario:** `L731+<your seat number>@summitlab.us` (ejemplo: L731+001@summitlab.us)
 * **Contraseña:** ¡Adobe 2023!
@@ -62,13 +62,13 @@ Haga clic en **Instalar de todas formas**
 
 | Campo | Texto | Vínculos |
 |----|----|----|
-| Nombre de campaña | `<your seat number> March Vegas Campaign` |  |
-| Coincidencia | conocimiento |  |
+| Nombre de la campaña | `<your seat number> March Vegas Campaign` |  |
+| Emparejador | reserva ahora |  |
 | Opción URL de medios |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Título | ¡Está pasando y está en vivo! |  |
 | Cuerpo | Adobe Summit vuelve a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. |  |
 | Botón | Reserve ahora el hotel y ahórrese un 10 % | lab://booking?suite=presidential&amp;discount=10 |
-| Botón: Evento interactivo | CTA en la aplicación |  |
+| Botón: evento interactivo | CTA en la aplicación |  |
 | Dirección URL base |  | iOS: lab:// <br>Android™: https://lab |
 
 
