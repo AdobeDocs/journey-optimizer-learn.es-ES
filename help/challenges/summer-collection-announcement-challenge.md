@@ -1,5 +1,5 @@
 ---
-title: 'Crear un anuncio de colección de verano: desafío'
+title: 'Crear un anuncio de colección de verano: reto'
 description: Envíe un anuncio de la colección de verano a un segmento de clientes existentes para promocionar la nueva colección de verano de Luma.
 kt: 8109
 role: User
@@ -13,11 +13,11 @@ ht-degree: 100%
 
 ---
 
-# Crear un anuncio de colección de verano: desafío
+# Crear un anuncio de colección de verano: reto
 
 ![Titular de anuncio de colección de verano de AJO](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
 
-| Desafío | Crear un anuncio de colección de verano |
+| Reto | Crear un anuncio de colección de verano |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
 | Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html? lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html? lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html? lang=es)</li> |
@@ -31,7 +31,7 @@ Luma, una compañía de ropa deportiva ficticia, está promocionando su última 
 
 ## Su reto
 
-El equipo de marketing de Luma le pedirá que implemente una campaña de marketing de la colección de verano en Journey Optimizer. Su desafío es el siguiente:
+El equipo de marketing de Luma le pedirá que implemente una campaña de marketing de la colección de verano en Journey Optimizer. Su reto es el siguiente:
 
 * Crear un segmento que defina qué perfiles cumplen los requisitos para recibir la promoción.
 * Creación del recorrido.
@@ -180,13 +180,15 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 >
 >1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el área de nombres establecida en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros predeterminados para los correos electrónicos, de modo que se envíen a su dirección:
->    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
->    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
->
->      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Haga clic en el campo [!UICONTROL Dirección]
->    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+   >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
+   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
+
+      >
+      >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Haga clic en el campo [!UICONTROL Dirección]
+   >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+
 >
 
 
