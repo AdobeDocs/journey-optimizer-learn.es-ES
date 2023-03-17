@@ -5,7 +5,7 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -107,7 +107,7 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
     </a>
     </div>
     <p>
-    <em>El vídeo abarca los desafíos comerciales que resuelven las capacidades de gestión de decisiones, sus funciones clave, la arquitectura básica y sus principales casos de uso.
+    <em>El vídeo abarca los retos comerciales que resuelven las capacidades de gestión de decisiones, sus funciones clave, la arquitectura básica y sus principales casos de uso.
 
 </em>
     <p>
