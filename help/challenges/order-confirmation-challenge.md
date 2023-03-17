@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 94%
 
 ![Confirmación del pedido](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 
-| Desafío | Crear un correo electrónico transaccional de confirmación de pedido |
+| Reto | Crear un correo electrónico transaccional de confirmación de pedido |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
 | Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=es)</li></ul> |
 | Recursos que se van a descargar | [Recursos de confirmación de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## La historia
 
@@ -43,7 +43,7 @@ Crear un recorrido que envíe un correo electrónico de confirmación de pedido 
 
 1. Utilice el evento: `LumaOnlinePurchase`.
 
-1. Cree un correo electrónico **transaccional**  llamado `Luma - Order Confirmation`.
+1. Cree un correo electrónico **transaccional** llamado `Luma - Order Confirmation`.
 
    * La línea de asunto &quot;Gracias por su compra, `FirstName`&quot;
 
@@ -72,7 +72,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
   <div>
     <strong>Sección de confirmación de pedido
-    </strong>
+ </strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
  <tr>
 <td>
   <div>
-     <strong>Sección Detalles del pedido</strong>
+     <strong>Sección de Detalles del pedido</strong>
       </div>
        <p><li>Agregue esta sección debajo de <b>Enviar a</b> para obtener más información.
       </p><br>
