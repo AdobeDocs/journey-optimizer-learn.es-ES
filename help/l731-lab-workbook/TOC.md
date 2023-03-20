@@ -1,0 +1,24 @@
+---
+user-guide-title: Summit Lab 731 - Libro
+user-guide-description: En este laboratorio práctico, aprenderá a implementar una estrategia de marketing multicanal que incluya campañas y recorridos de mensajería en la aplicación, notificaciones push, SMS y correo electrónico en Adobe Journey Optimizer.
+breadcrumb-title: Journey Optimizer - Libro L731
+breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
+index: false
+hide: true
+source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 3%
+
+---
+
+
+# Summit Lab L731: Creación de momentos móviles personalizados con Journey Optimizer {#workbook}
+
++ [Información general de Lab]
++ [Introducción]{#introduction}
+   + [Introducción](/help/l731-lab-workbook/Introduction/introduction.md)
+   + [Ejercicio 1.1](/help/l731-lab-workbook/Introduction/exercise-1-1.md)
+   + [Ejercicio 1.2](/help/l731-lab-workbook/Introduction/exercise-1-2.md)
+   + [Ejercicio 1.3](/help/l731-lab-workbook/Introduction/exercise-1-3.md)
+   + [Ejercicio 1.4](/help/l731-lab-workbook/Introduction/exercise-1-4.md)
