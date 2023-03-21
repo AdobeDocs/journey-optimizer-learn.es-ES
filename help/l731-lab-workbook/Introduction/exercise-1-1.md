@@ -7,7 +7,7 @@ role: User
 level: Advanced
 recommendations: noDisplay, noCatalog
 hide: true
-source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 4%
@@ -31,7 +31,7 @@ Se le pedirá que instale Testflight. Una vez que haya instalado Testflight, sig
 
 ![pasos para instalar iOS](/help/assets/lab731-install-ios.png)
 
->[!TAB Android™]
+>[!TAB Android;]
 
 ![Código QR para Android](/help/assets/lab731-android-qr-code.png)
 
