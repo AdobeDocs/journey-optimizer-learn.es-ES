@@ -6,16 +6,16 @@ breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
 source-git-commit: a1751f374f611fcf38db7ad9b51c42315c890b04
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
 # Summit Lab L731: Creación de momentos móviles personalizados con Journey Optimizer {#workbook}
 
-+ [Información general de Lab]{#overview}
++ [Información general del laboratorio]{#overview}
 + [Introducción]{#introduction}
    + [Introducción](/help/l731-lab-workbook/Introduction/introduction.md)
    + [Ejercicio 1.1](/help/l731-lab-workbook/Introduction/exercise-1-1.md)
