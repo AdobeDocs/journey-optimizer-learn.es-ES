@@ -1,5 +1,5 @@
 ---
-title: Uso de perfiles y abonos de segmento para personalizar
+title: Uso de perfiles e inscripción a segmento para personalizar
 description: Obtenga información sobre cómo añadir personalización basada en perfiles a un mensaje y cómo utilizar la inscripción a un segmento como condición previa a un bloque personalizado.
 landing-page-description: Obtenga información sobre cómo añadir personalización basada en perfiles a un mensaje y cómo utilizar la inscripción a un segmento como condición previa a un bloque personalizado.
 short-description: Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ---
 
-# Uso de perfiles y abonos de segmento para personalizar
+# Uso de perfiles e inscripción a segmento para personalizar
 
 Obtenga información sobre cómo añadir personalización basada en perfiles a un mensaje y cómo utilizar la inscripción a un segmento como condición previa a un bloque personalizado.
 
