@@ -7,16 +7,16 @@ role: User
 recommendations: noDisplay, noCatalog
 hide: true
 source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Ejercicio 1.1: Descargar e instalar la aplicación móvil
+# Lección 1.1: Descargar e instalar la aplicación móvil
 
-Hemos creado una aplicación móvil de reserva de hoteles para este laboratorio. Le permite interactuar y experimentar el recorrido del usuario como cliente.
+Hemos creado una aplicación móvil de reserva de hoteles para este lab. Le permite interactuar y experimentar el recorrido del usuario como cliente.
 
 Analizar el código QR para descargar la aplicación
 
@@ -26,7 +26,7 @@ Analizar el código QR para descargar la aplicación
 
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
 
-Se le pedirá que instale Testflight. Una vez que haya instalado Testflight, siga los pasos para instalar la aplicación Vegas Stay App:
+Se le solicitará que instale Testflight. Una vez que haya instalado Testflight, siga los pasos para instalar la aplicación Vegas Stay:
 
 ![pasos para instalar iOS](/help/assets/lab731-install-ios.png)
 
