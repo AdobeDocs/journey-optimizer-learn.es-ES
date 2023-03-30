@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Analizar el código QR para descargar la aplicación
 
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
 
-Se le pedirá que instale Testflight, pasos del 1 al 4. Una vez que haya instalado Testflight, siga los pasos 5 al 8 para instalar la aplicación Vegas Stay App:
+Se le pedirá que instale Testflight, pasos del 1 al 4. Una vez que haya instalado Testflight, siga los pasos 5 al 8 para instalar la aplicación Vegas Stay:
 
 <table>
 <tr>
@@ -142,7 +142,7 @@ Haga clic en **Instalar de todas formas**
 **Detalles de inicio de sesión:**
 
 * **Nombre de usuario:** `L731+<your seat number>@summitlab.us` (ejemplo: L731+001@summitlab.us)
-* **Contraseña:** ¡Adobe 2023!
+* **Contraseña:** Adobe2023!
 
 
 ## Ejercicio 2.1 Creación de una campaña en la aplicación
@@ -152,7 +152,7 @@ Haga clic en **Instalar de todas formas**
 | Nombre de la campaña | `<your seat number> March Vegas Campaign` |  |
 | Emparejador | reserva ahora |  |
 | Opción URL de medios |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Título | ¡Está pasando y está en vivo! |  |
+| Título | ¡Está ocurriendo y en vivo! |  |
 | Cuerpo | Adobe Summit vuelve a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. |  |
 | Botón | Reserve ahora el hotel y ahórrese un 10 % | lab://booking?suite=presidential&amp;discount=10 |
 | Botón: evento interactivo | CTA en la aplicación |  |
@@ -181,7 +181,7 @@ Omita la línea y regístrese con la aplicación móvil
 
 **Medios:**
 
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=es
 
 
 Esta es la imagen que utilizamos para la notificación push:
@@ -202,6 +202,6 @@ Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil
 Mensaje de confirmación
 
 **Línea de asunto:**
-{{profile.person.name.firstName}}, ya está registrado, ahora consulte nuestras ofertas para su estancia!
+{{profile.person.name.firstName}} ya está registrado, ¡ahora consulte nuestras ofertas para su estancia!
 
 >[!ENDTABS]
