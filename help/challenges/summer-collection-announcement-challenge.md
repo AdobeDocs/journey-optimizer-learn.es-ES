@@ -20,7 +20,7 @@ ht-degree: 100%
 | Reto | Crear un anuncio de colección de verano |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html? lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html? lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html? lang=es)</li> |
+| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html? lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html? lang=es)</li> |
 | Recursos que se van a descargar | [Archivos de correo electrónico de recopilación estacional](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -180,13 +180,15 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 >
 >1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el área de nombres establecida en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros predeterminados para los correos electrónicos, de modo que se envíen a su dirección:
->    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
->    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
->
->      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Haga clic en el campo [!UICONTROL Dirección]
->    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+   >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
+   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
+
+      >
+      >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Haga clic en el campo [!UICONTROL Dirección]
+   >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+
 >
 
 
