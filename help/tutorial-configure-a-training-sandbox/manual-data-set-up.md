@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 100%
+source-wordcount: '1021'
+ht-degree: 98%
 
 ---
 
@@ -245,7 +245,7 @@ Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] con
    | `size` | `Product Size` | [!UICONTROL Cadena] |
    | `price` | `Product Price` | [!UICONTROL Doble] |
    | `description` | `Product Description` | [!UICONTROL Cadena] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL Cadena] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL Cadena] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Cadena] |
    | `url` | `Product URL` | [!UICONTROL Cadena] |
 
@@ -345,4 +345,4 @@ Cree los siguientes [!UICONTROL esquemas] adicionales:
 
 ## Pasos siguientes
 
-Ahora que ha creado la estructura de datos, puede [crear conjuntos de datos e introducir datos de muestra](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Ahora que ha creado la estructura de datos, puede [creación de conjuntos de datos e ingesta de datos de ejemplo](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
