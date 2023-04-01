@@ -6,8 +6,8 @@ breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/intro
 index: false
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '76'
+ht-degree: 69%
 
 ---
 
