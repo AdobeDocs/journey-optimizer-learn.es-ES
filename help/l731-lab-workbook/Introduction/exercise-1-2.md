@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Ejercicio 1.2: Registrarse como usuario con la aplicación
 
->[!IMPORTANT]\
+>[!IMPORTANT]
 >Regístrese con una **dirección de correo electrónico a la que puede acceder durante la sesión de laboratorio** y **su número de teléfono móvil**.
 >
 > Esta información es necesaria para que pueda recibir los mensajes que va a enviar. También le permite acceder a su información en Journey Optimizer. No se usará para ningún otro propósito que no sea para este laboratorio.
