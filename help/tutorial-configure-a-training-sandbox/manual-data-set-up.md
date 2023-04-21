@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -345,4 +345,4 @@ Cree los siguientes [!UICONTROL esquemas] adicionales:
 
 ## Pasos siguientes
 
-Ahora que ha creado la estructura de datos, puede [creación de conjuntos de datos e ingesta de datos de ejemplo](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Ahora que ha generado la estructura de datos, puede [crear conjuntos de datos e introducir datos de muestra](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
