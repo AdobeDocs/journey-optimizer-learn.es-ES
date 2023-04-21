@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Compruebe que se cumplen los siguientes requisitos previos.
 
 * Acceso a una zona protegida de Journey Optimizer: recomendamos completar el reto en una zona protegida para pruebas de formación especializada.
 * Assets Essentials de AEM debe estar aprovisionado para su instancia.
-* La variable [los canales de correo electrónico deben configurarse](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) para mensajes transaccionales y de marketing.
+* Los [canales de correo electrónico deben configurarse](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=es) para mensajes transaccionales y de marketing.
 
 ### Derechos de acceso
 
