@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
    + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
    + [Plantillas de contenido](/help/channels/content-templates.md)
 + En el canal de la aplicación{#in-app-channel}
-   + [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
+   + [Crear una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
    + [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
 + Canal de SMS{#sms-channel}
    + [Creación y entrega de mensajes SMS](/help/channels/author-and-deliver-sms-messages.md)
@@ -68,16 +68,17 @@ ht-degree: 98%
    + [Crear decisiones](/help/decision-management/create-decisions.md)
    + [Entrega de ofertas con la API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Restricción de frecuencia](/help/decision-management/frequency-capping.md)
++ Administración de datos {#data-management}
+   + [Información general](/help/set-up-data/set-up-data-overview.md)
+   + [Creación de un esquema](/help/set-up-data/create-schema.md)
+   + [Asignación de identidades](/help/set-up-data/map-identities.md)
+   + [Creación de conjuntos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Configuración de conectores de origen](/help/set-up-data/configure-source-connectors.md)
+   + [Exportar conjuntos de datos a ubicaciones de almacenamiento en la nube](/help/set-up-data/export-datasets.md)
 + Informes y monitorización {#report-and-monitor}
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
    + [Uso de alertas](/help/administration/alerts.md)
 + Configuración {#configuration}
-   + Configuración de datos {#data-configuration}
-      + [Información general](/help/set-up-data/set-up-data-overview.md)
-      + [Creación de un esquema](/help/set-up-data/create-schema.md)
-      + [Asignación de identidades](/help/set-up-data/map-identities.md)
-      + [Creación de conjuntos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Configuración de conectores de origen](/help/set-up-data/configure-source-connectors.md)
    + Configuración de canales {#channel-configuration}
       + [Configuración del canal de correo electrónico](/help/set-up-channels/set-up-email-channel.md)
       + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
