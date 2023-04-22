@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
-source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
+source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '331'
+ht-degree: 95%
 
 ---
 
@@ -39,11 +39,14 @@ ht-degree: 0%
    + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
    + [Plantillas de contenido](/help/channels/content-templates.md)
 + En el canal de la aplicación{#in-app-channel}
-   + [Crear una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
+   + [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
    + [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
 + Canal de SMS{#sms-channel}
    + [Creación y entrega de mensajes SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Compatibilidad con palabras clave entrantes para SMS](/help/channels/inbound-keyword-support-for-sms.md)
++ Canal web {#web-channel}
+   + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
+   + [Creación de una campaña web](/help/channels/author-a-web-campaign.md)
 + Perfiles de cliente, segmentos y suscripciones {#profiles-segments-subscriptions}
    + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creación de segmentos](/help/set-up-resources/create-segments.md)
