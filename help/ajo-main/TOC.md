@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '331'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 95%
    + [Compatibilidad con palabras clave entrantes para SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Canal web {#web-channel}
    + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
-   + [Creación de una campaña web](/help/channels/author-a-web-campaign.md)
+   + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
 + Perfiles de cliente, segmentos y suscripciones {#profiles-segments-subscriptions}
    + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creación de segmentos](/help/set-up-resources/create-segments.md)
@@ -77,7 +77,7 @@ ht-degree: 95%
    + [Asignación de identidades](/help/set-up-data/map-identities.md)
    + [Creación de conjuntos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
    + [Configuración de conectores de origen](/help/set-up-data/configure-source-connectors.md)
-   + [Exportar conjuntos de datos a ubicaciones de almacenamiento en la nube](/help/set-up-data/export-datasets.md)
+   + [Exportación de conjuntos de datos a ubicaciones de almacenamiento en la nube](/help/set-up-data/export-datasets.md)
 + Informes y monitorización {#report-and-monitor}
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
    + [Uso de alertas](/help/administration/alerts.md)
