@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ Previsualice el correo electrónico:
 Resultado:
 
 * La línea de asunto debe decir: Louise, la nueva colección de Luma está aquí.
-* El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Nuevo anuncio de la colección estacional](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **Mensaje de correo electrónico n.º 2 - Colección para hombre de Luma**
 
@@ -149,11 +148,11 @@ Envíese una prueba a usted mismo:
 1. Añadir un perfil de prueba: Stanleigh Stooke,
    * Área de nombres de identidad: *ID de Luma CRM*
    * Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
-1. Seleccione el perfil de prueba: Stanleigh Stooke.
-1. Envíese una prueba a usted mismo.
+2. Seleccione el perfil de prueba: Stanleigh Stooke.
+3. Envíese una prueba a usted mismo.
 
 Resultado:\
-Debe recibir un correo electrónico. La línea de asunto debe decir *Stanleigh, explore los nuevos equipos atléticos para hombre.* y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección para hombre de Luma](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Debe recibir un correo electrónico. La línea de asunto debe decir *Stanleigh, explore los nuevos equipos atléticos para hombre.* y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa.
 
 >[!NOTE]
 >Puede tardar un par de minutos en recibir la prueba.
@@ -163,14 +162,12 @@ Debe recibir un correo electrónico. La línea de asunto debe decir *Stanleigh, 
 Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 
 * La línea de asunto debe decir: *Louise, explore la colección para mujer de Luma.*
-* El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [Colección para mujer de Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 **Mensaje de correo electrónico 4 - 20 % de descuento en la colección de Luma**
 
 Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 
 * La línea de asunto debe decir: *Louise, disfruta de un 20 % de descuento en las ventas.*
-* El cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa: [un 20 % de descuento en la colección de Luma.](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 #### Prueba del recorrido
 
@@ -180,13 +177,15 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 >
 >1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el área de nombres establecida en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros predeterminados para los correos electrónicos, de modo que se envíen a su dirección:
->    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
->    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
->
->      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Haga clic en el campo [!UICONTROL Dirección]
->    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+   >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
+   >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
+
+      >
+      >      ![Anular parámetros de correo electrónico](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Haga clic en el campo [!UICONTROL Dirección]
+   >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
+
 >
 
 
