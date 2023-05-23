@@ -6,9 +6,9 @@ feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,4 @@ Obtenga información sobre cómo crear [ofertas personalizadas](https://experien
 
 Para obtener más información sobre cómo crear actividades de ofertas personalizadas con una API, consulte la [guía del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=es)
 
->[!INFO]
->
-> Este vídeo es parte del curso [Introducción a gestión de decisiones para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.
+{{experienceplatform-u-1-2020-1-offerdecisioning}}

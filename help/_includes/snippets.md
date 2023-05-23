@@ -1,14 +1,22 @@
 ---
-source-git-commit: 1eeaf36b58ec5a363f6f1823e3088dcbe1bc66cc
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 10%
 
 ---
 # Fragmentos de AJO
 
-## Curso journey optimizer-a-1-2021-1 {#journeyoptimizer-a-1-2021-1}
+## Curso Configuración de Journey Optimizer para administradores {#journeyoptimizer-a-1-2021-1}
 
 >[!INFO]
 >
-> Este vídeo forma parte de un curso [Configuración de Journey Optimizer para administradores ](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), disponible de forma gratuita en Experience League.
+> Este vídeo forma parte de un curso [Configuración de Journey Optimizer para administradores](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html), disponible de forma gratuita en Experience League.
+
+## Curso Introducción a la gestión de decisiones para especialistas en marketing {#experienceplatform-u-1-2020-1-offerdecisioning}
+
+>[!INFO]
+>
+> Este vídeo forma parte de un curso [Curso Introducción a la gestión de decisiones para especialistas en marketing](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=es), disponible de forma gratuita en Experience League.
+
+## Curso Introducción a Journey Optimizer para administradores y gestores de Recorrido
