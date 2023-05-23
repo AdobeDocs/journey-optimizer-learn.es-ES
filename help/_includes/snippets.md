@@ -1,5 +1,5 @@
 ---
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 28f84590dba39c90cac51ff7edeb6e01efa57211
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 10%
@@ -19,4 +19,4 @@ ht-degree: 10%
 >
 > Este vídeo forma parte de un curso [Curso Introducción a la gestión de decisiones para especialistas en marketing](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=es), disponible de forma gratuita en Experience League.
 
-## Curso Introducción a Journey Optimizer para administradores y gestores de Recorrido
+## Curso Introducción a Journey Optimizer para administradores y gestores de Recorrido {#}
