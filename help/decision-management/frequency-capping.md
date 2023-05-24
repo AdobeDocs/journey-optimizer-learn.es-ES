@@ -1,6 +1,6 @@
 ---
-title: Gestión de decisiones - Restricción de frecuencia
-description: Información sobre cómo funciona la restricción de frecuencia para la toma de decisiones sobre ofertas. Información sobre cómo configurar la restricción frecuencia para un evento personalizado y cómo configurar incrementos definiendo la frecuencia.
+title: 'Gestión de decisiones: restricción de frecuencia'
+description: Comprenda cómo funciona la restricción de frecuencia para Offer Decisioning. Obtenga información sobre cómo configurar la restricción de frecuencia para un evento personalizado y cómo definir incrementos mediante la frecuencia.
 feature: Offers
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 ---
 
-# Gestión de decisiones - Restricción de frecuencia
+# Gestión de decisiones: restricción de frecuencia
 
-Información sobre cómo funciona la restricción de frecuencia para la toma de decisiones sobre ofertas. Información sobre cómo configurar la restricción frecuencia para un evento personalizado y cómo configurar incrementos definiendo la frecuencia.
+Comprenda cómo funciona la restricción de frecuencia para Offer Decisioning. Obtenga información sobre cómo configurar la restricción de frecuencia para un evento personalizado y cómo definir incrementos mediante la frecuencia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on)
