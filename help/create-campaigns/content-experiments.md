@@ -1,5 +1,5 @@
 ---
-title: Configuración de experimentos de contenido para correos electrónicos
+title: Configuración de experimentos de contenido para campañas de correo electrónico
 description: Aprenda a configurar experimentos de contenido para pruebas A/B y a explorar el contenido del correo electrónico para dirigir mejor sus objetivos empresariales.
 feature: Email
 role: User
@@ -10,12 +10,12 @@ jira: KT-11129
 thumbnail: 3419893.jpeg
 source-git-commit: 6a490db336065781dea510d25c3bf9fc8e0b3181
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
 
-# Configuración de experimentos de contenido para correos electrónicos
+# Configuración de experimentos de contenido para campañas de correo electrónico
 
 {{$include /help/_includes/inc-experimentation.md}}
