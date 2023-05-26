@@ -1,8 +1,8 @@
 ---
-source-git-commit: 28f84590dba39c90cac51ff7edeb6e01efa57211
+source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '121'
+ht-degree: 9%
 
 ---
 # Fragmentos de AJO
@@ -19,4 +19,11 @@ ht-degree: 10%
 >
 > Este vídeo forma parte de un curso [Curso Introducción a la gestión de decisiones para especialistas en marketing](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=es), disponible de forma gratuita en Experience League.
 
-## Curso Introducción a Journey Optimizer para administradores y gestores de Recorrido {#}
+## ExL Live en la aplicación {#exl-live-in-app}
+
+Experience League LIVE:
+
+* [Maximice el potencial de su aplicación móvil con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
+
+   *Conozca las ventajas de la mensajería en la aplicación como canal de participación en tiempo real y cómo configurar y crear experiencias de aplicación móvil personalizadas en Adobe Journey Optimizer.*
+
