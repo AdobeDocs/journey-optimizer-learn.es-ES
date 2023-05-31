@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -202,6 +202,6 @@ Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil
 Mensaje de confirmación
 
 **Línea de asunto:**
-`{{profile.person.name.firstName}},` ¡ya está registrado, ahora revise nuestras ofertas para su estancia!
+`{{profile.person.name.firstName}},`, ya se ha registrado, ¡ahora consulte nuestras ofertas para su estancia!
 
 >[!ENDTABS]
