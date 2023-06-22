@@ -3,13 +3,13 @@ title: Configuración manual de la estructura de datos
 description: Cree las áreas de nombres de identidad necesarias y defina la estructura de datos de muestra de Luma.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '1021'
 ht-degree: 100%
 
@@ -320,12 +320,12 @@ Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] con
       1. **[!UICONTROL Esquema de referencia]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL Referencia al Área de nombres de identidad]**: [!DNL LumaProductSKU].
+
    3. Seleccione **[!UICONTROL Aplicar]**.
 
       El esquema debería tener este aspecto:
 
       ![Relación de SKU](assets/sku_relationship.png)
-
 
 1. Habilitar para **Perfil**.
 
@@ -340,7 +340,7 @@ Cree los siguientes [!UICONTROL esquemas] adicionales:
 | **[!UICONTROL Clase]** | [!UICONTROL Perfil individual de XDM] | [!UICONTROL Evento de experiencia de XDM] | [!UICONTROL Perfil individual de XDM] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL Añadir grupo de campos existente]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL Relación]** |  | `productListItems.SKU`:<br> Esquema de referencia `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Esquema de referencia `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-|  [!UICONTROL Área de nombres])**de la**[!UICONTROL  Identidad principal] | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+|  [!UICONTROL Área de nombres])**de la**[!UICONTROL  Identidad principal] | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL Habilitar esquema para perfil]** | sí | sí | sí | sí |
 
 ## Pasos siguientes
