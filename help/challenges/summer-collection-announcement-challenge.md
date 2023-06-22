@@ -1,12 +1,12 @@
 ---
 title: 'Crear un anuncio de colección de verano: reto'
 description: Envíe un anuncio de la colección de verano a un segmento de clientes existentes para promocionar la nueva colección de verano de Luma.
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '1126'
 ht-degree: 100%
@@ -185,7 +185,6 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 >    * Haga clic en el campo [!UICONTROL Dirección]
 >    * En la siguiente pantalla, añada su dirección de correo electrónico entre paréntesis: `"yourname@yourdomain"` en el editor de expresiones y haga clic en aceptar.
 >
-
 
 Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 
