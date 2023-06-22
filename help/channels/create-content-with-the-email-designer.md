@@ -1,7 +1,7 @@
 ---
 title: Creación de contenido con el Diseñador de correo electrónico
 description: Aprenda a crear correos electrónicos desde cero. Aprenda a utilizar recursos de la biblioteca de AEM Assets Essentials, editar el diseño de correo electrónico adaptable y crear correos electrónicos a partir de plantillas con nuestro vídeo de apoyo para Journey Optimizer.
-kt: 8057
+jira: KT-8057
 thumbnail: 334150.jpg
 feature: Email Design
 doc-type: feature video
@@ -9,8 +9,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
