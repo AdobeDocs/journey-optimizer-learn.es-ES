@@ -1,7 +1,7 @@
 ---
 title: Administración de acceso
 description: Aprenda a administrar perfiles y permisos de productos, y a añadir y administrar usuarios.
-kt: 7677
+jira: KT-7677
 thumbnail: 333998.jpg
 feature: Access Management
 doc-type: feature video
@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
-source-git-commit: e7bf5f74400635c9f61b8cfc4ff3a428b2805488
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '34'
+ht-degree: 100%
 
 ---
 
