@@ -1,15 +1,15 @@
 ---
 title: Reto de reposición de productos
 description: Aplique lo que ha aprendido sobre la creación de segmentos y pruebe sus habilidades.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '580'
 ht-degree: 100%
 
@@ -101,7 +101,6 @@ Código de condición:
 > * Seleccione el SKU en Guardar para más tarde en la sección *Examinar variables*
 > * Utilice la opción de comparación al soltar el SKU en Guardar para más tarde en el campo de evento
 
-
 Compruebe el código en la esquina inferior derecha de la pantalla Editar segmento, en Eventos. El código debería tener este aspecto:
 
 Código:
@@ -118,6 +117,7 @@ Notifique a los clientes que hayan añadido un producto agotado con una llamada 
 >[!TIP]
 >
 > Utilice el evento empresarial existente. Añadir una condición que compruebe que el SKU de reabastecimiento está incluido en (cualquier) tipo de evento guardar para más tarde.
+>
 
 
 
