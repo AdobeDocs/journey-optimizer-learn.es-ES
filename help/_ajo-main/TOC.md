@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 source-git-commit: d755729d2a426e291f6b417546346cbd78900898
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 97%
    + [Creación de acciones](/help/set-up-journeys/create-actions.md)
 + Control de acceso {#access-control}
    + [Administración de acceso](/help/set-up-access/access-management.md)
-   + [Configurar el control de acceso basado en atributos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
+   + [Configuración del control de acceso basado en atributos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=es)
    + [Creación y administración de zonas protegidas](/help/set-up-access/create-and-manage-sandboxes.md)
 + Privacidad {#privacy}
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
