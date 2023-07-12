@@ -2,10 +2,13 @@
 title: 'Tutoriales de Journey Optimizer: información general'
 description: Tenemos una serie de tutoriales en vídeo para mostrarle cómo aprovechar las ventajas de Journey Optimizer.
 recommendations: noDisplay, noCatalog
+feature: Get Started
+role: User, Developer, Admin, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -25,20 +28,16 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 ## Novedades
 
 * **[Creación de contenido dinámico con el generador de reglas de condición](/help/personalize-content/create-dynamic-content.md)**
-
-   *Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales.*
+  *Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales.*
 
 * **[Usar alertas](/help/administration/alerts.md)**
-
-   *Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, Journey Optimizer o mediante una API.*
+  *Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, Journey Optimizer o mediante una API.*
 
 * **[Copiar un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)**
-
-   *Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra.*
+  *Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra.*
 
 * **[Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)**
-
-   *Comprender qué es el enmascaramiento de datos y por qué enmascarar datos. Aprenda a enmascarar datos en mensajes de Journey Optimizer.*
+  *Comprender qué es el enmascaramiento de datos y por qué enmascarar datos. Aprenda a enmascarar datos en mensajes de Journey Optimizer.*
 
 </div>
 
@@ -48,12 +47,10 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 ## Eventos de Experience League Live
 
 * **[Ejecución de campañas en Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=es)**
-
-   *En este episodio de Experience League en directo, celebrado originalmente el 22 de septiembre de 2022, la presentadora Sandra Hausmann y los expertos en productos Bridgette Darling y Frederic Mary analizan casos de uso que cubren esta nueva funcionalidad y muestran cómo configurar y ejecutar fácilmente una campaña en Journey Optimizer.*
+  *En este episodio de Experience League en directo, celebrado originalmente el 22 de septiembre de 2022, la presentadora Sandra Hausmann y los expertos en productos Bridgette Darling y Frederic Mary analizan casos de uso que cubren esta nueva funcionalidad y muestran cómo configurar y ejecutar fácilmente una campaña en Journey Optimizer.*
 
 * **[Notificaciones push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=es)**
-
-   *En este episodio en directo de Experience League, hablamos sobre los casos de uso comunes de las notificaciones push con Adobe Journey Optimizer y descubra los detalles técnicos sobre cómo configurar una aplicación para notificaciones push con tecnología Adobe Experience Platform.*
+  *En este episodio en directo de Experience League, hablamos sobre los casos de uso comunes de las notificaciones push con Adobe Journey Optimizer y descubra los detalles técnicos sobre cómo configurar una aplicación para notificaciones push con tecnología Adobe Experience Platform.*
 
 </div>
 
