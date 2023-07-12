@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ Se le pedirá que instale Testflight, pasos del 1 al 4. Una vez que haya instala
 
 ![Código QR para Android](/help/assets/lab731-android-qr-code.png)
 
-Si utiliza el simulador de Android, utilice este vínculo: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 Como la aplicación no está registrada en la tienda Google Play, recibirá un mensaje de advertencia:
 
 ![Pantalla de advertencia de Android](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Haga clic en **Instalar de todas formas**
 
 | Campo | Texto | Vínculos |
 |----|----|----|
-| Nombre de la campaña | `<your seat number> March Vegas Campaign` |  |
+| Nombre de la campaña | `<your seat number> Vegas Stay Campaign` |  |
 | Emparejador | reserva ahora |  |
 | Opción URL de medios |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Título | ¡Está ocurriendo y en vivo! |  |
-| Cuerpo | Adobe Summit vuelve a Las Vegas del 21 al 23 de marzo de 2023. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. |  |
-| Botón | Reserve ahora el hotel y ahórrese un 10 % | lab://booking?suite=presidential&amp;discount=10 |
+| Título | ¡Obtén tu descuento por anticipado! |  |
+| Cuerpo | Adobe Summit regresa a Las Vegas en 2024. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. Reserve su suite ahora y obtenga un 10% de descuento. |  |
+| Botón | Reservar ahora | lab://booking?suite=presidential&amp;discount=10 |
 | Botón: evento interactivo | CTA en la aplicación |  |
-| Dirección URL base |  | iOS: lab:// <br>Android&amp;: https://lab |
+| Dirección URL base |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Lección 3: Creación de un recorrido omnicanal
