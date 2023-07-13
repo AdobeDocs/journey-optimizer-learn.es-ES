@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 92%
+source-wordcount: '286'
+ht-degree: 76%
 
 ---
 
@@ -133,7 +133,7 @@ Haga clic en **Instalar de todas formas**
 
 >[!ENDTABS]
 
-## Lección 1.3: Iniciar sesión en Adobe Journey Optimizer
+## Lección 1: Iniciar sesión en Adobe Journey Optimizer
 
 [Haga clic aquí para iniciar sesión en Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -143,63 +143,25 @@ Haga clic en **Instalar de todas formas**
 * **Contraseña:** Adobe2023!
 
 
-## Ejercicio 2.1 Creación de una campaña en la aplicación
+## Ejercicio 2 Creación de una campaña en la aplicación
 
 | Campo | Texto | Vínculos |
 |----|----|----|
 | Nombre de la campaña | `<your seat number> Vegas Stay Campaign` |  |
 | Emparejador | reserva ahora |  |
-| Opción URL de medios |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| Opción URL de medios |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
 | Título | ¡Obtén tu descuento por anticipado! |  |
-| Cuerpo | Adobe Summit regresa a Las Vegas en 2024. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. Reserve su suite ahora y obtenga un 10% de descuento. |  |
+| Cuerpo | Adobe Max vuelve a Las Vegas. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. Reserve su suite ahora y obtenga un 10% de descuento. |  |
 | Botón | Reservar ahora | lab://booking?suite=presidential&amp;discount=10 |
 | Botón: evento interactivo | CTA en la aplicación |  |
-| Dirección URL base |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Dirección URL base para usar en la vista previa en el dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
-## Lección 3: Creación de un recorrido omnicanal
+## Ejercicio 3: Crear una notificación push
 
-**Etiqueta de recorrido:**
-`<your seat number>` - Recorrido de bienvenida
-
->[!BEGINTABS]
-
->[!TAB Mensaje push]
-
-**Etiqueta:**
-Mensaje de bienvenida
-
-**Título:**\
-Bienvenido a Vegas Stay!
-
-**Cuerpo:**\
-Omita la línea y regístrese con la aplicación móvil
-
-**Vínculo profundo:** iOS: lab://, Android&amp;: https://lab
-
-**Medios:**
-
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=es
-
-
-Esta es la imagen que utilizamos para la notificación push:
-
-![Registro en línea](/help/assets/vegas_online_check_in.jpg)
-
->[!TAB Mensaje SMS]
-
-**Etiqueta:**
-Mensaje de bienvenida
-
-**Mensaje:**
-Bienvenido a Vegas Stay. Omita la línea y regístrese con la aplicación móvil: lab://checkin
-
->[!TAB Mensaje de correo electrónico]
-
-**Etiqueta:**
-Mensaje de confirmación
-
-**Línea de asunto:**
-`{{profile.person.name.firstName}},`, ya se ha registrado, ¡ahora consulte nuestras ofertas para su estancia!
-
->[!ENDTABS]
+| Campo | Texto | Vínculos |
+|----|----|----|
+| Nombre de la campaña | `<your seat number> Max Push Campaign` |  |
+| Opción URL de medios |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Título | ¡Oye! |  |
+| Cuerpo | ¿Sabías que el Adobe Max va a volver a Las Vegas? Reserva tu habitación ahora y obtén un 10% de descuento. |  |
