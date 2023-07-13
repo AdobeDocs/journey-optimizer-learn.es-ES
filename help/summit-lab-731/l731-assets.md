@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
+source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 76%
+source-wordcount: '306'
+ht-degree: 71%
 
 ---
 
@@ -29,6 +29,11 @@ Analizar el código QR para descargar la aplicación
 >[!TAB iOS]
 
 ![Código QR para iOS](/help/assets/lab731-ios-qr-code.png)
+
+>[!Tip]
+>
+>Si se le pide el código canjear, cierre la aplicación TestFlight y escanee el código QR una vez más.
+>**Active &#39;Notificaciones&#39;.**
 
 Se le pedirá que instale Testflight, pasos del 1 al 4. Una vez que haya instalado Testflight, siga los pasos 5 al 8 para instalar la aplicación Vegas Stay:
 
