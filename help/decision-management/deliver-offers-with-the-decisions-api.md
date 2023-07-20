@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 6f96590c66f14b3090b329fc631772f30b510c5a
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -24,9 +24,3 @@ Obtenga información sobre cómo entregar ofertas [con la API de Decisions Hub](
 >[!INFO]
 >
 > Este vídeo es parte del curso [Introducción a gestión de decisiones para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.
-
-## Recursos adicionales
-
-* [Autenticación y acceso a las API de Experience Platform (tutorial)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=es)
-* Recolección de [[!DNL Postman]  para autenticación que no es de producción](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
-* [[!DNL Postman]](https://www.postman.com/)
