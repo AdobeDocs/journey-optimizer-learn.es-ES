@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c72d6d4d88811ac4d40bfc512585e0ebe64741d2
+source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 66%
@@ -168,6 +168,6 @@ Haga clic en **Instalar de todas formas**
 | Campo | Texto | Vínculos |
 |----|----|----|
 | Nombre de la campaña | `<your seat number> Max Push Campaign` |  |
-| Opción URL de medios |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | Título | ¡Oye! |  |
 | Cuerpo | ¿Sabías que el Adobe Max va a volver a Las Vegas? Reserva tu habitación ahora y obtén un 10% de descuento. |  |
+| Opción URL de medios |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
