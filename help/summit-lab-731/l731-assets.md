@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
+source-git-commit: c72d6d4d88811ac4d40bfc512585e0ebe64741d2
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 66%
@@ -154,7 +154,7 @@ Haga clic en **Instalar de todas formas**
 
 | Sección | Campo | Texto | Vínculos |
 |----|----|----|----|
-| **Propiedades** |  | Nombre de la campaña | `<your seat number> Vegas Stay Campaign` |  |
+| **Propiedades** | Nombre de la campaña | `<your seat number> Vegas Stay Campaign` |  |
 | **Triggers** | Estado | reserva ahora |  |
 | **Editar contenido:** Medios | Opción URL de medios |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **Editar contenido:** Contenido | Título | ¡Obtén tu descuento por anticipado! |  |
