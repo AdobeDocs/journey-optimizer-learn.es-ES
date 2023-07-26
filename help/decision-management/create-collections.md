@@ -1,5 +1,5 @@
 ---
-title: Creación de colecciones
+title: Crear colecciones
 description: Aprenda a crear colecciones para la administración de decisiones. Las colecciones tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes.
 feature: Offers
 role: User
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ---
 
-# Creación de colecciones
+# Crear colecciones
 
 Aprenda a crear colecciones para la administración de decisiones.
 
