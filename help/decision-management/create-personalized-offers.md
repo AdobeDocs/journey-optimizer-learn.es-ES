@@ -1,5 +1,5 @@
 ---
-title: Creación de ofertas personalizadas
+title: Crear ofertas personalizadas
 seo-title: Create personalized offers for decision management
 description: Aprenda a crear ofertas personalizadas para la administración de decisiones. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes.
 feature: Offers, Personalization
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ---
 
-# Creación de ofertas personalizadas
+# Crear ofertas personalizadas
 
 Obtenga información sobre cómo crear [ofertas personalizadas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=es) para la administración de decisiones. Las ofertas personalizadas tienen reglas de idoneidad asociadas para ayudarle a mostrarlas solo a los clientes relevantes. Por ejemplo, puede restringir una oferta para palas de nieve a regiones donde nieva y solo durante la época de invierno.
 
