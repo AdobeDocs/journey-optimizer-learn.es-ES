@@ -2,9 +2,9 @@
 user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
-source-git-commit: 16c874b46254d067795bc92bfe06e8f91fca3a10
+source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '396'
 ht-degree: 93%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 93%
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
++ Canal de correo directo{#direct-mail-channel}
+   + [Canal de correo directo](/help/channels/direct-mail.md)
 + Canal de correo electrónico{#email-channel}
    + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
