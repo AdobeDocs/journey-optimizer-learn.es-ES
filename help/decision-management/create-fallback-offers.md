@@ -1,5 +1,5 @@
 ---
-title: Creación de ofertas de reserva
+title: Crear ofertas de reserva
 description: Aprenda a crear ofertas de reserva para la administración de decisiones. Las ofertas de reserva tienen reglas de aceptación asociadas para ayudarle a mostrarlas solo a los clientes relevantes.
 feature: Offers
 role: User
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ---
 
-# Creación de ofertas de reserva
+# Crear ofertas de reserva
 
 Obtenga información sobre cómo crear [ofertas de reserva](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=es) para la administración de decisiones. Las ofertas de reserva son ofertas predeterminadas que se muestran a los clientes que no cumplen los requisitos de ninguna de sus ofertas personalizadas.
 
