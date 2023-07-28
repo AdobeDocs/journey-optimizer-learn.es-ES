@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ Al utilizar este evento, Journey Optimizer recibe información cuando una person
 
 1. Seleccione **[!UICONTROL Guardar]**.
 
-## Crear *[!DNL Luma Wishlist Add]* evento
-
-| [!UICONTROL Parámetro] | [!UICONTROL Valor] |
-|-------------|-----------|
-| [!UICONTROL NOMBRE] | `LumaWishlistAdd` |
-| [!UICONTROL TIPO] | [!UICONTROL Unitario] |
-| [!UICONTROL Tipo de ID de evento] | [!UICONTROL Basado en reglas] |
-| [!UICONTROL Esquema] | `Luma Product Interactions` |
-| [!UICONTROL Campos] | EventType<br>productListItem.quantity<br><b>En Lista de productos Artículos > Productos de Luma > _*[!DNL yourOrganizationID]* > Producto:</b> <br>Nombre<br>Precio<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL Condición] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Área de nombres] | Correo electrónico (EMail) |
-
 ## Crear *[!DNL Luma Product Restock]* evento
 
 | [!UICONTROL Parámetro] | [!UICONTROL Valor] |
 |-------------|-----------|
 | [!UICONTROL NOMBRE] | `LumaProductRestock` |
 | [!UICONTROL TIPO] | [!UICONTROL Business] |
-| [!UICONTROL Esquema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Campos] | SKU <br> stockEventType<br><b> yourOrganizationID > producto:</b> <br>nombre<br>precio<br> ImageURL<br>descripción |
+| [!UICONTROL Esquema] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL Campos] | SKU <br> stockEventType<br><b>Esquema del catálogo de productos Luma._yourOrganizationID.product :</b> <br>nombre<br>precio<br> ImageURL<br>descripción |
 | [!UICONTROL Condición] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType está en reposición |
 
 ¡Felicidades! La zona protegida ya está lista para su uso.
