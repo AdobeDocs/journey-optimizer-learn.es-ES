@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 96%
 
 Los retos ofrecen un escenario y los requisitos necesarios para practicar lo que ha aprendido. Los retos le ayudan a evaluar su nivel de habilidades e identificar lagunas de conocimiento.
 
-Cada reto de esta sección aborda un caso práctico único que usted implementa. La audiencia (persona) destinataria y las competencias requeridas se enumeran al principio de cada reto.
+Cada reto de esta sección aborda un caso práctico único que usted implementa. El público destinatario (persona) y las competencias requeridas se enumeran al principio de cada reto.
 
 ## Requisitos previos
 
@@ -66,7 +66,7 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
    <strong><a href="summer-collection-announcement-challenge.md">Crear un anuncio de colección de verano </strong>
     </a>
       <p>
-      <em>Cree un recorrido que envíe un correo electrónico para anunciar la colección de verano a una audiencia de clientes existentes. </em>
+      <em>Cree un recorrido que envíe un correo electrónico para anunciar la colección de verano a un público de clientes actuales. </em>
       <p>
       <b>Competencias requeridas:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es"> Creación de segmentos</li>
