@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -155,13 +155,13 @@ Haga clic en **Instalar de todas formas**
 | Sección | Campo | Texto | Vínculos |
 |----|----|----|----|
 | **Propiedades** | Nombre de la campaña | `<your seat number> Vegas Stay Campaign` |  |
-| **Triggers** | Estado | reserva ahora |  |
-| **Editar contenido:** Medios | Opción URL de medios |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **Editar contenido:** Contenido | Título | Obtenga su descuento por anticipado. |  |
-| **Editar contenido:** Contenido | Cuerpo | Adobe Max vuelve a Las Vegas. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. Reserve su suite ahora y obtenga un 10 % de descuento. |  |
-| **Editar contenido:** Botones | Botón | Consiga su 10 % de descuento. | lab://booking?suite=presidential&amp;discount=10 |
-| **Editar contenido:** Botones | Evento Interact | CTA en la aplicación |  |
-| **Vista previa en el dispositivo** | URL base que se utilizará para la vista previa en el dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
+| **Activadores** | Estado | reserva ahora |  |
+| **Editar contenido:** medios | Opción URL de medios |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Editar contenido:** contenido | Título | Obtenga su descuento por anticipado. |  |
+| **Editar contenido:** contenido | Cuerpo | Adobe Max vuelve a Las Vegas. Prepárese para ponentes motivadores, sesiones de perfeccionamiento de habilidades y nuevas conexiones. Reserve su suite ahora y obtenga un 10 % de descuento. |  |
+| **Editar contenido:** botones | Botón | Consiga su 10 % de descuento. | lab://booking?suite=presidential&amp;discount=10 |
+| **Editar contenido:** botones | Evento Interactivo | CTA en la aplicación |  |
+| **Vista previa en el dispositivo** | URL base que se utilizará en la vista previa en el dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 ## Ejercicio 3: Creación de una notificación push
 
