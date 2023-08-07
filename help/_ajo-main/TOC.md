@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 93%
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso de uso: Evento empresarial](/help/create-journeys/use-case-business-event.md)
-   + [Caso de uso: Lectura de audiencia](/help/create-journeys/use-case-read-audience.md)
-   + [Caso de uso: Calificación de audiencias](/help/create-journeys/use-case-audience-qualification.md)
+   + [Caso de uso: leer público](/help/create-journeys/use-case-read-audience.md)
+   + [Caso de uso: Calificación de público](/help/create-journeys/use-case-audience-qualification.md)
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
@@ -57,13 +57,13 @@ ht-degree: 93%
 + Canal web {#web-channel}
    + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
    + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
-+ Perfiles, audiencias y suscripciones {#profiles-segments-subscriptions}
++ Perfiles, públicos y suscripciones {#profiles-segments-subscriptions}
    + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creación de segmentos](/help/set-up-resources/create-segments.md)
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalización del contenido {#personalize-content}
-   + [Personalización basada en perfiles y abonos a audiencias](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Adición de ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Uso de información de evento contextual para la personalización](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Uso de funciones de ayuda para la personalización](/help/personalize-content/use-helper-functions-for-personalization.md)
