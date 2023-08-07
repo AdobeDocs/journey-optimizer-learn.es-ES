@@ -9,9 +9,9 @@ hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Luma le pide que implemente un recorrido en Journey Optimizer que notifique a lo
 
 ## 1. Defina el segmento: productos agotados en la lista de deseos
 
-Para dirigirse a los clientes potenciales interesados cuando los productos vuelvan a estar disponibles, cree una audiencia compuesta por clientes:
+Para dirigirse a los clientes potenciales interesados cuando los productos vuelvan a estar disponibles, cree un público que esté formado por los siguientes clientes:
 
 * que han agregado al menos un producto a su lista de deseos (use el tipo de evento: [!UICONTROL Comercio Guardar para más tarde])
 * Que ha estado agotado durante los últimos tres meses (utilizar cantidad de existencias = 0)
