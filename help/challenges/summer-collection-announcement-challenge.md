@@ -1,6 +1,6 @@
 ---
 title: 'Crear un anuncio de colección de verano: reto'
-description: Envíe un anuncio de la colección de verano a una audiencia de clientes existentes para promocionar la nueva colección de verano de Luma.
+description: Envíe un anuncio de la colección de verano a un público de clientes existentes para promocionar la nueva colección de verano de Luma.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,24 +28,24 @@ ht-degree: 94%
 
 ## La historia
 
-Luma, una compañía de ropa deportiva ficticia, está promocionando su última colección de ropa y equipos e impulsando ventas para clientes existentes. Luma inicia la nueva colección de verano y desea dirigirse específicamente a diferentes audiencias.
+Luma, una compañía de ropa deportiva ficticia, está promocionando su última colección de ropa y equipos e impulsando ventas para clientes existentes. Luma inicia la nueva colección de verano y desea dirigirse específicamente a distintos públicos destinatarios.
 
 ## Su reto
 
 El equipo de marketing de Luma le pedirá que implemente una campaña de marketing de la colección de verano en Journey Optimizer. Su reto es el siguiente:
 
-* Cree una audiencia que defina qué perfiles cumplen los requisitos para recibir la promoción.
+* Crear un público que defina qué perfiles cumplen los requisitos para recibir la promoción.
 * Creación del recorrido.
 
-### Paso 1: Definición de la audiencia: clientes activos
+### Paso 1: Definir el público y los clientes activos
 
 >[!BEGINTABS]
 
 >[!TAB Tarea]
 
-#### Creación de una audiencia en [!DNL Journey Optimizer]
+#### Creación de un público en [!DNL Journey Optimizer]
 
-* Creación de una audiencia en [!DNL Journey Optimizer] llamado *Clientes activos*.
+* Creación de un público en [!DNL Journey Optimizer] llamado *Clientes activos*.
 * El segmento solo debe incluir clientes de Luma activos.
 * Los clientes activos se definen como clientes que tienen un nivel en el programa de fidelidad de Luma (bronce, plata, oro o platino).
 
