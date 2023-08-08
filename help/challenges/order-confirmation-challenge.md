@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 8b8d163b65dbd34f769a26231638f0bfeb6eb0b1
+workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 100%
 
@@ -54,6 +54,7 @@ Crear un recorrido que envíe un correo electrónico de confirmación de pedido 
       * Añada el vínculo de cancelación de suscripción en la parte inferior del correo electrónico
 
 El correo electrónico debe estructurarse de la siguiente manera:
+
 <table>
 <tr>
 <td>
@@ -176,7 +177,7 @@ Debe recibir el correo electrónico de confirmación de compra personalizado.
 
 **Línea de asunto:**
 
-¡Gracias por su compra, {{ profile.person.name.firstName }}!
+¡Gracias por su compra, `{{ profile.person.name.firstName }}`!
 
 **Enviar a la sección:**
 
