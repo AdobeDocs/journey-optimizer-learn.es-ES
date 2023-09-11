@@ -10,9 +10,9 @@ hidefromtoc: false
 jira: KT-13705
 thumbnail: 3423077.jpeg
 source-git-commit: 933f869048a87d9d315a95aa31ea44f146803173
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
