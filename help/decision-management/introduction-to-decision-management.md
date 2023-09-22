@@ -7,10 +7,10 @@ role: Admin, Developer, Leader, User
 level: Beginner
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '52'
+ht-degree: 96%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 Obtenga información general sobre las funcionalidades de administración de decisiones de Journey Optimizer. El vídeo abarca los retos comerciales que resuelven las capacidades de administración de decisiones, sus funciones clave, la arquitectura básica y sus principales casos de uso.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}

@@ -10,10 +10,10 @@ role: Admin
 level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 98%
 
 ---
 
@@ -28,6 +28,6 @@ Obtenga información sobre cómo suscribirse a alertas predefinidas para detecta
 >
 >Al acceder a las alertas desde Journey Optimizer, de forma predeterminada solo se muestran las específicas de sus recorridos en directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=es) para obtener más información.

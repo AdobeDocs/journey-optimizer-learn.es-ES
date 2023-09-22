@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: 2df3f69611c4f3c2e93b3b5746b80b0814ad0497
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 97%
 
 ---
 
@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Aprenda a crear correos electrónicos desde cero. Aprenda a utilizar recursos de la biblioteca de Adobe Experience Manager Assets Essentials, editar el diseño de correo electrónico adaptable y crear correos electrónicos a partir de plantillas.
 
->[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
 

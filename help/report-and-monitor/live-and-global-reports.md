@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '64'
+ht-degree: 96%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del Mensaje, y cómo modificar los tableros del informe.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
