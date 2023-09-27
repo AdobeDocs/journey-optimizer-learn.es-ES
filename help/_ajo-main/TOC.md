@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
+source-git-commit: 3b0b830bb1d5e813df49625c8125924a0bca9364
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 97%
+source-wordcount: '417'
+ht-degree: 96%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 97%
    + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
    + [Plantillas de contenido](/help/channels/content-templates.md)
    + [Administración, creación y uso de fragmentos](/help/content-management/manage-author-use-fragments.md)
+   + [Creación y uso de fragmentos de expresiones](/help/content-management/expression-fragments.md)
    + [Configuración de experimentos de contenido para correos electrónicos](/help/experimentation/content-experiments-for-emails.md)
 + En el canal de la aplicación{#in-app-channel}
    + [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
