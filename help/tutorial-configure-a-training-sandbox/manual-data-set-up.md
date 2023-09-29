@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 En esta sección, se crean las áreas de nombres de identidad necesarias y se define la [!DNL Luma] estructura de datos de muestra creando los [[!UICONTROL esquemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=es).
 
 >[!TIP]
->Vea el videotutorial [Asignación de identidades](/help/set-up-data/map-identities.md) antes de empezar.
+>Vea el videotutorial [Asignación de identidades](/help/data-management/map-identities.md) antes de empezar.
 
 ## Paso 1: Crear áreas de nombres de identidad
 
@@ -69,7 +69,7 @@ En este paso, defina la estructura de los datos de muestra creando seis [[!UICON
 
 >[!TIP]
 >
->Vea el videotutorial: [Creación de un esquema](/help/set-up-data/create-schema.md) antes de empezar.
+>Vea el videotutorial: [Creación de un esquema](/help/data-management/create-schema.md) antes de empezar.
 
 ### Crear [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 

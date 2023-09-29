@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [Entrega de ofertas con la API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Restricción de frecuencia](/help/decision-management/frequency-capping.md)
 + Administración de datos {#data-management}
-   + [Información general](/help/set-up-data/set-up-data-overview.md)
-   + [Creación de un esquema](/help/set-up-data/create-schema.md)
-   + [Asignación de identidades](/help/set-up-data/map-identities.md)
-   + [Creación de conjuntos e ingesta de datos](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Configuración de conectores de origen](/help/set-up-data/configure-source-connectors.md)
-   + [Exportación de conjuntos de datos a ubicaciones de almacenamiento en la nube](/help/set-up-data/export-datasets.md)
+   + [Información general](/help/data-management/set-up-data-overview.md)
+   + [Creación de un esquema](/help/data-management/create-schema.md)
+   + [Asignación de identidades](/help/data-management/map-identities.md)
+   + [Creación de conjuntos e ingesta de datos](/help/data-management/create-datasets-and-ingest-data.md)
+   + [Configuración de conectores de origen](/help/data-management/configure-source-connectors.md)
+   + [Configuración de un destino de exportación de conjunto de datos](/help/data-management/configure-dataset-export-destination.md)
+   + [Exportación de conjuntos de datos a ubicaciones de almacenamiento en la nube](/help/data-management/export-datasets.md)
 + Informes y monitorización {#report-and-monitor}
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
    + [Informes de nivel de canal](/help/report-and-monitor/channel-level-reports.md)
