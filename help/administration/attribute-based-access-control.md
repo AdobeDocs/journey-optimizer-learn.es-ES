@@ -1,21 +1,22 @@
 ---
 title: Configuración del control de acceso basado en atributos
-description: Obtenga información sobre cómo configurar el control de acceso basado en atributos para controlar el acceso a recursos de Experience Platform específicos.
+description: Obtenga información sobre cómo configurar el control de acceso basado en atributos para limitar el acceso a recursos específicos de Experience Platform.
 feature: Access Management
 role: Admin, User
 level: Beginner
 jira: KT-10336
 thumbnail: 345641.jpeg
 last-substantial-update: 2023-09-29T00:00:00Z
-source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+exl-id: bfb62634-5a20-4f4f-b878-c03f978bc4e4
+source-git-commit: 10c6d3bea7e7a54cc562332755d758efcd45dd21
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
 # Configuración del control de acceso basado en atributos
 
-Obtenga información sobre cómo configurar el control de acceso basado en atributos para limitar el acceso a recursos de Experience Platform específicos. Para obtener más información, visite la [documentación de control de acceso](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html).
+Obtenga información sobre cómo configurar el control de acceso basado en atributos para limitar el acceso a recursos específicos de Experience Platform. Para obtener más información, consulte la [documentación sobre el control de acceso](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=es).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345641?learn=on)
