@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e775fc958c65a001d3ca1e09b0b43b3c69084310
+source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 100%
+source-wordcount: '428'
+ht-degree: 98%
 
 ---
 
@@ -63,8 +63,8 @@ ht-degree: 100%
    + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
    + [Compatibilidad de SPA en el editor web](/help/channels/singel-page-application-support.md)
 + Perfiles, públicos y suscripciones {#profiles-segments-subscriptions}
-   + [Resumen del perfil y la segmentación unificados](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [Creación de segmentos](/help/set-up-resources/create-segments.md)
+   + [Resumen del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Creación de audiencias con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalización del contenido {#personalize-content}
