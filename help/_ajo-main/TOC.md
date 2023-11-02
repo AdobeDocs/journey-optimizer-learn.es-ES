@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 98%
@@ -38,8 +38,10 @@ ht-degree: 98%
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
-+ Canal de correo directo{#direct-mail-channel}
-   + [Canal de correo directo](/help/channels/direct-mail.md)
++ Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
+   + [Resumen del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Creación de audiencias con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + Canal de correo electrónico{#email-channel}
    + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 98%
    + [Administración, creación y uso de fragmentos](/help/content-management/manage-author-use-fragments.md)
    + [Creación y uso de fragmentos de expresiones](/help/content-management/expression-fragments.md)
    + [Configuración de experimentos de contenido para correos electrónicos](/help/experimentation/content-experiments-for-emails.md)
++ Canal de correo directo{#direct-mail-channel}
+   + [Canal de correo directo](/help/channels/direct-mail.md)
 + En el canal de la aplicación{#in-app-channel}
    + [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
    + [Creación de un mensaje en la aplicación en un recorrido](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -62,10 +66,6 @@ ht-degree: 98%
    + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
    + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
    + [Compatibilidad de SPA en el editor web](/help/channels/singel-page-application-support.md)
-+ Perfiles, públicos y suscripciones {#profiles-segments-subscriptions}
-   + [Resumen del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Creación de audiencias con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalización del contenido {#personalize-content}
    + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
