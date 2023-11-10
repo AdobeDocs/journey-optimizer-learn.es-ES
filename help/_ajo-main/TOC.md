@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '428'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ ht-degree: 98%
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
 + Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
-   + [Resumen del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Creación de audiencias con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
+   + [Información general del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Creación de público con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
 + Canal de correo electrónico{#email-channel}
    + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
    + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
