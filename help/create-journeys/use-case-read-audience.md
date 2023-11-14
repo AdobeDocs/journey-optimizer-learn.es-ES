@@ -1,26 +1,24 @@
 ---
 title: 'Caso de uso: leer público'
-description: Comprender los casos de uso aplicables para los recorridos de lectura de público. Obtenga información sobre cómo crear recorridos basados en lotes y qué prácticas recomendadas aplicar.
+description: Comprenda los casos de uso aplicables a un recorrido activado por la actividad de lectura de audiencia. Obtenga información sobre cómo crear recorridos basados en lotes y qué prácticas recomendadas aplicar.
 jira: KT-7694
-thumbnail: 334206.jpg
+thumbnail: 3424997.jpg
 feature: Journeys
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
+last-substantial-update: 2022-11-14T00:00:00Z
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+source-git-commit: a2349093d44abc18cf6c533fa8c7c38571451918
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 51%
 
 ---
 
 # Caso de uso: leer público
 
->[!NOTE]
->Tenga en cuenta el siguiente cambio en la interfaz de usuario: los **Segmentos** ahora se llaman **Públicos**.
+Comprenda los casos de uso aplicables a un recorrido activado por la actividad de lectura de audiencia. Obtenga información sobre cómo crear recorridos basados en lotes y qué prácticas recomendadas aplicar.
 
-Comprender los casos de uso aplicables para los recorridos de lectura de público. Obtenga información sobre cómo crear recorridos basados en lotes y qué prácticas recomendadas aplicar.
-
->[!VIDEO](https://video.tv.adobe.com/v/334206?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424997?quality=12&learn=on){transcript=true}
