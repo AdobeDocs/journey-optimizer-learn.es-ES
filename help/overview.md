@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
-workflow-type: ht
-source-wordcount: '588'
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 100%
 Journey Optimizer ayuda a las empresas a ofrecer a sus clientes experiencias conectadas, contextuales y personalizadas. El recorrido del cliente es todo el proceso de interacción de un cliente con la marca, desde el primer momento de contacto hasta que se marcha del sitio.
 
 Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcionalidades y características de Adobe Journey Optimizer.
-
-<div id="whats-new-section">
-
-## Novedades
-
-* **[Creación de contenido dinámico con el generador de reglas de condición](/help/personalize-content/create-dynamic-content.md)**
-  *Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales.*
-
-* **[Usar alertas](/help/administration/alerts.md)**
-  *Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, Journey Optimizer o mediante una API.*
-
-* **[Copiar un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)**
-  *Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra.*
-
-* **[Enmascarar datos en mensajes](/help/privacy/mask-data-in-messages.md)**
-  *Comprender qué es el enmascaramiento de datos y por qué enmascarar datos. Aprenda a enmascarar datos en mensajes de Journey Optimizer.*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
