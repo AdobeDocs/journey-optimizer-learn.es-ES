@@ -6,12 +6,12 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-02-17T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: c35b58a488d37d0cba9aa79cdb04924162655a68
+source-git-commit: 5a784b7afd6dc75b2fc114b4a10e1a35e1df5d2e
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,16 @@ En este laboratorio práctico, explorará una variedad de escenarios móviles y 
 ### Principales conclusiones
 
 * Comprenda la variedad de experiencias móviles compatibles.
+* Configuración de una campaña push
 * Obtenga información sobre cómo configurar campañas móviles en la aplicación.
 * Configurar mensajes web en la aplicación.
-* Configurar campañas push.
 * Pruebe sus propios escenarios personalizados.
 
 ### Requisitos previos
 
+* Conozca el número de asiento: Puede encontrar el número de asiento en la parte superior del escritorio de la máquina del laboratorio:
+
+![Número de puestos](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 Necesita acceso a:
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - los detalles de inicio de sesión se proporcionarán durante los ejercicios.

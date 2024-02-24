@@ -9,9 +9,9 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
-source-git-commit: aa057db89d753207da4a609c552618d8821e802d
+source-git-commit: b007da502b8231cf59b5f5d6435c2c7637d5e3bb
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -32,19 +32,60 @@ En esta lección, va a experimentar la interacción con la marca como consumidor
 
 >[!BEGINTABS]
 
->[!TAB Ejercicio 1.1 - Crear una cuenta y descargar e instalar la aplicación Frescopa ]
+>[!TAB Ejercicio 1.1: Crear una cuenta]
 
-### Ejercicio 1.1 - Crear una cuenta y descargar e instalar la aplicación Frescopa 
+### Ejercicio 1.1: Crear una cuenta
+
+1. Vaya a la página web de Frescopa: https://dsn.adobe.com/web/adobe-summit-2024/home
+
+2. En la página de inicio de Frescopa haga clic en [!UICONTROL Iniciar sesión]
+
+   ![Página principal de Frescopa](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Página principal de Frescopa")
 
 
- 
->[!TAB Ejercicio 1.2 - Explorar el sitio web]
+3. En la página de inicio de sesión, seleccione [!UICONTROL Crear una cuenta]
+   ![Página de inicio de sesión de Frescopa](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Iniciar sesión en Frescopa")
 
-### Ejercicio 1.2 - Explorar el sitio web
+>[!TAB Ejercicio 1.2 - Descargue e instale la aplicación Frescopa]
 
-Familiarícese con la página web de Frescopa:
+### Ejercicio 1.2 - Descargue e instale la aplicación Frescopa
 
-Vaya a https://dsn.adobe.com/web/adobe-summit-2024/home
+Instale la aplicación móvil en su dispositivo iOS o Android escaneando el siguiente código QR:
+
+![Códigos QR de la aplicación móvil Frescopa](/help/summit/l820-lab-workbook/assets/1-2-1-qr-codes.png "Códigos QR de la aplicación móvil Frescopa")
+
+iOS:
+
+Después de instalar la aplicación, tendrá que confiar en el desarrollador empresarial de Adobe:
+
+1. Vaya a configuración -> general -> Administración de VPN y dispositivos
+
+   ![Pantalla de configuración de administración de dispositivos](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Pantalla de configuración de administración de dispositivos")
+
+2. Seleccione &quot;Adobe Systems Inc&quot; y &quot;Trust Adobe Systems Inc&quot;.
+
+   ![Pantalla de selección de Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Pantalla de selección de Adobe Systems")
+
+   ![Pantalla Confiar en Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG "Pantalla Confiar en Adobe Systems")
+
+Ahora debería poder iniciar la aplicación &quot;DX Demo&quot; en su iPhone
+
+Android:
+
+En Android, simplemente descargue e instale el APK siguiendo las instrucciones de alerta que se muestran aquí:
+
+![Pantalla de descarga de Android](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Pantalla de descarga de Android")
+
+![Pantalla de instalación de Android](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg "Pantalla de instalación de Android")
+
+
+>[!TAB Ejercicio 1.3: explorar el sitio web y la aplicación]
+
+### Ejercicio 1.3: explorar el sitio web y la aplicación
+
+Familiarícese con el sitio web y la aplicación móvil de Frescopa:
+
+Vaya a [Página web de Frescopa](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU)
 
 Estas son las cosas que debe hacer:
 
