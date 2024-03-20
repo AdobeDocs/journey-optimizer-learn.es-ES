@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
+source-git-commit: ec5d79920c305ad77f042db845932a8b1671e65b
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 100%
+source-wordcount: '334'
+ht-degree: 98%
 
 ---
 
-# Summit Lab L731 - Hoja de ejercicios
+# Summit Lab L731 - Hoja de referencia
 
 Esta página tiene texto y enlaces que están siendo utilizados en L731 Summit Lab. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
 
@@ -167,7 +167,7 @@ Haga clic en **Instalar de todas formas**
 
 | Campo | Texto | Vínculos |
 |----|----|----|
-| Nombre de la campaña | `<your seat number> Max Push Campaign` |  |
+| Nombre de la campaña | **`<your seat number> Max Push Campaign`** |  |
 | Título | ¡Eh! |  |
 | Cuerpo | ¿Sabía que Adobe Max va a volver a Las Vegas? Reserve su habitación ahora y obtenga un 10 % de descuento. |  |
 | Opción URL de medios |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
