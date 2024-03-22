@@ -9,9 +9,9 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: a447bd23478c2735642548ef573b627889becdf9
+source-git-commit: d53c2218ee69c81881b12dedc435826034a710e3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,17 @@ ht-degree: 0%
 
 ![Adobe Summit: texto alternativo](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
+>[!IMPORTANT]
+>
+>Absténgase de publicar fotos o capturas de pantalla de la sesión en las redes sociales.
+>
+>**Confidencialidad de Adobe**
+>La información y las divulgaciones de productos compartidas hoy durante este laboratorio son Información Confidencial del Adobe.
+>Los participantes no podrán reproducir, utilizar, difundir ni revelar información confidencial a ninguna persona o entidad.
+>Las divulgaciones de productos son solo para fines informativos, no son una garantía de ninguna función o funcionalidad futura y están sujetas a cambios en cualquier momento. Como tal, dichas características o funcionalidades del producto no forman parte del acuerdo con el Adobe ni están comprometidas de ninguna manera con el cliente.
+>
+>**Exención de responsabilidad**
+>El Adobe le proporciona acceso anticipado a las funciones de, que aprovechan la tecnología de IA generativa. Tenga en cuenta que estas funciones aún están en desarrollo y pueden producir respuestas inesperadas o inexactas. Agradecemos sus comentarios ya que lanzamos esta función al mercado.
 
 ## L820: cree momentos móviles personalizados con Adobe Journey Optimizer
 
