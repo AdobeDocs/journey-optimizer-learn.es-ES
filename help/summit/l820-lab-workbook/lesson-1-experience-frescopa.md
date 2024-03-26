@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
-source-git-commit: df3355648178bf049df2f672528e207b53c90f28
+exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
+source-git-commit: 5f1527824e63dc1c43cb0540b685160a8e71d66e
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
 
 ---
-
 
 # Lección 1 - Experiencia Fréscopa
 
@@ -30,7 +30,7 @@ En esta lección, va a experimentar la interacción con la marca como consumidor
 
 ## Ejercicio 1.1: Crear una cuenta
 
-1. Vaya a [Página web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"}
+1. Vaya a [Página web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 1. En la página de inicio de Fréscopa, haga clic en **[!UICONTROL Iniciar sesión]**.
 
@@ -117,7 +117,7 @@ En Android, descargue e instale el APK siguiendo las instrucciones de alerta que
 
 ## Ejercicio 1.3: explorar el sitio web y la aplicación
 
-Familiarícese con las [Página web de Fréscopa](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU){target="_blank"} y la aplicación móvil. Experimente los diferentes mensajes en la aplicación, push y SMS implementados en AJO y activados a través de sus interacciones.
+Familiarícese con las [Página web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  y la aplicación móvil. Experimente los diferentes mensajes en la aplicación, push y SMS implementados en AJO y activados a través de sus interacciones.
 
 Estas son algunas cosas que debe probar:
 
