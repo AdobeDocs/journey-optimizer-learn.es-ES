@@ -8,13 +8,13 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
-source-git-commit: c590b47ad3dfc54badbac0d8fcaff6b9dd053cc1
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 2%
 
 ---
-
 
 # Lección 4: Creación de una campaña push
 
@@ -203,8 +203,15 @@ Si está satisfecho con el contenido del mensaje, puede activar el mensaje:
 >
 > ![resultados push](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## Recursos adicionales
 
-**¡Gracias!**
+**Cómo guardar vídeos:**
 
-Gracias por su participación. Por favor, envíenos sus comentarios, sobre cómo lo hicimos y si el laboratorio cumplió con sus expectativas, completando la encuesta Lab 820 Session en la aplicación Summit.
+* [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
 
+**Documentación del producto:**
+
+* [Introducción a las notificaciones push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Crear una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Diseño de una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Compruebe y envíe su notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
