@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 0%
+source-wordcount: '1434'
+ht-degree: 1%
 
 ---
-
 
 # Lección 2: Creación de una campaña móvil en la aplicación
 
@@ -309,4 +309,18 @@ El **Duplicar campaña** y **Vista previa en el dispositivo** Las funciones de s
 >
 > El mensaje en la aplicación aparecerá en el dispositivo.
 >
-> *Una vez conectado, el mensaje en la aplicación debería mostrarse cada vez que haga clic en **[!UICONTROL Vista previa en el dispositivo] botón**.*
+> *Una vez conectado, el mensaje en la aplicación debería mostrarse cada vez que haga clic en **[!UICONTROL Vista previa en el dispositivo] botón**.
+
+## Recursos adicionales
+
+**Cómo guardar vídeos:**
+
+* [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
+* [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
+
+**Documentación del producto:**
+
+* [Introducción al canal en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creación de un mensaje móvil en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Diseño del contenido en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Comprobación y envío de la notificación en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

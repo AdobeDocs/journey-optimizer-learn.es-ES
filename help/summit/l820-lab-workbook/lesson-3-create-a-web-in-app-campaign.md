@@ -9,14 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '699'
+ht-degree: 2%
 
 ---
-
-
 
 # Lección 3: Creación de una campaña web en la aplicación
 
@@ -144,3 +143,18 @@ En esta sección define el contenido, el diseño y el diseño del mensaje.
 >Al hacer clic en el botón Enviar con su valor único, se activará el mensaje en la aplicación web en déclencheur. Además, debería ver el mensaje web en la aplicación en la pantalla.
 >
 >Este ejercicio simuló un evento de envío de XDM personalizado que vio a través de su experiencia de cliente de Fréscopa.
+
+
+## Recursos adicionales
+
+**Cómo guardar vídeos:**
+
+* [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
+* [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
+
+**Documentación del producto:**
+
+* [Introducción al canal en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creación de un mensaje web en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Diseño del contenido en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Comprobación y envío de la notificación en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
