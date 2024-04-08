@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # LIBRO DE LABORATORIO
 
@@ -67,4 +67,3 @@ El corazón del negocio de Fréscopa radica en sus servicios de suscripción de 
 Como complemento a sus servicios de suscripción, el sitio web y la aplicación móvil de Fréscopa ofrecen una amplia gama de productos relacionados con el café, lo que permite a los clientes explorar y mejorar sus rituales de café. Fréscopa ofrece desde equipos de elaboración de cerveza hasta accesorios artesanales, una tienda de todo tipo para los aficionados al café que buscan calidad y comodidad.
 
 El compromiso de Fréscopa con la excelencia se extiende más allá de sus productos, ya que la empresa se dedica a crear un recorrido de cliente agradable y sin fisuras. La combinación de tecnologías innovadoras y un enfoque centrado en el cliente posiciona a Fréscopa en la vanguardia de la industria del café en evolución. En esencia, Fréscopa encarna la fusión de la pasión y la tecnología, redefiniendo la forma en que los individuos experimentan y disfrutan su café. Con un enfoque en la calidad, conveniencia y ofertas personalizadas, Fréscopa invita a los entusiastas del café a embarcarse en un recorrido de sabor, entregado a la puerta de su casa.
-
