@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
+source-git-commit: e1b7bd76b1f496b5f43f39004d393739f3e1e0c2
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 100%
+source-wordcount: '487'
+ht-degree: 98%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Creación de experimentos de contenido para campañas de correo electrónico](/help/create-campaigns/content-experiments.md)
 + Recorridos {#create-journeys}
+   + [Descubra el nuevo Diseñador de Recorridos](/help/create-journeys/new-journey-designer.md)
    + [Información general sobre el lienzo del recorrido](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
