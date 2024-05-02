@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+source-git-commit: 42e7d88fa169980445d537a85681858675023620
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 97%
+source-wordcount: '498'
+ht-degree: 96%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 97%
    + [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
 + Canal de SMS{#sms-channel}
    + [Configuración, creación y entrega de mensajes SMS](/help/channels/author-sms-messages.md)
+   + [Crear un MMS](/help/channels/author-mms.md)
    + [SMS: opción de inclusión doble para Sinch e Infobip](/help/channels/sms-double-opt-in.md)
 + Canal web {#web-channel}
    + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
