@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 96%
+source-wordcount: '517'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 96%
 + Campañas {#create-campaigns}
    + [Creación de una campaña](/help/create-campaigns/create-a-campaign.md)
    + [Creación de una campaña en la aplicación](/help/create-campaigns/in-app.md)
-   + [Creación de una campaña web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=es)
+   + [Configuración y envío de una campaña push](/help/create-campaigns/push-campaign.md)
+   + [Creación de una campaña web](/help/create-campaigns/web-campaign.md)
+   + [Creación de una campaña de experiencia basada en código](/help/create-campaigns/code-based-experience.md)
    + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Creación de experimentos de contenido para campañas de correo electrónico](/help/create-campaigns/content-experiments.md)
 + Recorridos {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 96%
    + [Administración, creación y uso de fragmentos](/help/content-management/manage-author-use-fragments.md)
    + [Creación y uso de fragmentos de expresiones](/help/content-management/expression-fragments.md)
    + [Configuración de experimentos de contenido para correos electrónicos](/help/experimentation/content-experiments-for-emails.md)
++ Canal de experiencia basado en código{#code-based-experience-channel}
+   + [Creación de una campaña de experiencia basada en código](/help/channels/create-a-code-based-experience-campaign.md)
 + Canal de correo directo{#direct-mail-channel}
    + [Canal de correo directo](/help/channels/direct-mail.md)
 + En el canal de la aplicación{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 96%
    + [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
 + Canal de SMS{#sms-channel}
    + [Configuración, creación y entrega de mensajes SMS](/help/channels/author-sms-messages.md)
-   + [Crear un MMS](/help/channels/author-mms.md)
+   + [Crear un mensaje MMS](/help/channels/author-mms.md)
    + [SMS: opción de inclusión doble para Sinch e Infobip](/help/channels/sms-double-opt-in.md)
 + Canal web {#web-channel}
    + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
