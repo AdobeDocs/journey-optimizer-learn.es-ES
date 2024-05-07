@@ -1,6 +1,6 @@
 ---
 title: Crear un mensaje MMS
-description: Obtenga información sobre cómo conectar Journey Optimizer a un proveedor de servicios MMS y cómo crear una superficie de canal MMS.
+description: Aprenda a conectar Journey Optimizer a un proveedor de servicios SMS y a crear una superficie de canal MMS.
 feature: SMS
 role: Admin, User
 level: Beginner
@@ -12,13 +12,13 @@ exl-id: 810c700b-d629-474c-8ffb-ea44ca187a03
 source-git-commit: 5a6ece502b0638f5d160255dbc3f858d11c773da
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 82%
 
 ---
 
 
 # Crear un mensaje MMS
 
-Obtenga información sobre cómo conectar Journey Optimizer a un proveedor de servicios MMS y cómo crear una superficie de canal MMS.
+Aprenda a conectar Journey Optimizer a un proveedor de servicios SMS y a crear una superficie de canal MMS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428816/?learn=on)

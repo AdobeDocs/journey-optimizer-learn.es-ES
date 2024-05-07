@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Creación de experimentos de contenido para campañas de correo electrónico](/help/create-campaigns/content-experiments.md)
 + Recorridos {#create-journeys}
-   + [Descubra el nuevo Diseñador de Recorridos](/help/create-journeys/new-journey-designer.md)
+   + [Descubra el nuevo Diseñador de recorridos](/help/create-journeys/new-journey-designer.md)
    + [Información general sobre el lienzo del recorrido](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
@@ -128,7 +128,7 @@ ht-degree: 91%
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)
    + [Retos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=es)
 + Grabaciones en directo de Experience League{#experience-league-live-recordings}
-   + [Nuevo canal de experiencia basado en código en Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
+   + [Nuevo canal de experiencia basado en código en Journey Optimizer](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Mensajería activada por API en Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=es){target="_blank"}
    + [Maximice el potencial de su aplicación móvil con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=es){target="_blank"}
    + [Suministre la oferta correcta en el momento adecuado con gestión de decisiones](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=es){target="_blank"}
