@@ -1,5 +1,5 @@
 ---
-title: Descubra el nuevo Diseñador de Recorridos
+title: Descubra el nuevo Diseñador de recorridos
 description: Descubra el nuevo lienzo de recorrido rediseñado y cómo aprovechar la creación de informes en directo en recorrido.
 feature: Journeys
 role: User
@@ -12,13 +12,13 @@ hidefromtoc: false
 hide: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 source-git-commit: 017a2cf5b4ec44f1adfe3d1f7c970e673c216ec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Descubra el nuevo Diseñador de Recorridos
+# Descubra el nuevo Diseñador de recorridos
 
 Descubra el nuevo lienzo de recorrido rediseñado y cómo aprovechar la creación de informes en directo en recorrido.
 
