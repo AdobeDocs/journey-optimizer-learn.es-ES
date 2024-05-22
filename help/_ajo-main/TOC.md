@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 94%
    + [Administración, creación y uso de fragmentos](/help/content-management/manage-author-use-fragments.md)
    + [Creación y uso de fragmentos de expresiones](/help/content-management/expression-fragments.md)
    + [Configuración de experimentos de contenido para correos electrónicos](/help/experimentation/content-experiments-for-emails.md)
-+ Canal de experiencia basado en código{#code-based-experience-channel}
++ Canal de experiencia basada en código{#code-based-experience-channel}
    + [Creación de una campaña de experiencia basada en código](/help/channels/create-a-code-based-experience-campaign.md)
 + Canal de correo directo{#direct-mail-channel}
    + [Canal de correo directo](/help/channels/direct-mail.md)
@@ -66,7 +66,7 @@ ht-degree: 94%
    + [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
 + Canal de SMS{#sms-channel}
    + [Configuración, creación y entrega de mensajes SMS](/help/channels/author-sms-messages.md)
-   + [Crear un mensaje MMS](/help/channels/author-mms.md)
+   + [Creación de un mensaje MMS](/help/channels/author-mms.md)
    + [SMS: opción de inclusión doble para Sinch e Infobip](/help/channels/sms-double-opt-in.md)
 + Canal web {#web-channel}
    + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
