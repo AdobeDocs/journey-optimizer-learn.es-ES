@@ -13,10 +13,10 @@ hidefromtoc: true
 hide: true
 badgeBeta: label="Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
-source-git-commit: 507745fa63e82f8fde800c8538fdf8a2e2506c8d
-workflow-type: ht
-source-wordcount: '50'
-ht-degree: 100%
+source-git-commit: 7e8c682b4c7163e659e2cdee62ea05d14d4db7d9
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 57%
 
 ---
 
@@ -26,4 +26,4 @@ Obtenga información sobre cómo crear y ejecutar un plan de calentamiento de IP
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-Para obtener más información, consulte la documentación del producto [Introducción a los planes de calentamiento de IP](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html?lang=es) 
+Consulte la [Guía de prácticas recomendadas de entrega](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction) para prácticas recomendadas sobre [Criterios de segmentación](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [Consideraciones específicas del ISP durante el calentamiento de la IP](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming), y [Volumen](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) durante el calentamiento de la IP.
