@@ -1,23 +1,24 @@
 ---
 title: 'Caso de uso: Evento empresarial'
-description: Comprenda los casos de uso aplicables a los eventos empresariales. Obtenga información sobre cómo crear un recorrido mediante un evento empresarial y las prácticas recomendadas que se deben aplicar.
-jira: KT-7702
-thumbnail: 334234.jpg
+description: Aprenda a utilizar eventos empresariales en Journey Optimizer. Descubra cómo se pueden utilizar los datos de los eventos comerciales para la mensajería personalizada en recorrido.
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28T00:00:00Z
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
+
 # Caso de uso: Evento empresarial
 
-Comprenda los casos de uso aplicables a los eventos empresariales. Obtenga información sobre cómo crear un recorrido mediante un evento empresarial y las prácticas recomendadas que se deben aplicar.
+Aprenda a utilizar eventos empresariales en Journey Optimizer. Los eventos empresariales permiten a las marcas almacenar en déclencheur los recorridos basados en eventos no relacionados con personas, como notificar a los suscriptores cuando una publicación de noticias tiene contenido nuevo o enviar comunicaciones durante un evento deportivo. Descubra cómo se pueden utilizar los datos de los eventos comerciales para la mensajería personalizada en recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
