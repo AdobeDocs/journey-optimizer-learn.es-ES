@@ -1,7 +1,7 @@
 ---
-source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
+source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 87%
 
 ---
@@ -29,7 +29,7 @@ Experience League LIVE:
 
 ## Disponibilidad limitada {#limited-availability}
 
->[!NNota]
+>[!NOTE]
 >
 >Actualmente, esta función solo está disponible para un conjunto de organizaciones (disponibilidad limitada). Para obtener acceso, póngase en contacto con su representante de Adobe.
 
