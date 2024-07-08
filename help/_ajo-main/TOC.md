@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '556'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -76,8 +76,8 @@ ht-degree: 95%
       + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidad de SPA en el editor web](/help/channels/singel-page-application-support.md)
 + Gestión de contenido{#content-management}
-   + [Administrar Assets](/help/assets-essentials-overview.md)
-   + [Creación y uso de fragmentos de expresiones](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [Administración de recursos](/help/assets-essentials-overview.md)
+   + [Creación y uso de fragmentos de expresiones](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
    + [Configuración de mensajes multilingües](/help/content-management/set-up-multilingual-messages.md)
 + Personalización del contenido {#personalize-content}
    + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -112,7 +112,7 @@ ht-degree: 95%
    + [Informes de nivel de canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportación de informes en formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Uso de alertas](/help/administration/alerts.md)
-   + [Informes mejorados con Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [Creación de informes mejorada con Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Configuración {#configuration}
    + Configuración de canales {#channel-configuration}
       + [Configuración del canal de correo electrónico](/help/set-up-channels/set-up-email-channel.md)

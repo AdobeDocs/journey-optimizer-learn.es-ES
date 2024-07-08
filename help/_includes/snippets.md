@@ -1,8 +1,8 @@
 ---
 source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 # Fragmentos de AJO
@@ -31,5 +31,5 @@ Experience League LIVE:
 
 >[!NOTE]
 >
->Actualmente, esta función solo está disponible para un conjunto de organizaciones (disponibilidad limitada). Para obtener acceso, póngase en contacto con su representante de Adobe.
+>Ahora mismo, esta función solo está disponible para un conjunto de organizaciones (disponibilidad limitada). Para obtener acceso, póngase en contacto con su representante de Adobe.
 
