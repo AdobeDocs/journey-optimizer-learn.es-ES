@@ -1,5 +1,5 @@
 ---
-title: Publicación de un recorrido y estados de recorrido
+title: Estados de recorrido y recorrido de Publish a
 description: Comprenda los diferentes estados de un recorrido y el impacto de la publicación.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# Publicación de un recorrido y estados de recorrido
+# Estados de recorrido y recorrido de Publish a
 
 Comprenda los diferentes estados de un recorrido y el impacto de la publicación.
 

@@ -7,8 +7,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
-workflow-type: ht
-source-wordcount: '479'
+workflow-type: tm+mt
+source-wordcount: '411'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 Los retos ofrecen un escenario y los requisitos necesarios para practicar lo que ha aprendido. Los retos le ayudan a evaluar su nivel de habilidades e identificar lagunas de conocimiento.
 
-Cada reto de esta sección aborda un caso práctico único que usted implementa. El público destinatario (persona) y las competencias requeridas se enumeran al principio de cada reto.
+Cada reto de esta sección aborda un caso práctico único que usted implementa. El público (persona) destinatario y las competencias requeridas se enumeran al principio de cada reto.
 
 ## Requisitos previos
 

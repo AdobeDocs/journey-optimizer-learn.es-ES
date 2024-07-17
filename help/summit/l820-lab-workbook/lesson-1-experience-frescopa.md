@@ -30,38 +30,38 @@ En esta lección, va a experimentar la interacción con la marca como consumidor
 
 ## Ejercicio 1.1: Crear una cuenta
 
-1. Vaya a [Página web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+1. Vaya al [sitio web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
-1. En la página de inicio de Fréscopa, haga clic en **[!UICONTROL Iniciar sesión]**.
+1. En la página de inicio de Fréscopa, haz clic en **[!UICONTROL Iniciar sesión]**.
 
    ![Página principal de Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Página principal de Fréscopa")
 
 1. En la página de inicio de sesión, seleccione **[!UICONTROL Crear una cuenta]**.
 
-   ![Página de inicio de sesión de Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Inicio de sesión en Fréscopa")
+   ![Página de inicio de sesión de Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Inicio de sesión de Fréscopa")
 
 1. En la página siguiente, rellene sus datos:
 
-   1. Añada su **nombre** y **apellido**.
+   1. Agregue su **nombre** y **apellido**.
 
-   1. Introduzca una **dirección de email** que puede acceder durante el laboratorio.
+   1. Escriba una **dirección de correo electrónico** a la que tenga acceso durante el laboratorio.
 
       >[!IMPORTANT]
       > Asegúrese de recordar la dirección de correo electrónico con la que se registró y de que puede acceder a la cuenta de correo electrónico durante el laboratorio. Necesita esto para iniciar sesión en el sitio web y la aplicación.
 
-   1. Para recibir mensajes SMS que cree durante el laboratorio, escriba su **número de teléfono móvil**, incluido el código de país:
+   1. Para recibir mensajes SMS creados durante el laboratorio, escribe tu **número de teléfono móvil**, incluido el código de país:
 
       Por ejemplo: `+14502741234`
 
-   1. Introduzca una **dirección postal** y **ciudad**.
+   1. Escriba una **dirección** y una **ciudad**.
 
-   1. Introduzca su **número de puesto**. (Puede encontrarlo en el escritorio de su máquina de laboratorio).
+   1. Escriba su **número de puesto**. (Puede encontrarlo en el escritorio de su máquina de laboratorio).
 
-      ![Escritorio de máquina Lab](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+      ![Escritorio de máquina de laboratorio](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 
-   1. Para especificar si tiene una máquina Fréscopa, elija **Sí** o **No**.
+   1. Para especificar si tienes una máquina Fréscopa, elige **Sí** o **No**.
 
-1. Clic **Registrar**.
+1. Haga clic en **Registrar**.
 
    ![Página de registro de Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
@@ -81,23 +81,23 @@ Instalación específica del dispositivo:
 
 Después de instalar la aplicación, debe confiar en el desarrollador empresarial de Adobe:
 
-1. Ir a **Configuración** > **General** > **Administración de VPN y dispositivos**.
+1. Vaya a **Configuración** > **General** > **Administración de VPN y dispositivos**.
 
    ![Pantalla de configuración de administración de dispositivos](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Pantalla de configuración de administración de dispositivos"){width="250" align="center" zoomable="yes"}
 
-1. Seleccionar **Adobe Systems Inc** y **Trust Adobe Systems Inc**.
+1. Seleccione **Adobe Systems Inc** y **Trust Adobe Systems Inc**.
 
    ![Pantalla de selección de Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Pantalla de selección de Adobe Systems"){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![Pantalla Confiar en Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![Confiar en la pantalla de Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * Ahora debería poder iniciar el **Aplicación Fréscopa** en su iPhone: ![Icono de aplicación Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * Ahora deberías poder lanzar la **aplicación Fréscopa** en tu iPhone: ![Icono de la aplicación Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. Abra la aplicación.
 
-1. En la ventana emergente, haga clic en **Permitir**, para permitir que la aplicación DX Demo le envíe notificaciones.
+1. En la ventana emergente, haz clic en **Permitir** para permitir que la aplicación DX Demo te envíe notificaciones.
 
    ![ventana emergente de notificación](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
@@ -111,13 +111,13 @@ En Android, descargue e instale el APK siguiendo las instrucciones de alerta que
 <br>
 ![Pantalla de instalación de Android](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* Ahora debería poder iniciar el **Aplicación Fréscopa** en su dispositivo Android: ![Icono de aplicación Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* Ahora deberías poder lanzar la **aplicación Fréscopa** en tu dispositivo Android: ![Icono de la aplicación Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
 ## Ejercicio 1.3: explorar el sitio web y la aplicación
 
-Familiarícese con las [Página web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  y la aplicación móvil. Experimente los diferentes mensajes en la aplicación, push y SMS implementados en AJO y activados a través de sus interacciones.
+Familiarícese con el [sitio web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"} y la aplicación móvil. Experimente los diferentes mensajes en la aplicación, push y SMS implementados en AJO y activados a través de sus interacciones.
 
 Estas son algunas cosas que debe probar:
 
@@ -142,7 +142,7 @@ Recibirá insignias para cada una de estas actividades.
 >[!SUCCESS]
 >Compruebe su estado:
 >
->En la página de inicio de Frescopa, haga clic en **Progreso del desafío de Adobe Summit Lab** (parte inferior de la página).
+>En la página de inicio de Frescopa, haz clic en **Progreso del Desafío del Laboratorio de Adobe Summit** (parte inferior de la página).
 > 
 >  ![Botón de progreso del desafío](/help/summit/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >

@@ -30,17 +30,17 @@ Ahora que ha creado experiencias móviles para la aplicación, en esta lección,
 
 En este ejercicio, crea la campaña y define en qué página web aparece el mensaje en la aplicación.
 
-1. En Journey Optimizer, en el panel de navegación izquierdo, debajo de **ADMINISTRACIÓN DE RECORRIDO** select **Campañas**.
+1. En Journey Optimizer, en el panel de navegación izquierdo, en **ADMINISTRACIÓN DE RECORRIDO**, seleccione **Campañas**.
 
-1. Clic **Crear campaña**.
+1. Haga clic en **Crear campaña**.
 
    ![Crear campaña](/help/summit/l820-lab-workbook/assets/4-1-create-campaign.png)
 
-1. En el **Crear campaña** , en la **Acción** , seleccione la **Mensaje en la aplicación** casilla de verificación.
+1. En la página **Crear campaña**, en la sección **Acción**, active la casilla **Mensaje en la aplicación**.
 
-1. Desde el **Enviar a** menú desplegable, seleccione **Web.**
+1. En el menú desplegable **Enviar a**, seleccione **Web.**
 
-1. Introduzca la siguiente URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Esta es la página web en la que aparecerá el mensaje.*
+1. Escriba la siguiente dirección URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Esta es la página web en la que aparecerá el mensaje.*
 
    ![URL en la aplicación](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
@@ -50,9 +50,9 @@ En este ejercicio, crea la campaña y define en qué página web aparece el mens
 
 En esta página, puede definir las propiedades de la campaña y el evento que déclencheur el mensaje en la aplicación para que aparezca en la página web. Mantenga el resto de configuraciones en la predeterminada. Para este ejercicio no es necesario definir una audiencia específica.
 
-### 3.2.1. [!UICONTROL Sección Propiedades]
+### 3.2.1 [!UICONTROL Sección Propiedades]
 
-1. En el **Propiedades** , asigne a su campaña un valor único **Nombre**:
+1. En la sección **Propiedades**, asigne a tu campaña un **Nombre** único:
 
    >[!NOTE]
    > Asegúrese de comenzar el nombre con su número de asiento, para que pueda
@@ -67,23 +67,23 @@ En esta página, puede definir las propiedades de la campaña y el evento que d�
 
 En esta sección define los déclencheur para que el mensaje aparezca en el sitio web. Usted define un déclencheur único que le permite enviarse el mensaje a sí mismo.
 
-1. Desplácese hacia abajo hasta el **[!UICONTROL sección déclencheur]**, luego haga clic en **[!UICONTROL Editar déclencheur]**.
+1. Desplácese hacia abajo hasta la **[!UICONTROL sección de Déclencheur]** y, a continuación, haga clic en **[!UICONTROL Editar déclencheur]**.
 
    ![modificar](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
-1. En el generador de reglas, haga clic en **[!UICONTROL Inicio de aplicación]** y en la lista desplegable, seleccione  *Datos enviados a Platform*.
+1. En el generador de reglas, haga clic en **[!UICONTROL Inicio de la aplicación]** y, en la lista desplegable, seleccione *Datos enviados a la plataforma*.
    ![Menú desplegable de evento de déclencheur](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
-1. Añada una condición haciendo clic en **[!UICONTROL + Agregar condición]**.
+1. Agregue una condición haciendo clic en **[!UICONTROL + Agregar condición]**.
 
-   ![botón añadir condición](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![botón de añadir condición](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-1. Desde el **[!UICONTROL Seleccionar un rasgo]** menú desplegable, seleccione **[!UICONTROL Tipo de evento de XDM]**.
+1. En el menú desplegable **[!UICONTROL Seleccionar un rasgo]**, seleccione **[!UICONTROL tipo de evento XDM]**.
 
-   ![Tipo de evento de XDM](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![Tipo de evento XDM](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-1. En el siguiente campo de texto, añada un *`<custom string value>`* que pueda recordar, y presione **[!UICONTROL Añadir]** `<custom string value>` para guardar el valor.
+1. En el siguiente campo de texto, agregue un *`<custom string value>`* que pueda recordar y presione **[!UICONTROL Agregar]** `<custom string value>` para guardar el valor.
 
    Este valor de cadena personalizado se utiliza más adelante para activar el mensaje.
 
@@ -93,9 +93,9 @@ En esta sección define los déclencheur para que el mensaje aparezca en el siti
    > Por ejemplo: `99web`
    > 
 
-   ![añadir valor de cadena de déclencheur personalizado](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![agregar valor de cadena de déclencheur personalizado](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
-1. Pulse el botón **[!UICONTROL Listo]** en la parte superior derecha.
+1. Presione el botón **[!UICONTROL Listo]** en la parte superior derecha.
 
 >[!SUCCESS]
 >
@@ -108,27 +108,27 @@ En esta sección define los déclencheur para que el mensaje aparezca en el siti
 
 En esta sección define el contenido, el diseño y el diseño del mensaje.
 
-1. Haga clic en **Editar contenido** botón en el **Acción** para acceder a la construcción de creación.
+1. Haga clic en el botón **Editar contenido** de la sección **Acción** para acceder a la construcción de creación.
 
    ![Botón Editar contenido](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. El proceso de creación es el mismo proceso que ha completado en los ejercicios en la aplicación móvil anteriores. Dedique tiempo a editar libremente su mensaje con su propio título, cuerpo y contenido multimedia.
 
-   Si utiliza el diseño modal o de pantalla completa, puede agregar un botón. Puede usar esta URL para abrir la página del producto: **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
+   Si utiliza el diseño modal o de pantalla completa, puede agregar un botón. Puede usar esta dirección URL para abrir la página de producto: **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
 
-1. Cuando haya terminado de editar el mensaje, haga clic en **[!UICONTROL Revisar para activar]**.
+1. Cuando termine de editar el mensaje, haga clic en **[!UICONTROL Revisar para activar]**.
 
-1. Si todo parece correcto en la pantalla de revisión, haga clic en **[!UICONTROL Activar]** para publicar el mensaje web en la aplicación.
+1. Si todo parece correcto en la pantalla de revisión, haga clic en **[!UICONTROL Activar]** para publicar el mensaje en la aplicación web.
 
 1. Se le devolverá al Panel de campañas.
 
-   Espere a que el estado de su campaña cambie a **Activo** antes de pasar a 4.1.4.
+   Espere a que su estado de campaña cambie a **Activo** antes de pasar a 4.1.4.
 
 ## Ejercicio 3.3 Déclencheur del mensaje web en la aplicación
 
-1. Vaya a la página web de Fréscopa y navegue hasta la **Ejercicio** en el explorador.
+1. Vaya al sitio web de Fréscopa y navegue hasta la página **Ejercicio** de su explorador.
 
-   ![Vínculo Ejercicios web](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![vínculo de ejercicios web](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Asegúrese de actualizar la página web.
 
@@ -147,7 +147,7 @@ En esta sección define el contenido, el diseño y el diseño del mensaje.
 
 ## Recursos adicionales
 
-**Cómo guardar vídeos:**
+**Vídeos explicativos:**
 
 * [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
 * [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
@@ -155,6 +155,6 @@ En esta sección define el contenido, el diseño y el diseño del mensaje.
 **Documentación del producto:**
 
 * [Introducción al canal en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Creación de un mensaje web en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Crear un mensaje en la aplicación web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [Diseño del contenido en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Comprobación y envío de la notificación en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Compruebe y envíe su notificación en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

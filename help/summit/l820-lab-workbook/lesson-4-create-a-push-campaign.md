@@ -33,24 +33,24 @@ En este ejercicio, pondrá su sombrero de experto en marketing e implementará u
 
 En este ejercicio, crea la campaña push, diseña y personaliza la notificación push y la envía a su propio dispositivo.
 
-1. En Journey Optimizer, en el panel de navegación izquierdo, en el **[!UICONTROL ADMINISTRACIÓN DE RECORRIDO]** , seleccione **Campañas**.
+1. En Journey Optimizer, en el panel de navegación izquierdo, en la sección **[!UICONTROL ADMINISTRACIÓN DE RECORRIDO]**, seleccione **Campañas**.
 
-1. Clic **[!UICONTROL Crear campaña]**.
+1. Haga clic en **[!UICONTROL Crear campaña]**.
 
    ![Crear campaña](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
-1. En el **[!UICONTROL Crear campaña]** , en la  **[!UICONTROL Acción]** , seleccione la **[!UICONTROL Notificación push]** casilla de verificación.
+1. En la página **[!UICONTROL Crear campaña]**, en la sección **[!UICONTROL Acción]**, active la casilla **[!UICONTROL Notificación push]**.
 
-1. Desde el **[!UICONTROL Superficie de aplicación]** menú desplegable, seleccione *[!DNL Frecopa-Push]*.
+1. En el menú desplegable **[!UICONTROL Superficie de la aplicación]**, seleccione *[!DNL Frecopa-Push]*.
 
-1. Clic **[!UICONTROL Crear]** para crear una campaña push.
+1. Haga clic en **[!UICONTROL Crear]** para crear una campaña push.
 
    ![Superficie de aplicación](/help/summit/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
 >Ahora debería estar en la página de propiedades de Campaign:
-> ![Propiedades de Campaign](/help/summit/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Propiedades de la campaña ](/help/summit/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Ejercicio 4.2: Configuración de la campaña
 
@@ -60,17 +60,17 @@ En esta página, puede configurar las propiedades, la audiencia, las acciones y 
 
 Dé un nombre a su campaña. Asegúrese de comenzar el nombre con el número de asiento para que pueda encontrar fácilmente la campaña cuando la busque.
 
-Por ejemplo, si el número de puestos es 99: `99 - 10% Discount Campaign`.
+Por ejemplo, si el número de puesto es 99: `99 - 10% Discount Campaign`.
 
-### 4.2.2 **[!UICONTROL Sección Audiencia]**
+### 4.2.2 **[!UICONTROL Sección de audiencias]**
 
 1. En la sección de audiencia, haga clic en **[!UICONTROL Seleccionar audiencia]**.
 
    ![sección de audiencia](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
-1. En el **[!UICONTROL Seleccionar audiencia]** , busque la audiencia:
+1. En la pantalla **[!UICONTROL Seleccionar audiencia]**, busque la audiencia:
 
-   **Lab - Asiento`your seat number`**
+   **Laboratorio - Puesto`your seat number`**
 
 1. Seleccione la audiencia y haga clic en **[!UICONTROL Guardar]**.
 
@@ -80,38 +80,38 @@ Por ejemplo, si el número de puestos es 99: `99 - 10% Discount Campaign`.
 
 En este ejercicio, se diseña y personaliza la notificación push.
 
-1. En el **[!UICONTROL Acción]** , haga clic en **[!UICONTROL Editar contenido] botón**.
+1. En la sección **[!UICONTROL Acción]**, haga clic en el botón **[!UICONTROL Editar contenido]**.
 
    ![Botón Editar contenido](/help/summit/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
-1. En la pantalla siguiente, según el dispositivo móvil que tenga, seleccione la opción [!DNL iOS™] o [!DNL Android™] para configurar el contenido.
+1. En la siguiente pantalla, dependiendo del dispositivo móvil que tenga, seleccione la pestaña [!DNL iOS™] o [!DNL Android™] para configurar el contenido.
 
 >[!BEGINTABS]
 
 >[!TAB iOS]
 
-![Pestaña iOS](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)
+![Ficha iOS](/help/summit/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![Pestaña Android](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
+![Ficha Android](/help/summit/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
 #### 4.2.3.1 [!UICONTROL Escribir mensaje] sección
 
-1. **Componga el mensaje:** No dude en añadir cualquier texto que desee. Estos son ejemplos que puede utilizar:
+1. **Escriba su mensaje:** No dude en agregar el texto que desee. Estos son ejemplos que puede utilizar:
 
    * Título: `Get 10% off today!`
-   * Texto independiente: `Today only! Get 10% off on your House Blend coffee purchase!`
+   * Texto del cuerpo: `Today only! Get 10% off on your House Blend coffee purchase!`
 
      ![Escribir mensaje](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-#### 4.2.3.2 Cambiar el comportamiento al hacer clic del mensaje a **abrir una página de producto**
+#### 4.2.3.2 Cambiar el comportamiento al hacer clic del mensaje para **abrir una página de producto**
 
-1. En el **[!UICONTROL Comportamiento al hacer clic]** , seleccione **[!UICONTROL Vínculo profundo]** desde el **[!UICONTROL Comportamiento de clic en cuerpo]** desplegable.
+1. En la sección **[!UICONTROL Comportamiento al hacer clic]**, seleccione **[!UICONTROL Vínculo profundo]** en la lista desplegable **[!UICONTROL Comportamiento del clic en el cuerpo]**.
 
-1. Copie y pegue la siguiente dirección URL en **Campo de URL**:
+1. Copie y pegue la siguiente dirección URL en el **campo URL**:
 
    `dxdemo://exoticVibes`
 
@@ -119,15 +119,15 @@ En este ejercicio, se diseña y personaliza la notificación push.
 
 #### 4.2.3.3 Añadir una imagen al mensaje
 
-1. En el **[!UICONTROL Añadir medios]** , haga clic en **[!UICONTROL Añadir medios]**.
+1. En la sección **[!UICONTROL Agregar medios]**, haga clic en **[!UICONTROL Agregar medios]**.
 
-   ![añadir botones multimedia](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![agregar botones multimedia](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
-1. En el **[!UICONTROL Seleccionar recursos]** pantalla, en el panel de navegación izquierdo, abra **Carpeta Fréscopa** y seleccione una imagen de esa carpeta.
+1. En la pantalla **[!UICONTROL Seleccionar Assets]**, en el panel de navegación izquierdo, abre la **carpeta Fréscopa** y selecciona una imagen de esa carpeta.
 
    Por ejemplo: `HouseBlend.png`
 
-1. Haga clic en la imagen y en **[!UICONTROL Seleccionar] botón** para añadir la imagen a la notificación push.
+1. Haga clic en la imagen y luego en el botón **[!UICONTROL Seleccionar]** para agregar la imagen a la notificación de inserción.
 
    ![seleccionar imagen](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
@@ -147,29 +147,29 @@ Si ha completado esta parte del ejercicio y todavía tiene tiempo, pruebe el eje
 
 #### Personalice el mensaje que está enviando añadiendo el nombre del destinatario
 
-1. Clic **diálogo de personalización** junto al **[!UICONTROL Cuerpo]** field.
+1. Haga clic en **cuadro de diálogo de personalización** junto al campo **[!UICONTROL Cuerpo]**.
 
    ![botón de personalización](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
 
-1. En el **diálogo de personalización** , coloque el cursor donde desee añadir el nombre en el texto.
+1. En la pantalla **cuadro de diálogo de personalización**, coloque el cursor donde desee agregar el nombre en el texto.
 
-1. Asegúrese de que la variable **Atributos de perfil** están seleccionados en el panel de navegación izquierdo.
+1. Asegúrese de que los **atributos de perfil** estén seleccionados en el panel de navegación izquierdo.
 
    ![Atributo de perfil](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
-1. En el **Campo de búsqueda**, busque: `first name`.
+1. En el **campo de búsqueda**, busque: `first name`.
 
-1. Clic **+** junto al **Nombre (Atributos de perfil>Persona>Nombre completo)** para añadir el campo de personalización al texto.
+1. Haga clic en **+** junto al **Nombre (atributos de perfil>Persona>Nombre completo)** para agregar el campo de personalización al texto.
 
-   ![Buscar el nombre](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![Buscar nombre](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
    > Este es el aspecto que debería tener el texto:
    > 
-   >![Token de personalización](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Token de Personalization](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
 
-1. Clic **[!UICONTROL Guardar]** para guardar la personalización.
+1. Haga clic en **[!UICONTROL Guardar]** para guardar la personalización.
 
 
    >[!SUCCESS]
@@ -185,27 +185,27 @@ Si ha completado esta parte del ejercicio y todavía tiene tiempo, pruebe el eje
 
 Si está satisfecho con el contenido del mensaje, puede activar el mensaje:
 
-1. Clic **[!UICONTROL Revisar para activar]**.
+1. Haga clic en **[!UICONTROL Revisar para activar]**.
 
-   ![botón revisar y activar](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![botón de revisión y activación](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
-1. En el **[!UICONTROL Revisar para activar]** , haga clic en **[!UICONTROL Activar]**.
+1. En la pantalla **[!UICONTROL Revisar para activar]**, haga clic en **[!UICONTROL Activar]**.
 
    ![revisar para activar la pantalla](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
-> En el **Página de información general de campañas**, busque la campaña y compruebe el estado.
+> En la **página de información general de campañas**, busque su campaña y compruebe el estado.
 >
-> ![estado de campaña](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![estado de la campaña](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > El estado cambia de Procesamiento a Activo, a Completado: esto puede tardar un par de minutos.
 > Una vez que el estado haya cambiado a completado:
 >
-> ![resultados push](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![resultados de inserción](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## Recursos adicionales
 
-**Cómo guardar vídeos:**
+**Vídeos explicativos:**
 
 * [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
 
@@ -213,5 +213,5 @@ Si está satisfecho con el contenido del mensaje, puede activar el mensaje:
 
 * [Introducción a las notificaciones push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
 * [Crear una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [Diseño de una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [Compruebe y envíe su notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [Diseñar una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Comprueba y envía tu notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

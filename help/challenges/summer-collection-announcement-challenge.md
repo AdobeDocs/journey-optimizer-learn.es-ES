@@ -8,8 +8,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
-source-wordcount: '1120'
+workflow-type: tm+mt
+source-wordcount: '1108'
 ht-degree: 100%
 
 ---
@@ -103,7 +103,7 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
 
 1. Cree un recorrido llamado *Luma: Anuncio de la colección de verano* en función de las siguientes directrices:
 
-   1. Envíe el correo electrónico *Luma: Nuevo anuncio de la colección de verano* al segmento de los *Clientes activos*, y mantenga el 10 % de la audiencia como grupo de control.
+   1. Envíe el correo electrónico *Luma: Nuevo anuncio de la colección de verano* al segmento de los *Clientes activos*, y mantenga el 10 % del público como grupo de control.
       * Título del mensaje *Luma - Anuncio de la colección de verano*
       * Línea de asunto *(nombre del destinatario), la nueva colección de verano de Luma está aquí.*
       * Utilice el archivo de HTML proporcionado `SeasonalCollectionEmail.html` para el cuerpo del correo electrónico.
