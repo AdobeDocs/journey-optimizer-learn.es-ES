@@ -1,5 +1,5 @@
 ---
-title: Administrar fragmentos
+title: Administración de fragmentos
 description: Obtenga información sobre cómo administrar, crear y utilizar fragmentos en Adobe Journey Optimizer.
 feature: Templates
 role: User
@@ -11,13 +11,13 @@ jira: KT-13222
 thumbnail: 3419932.jpeg
 exl-id: f15df6cf-7317-465f-afe5-4590561e4493
 source-git-commit: f01d4b619ed76ff08b7b2626c14a0673b06f8155
-workflow-type: tm+mt
-source-wordcount: '30'
+workflow-type: ht
+source-wordcount: '28'
 ht-degree: 100%
 
 ---
 
-# Administrar fragmentos
+# Administración de fragmentos
 
 Obtenga información sobre cómo administrar, crear y utilizar fragmentos en Adobe Journey Optimizer.
 
