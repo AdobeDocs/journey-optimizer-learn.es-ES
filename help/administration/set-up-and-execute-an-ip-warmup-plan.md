@@ -1,6 +1,6 @@
 ---
-title: Configuración y ejecución de un plan de calentamiento de IP
-description: Comprenda qué es el calentamiento de la IP y aprenda a configurar y ejecutar un plan de calentamiento de IP en Adobe Journey Optimizer.
+title: Creación y ejecución de un plan de calentamiento de IP
+description: Comprende qué es el calentamiento de IP y configura y ejecuta un plan de calentamiento de IP en Adobe Journey Optimizer.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
-# Configuración y ejecución de un plan de calentamiento de IP
+# Creación y ejecución de un plan de calentamiento de IP
 
-Comprenda qué es el calentamiento de la IP y aprenda a configurar y ejecutar un plan de calentamiento de IP en Adobe Journey Optimizer.
+Comprende qué es el calentamiento de IP y configura y ejecuta un plan de calentamiento de IP en Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 

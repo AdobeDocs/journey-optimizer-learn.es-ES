@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -74,11 +74,11 @@ ht-degree: 94%
       + [Compatibilidad de SPA en el editor web](/help/channels/singel-page-application-support.md)
 + Gestión de contenido{#content-management}
    + [Administración de recursos](/help/assets-essentials-overview.md)
-   + [Administrar plantillas de contenido](/help/content-management/content-templates.md)
-   + [Administrar fragmentos](/help/content-management/manage-fragments.md)
-   + [Crear fragmentos de expresiones](/help/content-management/expression-fragments.md)
-   + [Configuración de mensajes multilingües](/help/content-management/set-up-multilingual-messages.md)
-   + [Creación de un mensaje multilingüe](/help/content-management/create-multilingual-messages.md)
+   + [Administración de plantillas de contenido](/help/content-management/content-templates.md)
+   + [Administración de fragmentos](/help/content-management/manage-fragments.md)
+   + [Creación de fragmentos de expresiones](/help/content-management/expression-fragments.md)
+   + [Configuración de mensajería multilingüe](/help/content-management/set-up-multilingual-messages.md)
+   + [Creación de mensajería multilingüe](/help/content-management/create-multilingual-messages.md)
 + Personalización del contenido {#personalize-content}
    + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Adición de ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -117,9 +117,9 @@ ht-degree: 94%
    + Configuración de canales {#channel-configuration}
       + [Configuración del canal de correo electrónico](/help/set-up-channels/set-up-email-channel.md)
       + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [Configuración y ejecución de un plan de calentamiento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + [Creación y ejecución de un plan de calentamiento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configuración de credenciales de API de SMS y superficies de canal](/help/set-up-channels/set-up-sms-channel.md)
-      + [Traiga su propio proveedor de SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Traer su propio proveedor de SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Configurar las reglas de frecuencia de mensaje](/help/administration/configure-frequency-rules.md)
       + [Configuración de credenciales de API de MMS y superficies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurar recorridos {#journey-configuration}
