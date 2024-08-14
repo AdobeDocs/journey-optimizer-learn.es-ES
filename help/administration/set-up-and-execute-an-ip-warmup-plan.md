@@ -10,10 +10,10 @@ hide: false
 duration: 741
 last-substantial-update: 2024-08-14T00:00:00Z
 jira: KT-14602
-source-git-commit: f9fe16e7a7c0d5a8fffe4a9a586ca3feb4485e3a
+source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 30%
+source-wordcount: '99'
+ht-degree: 4%
 
 ---
 
@@ -24,4 +24,6 @@ Comprenda qué es el calentamiento de la IP y aprenda a configurar y ejecutar un
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
-Consulte la [Guía de prácticas recomendadas de entrega](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/introduction) para prácticas recomendadas sobre [Criterios de segmentación](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [Consideraciones específicas del ISP durante el calentamiento de la IP](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) y [Volumen](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) durante el calentamiento de la IP.
+Consulte la [Guía de prácticas recomendadas de entrega](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/introduction) para conocer las prácticas recomendadas sobre los [criterios de segmentación](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), las [consideraciones específicas del ISP durante el calentamiento de la IP](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) y [volumen](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) durante el calentamiento de la IP.
+
+Consulte [Introducción a los planes de calentamiento de IP](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs)para obtener más información sobre esta característica.
