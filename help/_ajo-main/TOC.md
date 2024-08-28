@@ -46,7 +46,7 @@ ht-degree: 99%
 + Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
    + [Información general del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creación de público con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
+   + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + Canales {#channels}
    + Canal de experiencia basada en código{#code-based-experience-channel}
       + [Creación de una campaña de experiencia basada en código](/help/channels/create-a-code-based-experience-campaign.md)
@@ -116,7 +116,7 @@ ht-degree: 99%
 + Configuración {#configuration}
    + Configuración de canales {#channel-configuration}
       + [Configuración de canales](/help/set-up-channels/configure-channels.md)
-      + [Configuración de canal guiado](/help/set-up-channels/guided-channel-setup.md)
+      + [Configuración de canales guiada](/help/set-up-channels/guided-channel-setup.md)
       + [Configuración del canal de correo electrónico](/help/set-up-channels/set-up-email-channel.md)
       + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Creación y ejecución de un plan de calentamiento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
