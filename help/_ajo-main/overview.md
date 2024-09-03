@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 100%
+source-wordcount: '343'
+ht-degree: 89%
 
 ---
 
@@ -30,26 +30,12 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 <div id="events-section">
 
-## Eventos de Experience League Live
+## Últimos eventos de Experience League Live
 
+* **[Resumen de verano: tres características que debe probar en Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *Sobrecargue la participación de sus clientes este verano con las tres funciones de Adobe Journey Optimizer: experimentación de recorridos, restricción de frecuencia y mensajería multilingüe.*
 * **[Nuevo canal de experiencia basado en código en Journey Optimizer](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Aprenda a activar el control de superficies entrantes y de personalización granular con acciones centradas en el desarrollador.*
-
-* **[Mensajería activada por API en Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=es){target="_blank"}**
-  *Aprenda a utilizar las API de REST para comunicaciones transaccionales y de marketing contextuales, personalizadas y en tiempo real.*
-
-* **[Maximice el potencial de su aplicación móvil con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=es){target="_blank"}**
-  *Conozca las ventajas de la mensajería en la aplicación como canal de participación en tiempo real y cómo configurar y crear experiencias de aplicación móvil personalizadas en Adobe Journey Optimizer.*
-
-* **[Explore el futuro de Adobe Journey Optimizer con el canal web y la experimentación de contenido](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=es){target="_blank"}**
-  *El nuevo canal web permite a los especialistas en marketing crear campañas web con un diseñador visual WYSIWYG. Además, Journey Optimizer ahora le permite experimentar con contenido en cualquier canal: correo electrónico, web, push, en la aplicación, SMS y más.*
-
-* **[Ejecución de campañas en Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=es){target="_blank"}**
-  *En este episodio de Experience League en directo, celebrado originalmente el 22 de septiembre de 2022, la presentadora Sandra Hausmann y los expertos en productos Bridgette Darling y Frederic Mary analizan casos de uso que cubren esta nueva funcionalidad y muestran cómo configurar y ejecutar fácilmente una campaña en Journey Optimizer.*
-
-* **[Notificaciones push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=es)**
-  *En este episodio en directo de Experience League, hablamos sobre los casos de uso comunes de las notificaciones push con Adobe Journey Optimizer y descubra los detalles técnicos sobre cómo configurar una aplicación para notificaciones push con tecnología Adobe Experience Platform.*
-
 </div>
 
 <div id="staff-picks-section">
