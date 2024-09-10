@@ -1,6 +1,6 @@
 ---
-title: 'Configuración de reglas empresariales: frecuencia de mensajes'
-description: Obtenga información sobre cómo configurar reglas de límite de frecuencia. Consulte la [documentación del producto]([https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules)] para obtener más información.
+title: 'Configuración de reglas empresariales: límite de frecuencia'
+description: Obtenga información sobre cómo configurar reglas de límite de frecuencia.
 feature: Frequency Rules
 role: User
 level: Beginner
@@ -8,15 +8,15 @@ doc-type: Feature Video
 duration: 332
 last-substantial-update: 2024-09-10T00:00:00Z
 jira: KT-14860
-source-git-commit: 406d57307ca700d0cf4e95a39d55665654c3de93
+source-git-commit: 25c9704ad0a1080d6796a6b1ec1557f986c2a786
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
 
-# Configuración de reglas empresariales: frecuencia de mensajes
+# Configuración de reglas empresariales: límite de frecuencia
 
 Obtenga información sobre cómo configurar reglas de límite de frecuencia.
 
