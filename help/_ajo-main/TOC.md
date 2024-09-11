@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 066df8631872b0322a7b0622ce273f27fd612272
+source-git-commit: d0c3d37dc6c3e28cab4ecd6cc8b03cfe65ef51c3
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 95%
+source-wordcount: '592'
+ht-degree: 93%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 95%
       + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidad de SPA en el editor web](/help/channels/singel-page-application-support.md)
 + Gestión de contenido{#content-management}
+   + [Creación de contenido con el asistente de IA en Journey Optimizer: acelerador de contenido](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Administración de recursos](/help/assets-essentials-overview.md)
    + [Administración de plantillas de contenido](/help/content-management/content-templates.md)
    + [Administración de fragmentos](/help/content-management/manage-fragments.md)
