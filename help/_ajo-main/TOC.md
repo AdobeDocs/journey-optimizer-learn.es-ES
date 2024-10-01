@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 94f3e7dacbfa0231829d60b90d73f90048029186
+source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 89%
+source-wordcount: '628'
+ht-degree: 88%
 
 ---
 
@@ -138,8 +138,8 @@ ht-degree: 89%
    + [Administración de acceso](/help/set-up-access/access-management.md)
    + [Configuración del control de acceso basado en atributos](/help/administration/attribute-based-access-control.md)
    + [Creación y administración de zonas protegidas](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Privacidad {#privacy}
-   + [Gobierno de datos](help/privacy/data-governance.md)
++ Gobernanza de datos y privacidad {#data-governance-and-privacy}
+   + [Marco de gobernanza de datos](/help/privacy/data-governance-framework.md)
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
 + Ejercicios y retos {#exercises-and-challenges}
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)
