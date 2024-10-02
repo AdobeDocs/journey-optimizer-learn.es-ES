@@ -1,8 +1,8 @@
 ---
-source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 80%
 
 ---
 # Fragmentos de AJO
@@ -38,3 +38,9 @@ Experience League LIVE:
 >[!AVAILABILITY]
 >
 >Actualmente, esta función está en versión beta y solo se encuentra disponible para los clientes de dicha versión. Para unirse al programa beta, póngase en contacto con el Servicio de atención al cliente de Adobe.
+
+## Vídeo de plataforma: Políticas (#platform-video)
+
+>>[!NOTE]
+>>
+En el vídeo se muestra esta función en la interfaz de usuario de Adobe Experience Platform. La misma funcionalidad está disponible en Journey Optimizer en las secciones ADMINISTRACIÓN DE DATOS y PRIVACIDAD en el panel de navegación izquierdo.

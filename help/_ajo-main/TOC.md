@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0f8cacf3676b4d14f11264fbd691fa73ef01f6ed
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 88%
+source-wordcount: '642'
+ht-degree: 86%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 88%
       + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
       + [Configuración de experimentos de contenido para correos electrónicos](/help/experimentation/content-experiments-for-emails.md)
    + Tarjetas de contenido{#content-cards}
-      + [Crear tarjetas de contenido](/help/channels/create-content-cards.md)
+      + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
    + En el canal de la aplicación{#in-app-channel}
       + [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
       + [Creación de un mensaje en la aplicación en un recorrido](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -141,6 +141,8 @@ ht-degree: 88%
    + [Creación y administración de zonas protegidas](/help/set-up-access/create-and-manage-sandboxes.md)
 + Gobernanza de datos y privacidad {#data-governance-and-privacy}
    + [Marco de gobernanza de datos](/help/privacy/data-governance-framework.md)
+   + [Clasificación de datos mediante etiquetas](/help/privacy/classify-data-using-lables.md)
+   + [Aplicar políticas de uso de datos en canales de Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
 + Ejercicios y retos {#exercises-and-challenges}
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)
