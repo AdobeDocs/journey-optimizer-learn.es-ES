@@ -5,14 +5,14 @@ feature: Governance, Privacy
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 0
-last-substantial-update: 2024-10-02T00:00:00Z
+duration: 209
+last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: true
 hidefromtoc: true
-source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Obtenga información sobre cómo crear y administrar políticas de uso de datos.
 >[!NOTE]
 >
 >En el vídeo se muestra esta función en la interfaz de usuario de Adobe Experience Platform. La misma funcionalidad está disponible en la interfaz de usuario de Journey Optimizer, en la sección PRIVACIDAD en el panel de navegación izquierdo.
+>
+>Vea este [tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) para comprender cómo se aplican las directivas en los canales de Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
