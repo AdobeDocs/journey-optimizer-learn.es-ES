@@ -1,5 +1,5 @@
 ---
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 80%
@@ -41,6 +41,6 @@ Experience League LIVE:
 
 ## Vídeo de plataforma: Políticas (#platform-video)
 
->>[!NOTE]
->>
-En el vídeo se muestra esta función en la interfaz de usuario de Adobe Experience Platform. La misma funcionalidad está disponible en Journey Optimizer en las secciones ADMINISTRACIÓN DE DATOS y PRIVACIDAD en el panel de navegación izquierdo.
+>[!NOTE]
+>
+>En el vídeo se muestra esta función en la interfaz de usuario de Adobe Experience Platform. La misma funcionalidad está disponible en Journey Optimizer en las secciones ADMINISTRACIÓN DE DATOS y PRIVACIDAD en el panel de navegación izquierdo.
