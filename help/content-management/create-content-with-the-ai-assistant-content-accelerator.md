@@ -1,6 +1,6 @@
 ---
-title: 'Creación de contenido con el asistente de IA en Journey Optimizer: acelerador de contenido'
-description: 'Aprenda a utilizar el asistente de IA en Journey Optimizer: acelerador de contenido para generar contenido según el canal para campañas en tiempo real 1:1 y por lotes que resuenen con la audiencia objetivo.'
+title: 'Creación de contenido con el Asistente de IA en Journey Optimizer: acelerador de contenido'
+description: 'Obtenga información sobre cómo utilizar el Asistente de IA en Journey Optimizer: acelerador de contenido para generar contenido según el canal para campañas por lotes y 1:1 en tiempo real que resuenen con el público destinatario.'
 feature: Content Assistant
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,15 +10,15 @@ last-substantial-update: 2024-09-11T00:00:00Z
 jira: KT-16190
 hidefromtoc: true
 source-git-commit: ff817698cf4722d408440e6f86af4466b8e97b61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Creación de contenido con el asistente de IA en Journey Optimizer: acelerador de contenido
+# Creación de contenido con el Asistente de IA en Journey Optimizer: acelerador de contenido
 
-Aprenda a utilizar el Asistente de IA en [!DNL Adobe Journey Optimizer - Content Accelerator] para generar contenido compatible con el canal para campañas en tiempo real 1:1 y por lotes que resuenen con la audiencia de destino.
+Obtenga información sobre cómo utilizar el Asistente de IA en [!DNL Adobe Journey Optimizer - Content Accelerator] para generar contenido según el canal para campañas por lotes y 1:1 en tiempo real que resuenen con el público destinatario.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433552/?learn=on)

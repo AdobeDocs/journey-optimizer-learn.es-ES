@@ -12,9 +12,9 @@ hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 50f0641415818db8763e5de58a74b77b7eab5d16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -28,5 +28,5 @@ Obtenga información sobre cómo configurar y validar una notificación de canal
 
 Consulte la documentación del producto para obtener más información:
 
-* [Introducción a la configuración guiada de canales](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
-* [Crear una configuración de canal](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
+* [Introducción a la configuración de canales guiada](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=es)
+* [Creación de una configuración de canales](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=es)

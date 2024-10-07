@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,12 +30,12 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 
 <div id="events-section">
 
-## Últimos eventos de Experience League Live
+## Últimos eventos en directo de Experience League
 
-* **[AI Bash: desbloqueando el poder del asistente de IA en las aplicaciones y campañas de Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[AI Bash: aprovechar el potencial del Asistente de IA en las aplicaciones de Adobe Experience Platform y Campaign](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
   *Explore cómo el Asistente de IA transforma las interacciones con los clientes y mejora la productividad en las aplicaciones de Adobe Experience Cloud y Adobe Campaign.*
-* **[Resumen de verano: tres características que debe probar en Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
-  *Sobrecargue la participación de sus clientes este verano con las tres funciones de Adobe Journey Optimizer: experimentación de recorridos, restricción de frecuencia y mensajería multilingüe.*
+* **[Resumen del verano: tres características que debe probar en Adobe Journey Optimizer](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *Aumente la participación de sus clientes este verano con las tres funciones de Adobe Journey Optimizer: experimentación de recorridos, restricción de frecuencia y mensajería multilingüe.*
 * **[Nuevo canal de experiencia basado en código en Journey Optimizer](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Aprenda a activar el control de superficies entrantes y de personalización granular con acciones centradas en el desarrollador.*
 
