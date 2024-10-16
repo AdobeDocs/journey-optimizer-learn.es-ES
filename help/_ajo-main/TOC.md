@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 88%
    + [Obtener ayuda con el asistente de IA](/help/ai-assistant.md)
 + Campañas {#create-campaigns}
    + [Creación de una campaña](/help/create-campaigns/create-a-campaign.md)
-   + [Creación de una campaña en la aplicación](/help/create-campaigns/in-app.md)
+   + [Creación de una campaña in-app](/help/create-campaigns/in-app.md)
    + [Configuración y envío de una campaña push](/help/create-campaigns/push-campaign.md)
    + [Creación de una campaña web](/help/create-campaigns/web-campaign.md)
    + [Creación de una campaña de experiencias basadas en código](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Creación de experimentos de contenido para campañas de correo electrónico](/help/create-campaigns/content-experiments.md)
 + Recorridos {#create-journeys}
-   + [Recorrido Designer: información general](/help/create-journeys/journey-designer-overview.md)
+   + [Diseñador de recorridos: información general](/help/create-journeys/journey-designer-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/create-journeys/new-journey-designer.md)
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,7 +44,7 @@ ht-degree: 88%
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
 + Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
-   + [Perfiles y audiencias: información general](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
+   + [Perfiles y públicos: información general](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Información general del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creación de público con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
@@ -64,8 +64,8 @@ ht-degree: 88%
    + Tarjetas de contenido{#content-cards}
       + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
    + En el canal de la aplicación{#in-app-channel}
-      + [Mensajes en la aplicación: información general](/help/channels/in-app-messages-overview.md)
-      + [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
+      + [Mensajes in-app: información general](/help/channels/in-app-messages-overview.md)
+      + [Creación de una campaña in-app](/help/channels/create-an-in-app-campaign.md)
       + [Creación de un mensaje en la aplicación en un recorrido](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
       + [Configuración de experimentos de contenido para mensajes en la aplicación](/help/experimentation/content-experiments-for-in-app-messages.md)
@@ -78,13 +78,13 @@ ht-degree: 88%
       + [Creación de un mensaje MMS](/help/channels/author-mms.md)
       + [SMS: opción de inclusión doble para Sinch e Infobip](/help/channels/sms-double-opt-in.md)
    + Canal web {#web-channel}
-      + [Personalización web: Información general](/help/channels/web-personalization-overview.md)
+      + [Personalización web: información general](/help/channels/web-personalization-overview.md)
       + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
       + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidad de SPA en el editor web](/help/channels/singel-page-application-support.md)
 + Gestión de contenido{#content-management}
    + [Creación de mensajes: información general](/help/content-management/message-authoring-overview.md)
-   + [Administración de activos digitales: información general](/help/content-management/digital-asset-management-overview.md)
+   + [Administración de recursos digitales: información general](/help/content-management/digital-asset-management-overview.md)
    + [Administración de recursos](/help/assets-essentials-overview.md)
    + [Administración de plantillas de contenido](/help/content-management/content-templates.md)
    + [Administración de fragmentos](/help/content-management/manage-fragments.md)
@@ -94,10 +94,10 @@ ht-degree: 88%
       + [Configuración de mensajería multilingüe](/help/content-management/set-up-multilingual-messages.md)
       + [Creación de mensajería multilingüe](/help/content-management/create-multilingual-messages.md)
    + Acelerador de contenido del Asistente de IA{#content-accelerator}
-      + [Acelerador de contenido del asistente de IA: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Creación de contenido con el acelerador de contenido del asistente de IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+      + [Acelerador de contenido del Asistente de IA: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Creación de contenido con el acelerador de contenido del Asistente de IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalización del contenido {#personalize-content}
-   + [Editor de Personalization: información general](/help/personalize-content/personalization-editor-overview.md)
+   + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
    + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Adición de ofertas como personalización](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Uso de información de evento contextual para la personalización](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -126,7 +126,7 @@ ht-degree: 88%
    + [Configuración de un destino de exportación de conjunto de datos](/help/data-management/configure-dataset-export-destination.md)
    + [Exportación de conjuntos de datos a ubicaciones de almacenamiento en la nube](/help/data-management/export-datasets.md)
 + Informes y monitorización {#report-and-monitor}
-   + [Medición e informes: información general](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [Medición y creación de informes: información general](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Informes en vivo y globales](/help/report-and-monitor/live-and-global-reports.md)
    + [Informes de nivel de canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportación de informes en formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
@@ -156,8 +156,8 @@ ht-degree: 88%
 + Gobernanza de datos y privacidad{#data-governance-and-privacy}
    + [Marco de gobernanza de datos](/help/privacy/data-governance-framework.md)
    + [Clasificación de datos mediante etiquetas](/help/privacy/classify-data-using-lables.md)
-   + [Crear políticas de uso de datos](/help/privacy/create-data-usage-policies.md)
-   + [Aplicar políticas de uso de datos en canales de Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
+   + [Creación de políticas de uso de datos](/help/privacy/create-data-usage-policies.md)
+   + [Aplicación de políticas de uso de datos en canales de Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
 + Ejercicios y retos {#exercises-and-challenges}
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)

@@ -1,5 +1,5 @@
 ---
-title: 'Administración de activos digitales: información general'
+title: 'Administración de recursos digitales: información general'
 description: Obtenga información sobre cómo administrar los recursos digitales en Journey Optimizer.
 feature: Assets
 role: User
@@ -9,14 +9,14 @@ duration: 69
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16293
 source-git-commit: b88998c6bba3f21e1325e0e03025fb6066d7e89b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Administración de activos digitales: información general
+# Administración de recursos digitales: información general
 
 Obtenga información sobre cómo administrar los recursos digitales en Journey Optimizer.
 
