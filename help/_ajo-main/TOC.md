@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a42991e258dd5f9964d7859003b1cc479bc79c21
+source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 98%
@@ -14,7 +14,6 @@ ht-degree: 98%
 # Tutoriales de Journey Optimizer {#tutorials}
 
 + [Tutoriales de Journey Optimizer](/help/_ajo-main/overview.md)
-+ [Experience League muestra grabaciones](/help/experience-league-live-show-recordings.md) en directo
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
@@ -162,5 +161,6 @@ ht-degree: 98%
 + Ejercicios y retos {#exercises-and-challenges}
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)
    + [Retos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=es)
++ [Experience League muestra grabaciones](/help/experience-league-live-show-recordings.md) en directo
 + Laboratorios Summit {#summit-labs}
    + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
