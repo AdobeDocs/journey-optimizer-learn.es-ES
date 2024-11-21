@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Creación de contenido mediante el acelerador de contenido del asistente de IA (vídeo)" src="../assets/3434635.jpg"/>
+      <img alt="Creación de contenido con el Acelerador de contenido del Asistente de IA" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Crear contenido con el acelerador de contenido del asistente de IA</strong>
+    <strong>Creación de contenido con el Acelerador de contenido del Asistente de IA</strong>
     </a>
     </div>
     <p>
-    <em>Aprenda a utilizar el acelerador de contenido del asistente de IA para generar sugerencias de variación de contenido proactivas tanto para texto como para imágenes.
+    <em>Descubra cómo utilizar el Acelerador de contenido del Asistente de IA para generar sugerencias proactivas de variación de contenido, tanto para texto como para imágenes.
 </em>
     <p>
   </td>
@@ -67,11 +67,11 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong>Configurar experimentos de contenido para campañas de correo electrónico </strong>
+    <strong>Configuración de experimentos de contenido para campañas de correo electrónico </strong>
     </a>
     </div>
     <p>
-    <em>Aprenda a configurar experimentos de contenido para pruebas A/B y a explorar el contenido de correo electrónico que mejor impulsa sus objetivos empresariales.</em>
+    <em>Aprenda a configurar experimentos de contenido para realizar pruebas A/B y explorar el contenido de correo electrónico que mejor impulse sus objetivos empresariales.</em>
     <p>
   </td>
   </td>
