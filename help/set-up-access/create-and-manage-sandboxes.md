@@ -5,11 +5,11 @@ jira: KT-7568
 feature: Sandboxes
 doc-type: feature video
 team: TM
-role: Admin, User
+role: Admin
 level: Beginner
 last-substantial-update: 2024-11-22T00:00:00Z
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: cfa548b1c8490e74cb40bba48386a4b6efd0ba67
+source-git-commit: 4f98d810be92a943a4cbfbbb6cf2c6414d9e2694
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 5%
