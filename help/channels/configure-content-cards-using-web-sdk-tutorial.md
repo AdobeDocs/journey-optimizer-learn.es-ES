@@ -1,6 +1,6 @@
 ---
 title: Configuración de la compatibilidad con tarjetas de contenido mediante el SDK web (Tutorial)
-description: Descubra cómo las tarjetas de contenido de Adobe Journey Optimizer mejoran la participación con contenido personalizado, lo que cubre ventajas, implementación, casos de uso y sugerencias.
+description: Descubra cómo las tarjetas de contenido de Adobe Journey Optimizer mejoran la participación con contenido personalizado y cubren ventajas, implementación, casos de uso y sugerencias.
 feature: Use Cases, Web SDK
 role: User
 level: Intermediate
@@ -10,9 +10,9 @@ last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16595
 thumbnail: KT-16595.jpeg
 source-git-commit: 156710c4c334240a6760ac71c342f5e352ee99ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
