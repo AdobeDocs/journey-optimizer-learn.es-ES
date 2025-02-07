@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a7b449f1c8f31f2f13ceca2107624f026f46d5e6
+source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 99%
+source-wordcount: '611'
+ht-degree: 98%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 99%
    + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiencia basada en código{#code-based-experience-channel}
       + [Creación de una campaña de experiencia basada en código](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Usar la toma de decisiones en el canal basado en código](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correo directo{#direct-mail-channel}
       + [Creación de un correo directo](/help/channels/direct-mail.md)
    + Canal de correo electrónico{#email-channel}
