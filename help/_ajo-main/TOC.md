@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
+source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 98%
+source-wordcount: '605'
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,6 @@ ht-degree: 98%
    + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiencia basada en código{#code-based-experience-channel}
       + [Creación de una campaña de experiencia basada en código](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Usar la toma de decisiones en el canal basado en código](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correo directo{#direct-mail-channel}
       + [Creación de un correo directo](/help/channels/direct-mail.md)
    + Canal de correo electrónico{#email-channel}
@@ -168,3 +167,4 @@ ht-degree: 98%
 + [Grabaciones en directo de Experience League](/help/experience-league-live-show-recordings.md)
 + Laboratorios Summit {#summit-labs}
    + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Hoja de referencia](/help/summit-lab-assets/l535-assets.md)
