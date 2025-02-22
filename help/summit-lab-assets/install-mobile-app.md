@@ -8,19 +8,21 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 4%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
 
 # Descargue e instale la aplicación SecureFinancial
 
-Instale la aplicación móvil en su dispositivo iOS o Android™ escaneando el código QR desde abajo:
+Instale la aplicación móvil en su iOS o Android&amp;trade.
 
-![Códigos QR de la aplicación móvil secureFinancial](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
+**Paso 1:** Escanee el código QR de su dispositivo desde abajo:
+
+![Códigos QR de la aplicación móvil SecureFinancial](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 Instalación específica del dispositivo:
 
@@ -28,7 +30,18 @@ Instalación específica del dispositivo:
 
 >[!TAB iOS]
 
-## iOS:
+## Paso 2: Instalar la aplicación en un dispositivo iOS:
+
+1. Haz clic en **Instalar** en el modal que aparece en la aplicación de la cámara.
+
+   ![Instalar elemento emergente](/help/summit-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+
+2. Cierre la aplicación **Camera** y busque la aplicación DX Demo en la pantalla
+
+   ![Aplicación DX-Demo](/help/summit-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+
+
+## Paso 3: Confiar en el desarrollador empresarial de Adobe
 
 Después de instalar la aplicación, debe confiar en el desarrollador empresarial de Adobe:
 
@@ -45,16 +58,12 @@ Después de instalar la aplicación, debe confiar en el desarrollador empresaria
 
    Ahora debería poder iniciar la aplicación * SecureFinancial** en su iPhone:
 
-1. Abra la aplicación.
-
-1. En la ventana emergente, haz clic en **Permitir** para permitir que la aplicación DX Demo te envíe notificaciones.
-
 
 >[!TAB Android]
 
-## Android
+## Instale la aplicación en un dispositivo Android:
 
-En Android, descargue e instale el APK siguiendo las instrucciones de alerta que se muestran aquí:
+En Android, descargue e instale la APLICACIÓN siguiendo las instrucciones de alerta que se muestran aquí:
 
 ![Pantalla de descarga de Android](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Pantalla de descarga de Android"){width="250" align="center" zoomable="yes"}
 <br>
@@ -63,3 +72,5 @@ En Android, descargue e instale el APK siguiendo las instrucciones de alerta que
 Ahora debería poder iniciar la aplicación * SecureFinancial** en su dispositivo Android:
 
 >[!ENDTABS]
+
+
