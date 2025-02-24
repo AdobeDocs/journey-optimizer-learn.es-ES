@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
+source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 99%
+source-wordcount: '632'
+ht-degree: 96%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 99%
    + Mensajería multilingüe {#multilingual-messaging}
       + [Configuración de mensajería multilingüe](/help/content-management/set-up-multilingual-messages.md)
       + [Creación de mensajería multilingüe](/help/content-management/create-multilingual-messages.md)
-   + Acelerador de contenido del Asistente de IA{#content-accelerator}
-      + [Acelerador de contenido del Asistente de IA: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Creación de contenido con el acelerador de contenido del Asistente de IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + Asistente de IA para la generación de contenido {#content-accelerator}
+      + [Asistente de IA para la generación de contenido: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Creación de contenido con el asistente de IA para la generación de contenido](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalización del contenido {#personalize-content}
    + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
    + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
