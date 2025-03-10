@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: b24aa3dab4ac86cf6b7e381b7c72326c24c03dbb
+source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '638'
 ht-degree: 99%
 
 ---
@@ -90,7 +90,6 @@ ht-degree: 99%
    + [Creación de mensajes: información general](/help/content-management/message-authoring-overview.md)
    + [Administración de recursos digitales: información general](/help/content-management/digital-asset-management-overview.md)
    + [Administración de recursos](/help/assets-essentials-overview.md)
-   + [Administración de plantillas de contenido](/help/content-management/content-templates.md)
    + [Administración de fragmentos](/help/content-management/manage-fragments.md)
    + [Creación de fragmentos de expresiones](/help/content-management/expression-fragments.md)
    + [Experimentación: información general](/help/content-management/experimentation-overview.md)
