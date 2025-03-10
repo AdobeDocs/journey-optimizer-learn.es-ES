@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '632'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 96%
    + Mensajería multilingüe {#multilingual-messaging}
       + [Configuración de mensajería multilingüe](/help/content-management/set-up-multilingual-messages.md)
       + [Creación de mensajería multilingüe](/help/content-management/create-multilingual-messages.md)
-   + Asistente de IA para la generación de contenido {#content-accelerator}
-      + [Asistente de IA para la generación de contenido: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Creación de contenido con el asistente de IA para la generación de contenido](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + Asistente de IA para la Generación de contenido {#content-accelerator}
+      + [Asistente de IA para la Generación de contenido: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Creación de contenido con el Asistente de IA para la Generación de contenido](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalización del contenido {#personalize-content}
    + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
    + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -171,4 +171,4 @@ ht-degree: 96%
 + Laboratorios Summit {#summit-labs}
    + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Hoja de características clave](/help/summit-lab-assets/l535-assets.md)
-   + [Instalación de la aplicación móvil](/help/summit-lab-assets/install-mobile-app.md)
+   + [Instalar la aplicación móvil](/help/summit-lab-assets/install-mobile-app.md)
