@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
 source-wordcount: '662'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
    + [Información general del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creación de público con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creación de un público cargando un archivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Evaluar audiencias bajo demanda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + Canales {#channels}
    + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
@@ -113,13 +113,13 @@ ht-degree: 95%
    + [Uso de funciones de ayuda para la personalización](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Uso y administración de expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Creación de contenido dinámico con el generador de reglas de condición](/help/personalize-content/create-dynamic-content.md)
-+ Capacidades de decisión{#decision-capabilities}
++ Funcionalidades de decisión {#decision-capabilities}
    + Toma de decisiones {#decisioning}
-      + [Introducción a Decisioning](/help/decisioning/introduction-to-decisioning.md)
-      + [Tutorial de toma de decisiones de extremo a extremo](/help/decisioning/decisioning-end-to-end.md)
-   + Administración de decisiones {#decision-management}
-      + [Introducción a Gestión de decisiones](/help/decision-management/introduction-to-decision-management.md)
-      + [Demostración de las capacidades de Administración de decisiones](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [Introducción a la toma de decisiones](/help/decisioning/introduction-to-decisioning.md)
+      + [Tutorial de la toma de decisiones de extremo a extremo](/help/decisioning/decisioning-end-to-end.md)
+   + Gestión de decisiones {#decision-management}
+      + [Introducción a la gestión de decisiones](/help/decision-management/introduction-to-decision-management.md)
+      + [Demostración de las funcionalidades de la gestión de decisiones](/help/decision-management/demo-of-decision-management-capabilities.md)
       + [Creación de ubicaciones](/help/decision-management/create-placements.md)
       + [Creación de reglas](/help/decision-management/create-rules.md)
       + [Crear etiquetas](/help/decision-management/create-tags.md)
