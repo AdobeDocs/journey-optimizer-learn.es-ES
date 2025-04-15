@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 99%
    + [Creación de un público cargando un archivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
-+ Canales {#channels}
++ Canales {#channels}
    + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiencia basada en código{#code-based-experience-channel}
       + [Creación de una campaña de experiencia basada en código](/help/channels/create-a-code-based-experience-campaign.md)
@@ -68,7 +68,7 @@ ht-degree: 99%
       + [Configuración de experimentos de contenido para correos electrónicos](/help/experimentation/content-experiments-for-emails.md)
    + Tarjetas de contenido{#content-cards}
       + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
-   + En el canal de la aplicación{#in-app-channel}
+   + Canal en la aplicación{#in-app-channel}
       + [Mensajes in-app: información general](/help/channels/in-app-messages-overview.md)
       + [Creación de una campaña in-app](/help/channels/create-an-in-app-campaign.md)
       + [Creación de un mensaje en la aplicación en un recorrido](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -87,7 +87,7 @@ ht-degree: 99%
       + [Creación de una campaña web](/help/channels/create-a-web-campaign.md)
       + [Autor de una campaña web](/help/channels/author-a-web-campaign.md)
       + [Compatibilidad de SPA en el editor web](/help/channels/singel-page-application-support.md)
-+ Gestión de contenido{#content-management}
++ Administración de contenido{#content-management}
    + [Creación de mensajes: información general](/help/content-management/message-authoring-overview.md)
    + [Administración de recursos digitales: información general](/help/content-management/digital-asset-management-overview.md)
    + [Administración de recursos](/help/assets-essentials-overview.md)
@@ -99,7 +99,7 @@ ht-degree: 99%
    + Mensajería multilingüe {#multilingual-messaging}
       + [Configuración de mensajería multilingüe](/help/content-management/set-up-multilingual-messages.md)
       + [Creación de mensajería multilingüe](/help/content-management/create-multilingual-messages.md)
-   + Asistente de IA para la Generación de contenido {#content-accelerator}
+   + Asistente de IA para la generación de contenido {#content-accelerator}
       + [Asistente de IA para la Generación de contenido: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Creación de contenido con el Asistente de IA para la Generación de contenido](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
    + Plantillas de contenido{#content-templates}
@@ -113,7 +113,7 @@ ht-degree: 99%
    + [Uso de funciones de ayuda para la personalización](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Uso y administración de expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Creación de contenido dinámico con el generador de reglas de condición](/help/personalize-content/create-dynamic-content.md)
-+ Funcionalidades de decisión {#decision-capabilities}
++ Funcionalidades de decisión{#decision-capabilities}
    + Toma de decisiones {#decisioning}
       + [Introducción a la toma de decisiones](/help/decisioning/introduction-to-decisioning.md)
       + [Tutorial de la toma de decisiones de extremo a extremo](/help/decisioning/decisioning-end-to-end.md)
@@ -159,7 +159,7 @@ ht-degree: 99%
       + [Configuración de fuentes de datos](/help/set-up-journeys/configure-data-sources.md)
       + [Creación de eventos](/help/set-up-journeys/create-events.md)
       + [Creación de acciones](/help/set-up-journeys/create-actions.md)
-   + Reglas empresariales{#business-rules}
+   + Reglas empresariales {#business-rules}
       + [Configuración de las reglas de restricción frecuencia](/help/business-rules/configure-frequency-capping-rules.md)
       + [Trabajar con conjuntos de reglas](/help/business-rules/work-with-rule-sets.md)
       + [Prueba e informe de reglas de frecuencia](/help/business-rules/test-and-report-on-frequency-rules.md)
@@ -167,7 +167,7 @@ ht-degree: 99%
    + [Administración de acceso](/help/set-up-access/access-management.md)
    + [Configuración del control de acceso basado en atributos](/help/administration/attribute-based-access-control.md)
    + [Usar zonas protegidas](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Gobernanza de datos y privacidad{#data-governance-and-privacy}
++ Gobernanza de datos y privacidad {#data-governance-and-privacy}
    + [Marco de gobernanza de datos](/help/privacy/data-governance-framework.md)
    + [Clasificación de datos mediante etiquetas](/help/privacy/classify-data-using-lables.md)
    + [Creación de políticas de uso de datos](/help/privacy/create-data-usage-policies.md)

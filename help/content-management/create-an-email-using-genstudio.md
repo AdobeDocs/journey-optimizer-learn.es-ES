@@ -9,13 +9,13 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
-source-git-commit: 21e0d23dd012b0954bf18d29016a5c1041ad519f
-workflow-type: tm+mt
+exl-id: 6503a468-b089-4bd1-b8a5-310077cbc43b
+source-git-commit: 6d09250d40f71ec8e64894e8283b22a91e8cd133
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
-
 
 # Creación de un correo electrónico con GenStudio for Performance Marketing
 
@@ -29,4 +29,4 @@ Descubra el proceso de exportar una plantilla de correo electrónico de [!DNL Jo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
-Para obtener más información sobre [!DNL GenStudio for Performance Marketing], visita la [[!DNL Adobe GenStudio for Performance Marketing] Guía del usuario](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} o mira los [tutoriales de Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/overview).
+Para obtener más información sobre [!DNL GenStudio for Performance Marketing], visite la [[!DNL Adobe GenStudio for Performance Marketing] Guía del usuario](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} o vea los [tutoriales de Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing-learn/tutorials/overview).
