@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
+workflow-type: tm+mt
+source-wordcount: '375'
+ht-degree: 90%
 
 ---
 
@@ -49,15 +49,15 @@ Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funcion
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Creación de contenido con el Acelerador de contenido del Asistente de IA" src="../assets/3434635.jpg"/>
+      <img alt="Creación de contenido mediante el acelerador de contenido del asistente de IA (vídeo)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Creación de contenido con el Acelerador de contenido del Asistente de IA</strong>
+    <strong>Crear contenido con el acelerador de contenido del asistente de IA</strong>
     </a>
     </div>
     <p>
-    <em>Descubra cómo utilizar el Acelerador de contenido del Asistente de IA para generar sugerencias proactivas de variación de contenido, tanto para texto como para imágenes.
+    <em>Aprenda a utilizar el acelerador de contenido del asistente de IA para generar sugerencias de variación de contenido proactivas tanto para texto como para imágenes.
 </em>
     <p>
   </td>
