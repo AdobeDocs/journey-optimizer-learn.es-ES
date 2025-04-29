@@ -97,7 +97,7 @@ ht-degree: 98%
    + Trabajo con fragmentos {#fragments}
       + [Administración de fragmentos](/help/content-management/manage-fragments.md)
       + [Creación de fragmentos de expresiones](/help/content-management/expression-fragments.md)
-      + [Usar fragmentos de contenido de AEM](/help/content-management/aem-content-fragments.md)
+      + [Uso de fragmentos de contenido de AEM](/help/content-management/aem-content-fragments.md)
    + Plantillas de contenido{#content-templates}
       + [Creación de plantillas de contenido](/help/content-management/templates/create-content-templates.md)
       + [Bloquear contenido en plantillas](/help/content-management/templates/content-locking.md)
