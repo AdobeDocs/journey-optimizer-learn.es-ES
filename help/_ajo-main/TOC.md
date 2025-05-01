@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + Casos de uso {#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
+
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
@@ -181,7 +182,13 @@ ht-degree: 98%
 + Ejercicios y retos {#exercises-and-challenges}
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)
    + [Retos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=es)
-+ [Grabaciones en directo de Experience League](/help/experience-league-live-show-recordings.md)
++ [Experience League Live mostrar grabaciones](/help/experience-league-live-show-recordings.md)
++ Crear audiencias mediante Web SDK {#tutorial-creating-audiences}
+   + [Introducción](../tutorial-creating-audience/introduction.md)
+   + [Crear esquema, conjuntos de datos..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Creación de etiquetas de AEP](../tutorial-creating-audience/create-aep-tags.md)
+   + [Creación de un formulario web](../tutorial-creating-audience/create-web-form.md)
+   + [Depurar la solución](../tutorial-creating-audience/debug.md)
 + Laboratorios Summit {#summit-labs}
    + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Hoja de características clave](/help/summit-lab-assets/l535-assets.md)
