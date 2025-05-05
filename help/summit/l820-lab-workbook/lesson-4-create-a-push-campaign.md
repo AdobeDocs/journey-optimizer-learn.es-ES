@@ -211,7 +211,7 @@ Si está satisfecho con el contenido del mensaje, puede activar el mensaje:
 
 **Documentación del producto:**
 
-* [Introducción a las notificaciones push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
-* [Crear una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [Diseñar una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [Comprueba y envía tu notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [Introducción a las notificaciones push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/get-started-push)
+* [Crear una notificación push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/create-push)
+* [Diseñar una notificación push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/design-push)
+* [Comprueba y envía tu notificación push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/send-push)

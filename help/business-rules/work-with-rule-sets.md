@@ -22,4 +22,4 @@ Obtenga información sobre cómo crear un conjunto de reglas de límite de frecu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets) para obtener más información.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configuration/rule-sets) para obtener más información.

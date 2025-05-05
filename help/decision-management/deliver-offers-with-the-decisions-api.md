@@ -23,4 +23,4 @@ Obtenga información sobre cómo entregar ofertas [con la API de Decisions Hub](
 
 >[!INFO]
 >
-> Este vídeo es parte del curso [Introducción a gestión de decisiones para expertos en marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.
+> Este vídeo es parte del curso [Introducción a gestión de decisiones para expertos en marketing](https://experienceleague.adobe.com/?lang=es&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible de forma gratuita en Experience League.

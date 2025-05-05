@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * Iniciar sesión en Adobe Experience Platform
 
-* Cree un esquema basado en eventos XDM llamado Asesores financieros en Journey Optimizer. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Cree un esquema basado en eventos XDM llamado Asesores financieros en Journey Optimizer. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/es/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Añada la siguiente estructura al esquema. El elemento PreferredFinancialInstrument almacena la preferencia del usuario por Stocks, Bonds, CD
   ![xdm-schema](assets/xdm-schema.png)
