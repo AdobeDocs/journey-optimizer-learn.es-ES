@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear [ubicaciones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=es) para la administración de decisiones. Las ubicaciones son uno de los componentes de bloque de creación para las ofertas. Una ubicación es la combinación de tipo de contenido y canal, como una imagen en un correo electrónico o código HTML de un sitio web.
 
->[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341380?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información sobre cómo crear ubicaciones con una API, consulte la [guía del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=es)

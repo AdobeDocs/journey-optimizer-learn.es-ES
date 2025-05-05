@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar un evento y especificar el extremo de flujo continuo y la carga útil para un evento.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431518?quality=12&learn=on&captions=spa){transcript=true}
 

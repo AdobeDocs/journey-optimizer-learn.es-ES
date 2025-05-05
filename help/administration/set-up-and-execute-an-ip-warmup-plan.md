@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Comprende qué es el calentamiento de IP y configura y ejecuta un plan de calentamiento de IP en Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453843/?learn=on&captions=spa)
 
 Consulte la [Guía de prácticas recomendadas sobre la entregabilidad](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/introduction) para ver las prácticas recomendadas sobre [Criterios de segmentación](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [Consideraciones específicas del ISP durante el calentamiento de la IP](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) y [volumen](https://experienceleague.adobe.com/es/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) durante el calentamiento de la IP.
 

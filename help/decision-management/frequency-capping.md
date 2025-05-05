@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Comprenda cómo funciona la restricción de frecuencia para Offer Decisioning. Obtenga información sobre cómo configurar la restricción de frecuencia para un evento personalizado y cómo definir incrementos mediante la frecuencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422161/?quality=12&learn=on&captions=spa){transcript=true}

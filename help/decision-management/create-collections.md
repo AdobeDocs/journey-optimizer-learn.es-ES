@@ -20,4 +20,4 @@ Aprenda a crear colecciones para la administración de decisiones.
 
 Las colecciones se utilizan para administrar ofertas en grupos lógicos y son necesarias para generar actividades de administración de decisiones. Las colecciones dinámicas permiten agrupar ofertas basadas en etiquetas, mientras que las colecciones estáticas permiten seleccionar manualmente las ofertas.
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346686?quality=12&learn=on&captions=spa){transcript=true}

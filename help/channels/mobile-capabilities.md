@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Comprender qué capacidades móviles ofrece Adobe Journey Optimizer a los expertos en marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430377?quality=12&learn=on&captions=spa){transcript=true}

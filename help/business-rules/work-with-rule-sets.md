@@ -20,6 +20,6 @@ ht-degree: 15%
 
 Obtenga información sobre cómo crear un conjunto de reglas de límite de frecuencia de cliente para limitar el número de comunicaciones enviadas a los clientes en función del tipo de comunicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444729/?learn=on&enablevpops&captions=spa)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configuration/rule-sets) para obtener más información.

@@ -30,4 +30,4 @@ En este vídeo se explica cómo:
 
 Para obtener más información, consulte la [documentación sobre cómo empezar con el canal web](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446888/?learn=on&captions=spa)

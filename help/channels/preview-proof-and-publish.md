@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Más información sobre cómo probar el procesamiento en varias bandejas de entrada utilizando Litmus, cómo previsualizar los correos electrónicos personalizados con perfiles de prueba, enviar pruebas y publicar correos electrónicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430335?quality=12&learn=on&captions=spa){transcript=true}

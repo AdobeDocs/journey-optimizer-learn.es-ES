@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar el canal de correo directo y cómo crear y previsualizar campañas de correo directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449357/?learn=on&captions=spa){transcript=true}

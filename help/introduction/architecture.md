@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Comprenda la arquitectura básica de Adobe Journey Optimizer, los puntos de integración y la relación de Journey Optimizer con otras aplicaciones de Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415692?quality=12&learn=on&captions=spa){transcript=true}

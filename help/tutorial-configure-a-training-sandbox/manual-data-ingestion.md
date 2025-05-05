@@ -19,7 +19,7 @@ ht-degree: 100%
 
 El siguiente videotutorial explica cómo crear conjuntos de datos e introducir datos manualmente:
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416648?quality=12&learn=on&captions=spa){transcript=true}
 
 Cree los siguientes conjuntos de datos:
 

@@ -9,7 +9,7 @@ ht-degree: 100%
 
 Comprenda qué es un mensaje en la aplicación. Obtenga información sobre cómo crear, configurar y publicar mensajes en la aplicación para campañas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451885?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

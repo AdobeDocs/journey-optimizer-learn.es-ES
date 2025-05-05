@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear y guardar reglas de condición y cómo aplicar estas reglas de condición al contenido en todos los canales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413670?quality=12&learn=on&captions=spa){transcript=true}

@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Obtenga información sobre cómo entregar ofertas [con la API de Decisions Hub](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=es). Con [!DNL Postman] a modo de demostración, se realiza una llamada de API para recuperar el ID del contenedor. A continuación, se personaliza una llamada a la API de Decisions de ejemplo con el ID de actividad, el ID de ubicación, el área de nombres de identidad y el ID de cliente para recuperar una oferta personalizada. Una vez que haya recuperado una oferta personalizada con la API Decisions, puede integrar el contenido de la oferta con su sistema de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342828?quality=12&learn=on&captions=spa){transcript=true}
 
 >[!INFO]
 >

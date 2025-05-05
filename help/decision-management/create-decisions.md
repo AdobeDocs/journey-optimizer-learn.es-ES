@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear [decisiones](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=es) para la gestión de decisiones. Una decisión combina las ubicaciones y las colecciones en una sola entidad, para que se pueda tomar la decisión de proporcionar la oferta más relevante al cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346692?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información sobre cómo crear decisiones con una API, consulte la [guía del producto.](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=es)

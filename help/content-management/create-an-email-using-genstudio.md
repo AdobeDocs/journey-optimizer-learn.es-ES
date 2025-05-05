@@ -27,6 +27,6 @@ ht-degree: 100%
 
 Descubra el proceso de exportar una plantilla de correo electrónico de [!DNL Journey Optimizer] a [!DNL GenStudio for Performance Marketing], crear correos electrónicos compatibles con la marca mediante la plantilla de [!DNL GenStudio] y volver a importarlos sin problemas en [!DNL Journey Optimizer].
 
->[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456052/?learn=on&enablevpops&captions=spa)
 
 Para obtener más información sobre [!DNL GenStudio for Performance Marketing], visite la [[!DNL Adobe GenStudio for Performance Marketing] Guía del usuario](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} o vea los [tutoriales de Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing-learn/tutorials/overview).

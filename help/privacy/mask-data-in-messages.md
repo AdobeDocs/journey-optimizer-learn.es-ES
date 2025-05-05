@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenda qué es el enmascaramiento de datos y cuándo y por qué puede necesitar emplearlo. Aprenda a enmascarar datos en mensajes de Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413045?quality=12&learn=on&captions=spa){transcript=true}

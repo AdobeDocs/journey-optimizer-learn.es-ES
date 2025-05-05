@@ -22,4 +22,4 @@ Obtenga información acerca de la configuración, el flujo de trabajo y los caso
 
 Para obtener más información sobre la exportación de conjuntos de datos a ubicaciones de almacenamiento en la nube desde Adobe Journey Optimizer, visite la [documentación](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448821/?learn=on&captions=spa)

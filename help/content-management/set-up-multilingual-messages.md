@@ -25,4 +25,4 @@ La función de mensajes multilingües de Adobe Journey Optimizer le permite crea
 
 Aprenda a configurar proyectos de traducción para la traducción automática y la configuración de idioma necesaria para los proyectos de traducción manual y de traducción automática para los mensajes multilingües.
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453546/?learn=on&captions=spa)

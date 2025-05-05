@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Comprenda los casos de uso aplicables para los recorridos transaccionales y aprenda a crear recorridos transaccionales.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415682?quality=12&learn=on&captions=spa){transcript=true}

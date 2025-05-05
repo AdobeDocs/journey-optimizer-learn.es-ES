@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Comprenda el marco de gobernanza de datos en Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32682/?learn=on&captions=spa)
 
 Consulte la documentación del producto para obtener más información sobre la [gobernanza de datos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/action-privacy-restricted) en Journey Optimizer.
 

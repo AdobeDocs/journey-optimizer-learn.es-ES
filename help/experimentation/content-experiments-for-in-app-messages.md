@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar y analizar experimentos de contenido para realizar pruebas A/B en mensajes en la aplicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445291/?learn=on&captions=spa){transcript=true}

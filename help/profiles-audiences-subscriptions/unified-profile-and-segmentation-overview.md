@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear un perfil unificado y, a continuación, generar segmentos basados en atributos de perfil para personalizar los recorridos de los clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345507?quality=12&learn=on&captions=spa){transcript=true}

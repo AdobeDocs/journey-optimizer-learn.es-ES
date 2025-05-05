@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo conectar Journey Optimizer a un proveedor de servicios SMS y cómo crear una superficie de canal SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418544?quality=12&learn=on&captions=spa){transcript=true}

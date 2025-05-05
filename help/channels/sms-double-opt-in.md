@@ -21,4 +21,4 @@ ht-degree: 57%
 
 Más información sobre cómo configurar la inclusión doble para SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440278/?learn=on&captions=spa)

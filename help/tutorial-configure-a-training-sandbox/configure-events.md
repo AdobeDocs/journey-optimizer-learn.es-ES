@@ -21,7 +21,7 @@ En esta sección, configure los tres eventos necesarios para los ejercicios prá
 
 En el siguiente vídeo se explica cómo crear eventos:
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431518?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Creación del evento de compra en línea de Luma
 

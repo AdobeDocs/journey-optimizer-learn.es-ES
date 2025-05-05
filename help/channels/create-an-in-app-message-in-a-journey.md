@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenda qué es un mensaje en la aplicación y cómo se puede aplicar en un recorrido. Obtenga información sobre cómo crear un mensaje en la aplicación en un recorrido y cómo probar y publicar el recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423077/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451834/?learn=on&captions=spa){transcript=true}

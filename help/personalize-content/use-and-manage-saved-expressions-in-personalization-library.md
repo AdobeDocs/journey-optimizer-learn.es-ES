@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo utilizar elementos de biblioteca de personalización guardados en un mensaje y cómo crear y administrar elementos de biblioteca de personalización.
 
->[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344984?quality=12&learn=on&captions=spa){transcript=true}

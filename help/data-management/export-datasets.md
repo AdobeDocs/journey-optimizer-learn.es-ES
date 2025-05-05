@@ -27,6 +27,6 @@ Obtenga información sobre cómo exportar un conjunto de datos de Journey Optimi
 >[!NOTE]
 >Durante la fase beta, todos los conjuntos de datos son visibles. Cuando esta función esté disponible de forma general, se limitará únicamente a los conjuntos de datos generados por el sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432005/?quality=12&learn=on&captions=spa){transcript=true}
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=es) para obtener más información.

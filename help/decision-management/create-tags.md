@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Aprenda a [crear etiquetas](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=es) en [!DNL Decision Management]. Las etiquetas son componentes opcionales de bloque de creación de ofertas. Se pueden utilizar para organizar ofertas y agruparlas en colecciones dinámicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341364?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información sobre cómo crear etiquetas con una API, consulte la [guía del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=es)

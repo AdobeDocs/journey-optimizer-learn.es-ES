@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Obtenga información acerca de los conectores de origen y cómo configurarlos en Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422582?quality=12&learn=on&captions=spa){transcript=true}

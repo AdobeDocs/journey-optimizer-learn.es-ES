@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a implementar el caso de uso del carro de compras abandonado mediante la función Libro de estrategias en Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443967/?learn=on&enablevpops&captions=spa)

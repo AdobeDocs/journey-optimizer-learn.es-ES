@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Aprenda a crear tarjetas de contenido para su aplicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434786/?learn=on&captions=spa)
