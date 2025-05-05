@@ -204,6 +204,7 @@ Cuando haga clic fuera del campo de valor, la imagen debería aparecer.
          5. Posición personalizada
          6. Animación personalizada
          7. Esquina redonda del mensaje
+
    <br>
 4. Cuando termine de crear el contenido y esté satisfecho con el mensaje, haga clic en el **[!UICONTROL botón Revisar para activar]**.
 
