@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e985a7f89f2432cb29a46b69bd1490b84419fc2b
+source-git-commit: 3d57364544365d1843904a9fb44e5aa393db4422
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 93%
@@ -107,7 +107,7 @@ ht-degree: 93%
       + [Configuración de mensajería multilingüe](/help/content-management/set-up-multilingual-messages.md)
       + [Creación de mensajería multilingüe](/help/content-management/create-multilingual-messages.md)
    + Asistente de IA para la generación de contenido {#ai-assistant}
-      + [Asistente de IA para la Generación de contenido: información general](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Asistente de IA para la Generación de contenido: información general](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Creación de contenido con el Asistente de IA para la Generación de contenido](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [Experimentación: información general](/help/content-management/experimentation-overview.md)
    + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
@@ -191,6 +191,6 @@ ht-degree: 93%
    + [Creación de un formulario web](../tutorial-creating-audience/create-web-form.md)
    + [Depurar la solución](../tutorial-creating-audience/debug.md)
 + Laboratorios Summit {#summit-labs}
-   + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal en Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
