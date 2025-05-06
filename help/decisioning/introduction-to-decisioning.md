@@ -1,6 +1,6 @@
 ---
 title: Introducción a la toma de decisiones
-description: Obtenga información sobre las funcionalidades de Decisioning en Journey Optimizer.
+description: Obtenga información sobre las funcionalidades de toma de decisiones en Journey Optimizer.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -14,7 +14,7 @@ exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 69%
+ht-degree: 80%
 
 ---
 
