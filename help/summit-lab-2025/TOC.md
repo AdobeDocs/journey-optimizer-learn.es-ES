@@ -5,9 +5,9 @@ role: User
 level: Beginner,Intermediate
 breadcrumb-title: escalar-orquestación-a-participación-omnicanal
 breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
-source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
+source-git-commit: e7c9cc0861f3c0b94e08c82d5ae5d71ce8143aaa
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 [Información general del tutorial]{#overview}
 + [Introducción](/help/summit-lab-2025/introduction.md)
-+ [Lección 1 - Experimente el recorrido](/help/summit-lab-2025/lesson-1.md)
-+ [Lección 2: Creación de un recorrido de bienvenida](/help/summit-lab-2025/lesson-2.md)
-+ [Lección 3: Creación de contenido dinámico](/help/summit-lab-2025/lesson-3.md)
-+ [Lección 4: Creación de un experimento de contenido](/help/summit-lab-2025/lesson-4.md)
-+ [Lección 5 - Prueba de Recorrido](/help/summit-lab-2025/lesson-5.md)
-+ [Lección 6: Creación de una campaña de tarjeta de contenido](/help/summit-lab-2025/lesson-6.md)
++ [Lección 1 - Experimenta el recorrido]&#x200B;(/help/summit-lab-2025/lección-1-experience -the-recorrido.md)
++ [Lección 2: Creación de un recorrido de bienvenida](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
++ [Lección 3: Creación de contenido dinámico](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
++ [Lección 4: Creación de un experimento de contenido](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
++ [Lección 5 - Prueba de Recorrido](/help/summit-lab-2025/lesson-5-test-your-journey.md)
++ [Lección 6 - Crear una campaña de tarjeta de contenido]&#x200B;(/help/summit-lab-2025/lección-6-create-a content-card-campaign.md)
