@@ -1,26 +1,25 @@
 ---
-user-guide-title: Summit Lab 731 - Libro
-user-guide-description: En este laboratorio práctico, aprenderá a implementar una estrategia de marketing multicanal que incluya campañas y recorridos de mensajería en la aplicación, notificaciones push, SMS y correo electrónico en Adobe Journey Optimizer.
+user-guide-title: Ampliación de la orquestación a la participación omnicanal en Adobe Journey Optimizer
+user-guide-description: En este laboratorio, aprenderá a transformar las comunicaciones comerciales de la mensajería saliente básica a experiencias omnicanal sofisticadas. A través de ejemplos prácticos, creará un recorrido de clientes que combine una proyección proactiva con una participación adaptable.
 role: User
-level: Beginner
-breadcrumb-title: Journey Optimizer - Libro L731
-breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
-index: false
-hide: true
-source-git-commit: 57180556181d19875f906d6f3c97a755fefbbe11
+level: Beginner,Intermediate
+breadcrumb-title: escalar-orquestación-a-participación-omnicanal
+breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/overview.html
+source-git-commit: 7a625a44db8fe891bef812c91cf7affe6672e743
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
 
-# Summit Lab L731: Creación de momentos móviles personalizados con Journey Optimizer {#workbook}
+# Escalación de la orquestación a la participación omnicanal{#scaling-orchestration-to-omnichannel-engagement}
 
-+ [Información general del laboratorio]{#overview}
-+ [Introducción]{#introduction}
-   + [Introducción](/help/summit/l731-lab-workbook/Introduction/introduction.md)
-   + [Ejercicio 1.1](/help/summit/l731-lab-workbook/Introduction/exercise-1-1.md)
-   + [Ejercicio 1.2](/help/summit/l731-lab-workbook/Introduction/exercise-1-2.md)
-   + [Ejercicio 1.3](/help/summit/l731-lab-workbook/Introduction/exercise-1-3.md)
-   + [Ejercicio 1.4](/help/summit/l731-lab-workbook/Introduction/exercise-1-4.md)
+[Información general del tutorial]{#overview}
++ [Introducción](/help/summit/l535-lab-2025/introduction.md)
++ [Lección 1 - Experimente el recorrido](/help/summit/l535-lab-2025/lesson-1.md)
++ [Lección 2: Creación de un recorrido de bienvenida](/help/summit/l535-lab-2025/lesson-2.md)
++ [Lección 3: Creación de contenido dinámico](/help/summit/l535-lab-2025/lesson-3.md)
++ [Lección 4: Creación de un experimento de contenido](/help/summit/l535-lab-2025/lesson-4.md)
++ [Lección 5 - Prueba de Recorrido](/help/summit/l535-lab-2025/lesson-5.md)
++ [Lección 6: Creación de una campaña de tarjeta de contenido](/help/summit/l535-lab-2025/lesson-6.md)
