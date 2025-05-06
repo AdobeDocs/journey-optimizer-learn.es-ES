@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo editar los recursos en Adobe Journey Optimizer con las herramientas de Adobe Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455526/?learn=on&enablevpops&captions=spa)
 
 Consulte la [documentación del producto Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/assets-images/express) para obtener más información sobre cómo acceder a esta función desde el editor de contenido. Para obtener más información sobre Adobe Express, consulte [esta documentación](https://helpx.adobe.com/es/express/user-guide.html).
