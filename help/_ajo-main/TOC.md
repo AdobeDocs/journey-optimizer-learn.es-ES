@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f24ee1c6024e7ed7242448fe119a1437d6a69cb6
+source-git-commit: 55af4c67ad3839ac306416bdf58d7d98602cd8d3
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 93%
+source-wordcount: '726'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,6 @@ ht-degree: 93%
 + Casos de uso {#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
-   + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
@@ -190,7 +189,19 @@ ht-degree: 93%
    + [Creación de etiquetas de AEP](../tutorial-creating-audience/create-aep-tags.md)
    + [Creación de un formulario web](../tutorial-creating-audience/create-web-form.md)
    + [Depurar la solución](../tutorial-creating-audience/debug.md)
++ Toma de decisiones en página web {#getting-started-with-decisioning-webpage}
+   + [Introducción](../getting-started-with-decisioning-webpage/introduction.md)
+   + [Creación de etiquetas](../getting-started-with-decisioning-webpage/create-tags.md)
+   + [Crear oferta](../getting-started-with-decisioning-webpage/create-offers.md)
+   + [Crear colección](../getting-started-with-decisioning-webpage/create-collection.md)
+   + [Crear estrategia de selección](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
+   + [Crear canal](../getting-started-with-decisioning-webpage/create-channel.md)
+   + [Crear campaña](../getting-started-with-decisioning-webpage/create-campaign.md)
+   + [Crear política de decisión](../getting-started-with-decisioning-webpage/create-decision-policy.md)
+   + [Creación de etiquetas de AEP](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [Crear página web](../getting-started-with-decisioning-webpage/create-web-page.md)
+
 + Laboratorios Summit {#summit-labs}
-   + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal en Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
