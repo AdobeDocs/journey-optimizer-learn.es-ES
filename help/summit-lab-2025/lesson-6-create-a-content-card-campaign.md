@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17945
 index: false
 exl-id: d2ac4c55-b40c-448a-bf88-cd85b47320ac
-source-git-commit: e135aa3657068944cf682354c90092bcd915ef3d
+source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
@@ -29,3 +29,7 @@ En esta lección, debe crear una tarjeta de contenido en la aplicación móvil c
 experiencia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
+
+## Recursos adicionales
+
+* [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
