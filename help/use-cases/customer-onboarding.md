@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo implementar un recorrido de incorporación de clientes en Journey Optimizer. El proceso está dirigido a los nuevos miembros fieles y proporciona correos electrónicos y SMS personalizados para fomentar las descargas de aplicaciones. Incluye enviar un correo electrónico de bienvenida, comprobar la instalación de la aplicación y realizar un seguimiento con recordatorios. palo de golfEste tutorial también muestra cómo utilizar el asistente de contenido de IA para crear y personalizar contenido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440653/?learn=on&enablevpops&captions=spa)
