@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # Crear política de decisión
 
@@ -42,4 +42,4 @@ En este momento, puede incluir cualquier atributo de decisión necesario directa
 Este código pasa por una lista de ofertas personalizadas seleccionadas para el usuario y muestra el texto de cada una en la página web. Muestra el mensaje (denominado offerText) de cada oferta dentro de un párrafo, para que los usuarios puedan ver claramente su contenido personalizado.
 Si no hay ninguna oferta personalizada disponible, se muestra una oferta de reserva para garantizar que el espacio no se deje en blanco.
 
-Haga clic en Save y luego en Activate the campaign
+Haga clic en Save y luego active la campaña.
