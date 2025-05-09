@@ -1,6 +1,6 @@
 ---
 title: Integración de Dynamic Media de AEM
-description: Aprenda a integrar Dynamic Media de Adobe Experience Manager (AEM) con Adobe Journey Optimizer (AJO) para permitir actualizaciones y personalización de contenido en tiempo real.
+description: Aprenda a integrar Dynamic Media de Adobe Experience Manager (AEM) con Adobe Journey Optimizer (AJO) para habilitar actualizaciones y personalización de contenido en tiempo real.
 feature: Assets
 topic: Content Management, Integrations
 role: User
@@ -15,9 +15,9 @@ index: true
 badge: label="Disponibilidad limitada" type="Informative"
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
 source-git-commit: 948d5467594acb7d3e0a4e0cc64fcf68285a71ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
@@ -27,8 +27,8 @@ ht-degree: 17%
 >
 >Esta integración solo está disponible para un conjunto de organizaciones (disponibilidad limitada). Para obtener acceso, póngase en contacto con su representante de Adobe.
 
-Aprenda a integrar Adobe Experience Manager Dynamic Media con Adobe Journey Optimizer para permitir actualizaciones y personalización de contenido en tiempo real.
+Aprenda a integrar Dynamic Media de Adobe Experience Manager con Adobe Journey Optimizer para habilitar actualizaciones y personalización de contenido en tiempo real.
 
-Este tutorial explica cómo modificar imágenes directamente en AJO, añadir superposiciones de texto mediante el modo HTML, crear plantillas de medios dinámicos en AEM para hiperpersonalización y personalizar campañas personalizando el contenido para diferentes segmentos de audiencia. Esta integración permite a los especialistas en marketing crear de forma eficaz campañas atractivas y personalizadas sin cambiar entre aplicaciones.
+Este tutorial explica cómo modificar imágenes directamente en AJO, añadir superposiciones de texto mediante el modo HTML, crear plantillas de medios dinámicos en AEM para hiperpersonalización y personalizar campañas adaptando el contenido para los distintos segmentos de público. Esta integración permite a los expertos en marketing crear de forma eficaz campañas atractivas y personalizadas sin cambiar entre aplicaciones.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
