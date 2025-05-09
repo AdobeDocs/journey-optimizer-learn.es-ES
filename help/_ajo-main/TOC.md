@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
 source-wordcount: '751'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 89%
 + Casos de uso {#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
-   + [Crear audiencias según las preferencias del usuario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Toma de decisiones en la página web](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [Crear audiencias según las preferencias del usuario](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Toma de decisiones en la página web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
@@ -122,7 +122,7 @@ ht-degree: 89%
    + [Uso de funciones de ayuda para la personalización](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Uso y administración de expresiones guardadas en la biblioteca de personalización](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Creación de contenido dinámico con el generador de reglas de condición](/help/personalize-content/create-dynamic-content.md)
-   + [Personalization editor playground](/help/personalize-content/personalization-editor-playground.md)
+   + [Patio del editor de personalización](/help/personalize-content/personalization-editor-playground.md)
 + Funcionalidades de decisión{#decision-capabilities}
    + Toma de decisiones {#decisioning}
       + [Introducción a la toma de decisiones](/help/decisioning/introduction-to-decisioning.md)
@@ -186,12 +186,12 @@ ht-degree: 89%
 + Ejercicios y retos {#exercises-and-challenges}
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)
    + [Retos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=es)
-+ [Experience League Live mostrar grabaciones](/help/experience-league-live-show-recordings.md)
-+ Crear audiencias mediante Web SDK {#tutorial-creating-audiences}
++ [Grabaciones en directo de Experience League](/help/experience-league-live-show-recordings.md)
++ Crear públicos mediante SDK web {#tutorial-creating-audiences}
    + [Introducción](../tutorial-creating-audience/introduction.md)
-   + [Crear esquema, conjuntos de datos..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [Creación de etiquetas de AEP](../tutorial-creating-audience/create-aep-tags.md)
-   + [Creación de un formulario web](../tutorial-creating-audience/create-web-form.md)
+   + [Crear esquemas, conjuntos de datos...etc.](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Crear etiquetas de AEP](../tutorial-creating-audience/create-aep-tags.md)
+   + [Crear formulario web](../tutorial-creating-audience/create-web-form.md)
    + [Depurar la solución](../tutorial-creating-audience/debug.md)
 + Toma de decisiones en página web {#getting-started-with-decisioning-webpage}
    + [Introducción](../getting-started-with-decisioning-webpage/introduction.md)
@@ -202,7 +202,7 @@ ht-degree: 89%
    + [Crear canal](../getting-started-with-decisioning-webpage/create-channel.md)
    + [Crear campaña](../getting-started-with-decisioning-webpage/create-campaign.md)
    + [Crear política de decisión](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [Creación de etiquetas de AEP](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [Crear etiquetas de AEP](../getting-started-with-decisioning-webpage/create-aep-tags.md)
    + [Crear página web](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Laboratorios Summit {#summit-labs}
