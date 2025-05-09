@@ -1,30 +1,33 @@
 ---
 title: 'Caso de uso: Mejora de la participación del cliente (Tutorial)'
-description: Obtenga información sobre cómo implementar un recorrido de incorporación de clientes en Adobe Journey Optimizer (AJO).El proceso está dirigido a los nuevos miembros fieles y proporciona correos electrónicos y SMS personalizados para fomentar las descargas de aplicaciones. palo de golfIncluye enviar un correo electrónico de bienvenida, comprobar la instalación de la aplicación y realizar un seguimiento con recordatorios. palo de golfEste tutorial también muestra cómo utilizar el asistente de contenido de IA para crear y personalizar contenido.
+description: Estos tutoriales se centran en mejorar la participación y la personalización de los clientes mediante la creación de audiencias en tiempo real y la toma de decisiones personalizada a través de formularios web y páginas web.
 feature: Use Cases, Audiences, Decisioning
 role: Developer
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-9
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
+source-git-commit: 8eeb8cdd1a8c55643af3d3f367816af6b85bb2d1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-
 # Caso de uso: Mejora de la participación del cliente (Tutorial)
 
-Estos tutoriales tratan el caso práctico comercial de mejorar la participación y personalización de los clientes combinando la creación de audiencias en tiempo real y estrategias de toma de decisiones personalizadas a través de formularios web y páginas web.
+Estos tutoriales se centran en mejorar la participación y la personalización de los clientes mediante la creación de audiencias en tiempo real y la toma de decisiones personalizada a través de formularios web y páginas web. Al integrar estas potentes técnicas, las empresas pueden garantizar que el mensaje correcto llegue a la audiencia adecuada en el momento adecuado, mejorando la participación de los clientes e impulsando esfuerzos de marketing personalizados.
 
 1. [Use la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
 
-   *Aprenda a capturar las preferencias de usuario mediante formularios web, enviar datos a Adobe Experience Platform en tiempo real y clasificar usuarios de forma dinámica en audiencias específicas según sus selecciones*
+   Obtenga información sobre cómo:
+
+   * Capture las preferencias de usuario mediante formularios web.
+   * Envíe datos a Adobe Experience Platform al instante.
+   * Ordene automáticamente a los usuarios en audiencias específicas según sus opciones.
 
 
 2. [Crear audiencias mediante Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
 
-   *Siguiendo con el primer tutorial, aprenderá a aprovechar un catálogo centralizado de ofertas de marketing y un motor de decisión sofisticado para presentar los elementos de decisión más relevantes a cada individuo.*
+   En el primer tutorial, aprenda a utilizar un catálogo centralizado de ofertas de marketing y un motor de decisión inteligente para mostrar a cada persona las ofertas más relevantes.
 
-Al integrar estas potentes técnicas, las empresas pueden garantizar que el mensaje correcto llegue a la audiencia adecuada en el momento adecuado, lo que mejora la participación del cliente e impulsa los esfuerzos de marketing personalizados.
