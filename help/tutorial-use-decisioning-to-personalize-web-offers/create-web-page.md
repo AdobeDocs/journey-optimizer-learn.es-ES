@@ -1,5 +1,5 @@
 ---
-title: Creación de una página web para probar la solución
+title: Crear una página Web para probar la solución
 description: Página web para probar las ofertas personalizadas entregadas mediante la toma de decisiones.
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,18 +21,27 @@ Esta página web se creó para probar ofertas personalizadas entregadas a travé
 
 El siguiente script es responsable de recuperar y mostrar una oferta personalizada en una página web mediante Adobe Journey Optimizer.
 
-1. Descodificar entidades de HTML: hay una función de ayuda que convierte de forma segura cualquier carácter especial del contenido de la oferta en HTML legible.
+1. Descodificar entidades de HTML:
 
-2. Ejecutar personalización:
-Cuando se le llama, envía una solicitud (sendEvent) a Web SDK de Adobe para obtener contenido personalizado para un área específica de la página (el elemento #ajo-offer).
-Si se devuelve una oferta, descodifica la HTML y la inserta en la página.
-Si no se devuelve nada, registra una advertencia.
+   Hay una función de ayuda que convierte de forma segura cualquier carácter especial del contenido de la oferta en HTML legible.
 
-3. Espere a que SDK:
-Dado que SDK (alloy) de Adobe se carga asincrónicamente, el script espera hasta que se cargue completamente antes de realizar la solicitud.
-Comprueba la aleación cada 200 milisegundos, hasta 20 veces, para evitar errores.
+1. Ejecutar personalización:
 
-4. Al cargar la página: cuando esta termina de cargarse, el script inicia el proceso llamando a waitForAlloy().
+   Cuando se le llama, envía una solicitud (`sendEvent`) al Web SDK de Adobe para obtener contenido personalizado para un área específica de la página (el elemento `#ajo-offer`).
+
+   Si se devuelve una oferta, descodifica la HTML y la inserta en la página.
+
+   Si no se devuelve nada, registra una advertencia.
+
+1. Espere a que SDK:
+
+   Dado que SDK (alloy) de Adobe se carga asincrónicamente, el script espera hasta que se cargue completamente antes de realizar la solicitud.
+
+   Comprueba la aleación cada 200 milisegundos, hasta 20 veces, para evitar errores.
+
+1. Al cargar la página:
+
+   Cuando la página termina de cargarse, el script inicia el proceso llamando a `waitForAlloy()`.
 
 
 

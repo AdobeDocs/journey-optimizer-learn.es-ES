@@ -1,6 +1,6 @@
 ---
-title: Crear colección
-description: Una colección se utiliza para agrupar elementos de oferta relacionados en la toma de decisiones, lo que facilita la administración y organización del contenido en torno a un tema, una audiencia o un objetivo de campaña específicos.
+title: Crear una colección
+description: Aprenda a utilizar las colecciones para agrupar los elementos de oferta relacionados en la toma de decisiones. Las colecciones facilitan la administración y organización del contenido en torno a un tema, una audiencia o un objetivo de campaña específicos.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,19 +8,19 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 5c08ff99-b4d5-48c1-8b84-19f43c613880
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 34%
+source-wordcount: '86'
+ht-degree: 36%
 
 ---
 
-# Crear colección
+# Crear una colección
 
 Las colecciones le permiten categorizar y agrupar los elementos de decisión según sus preferencias. Estas categorías se crean creando reglas que aprovechan los atributos de los elementos de decisión.
 
-* Inicie sesión en Journey Optimizer
-* Decisioning -> Catalogs -> Collections ->Create collection
-* Especifique el nombre de la colección y las reglas de la colección como se muestra en la captura de pantalla
+1. Inicie sesión en Journey Optimizer.
+1. Haga clic en **[!UICONTROL Toma de decisiones]** > **[!UICONTROL Catálogos]** > **[!UICONTROL Colecciones]** > **[!UICONTROL Crear colección]**.
+1. Especifique el nombre de la colección y las reglas de recopilación como se muestra en la siguiente captura de pantalla.
 
-![create-collection](assets/fin-wise-collection.png)
+   ![create-collection](assets/fin-wise-collection.png)
