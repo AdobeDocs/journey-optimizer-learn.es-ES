@@ -52,7 +52,7 @@ Agregue un campo de identidad **_crmid_** bajo el objeto SystemIdentifier. Marca
 * Cree un conjunto de datos llamado **_FinWiseCustomerDataSetWithAnnualIncome_** basado en el **_FinWiseProfileSchema_** creado en el paso anterior
 
 * Vaya a Conexiones -> Fuentes -> Sistema local
-* Seleccione **_Agregar datos_** en la carga de archivo local. Asegúrese de seleccionar _**FinWiseCustomerDataSetWithAnnualIncome**_ como conjunto de datos de destino.
+* Seleccione **_Agregar datos_** en la carga de archivo local. Asegúrese de seleccionar _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ como conjunto de datos de destino.
   ![ingesta-csv](assets/ingest-csv-into-dataset.png)
 * Vaya a la pantalla siguiente. Cargue el [archivo csv](assets/sample_crm_data.csv) y verifique las asignaciones
   ![asignaciones](assets/mappings.png)
