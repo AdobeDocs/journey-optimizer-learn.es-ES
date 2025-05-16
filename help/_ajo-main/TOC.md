@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '714'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 96%
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
-   + [El recorrido diario de déclencheur se ejecuta después de la segmentación por lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [Activación de ejecuciones de recorrido diarias tras la segmentación por lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
    + [Perfiles y públicos: información general](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Información general del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creación de público con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creación de un público cargando un archivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Crear audiencias mediante Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+   + [Creación de públicos mediante SDK web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Suscripciones y páginas de aterrizaje](/help/subscriptions-and-landing-pages.md)
 + Canales {#channels}
@@ -139,7 +139,7 @@ ht-degree: 96%
       + [Crear decisiones](/help/decision-management/create-decisions.md)
       + [Entrega de ofertas con la API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Restricción de frecuencia](/help/decision-management/frequency-capping.md)
-   + [Use la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+   + [Uso de la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + Administración de datos {#data-management}
    + [Información general](/help/data-management/set-up-data-overview.md)
    + [Creación de un esquema](/help/data-management/create-schema.md)
