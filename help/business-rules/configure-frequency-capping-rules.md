@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Aprenda a utilizar las reglas empresariales de Adobe Journey Optimizer para configurar límites de frecuencia y evitar solicitar en exceso a sus clientes. Este vídeo explica cómo crear conjuntos de reglas globales y personalizadas, como limitar todos los correos electrónicos a uno por día o limitar los correos electrónicos promocionales por separado, y muestra cómo aplicar estas reglas a las campañas para administrar la fatiga de los clientes de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433398/?learn=on&captions=spa)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configuration/frequency-rules) para obtener más información.
