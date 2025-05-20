@@ -22,4 +22,4 @@ Obtenga información sobre cómo implementar el caso de uso del carro de compras
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
 
-Para obtener más información, visita [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} y [Crear y publicar instancias de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
+Para obtener más información, visita [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} y [Crear y publicar instancias de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
