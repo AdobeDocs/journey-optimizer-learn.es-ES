@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17874
 index: false
 exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 12%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,4 @@ En este ejercicio, se empieza a crear el recorrido de bienvenida, basado en un r
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-## Recursos adicionales
-
-* [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
-* [Caso de uso: calificación de público](/help/create-journeys/use-case-audience-qualification.md)
+Consulte [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md) y [Caso de uso - Calificación de audiencias](/help/create-journeys/use-case-audience-qualification.md) para obtener más información sobre este tema.
