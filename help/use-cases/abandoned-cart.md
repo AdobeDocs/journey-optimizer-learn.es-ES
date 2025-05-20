@@ -8,16 +8,18 @@ doc-type: Tutorial
 duration: 373
 last-substantial-update: 2025-02-04T00:00:00Z
 jira: KT-16346
-source-git-commit: be0838d1d46606570994bc2a38f86cd678d1f2c2
+exl-id: 01216374-2457-4dcd-b970-42315578bb1a
+source-git-commit: 7d10b8f053f981cea8997f35e069acadde99ee2c
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 29%
 
 ---
 
-
 # Guía de casos de uso: carro de compras abandonado
 
-Aprenda a implementar el caso de uso del carro de compras abandonado mediante la función Libro de estrategias en Adobe Journey Optimizer.
+Obtenga información sobre cómo implementar el caso de uso del carro de compras abandonado mediante la función del manual de tácticas en Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443967/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+
+Para obtener más información, visita [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} y [Crear y publicar instancias de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
