@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0537383a1eb59dec48bc46be83b7c5cb43f695b2
+source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
 workflow-type: tm+mt
 source-wordcount: '735'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 97%
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-Manuales de casos de uso {#use-case-playbooks}
-   + [Información general de](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
++ Manuales de tácticas de casos de uso {#use-case-playbooks}
+   + Información general de [](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
