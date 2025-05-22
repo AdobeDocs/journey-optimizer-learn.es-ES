@@ -22,4 +22,4 @@ Obtenga información sobre cómo configurar un proveedor de SMS que no sea Sinch
 
 Consulte [Configurar un proveedor de SMS personalizado](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) para obtener más información.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443609/?learn=on&enablevpops&captions=spa)
