@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
+source-git-commit: fbf3e591a39ca0fbc1572be602a2f1b2c10a7854
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Manuales de tácticas de casos de uso {#use-case-playbooks}
-   + [Información general de](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + Información general de [](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
@@ -167,7 +167,7 @@ ht-degree: 98%
       + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Creación y ejecución de un plan de calentamiento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configuración de credenciales de API de SMS y superficies de canal](/help/set-up-channels/set-up-sms-channel.md)
-      + [Traer su propio proveedor de SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Configuración de un proveedor de SMS personalizado](/help/set-up-channels/configure-custom-sms-provider.md)
       + [Configuración de credenciales de API de MMS y superficies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurar recorridos {#journey-configuration}
       + [Configuración de fuentes de datos](/help/set-up-journeys/configure-data-sources.md)
