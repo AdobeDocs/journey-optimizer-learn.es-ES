@@ -20,6 +20,6 @@ ht-degree: 9%
 
 Obtenga información sobre cómo configurar un proveedor de SMS que no sea Sinch, Twilio o Infobip en Adobe Journey Optimizer, configurar credenciales de API y webhooks para la mensajería entrante, administrar palabras clave de inclusión/exclusión e iniciar campañas de SMS personalizadas con herramientas nativas y cargas útiles personalizadas.
 
-Consulte [Configurar un proveedor de SMS personalizado](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) para obtener más información.
+Consulte [Configurar un proveedor de SMS personalizado](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom) para obtener más información.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
