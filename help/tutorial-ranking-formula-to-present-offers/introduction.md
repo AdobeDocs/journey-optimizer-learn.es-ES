@@ -22,7 +22,7 @@ Este caso de uso muestra cómo ofrecer ofertas financieras personalizadas median
 
 Este tutorial se basa en conceptos clave de Adobe Journey Optimizer y Adobe Experience Platform. Antes de continuar, asegúrese de que se cumplen los siguientes requisitos previos:
 
-* [Se ha completado el tutorial de vinculación de identidad](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction), con los ID de CRM asociados correctamente a los ECID en Adobe Experience Platform.
+* [Se ha completado el tutorial de vinculación de identidad](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction), con los ID de CRM asociados correctamente a los ECID en Adobe Experience Platform.
 
 * Familiarizado con la creación de elementos de oferta en AJO, incluida la definición de contenido, la configuración de metadatos y las reglas de idoneidad.
 
