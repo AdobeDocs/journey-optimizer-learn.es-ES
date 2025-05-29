@@ -20,7 +20,7 @@ ht-degree: 98%
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Manuales de tácticas de casos de uso {#use-case-playbooks}
-   + Información general de [](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Información general de](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
    + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
