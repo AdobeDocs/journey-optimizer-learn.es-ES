@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: fbf3e591a39ca0fbc1572be602a2f1b2c10a7854
+source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '739'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 0%
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Manuales de tácticas de casos de uso {#use-case-playbooks}
-   + [Información general de](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + Información general de [](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
@@ -52,6 +52,8 @@ ht-degree: 0%
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
    + [Activación de ejecuciones de recorrido diarias tras la segmentación por lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + Administración de conflictos {#conflict-management}
+      + [Identificar posibles conflictos](/help/create-journeys/identify-potential-conflicts.md)
 + Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
    + [Perfiles y públicos: información general](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Información general del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
