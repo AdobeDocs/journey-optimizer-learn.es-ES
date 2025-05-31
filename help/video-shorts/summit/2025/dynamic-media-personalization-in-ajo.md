@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo Adobe Journey Optimizer se integra con Dynamic Media de Experience Manager para permitir imágenes personalizadas y compuestas para las campañas de marketing.
 
 <!-- 62_S520_3442520_48_dynamic-media-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458201/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460312/?learn=on&enablevpops=true&captions=spa)

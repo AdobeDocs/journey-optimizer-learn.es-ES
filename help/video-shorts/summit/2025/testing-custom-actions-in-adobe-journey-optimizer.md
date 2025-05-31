@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo probar acciones personalizadas directamente en Adobe Journey Optimizer sin necesidad de ejecutar un recorrido completo, lo que ahorra tiempo y esfuerzo.
 
 <!-- 62_S522_3442522_39_testing-custom-actions-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458211/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460438/?learn=on&enablevpops=true&captions=spa)

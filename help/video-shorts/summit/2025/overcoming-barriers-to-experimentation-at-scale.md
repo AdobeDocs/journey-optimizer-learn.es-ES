@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo Adobe identificó y abordó las barreras clave para ampliar la experimentación, desde la ideación hasta la ejecución, mediante soluciones impulsadas por la plataforma.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460376/?learn=on&enablevpops=true&captions=spa)

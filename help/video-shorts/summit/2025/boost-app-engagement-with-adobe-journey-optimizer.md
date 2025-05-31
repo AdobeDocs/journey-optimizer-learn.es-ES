@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo Adobe Journey Optimizer ayuda a ofrecer contenido personalizado en todas las aplicaciones y dispositivos para mejorar la participación y retención del usuario.
 
 <!-- 72_S603_3442534_32_boost-app-engagement-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458221/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460006/?learn=on&enablevpops=true&captions=spa)

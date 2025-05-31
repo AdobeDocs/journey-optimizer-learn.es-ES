@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore cómo Adobe Journey Optimizer admite la mensajería RCS, ofreciendo experiencias de marca, interactivas y similares a aplicaciones directamente en las bandejas de entrada de mensajes de los usuarios.
 
 <!-- 72_S520_3442520_186_rcs-messaging-the-future-of-rich-communication -->
->[!VIDEO](https://video.tv.adobe.com/v/3458209/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460367/?learn=on&enablevpops=true&captions=spa)

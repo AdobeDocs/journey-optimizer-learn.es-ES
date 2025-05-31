@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo Adobe aprovechó Journey Optimizer para escalar la experimentación, mejorar el retorno de la inversión y ofrecer experiencias personalizadas a escala.
 
 <!-- 72_S531_3442531_124_scaling-experimentation-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458240/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460423/?learn=on&enablevpops=true&captions=spa)

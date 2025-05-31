@@ -20,4 +20,4 @@ ht-degree: 0%
 Obtenga información sobre cómo gestionar tiempos de espera y errores en Adobe Journey Optimizer configurando rutas de tiempo de espera para mantener los perfiles en movimiento a lo largo de su recorrido.
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460470/?learn=on&enablevpops=true&captions=spa)
