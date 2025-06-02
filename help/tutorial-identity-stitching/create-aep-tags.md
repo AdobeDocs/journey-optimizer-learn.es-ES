@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 9%
@@ -22,7 +23,7 @@ Se crea una propiedad de etiquetas de AEP llamada FinWise. Se han añadido las s
 
 ![etiquetas-extensiones](assets/tags-extensions.png)
 
-Configure la extensión AEP Web SDK mediante la secuencia de datos de Financial Advisors creada en el tutorial anterior.
+Configure la extensión AEP Web SDK mediante el flujo de datos de Financial Advisors creado en el paso anterior.
 El servicio de Experience Cloud ID es una extensión opcional añadida a la propiedad de etiquetas con fines de depuración.
 
 ## Elementos de datos de etiquetas
@@ -51,4 +52,3 @@ Acción Enviar evento
 ## Guardar y crear
 
 Guarde los cambios, cree y cree la biblioteca.
-

@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: tutorial sobre vinculación de identidad en aep
 breadcrumb-url: /docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction
 auto-video-transcripts: true
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '57'
 ht-degree: 7%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 7%
 
 + [Introducción](./introduction.md)
 + [Importar datos de ejemplo](./import-sample-data.md)
++ [Crear esquema, conjunto de datos, etc](./create-schema-and-dataset.md)
 + [Crear etiquetas de AEP](./create-aep-tags.md)
 + [Enviar CRMID desde la página web](./send-crmid.md)
 + [Prueba de la solución](./test-solution.md)
