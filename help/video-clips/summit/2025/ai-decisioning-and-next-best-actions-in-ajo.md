@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore cómo Adobe Journey Optimizer utiliza la IA para optimizar los recorridos, las rutas y los canales y personalizar las experiencias de los clientes.
 
 <!-- 62_S520_3442520_184_ai-decisioning-and-next-best-actions-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458188/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460234/?learn=on&enablevpops=true&captions=spa)

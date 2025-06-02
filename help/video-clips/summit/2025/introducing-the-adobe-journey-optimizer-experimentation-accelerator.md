@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore el nuevo Experimentation Accelerator con tecnología GenAI, diseñado para optimizar las pruebas, las perspectivas de superficie y dirigir el impacto empresarial.
 
 <!-- 62_S531_3442531_100_introducing-the-adobe-journey-optimizer-experimentation-accelerator -->
->[!VIDEO](https://video.tv.adobe.com/v/3458230/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460356/?learn=on&enablevpops=true&captions=spa)

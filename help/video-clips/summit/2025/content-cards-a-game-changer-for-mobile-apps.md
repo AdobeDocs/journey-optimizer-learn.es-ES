@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo las tarjetas de contenido de Adobe Journey Optimizer pueden ofrecer contenido personalizado y no intrusivo directamente en la aplicación para fomentar la participación y las conversiones.
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460085/?learn=on&enablevpops=true&captions=spa)
