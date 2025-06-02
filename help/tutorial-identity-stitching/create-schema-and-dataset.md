@@ -25,7 +25,7 @@ Para crear un esquema XDM
 * Iniciar sesión en Adobe Experience Platform
 * Administración de datos -> Esquemas -> Crear esquema
 
-* Cree un esquema basado en eventos XDM llamado **_Asesores financieros_**. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Cree un esquema basado en eventos XDM llamado **_Asesores financieros_**. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/es/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Asegúrese de que el esquema esté habilitado para el perfil.
