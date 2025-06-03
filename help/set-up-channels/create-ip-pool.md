@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a crear un grupo de IP para proteger la reputación de su remitente y aumentar la capacidad de envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463252/?learn=on&enablevpops&captions=spa)
