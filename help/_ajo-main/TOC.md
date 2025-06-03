@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+source-git-commit: d33da3a0df7b9ab8d3d9e69db485ce382b9ce63f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 98%
+source-wordcount: '756'
+ht-degree: 96%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Manuales de tácticas de casos de uso {#use-case-playbooks}
-   + [Información general de](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + Información general de [](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurar una zona protegida de libros de reproducción](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
@@ -164,13 +164,18 @@ ht-degree: 98%
 + Configuración {#configuration}
    + Configuración de canales {#channel-configuration}
       + [Configuración de canales](/help/set-up-channels/configure-channels.md)
-      + [Configuración de canales guiada](/help/set-up-channels/guided-channel-setup.md)
-      + [Configuración del canal de correo electrónico](/help/set-up-channels/set-up-email-channel.md)
-      + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [Creación y ejecución de un plan de calentamiento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + [Configuración de credenciales de API de SMS y superficies de canal](/help/set-up-channels/set-up-sms-channel.md)
-      + [Configuración de un proveedor de SMS personalizado](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [Configuración de credenciales de API de MMS y superficies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + Canal de correo electrónico {#email-channel}
+         + [Crear un grupo de IP](/help/set-up-channels/create-ip-pool.md)
+         + [Configuración de un subdominio](/help/set-up-channels/set-up-subdomain.md)
+         + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
+         + [Configuración del canal de correo electrónico](/help/set-up-channels/set-up-email-channel.md)
+         + [Creación y ejecución de un plan de calentamiento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + Canal de SMS/MMS {#sms-mms-channel}
+         + [Configuración de credenciales de API de SMS y superficies de canal](/help/set-up-channels/set-up-sms-channel.md)
+         + [Configuración de un proveedor de SMS personalizado](/help/set-up-channels/configure-custom-sms-provider.md)
+         + [Configuración de credenciales de API de MMS y superficies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + Canales web y móviles {#web-and-mobile-channels}
+         + [Configuración de canales guiada](/help/set-up-channels/guided-channel-setup.md)
    + Configurar recorridos {#journey-configuration}
       + [Configuración de fuentes de datos](/help/set-up-journeys/configure-data-sources.md)
       + [Creación de eventos](/help/set-up-journeys/create-events.md)
