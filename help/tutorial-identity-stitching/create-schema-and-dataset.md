@@ -6,8 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
+exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -25,7 +27,7 @@ Para crear un esquema XDM
 * Iniciar sesión en Adobe Experience Platform
 * Administración de datos -> Esquemas -> Crear esquema
 
-* Cree un esquema basado en eventos XDM llamado **_Asesores financieros_**. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/es/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Cree un esquema basado en eventos XDM llamado **_Asesores financieros_**. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Asegúrese de que el esquema esté habilitado para el perfil.
@@ -54,4 +56,3 @@ Un conjunto de datos en Adobe Experience Platform es como un canal seguro (o aut
 * Elija el conjunto de datos de evento adecuado (creado anteriormente).
 
 * Guarde la secuencia de datos.
-
