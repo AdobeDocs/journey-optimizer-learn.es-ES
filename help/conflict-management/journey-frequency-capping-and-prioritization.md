@@ -22,4 +22,4 @@ Obtenga información sobre cómo priorizar las acciones entrantes, asegurándose
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Consulte la documentación del producto para obtener más información sobre [límite y arbitraje de Recorridos](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
+Consulte la documentación del producto para obtener más información sobre [límite y arbitraje de Recorridos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).

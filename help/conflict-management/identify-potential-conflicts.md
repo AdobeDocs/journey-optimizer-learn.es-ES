@@ -22,4 +22,4 @@ Descubra cómo identificar y administrar posibles conflictos, como audiencias su
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-Consulte la documentación del producto para obtener más información sobre cómo [Detectar posibles conflictos en recorridos y campañas](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts).
+Consulte la documentación del producto para obtener más información sobre cómo [Detectar posibles conflictos en recorridos y campañas](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/conflict-prioritization/conflicts).
