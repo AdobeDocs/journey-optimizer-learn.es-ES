@@ -23,7 +23,7 @@ Las colecciones le permiten categorizar y agrupar los elementos de decisión seg
 Pasos para crear una colección
 
 * Iniciar sesión en Journey Optimizer
-* Vaya a Etiquetas ->Crear categoría de etiqueta(_**WeatherRelatedOffers**_)
+* Vaya a Etiquetas ->Crear categoría de etiqueta(_&#x200B;**WeatherRelatedOffers**&#x200B;_)
 * Haga clic en Guardar
-* Haga clic en Crear etiquetas (caliente, fría, primavera). Estas etiquetas deben estar en la categoría de etiqueta _**WeatherRelatedOffers**_
+* Haga clic en Crear etiquetas (caliente, fría, primavera). Estas etiquetas deben estar en la categoría de etiqueta _&#x200B;**WeatherRelatedOffers**&#x200B;_
 

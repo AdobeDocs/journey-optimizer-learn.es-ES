@@ -23,7 +23,7 @@ En este [vídeo se describe el proceso de creación de Adobe Experience Tags](ht
 
 * Iniciar sesión en la recopilación de datos
 * Haga clic en Etiquetas -> Nueva propiedad
-* Cree una Adobe Experience Platform Tag llamada _**personalización según el tiempo**_.
+* Cree una Adobe Experience Platform Tag llamada _&#x200B;**personalización según el tiempo**&#x200B;_.
 
 * Añada las siguientes extensiones a la etiqueta
   ![etiquetas-extensiones](assets/tags-extensions1.png)

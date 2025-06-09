@@ -39,7 +39,7 @@ Un conjunto de datos **en Adobe Experience Platform (AEP)** es un contenedor de 
 
 
 * Administración de datos -> Conjuntos de datos -> Crear conjunto de datos
-* Cree un conjunto de datos llamado **_Weather-schema-dataset_** basado en el esquema XDM(_**Weather-Schema**_) creado en el paso anterior.
+* Cree un conjunto de datos llamado **_Weather-schema-dataset_** basado en el esquema XDM(_&#x200B;**Weather-Schema**&#x200B;_) creado en el paso anterior.
 
 
 ## Crear una secuencia de datos

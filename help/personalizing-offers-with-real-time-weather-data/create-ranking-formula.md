@@ -23,7 +23,7 @@ Durante la toma de decisiones de oferta se utiliza una fórmula de clasificació
 
 * Decisioning ->Configuración de estrategia ->Fórmulas de clasificación ->Crear fórmula
 
-Asigne un nombre a la fórmula _**Tiempo - Relacionado - Ofertas**_
+Asigne un nombre a la fórmula _&#x200B;**Tiempo - Relacionado - Ofertas**&#x200B;_
 
 
 
