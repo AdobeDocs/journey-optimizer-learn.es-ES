@@ -21,9 +21,9 @@ Durante la toma de decisiones de oferta se utiliza una fórmula de clasificació
 
 * Iniciar sesión en Journey Optimizer
 
-* Vaya a _**Decisión ->Configuración de estrategia ->Fórmulas de clasificación ->Crear fórmula**_
+* Vaya a _&#x200B;**Decisión ->Configuración de estrategia ->Fórmulas de clasificación ->Crear fórmula**&#x200B;_
 
-Asigne un nombre a la fórmula _**Tiempo - Relacionado - Ofertas**_
+Asigne un nombre a la fórmula _&#x200B;**Tiempo - Relacionado - Ofertas**&#x200B;_
 
 
 

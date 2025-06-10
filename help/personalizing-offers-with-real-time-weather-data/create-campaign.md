@@ -33,12 +33,13 @@ Cuando un usuario visita el sitio web, el sistema detecta su ubicación y obtien
 - Crear una configuración de canal
    - Defina dónde y cómo aparecen las ofertas (por ejemplo, una página web con experiencia basada en código).
    - Inicie sesión en Recorrido Optimizer
-   - Vaya a _**Administración ->Canales->Crear configuración de canal**_
+   - Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x200B;_
    - **Nombre**: `offers-by-weather`\
      Identifica esta configuración para la entrega de ofertas web personalizadas.
    - **Plataforma**: `Web`\
      Dirigido específicamente a los navegadores web. No hay canales móviles habilitados.
    - **Tipo de experiencia**:
+
      `Code-based experience`\
      Las ofertas no se insertan directamente en el DOM. En su lugar, AJO devuelve HTML sin procesar que se analiza mediante JavaScript personalizado.
    - **URL de la página**: `https://gbedekar489.github.io/weather/weather-offers.html`\
@@ -66,7 +67,7 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
 - **Crear directiva de decisión**
    - La acción está vinculada a una **Directiva de decisión** que define cómo se seleccionan las ofertas y cuántas ofertas se devuelven para su visualización. Esta directiva usa una **estrategia de selección** que se creó anteriormente en el tutorial.
    - Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en las secciones Acciones y luego haga clic en **_Editar código_** para abrir el editor de personalización.
-   - Seleccione el icono _**Directiva de decisión**_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
+   - Seleccione el icono _&#x200B;**Directiva de decisión**&#x200B;_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
    - Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. No se han asociado ofertas de reserva con la política de decisión.
 
 
@@ -74,7 +75,7 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
 - **Insertar directiva de decisión**
   ![editor de personalización](assets/personalization-editor.png)
 
-  Inserte la directiva de decisión recién creada haciendo clic en el botón _**Insertar directiva**_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
+  Inserte la directiva de decisión recién creada haciendo clic en el botón _&#x200B;**Insertar directiva**&#x200B;_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
 Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`
 
   El código Handlebars recorre las ofertas devueltas por una política de decisión específica en Adobe Journey Optimizer.
