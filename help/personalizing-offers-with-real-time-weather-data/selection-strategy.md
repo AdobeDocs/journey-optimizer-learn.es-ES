@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Para crear una estrategia de selección
 
 * Iniciar sesión en Journey Optimizer
 
-* Vaya a Decisioning ->Strategy setup ->Selection strategy ->Create selection strategy
+* Vaya a _**Decisión ->Configuración de estrategia ->Estrategias de selección ->Crear estrategia de selección**_
 
 * Proporcione el nombre de la estrategia de selección, la colección, la idoneidad y el método de clasificación, como se muestra en la captura de pantalla
 

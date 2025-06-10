@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,27 @@ ht-degree: 0%
 
 El uso de datos relacionados con el tiempo en Adobe Journey Optimizer (AJO) para ofrecer ofertas permite a las empresas personalizar las experiencias de los clientes en función de las condiciones ambientales en tiempo real. El tiempo es una poderosa señal contextual. Las necesidades y el comportamiento de la gente cambian dependiendo del clima. Mediante los datos meteorológicos:
 
-    Envíe ofertas relevantes que se alineen con el estado de ánimo y el entorno del cliente.
-    
-    En un día caluroso, muestra una oferta de bebidas frías o unidades de aire acondicionado. En un día lluvioso, promociona chaquetas o paraguas
+Ofrezca ofertas relevantes que se alineen con el estado de ánimo y el entorno del cliente
+
+En un día caluroso, mostrar una oferta de bebidas frías o unidades de aire acondicionado. En un día lluvioso, promociona chaquetas o paraguas
+
+Ejemplo de una oferta basada en el tiempo
+
 
 ![ofertas meteorológicas](assets/offers-use-case.png)
+
+
+
+## Requisitos previos para este tutorial
+
+* Acceso a Experience Platform
+
+* Comprensión básica de las etiquetas de Adobe Experience Platform
+
+* Comprensión básica de los conceptos de Experience Platform (perfiles, audiencias, conjuntos de datos)
+
+* Familiaridad con Journey Optimizer
+
+* Conocimientos básicos de JavaScript (leer y escribir funciones sencillas)
+
+* Capacidad para utilizar las herramientas de desarrollo del explorador (pestañas Consola y Red)

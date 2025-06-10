@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -54,7 +54,7 @@ El texto de la oferta para la oferta de tiempo frío
 
 ### Crear colección
 
-Vaya a Decisioning -> Catalogs ->Collection->Create collection
+Vaya a **_Decisión -> Catálogos ->Colección->Crear colección_**
 Asigne un nombre a la colección **Ofertas relacionadas con el tiempo**
 
 Agrupe estas ofertas en esta colección mediante el generador de reglas.

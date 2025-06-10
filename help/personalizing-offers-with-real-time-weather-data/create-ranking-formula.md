@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Durante la toma de decisiones de oferta se utiliza una fórmula de clasificació
 
 * Iniciar sesión en Journey Optimizer
 
-* Decisioning ->Configuración de estrategia ->Fórmulas de clasificación ->Crear fórmula
+* Vaya a _**Decisión ->Configuración de estrategia ->Fórmulas de clasificación ->Crear fórmula**_
 
-Asigne un nombre a la fórmula _&#x200B;**Tiempo - Relacionado - Ofertas**&#x200B;_
+Asigne un nombre a la fórmula _**Tiempo - Relacionado - Ofertas**_
 
 
 
@@ -32,7 +32,7 @@ Un criterio en una fórmula de clasificación hace referencia a una regla condic
 Los siguientes tres criterios se definen para filtrar ofertas y luego asignar una puntuación de clasificación a la oferta elegible. Los criterios se definen con el generador de criterios. Los datos de contexto también se pueden utilizar para definir los criterios, como se muestra en la captura de pantalla siguiente
 ![datos de contexto](assets/context-data.png)
 
-Los 3 criterios utilizados incluían un atributo de oferta (etiqueta) y un atributo de datos de contexto (temperatura) al definir los criterios.
+Los 3 criterios utilizados incluyen un atributo de oferta (etiqueta) y un atributo de datos de contexto (temperatura) al definir los criterios.
 
 ## Criterios uno
 
