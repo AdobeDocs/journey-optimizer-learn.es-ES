@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -31,14 +31,14 @@ Ejemplo de una oferta basada en el tiempo
 
 ## Requisitos previos para este tutorial
 
-* Acceso a Experience Platform
+* Acceso a Experience Platform.
 
-* Comprensión básica de las etiquetas de Adobe Experience Platform
+* Comprensión básica de las etiquetas de Adobe Experience Platform.
 
-* Comprensión básica de los conceptos de Experience Platform (perfiles, audiencias, conjuntos de datos)
+* Comprensión básica de los conceptos de Experience Platform (perfiles, audiencias, conjuntos de datos).
 
-* Familiaridad con Journey Optimizer
+* Familiaridad con Journey Optimizer.
 
-* Conocimientos básicos de JavaScript (leer y escribir funciones sencillas)
+* Conocimientos básicos de JavaScript (leer y escribir funciones simples).
 
-* Capacidad para utilizar las herramientas de desarrollo del explorador (pestañas Consola y Red)
+* Capacidad para utilizar las herramientas de desarrollo del explorador (pestañas Consola y Red).
