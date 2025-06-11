@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo configurar el canal de correo electrónico en Adobe Journey Optimizer. El vídeo explica la configuración de correos electrónicos, incluidos subdominios, grupos de IP, administración de cancelación de suscripción, personalización de remitente, CCO y listas de semilla, lógica de reintentos y parámetros de seguimiento. Hace hincapié en el cumplimiento, la capacidad de envío y la personalización para optimizar el rendimiento del correo electrónico de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416658?quality=12&learn=on&captions=spa){transcript=true}
