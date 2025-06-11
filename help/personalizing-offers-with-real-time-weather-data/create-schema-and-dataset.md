@@ -24,7 +24,7 @@ Para utilizar Adobe Experience Platform Web SDK (Alloy.js) en una página web, l
 Para crear un esquema XDM
 
 * Iniciar sesión en Adobe Experience Platform
-* Vaya a _**Administración de datos -> Esquemas -> Crear esquema**_
+* Vaya a _&#x200B;**Administración de datos -> Esquemas -> Crear esquema**&#x200B;_
 
 * Cree un esquema basado en eventos XDM llamado **_Weather-Schema_**. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
@@ -37,15 +37,15 @@ Para crear un esquema XDM
 
 Un conjunto de datos **en Adobe Experience Platform (AEP)** es un contenedor de almacenamiento estructurado que se usa para ingerir, almacenar y activar datos basados en un esquema XDM definido.
 
-* Vaya a _**Administración de datos -> Conjuntos de datos -> Crear conjunto de datos**_
-* Cree un conjunto de datos llamado **_Weather-schema-dataset_** basado en el esquema XDM(_**Weather-Schema**_) creado en el paso anterior.
+* Vaya a _&#x200B;**Administración de datos -> Conjuntos de datos -> Crear conjunto de datos**&#x200B;_
+* Cree un conjunto de datos llamado **_Weather-schema-dataset_** basado en el esquema XDM(_&#x200B;**Weather-Schema**&#x200B;_) creado en el paso anterior.
 
 
 ## Crear una secuencia de datos
 
 Un conjunto de datos en Adobe Experience Platform es como un canal seguro (o autopista) que conecta su sitio web o aplicación a los servicios de Adobe, lo que permite que los datos ingresen y que el contenido personalizado regrese.
 
-* Vaya a _**Recopilación de datos > Flujos de datos**_ y haga clic en Nuevo flujo de datos. Asigne un nombre a la secuencia de datos **weather-related-datastream**
+* Vaya a _&#x200B;**Recopilación de datos > Flujos de datos**&#x200B;_ y haga clic en Nuevo flujo de datos. Asigne un nombre a la secuencia de datos **weather-related-datastream**
 
 
 * Proporcione los siguientes detalles como se muestra en la captura de pantalla siguiente
