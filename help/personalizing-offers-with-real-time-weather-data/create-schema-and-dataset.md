@@ -26,7 +26,7 @@ Para crear un esquema XDM
 * Iniciar sesión en Adobe Experience Platform
 * Vaya a _&#x200B;**Administración de datos -> Esquemas -> Crear esquema**&#x200B;_
 
-* Cree un esquema basado en eventos XDM llamado **_Weather-Schema_**. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Cree un esquema basado en eventos XDM llamado **_Weather-Schema_**. Si no está familiarizado con la creación de un esquema, siga esta [documentación](https://experienceleague.adobe.com/es/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Asegúrese de que el esquema tenga los siguientes campos con el tipo de datos adecuado.
