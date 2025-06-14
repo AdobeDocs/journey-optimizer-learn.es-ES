@@ -24,4 +24,4 @@ El Generador de fórmulas de Adobe Journey Optimizer es una interfaz visual que 
 
 Este vídeo le ofrece una breve descripción general de la interfaz de usuario del generador de fórmulas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463738?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463742?quality=12&learn=on&captions=spa){transcript=true}
