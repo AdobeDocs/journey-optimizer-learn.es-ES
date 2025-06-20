@@ -8,7 +8,8 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: b0b0eba099324d64940a87ecdad872db51dceb55
+exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
+source-git-commit: 51707a64a5d05227b663fed5e0413b4d2ffee0a9
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -17,7 +18,7 @@ ht-degree: 1%
 
 # Creación de una campaña
 
-Para enviar ofertas personalizadas a los usuarios en la página web, se creó una campaña en Adobe Journey Optimizer y se configuró con el canal correcto, el canal web. Esta configuración garantiza que las ofertas se entreguen mediante decisiones en tiempo real a los usuarios que interactúen con el sitio web.
+Para ofrecer ofertas personalizadas a los usuarios en la página web, se creó una campaña en Adobe Journey Optimizer y se configuró con el canal correcto, Canal de experiencia basado en código. Esta configuración garantiza que las ofertas se entreguen mediante decisiones en tiempo real a los usuarios que interactúen con el sitio web.
 
 Dentro de esta campaña, se ha definido una política de decisión para controlar cómo se seleccionan las ofertas. La política de decisión incluye una estrategia de selección, que consiste en:
 
@@ -33,22 +34,22 @@ Cuando un usuario visita el sitio web, el sistema detecta su ubicación y obtien
 - Crear una configuración de canal
    - Defina dónde y cómo aparecen las ofertas (por ejemplo, una página web con experiencia basada en código).
    - Inicie sesión en Recorrido Optimizer
-   - Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x200B;_
+   - Vaya a _**Administración ->Canales->Crear configuración de canal**_
    - **Nombre**: `offers-by-weather`\
      Identifica esta configuración para la entrega de ofertas web personalizadas.
-   - **Plataforma**: `Web`\
-     Dirigido específicamente a los navegadores web. No hay canales móviles habilitados.
-   - **Tipo de experiencia**:
+- **Canal**:
+  `Code-based experience`\
+  Las ofertas no se insertan directamente en el DOM. En su lugar, AJO devuelve HTML sin procesar que se analiza mediante JavaScript personalizado.
+- **Plataforma**: `Web`\
+  Dirigido específicamente a los navegadores web. No hay canales móviles habilitados.
 
-     `Code-based experience`\
-     Las ofertas no se insertan directamente en el DOM. En su lugar, AJO devuelve HTML sin procesar que se analiza mediante JavaScript personalizado.
-   - **URL de la página**: `https://gbedekar489.github.io/weather/weather-offers.html`\
-     El canal está configurado para una página de prueba específica utilizada durante el desarrollo.
-   - **Ubicación en la página**: `offerContainer`\
-     Las ofertas devueltas se analizan dinámicamente y se representan en este contenedor mediante la lógica de front-end.
+- **URL de la página**: `https://gbedekar489.github.io/weather/weather-offers.html`\
+  El canal está configurado para una página de prueba específica utilizada durante el desarrollo.
+- **Ubicación en la página**: `offerContainer`\
+  Las ofertas devueltas se analizan dinámicamente y se representan en este contenedor mediante la lógica de front-end.
 
-   - **Formato De Contenido**: `HTML`\
-     Las ofertas se entregan como fragmentos de HTML sin procesar, lo que permite un control total sobre cómo se diseñan, filtran y muestran.
+- **Formato De Contenido**: `HTML`\
+  Las ofertas se entregan como fragmentos de HTML sin procesar, lo que permite un control total sobre cómo se diseñan, filtran y muestran.
 
 
 - **Iniciar una nueva campaña**
@@ -67,7 +68,7 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
 - **Crear directiva de decisión**
    - La acción está vinculada a una **Directiva de decisión** que define cómo se seleccionan las ofertas y cuántas ofertas se devuelven para su visualización. Esta directiva usa una **estrategia de selección** que se creó anteriormente en el tutorial.
    - Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en las secciones Acciones y luego haga clic en **_Editar código_** para abrir el editor de personalización.
-   - Seleccione el icono _&#x200B;**Directiva de decisión**&#x200B;_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
+   - Seleccione el icono _**Directiva de decisión**_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
    - Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. No se han asociado ofertas de reserva con la política de decisión.
 
 
@@ -75,7 +76,7 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
 - **Insertar directiva de decisión**
   ![editor de personalización](assets/personalization-editor.png)
 
-  Inserte la directiva de decisión recién creada haciendo clic en el botón _&#x200B;**Insertar directiva**&#x200B;_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
+  Inserte la directiva de decisión recién creada haciendo clic en el botón _**Insertar directiva**_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
 Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`
 
   El código Handlebars recorre las ofertas devueltas por una política de decisión específica en Adobe Journey Optimizer.
@@ -83,5 +84,3 @@ Coloque el cursor entre el bucle each de la línea dos e inserte offerText naveg
 
 - **Publicar la campaña**\
   Active la campaña para empezar a enviar ofertas personalizadas en tiempo real.
-
-
