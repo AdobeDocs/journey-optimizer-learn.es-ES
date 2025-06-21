@@ -24,4 +24,4 @@ Descubra cómo los desarrolladores pueden optimizar la colaboración con los equ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463994/?learn=on&enablevpops&captions=spa)
 
-Para obtener más información, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
+Para obtener más información, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
