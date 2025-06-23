@@ -9,10 +9,10 @@ last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '710'
+ht-degree: 0%
 
 ---
 
@@ -38,15 +38,16 @@ El resultado es un conjunto de ofertas personalizado, devuelto como contenido de
 1. **Crear una configuración de canal**\
    Defina dónde y cómo aparecen las ofertas (por ejemplo, una página web con experiencia basada en código).
    - Inicie sesión en Recorrido Optimizer
-Vaya a Administración ->Canales->Crear configuración de canal
+Vaya a _**Administración ->Canales->Crear configuración de canal**_
    - **Nombre**: `finwise-web-personalization`\
      Identifica esta configuración para la entrega de ofertas web personalizadas de FinWise.
+
+   - **Tipo de experiencia**: `Code-based experience`\
+     Las ofertas no se insertan directamente en el DOM. En su lugar, AJO devuelve HTML sin procesar que se analiza mediante JavaScript personalizado.
 
    - **Plataforma**: `Web`\
      Dirigido específicamente a los navegadores web. No hay canales móviles habilitados.
 
-   - **Tipo de experiencia**: `Code-based experience`\
-     Las ofertas no se insertan directamente en el DOM. En su lugar, AJO devuelve HTML sin procesar que se analiza mediante JavaScript personalizado.
 
    - **URL de la página**: `http://localhost:3000/formula.html`\
      El canal está configurado para una página de prueba específica utilizada durante el desarrollo.
@@ -63,12 +64,14 @@ Vaya a Administración ->Canales->Crear configuración de canal
 
 
 3. **Agregar acción**\
-   Añada una acción de experiencia basada en código y vincule la acción a una configuración de canal creada anteriormente.
+   Vaya a la pestaña _**Acciones**_
+Añada una acción de experiencia basada en código y vincule la acción a una configuración de canal creada anteriormente.
 
 
 
 4. **Audiencia**\
-   Todos los visitantes (predeterminado).
+   Vaya a la pestaña _**Audiencia**_
+Todos los visitantes (predeterminado).
 
    Tipo de identidad: ECID (Experience Cloud ID)
 Esta configuración utiliza el ECID como identidad principal para reconocer usuarios. Cuando se establece la vinculación de identidad, ECID está vinculado a CRM ID para Personalized Targeting. Seleccione o cree una política de decisión que defina la lógica de oferta.
@@ -78,23 +81,26 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
 
    La acción está vinculada a una **Directiva de decisión** que define cómo se seleccionan las ofertas y cuántas ofertas se devuelven para su visualización. Esta directiva usa una **estrategia de selección** que se creó anteriormente en el tutorial.
 
-   Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en las secciones Acciones y luego haga clic en **_Editar código_** para abrir el editor de personalización.
+   Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en la ficha _**Acciones**_ y, a continuación, haga clic en **_Editar código_** para abrir el editor de personalización.
 
-   Seleccione el icono _&#x200B;**Directiva de decisión**&#x200B;_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
+   Seleccione el icono _**Directiva de decisión**_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
 Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. Asegúrese de seleccionar la oferta de reserva adecuada.
 
 6. **Insertar directiva de decisión**
 
+   Inserte la directiva de decisión recién creada haciendo clic en el botón _**Insertar directiva**_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
+Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`
+
+   Directiva de decisión insertada en el editor de personalización
+
    ![editor de personalización](assets/personalization-editor.png)
 
-   Inserte la directiva de decisión recién creada haciendo clic en el botón _&#x200B;**Insertar directiva**&#x200B;_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
-Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`
 
 
    El código Handlebars recorre las ofertas devueltas por una directiva de decisión específica en Adobe Journey Optimizer y crea un `<div>` para cada oferta. Cada `<div>` utiliza un atributo de etiquetas de datos con el nombre interno de la oferta para ayudar al grupo de carrusel y organizar las ofertas por categoría para facilitar la navegación. El contenido dentro de cada `<div>` muestra el texto de oferta personalizado, lo que permite una presentación dinámica y visualmente segmentada de varias ofertas.
 
+7. **Guardar la campaña**
 
-7. **Publicar la campaña**\
-   Active la campaña para empezar a enviar ofertas personalizadas en tiempo real.
+   Guarde la campaña haciendo clic en el botón _**Revisar para activar**_
 
-![img](assets/personalization-editor.png)
+
