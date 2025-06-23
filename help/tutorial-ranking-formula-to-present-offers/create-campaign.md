@@ -38,7 +38,7 @@ El resultado es un conjunto de ofertas personalizado, devuelto como contenido de
 1. **Crear una configuración de canal**\
    Defina dónde y cómo aparecen las ofertas (por ejemplo, una página web con experiencia basada en código).
    - Inicie sesión en Recorrido Optimizer
-Vaya a _**Administración ->Canales->Crear configuración de canal**_
+Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x200B;_
    - **Nombre**: `finwise-web-personalization`\
      Identifica esta configuración para la entrega de ofertas web personalizadas de FinWise.
 
@@ -64,13 +64,13 @@ Vaya a _**Administración ->Canales->Crear configuración de canal**_
 
 
 3. **Agregar acción**\
-   Vaya a la pestaña _**Acciones**_
+   Vaya a la pestaña _&#x200B;**Acciones**&#x200B;_
 Añada una acción de experiencia basada en código y vincule la acción a una configuración de canal creada anteriormente.
 
 
 
 4. **Audiencia**\
-   Vaya a la pestaña _**Audiencia**_
+   Vaya a la pestaña _&#x200B;**Audiencia**&#x200B;_
 Todos los visitantes (predeterminado).
 
    Tipo de identidad: ECID (Experience Cloud ID)
@@ -81,14 +81,14 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
 
    La acción está vinculada a una **Directiva de decisión** que define cómo se seleccionan las ofertas y cuántas ofertas se devuelven para su visualización. Esta directiva usa una **estrategia de selección** que se creó anteriormente en el tutorial.
 
-   Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en la ficha _**Acciones**_ y, a continuación, haga clic en **_Editar código_** para abrir el editor de personalización.
+   Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en la ficha _&#x200B;**Acciones**&#x200B;_ y, a continuación, haga clic en **_Editar código_** para abrir el editor de personalización.
 
-   Seleccione el icono _**Directiva de decisión**_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
+   Seleccione el icono _&#x200B;**Directiva de decisión**&#x200B;_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
 Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. Asegúrese de seleccionar la oferta de reserva adecuada.
 
 6. **Insertar directiva de decisión**
 
-   Inserte la directiva de decisión recién creada haciendo clic en el botón _**Insertar directiva**_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
+   Inserte la directiva de decisión recién creada haciendo clic en el botón _&#x200B;**Insertar directiva**&#x200B;_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
 Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`
 
    Directiva de decisión insertada en el editor de personalización
@@ -101,6 +101,6 @@ Coloque el cursor entre el bucle each de la línea dos e inserte offerText naveg
 
 7. **Guardar la campaña**
 
-   Guarde la campaña haciendo clic en el botón _**Revisar para activar**_
+   Guarde la campaña haciendo clic en el botón _&#x200B;**Revisar para activar**&#x200B;_
 
 
