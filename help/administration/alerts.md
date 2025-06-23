@@ -30,4 +30,4 @@ Obtenga información sobre cómo suscribirse a alertas predefinidas para detecta
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/alerts){target="_blank"} para obtener más información.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/test/alerts){target="_blank"} para obtener más información.
