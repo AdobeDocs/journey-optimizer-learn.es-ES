@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Uso de campos de formulario editables en experiencias basadas en código de AJO
 
-En muchos recorridos de marketing, especialmente en las industrias reguladas, es esencial incluir un descargo de responsabilidad legal que puede variar según la campaña, la ubicación geográfica o el producto. Mediante el uso de un [campo editable](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) directamente en el editor de Personalization de AJO, los especialistas en marketing y los equipos legales pueden mantener un control total sobre el texto de exención de responsabilidad sin involucrar a los desarrolladores ni modificar la lógica de decisión.
+En muchos recorridos de marketing, especialmente en las industrias reguladas, es esencial incluir un descargo de responsabilidad legal que puede variar según la campaña, la ubicación geográfica o el producto. Mediante el uso de un [campo editable](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) directamente en el editor de Personalization de AJO, los especialistas en marketing y los equipos legales pueden mantener un control total sobre el texto de exención de responsabilidad sin involucrar a los desarrolladores ni modificar la lógica de decisión.
 
 Esto permite actualizaciones rápidas y garantiza el cumplimiento de las normas en todas las campañas, al tiempo que aprovecha el contenido decidido como ofertas.
 
