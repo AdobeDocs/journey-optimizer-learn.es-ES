@@ -1,27 +1,27 @@
 ---
 title: Guía de la interfaz del generador de fórmulas en Adobe Journey Optimizer
-description: Tutorial de la interfaz de usuario del generador de fórmulas
+description: Aprenda a utilizar el Generador de fórmulas de IA en Adobe Journey Optimizer para crear estrategias de clasificación de ofertas personalizadas.
 feature: Decisioning
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 186
-last-substantial-update: 2025-06-06T00:00:00Z
+duration: 282
+last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
+source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Guía de la interfaz del generador de fórmulas en Adobe Journey Optimizer
 
-El Generador de fórmulas de Adobe Journey Optimizer es una interfaz visual que se utiliza para crear fórmulas de clasificación que determinan cómo se priorizan las ofertas durante la toma de decisiones. Permite a los especialistas en marketing y a los desarrolladores definir una lógica personalizada mediante atributos de perfil, datos contextuales (como la ubicación o el tiempo) y metadatos de oferta (como etiquetas). Las fórmulas se utilizan en estrategias de clasificación para asignar una puntuación numérica a cada oferta, lo que garantiza que el contenido más relevante se envíe a cada usuario en función de los datos en tiempo real.
+Aprenda a utilizar el Generador de fórmulas de IA en Adobe Journey Optimizer para crear estrategias de clasificación de ofertas personalizadas.
 
+Este tutorial explica cómo utilizar el Generador de fórmulas de IA para combinar puntuaciones de modelos, datos de perfiles y ofertas, señales contextuales y reglas comerciales para personalizar decisiones y priorizar ofertas en función de sus objetivos de marketing.
 
-Este vídeo le ofrece una breve descripción general de la interfaz de usuario del generador de fórmulas.
-
->[!VIDEO](https://video.tv.adobe.com/v/3463742?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}
