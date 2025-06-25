@@ -25,11 +25,11 @@ Esto permite actualizaciones rápidas y garantiza el cumplimiento de las normas 
 ## Insertar campo editable en el editor de personalización
 
 - Abra la campaña creada en el paso anterior.
-- Haga clic en _**Modificar campaña**_
-- Vaya a la pestaña _**Contenido**_
-- Haga clic en _**Editar código**_ e inserte un campo editable llamado legalDisclaimer con un valor predeterminado utilizando la siguiente sintaxis en el editor de personalización
+- Haga clic en _&#x200B;**Modificar campaña**&#x200B;_
+- Vaya a la pestaña _&#x200B;**Contenido**&#x200B;_
+- Haga clic en _&#x200B;**Editar código**&#x200B;_ e inserte un campo editable llamado legalDisclaimer con un valor predeterminado utilizando la siguiente sintaxis en el editor de personalización
 
-- 
+- &#x200B;
   <pre><code>&#123;&#123;#inline &quot;legalDisclaimer&quot; name=&quot;Legal Disclaimer&quot;&#125;&#125; Legal Disclaimer will go here &#123;&#123;/inline&#125;&#125;</code></pre>
 
 - Usar <code>{{{legalDisclaimer}}}</code> en la plantilla como se muestra a continuación
