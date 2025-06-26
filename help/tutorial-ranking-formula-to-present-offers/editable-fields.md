@@ -9,30 +9,29 @@ last-substantial-update: 2025-06-22T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18416
 exl-id: 0ba695d6-becb-440d-b0d0-de5b51b42562
-source-git-commit: 264dde0445306a6d75d8aa4e10459d02e34b2aa8
+source-git-commit: 65d91d4fb0e978e62e5d95bf40355dcb8d27efb9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
 
 # Uso de campos de formulario editables en experiencias basadas en código de AJO
 
-En muchos recorridos de marketing, especialmente en las industrias reguladas, es esencial incluir un descargo de responsabilidad legal que puede variar según la campaña, la ubicación geográfica o el producto. Mediante el uso de un [campo editable](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) directamente en el editor de Personalization de AJO, los especialistas en marketing y los equipos legales pueden mantener un control total sobre el texto de exención de responsabilidad sin involucrar a los desarrolladores ni modificar la lógica de decisión.
+En muchos recorridos de marketing, especialmente en las industrias reguladas, es esencial incluir un descargo de responsabilidad legal que puede variar según la campaña, la ubicación geográfica o el producto. Mediante el uso de un [campo editable](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) directamente en el editor de Personalization de AJO, los especialistas en marketing y los equipos legales pueden mantener un control total sobre el texto de exención de responsabilidad sin involucrar a los desarrolladores ni modificar la lógica de decisión.
 
 Esto permite actualizaciones rápidas y garantiza el cumplimiento de las normas en todas las campañas, al tiempo que aprovecha el contenido decidido como ofertas.
 
 ## Insertar campo editable en el editor de personalización
 
 - Abra la campaña creada en el paso anterior.
-- Haga clic en _&#x200B;**Modificar campaña**&#x200B;_
-- Vaya a la pestaña _&#x200B;**Contenido**&#x200B;_
-- Haga clic en _&#x200B;**Editar código**&#x200B;_ e inserte un campo editable llamado legalDisclaimer con un valor predeterminado utilizando la siguiente sintaxis en el editor de personalización
+- Haga clic en _**Modificar campaña**_
+- Vaya a la pestaña _**Contenido**_
+- Haga clic en _**Editar código**_ e inserte un campo editable llamado legalDisclaimer con un valor predeterminado utilizando la siguiente sintaxis en el editor de personalización
 
-- &#x200B;
-  <pre><code>&#123;&#123;#inline &quot;legalDisclaimer&quot; name=&quot;Legal Disclaimer&quot;&#125;&#125; Legal Disclaimer will go here &#123;&#123;/inline&#125;&#125;</code></pre>
+- `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 
-- Usar <code>{{{legalDisclaimer}}}</code> en la plantilla como se muestra a continuación
+- Utilizar la variable `{{{legalDisclaimer}}}` en la plantilla como se muestra a continuación
 
 - ![campos editables](assets/editable-fields.png)
 
