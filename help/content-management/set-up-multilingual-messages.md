@@ -11,7 +11,7 @@ jira: KT-14034
 thumbnail: KT-14034.jpeg
 exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
 source-git-commit: 7f22cccab99ca1ee8ff5d99fccdf4ae607440b1b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ La función de mensajes multilingües de Adobe Journey Optimizer le permite crea
 
 Aprenda a configurar proyectos de traducción para la traducción automática y la configuración de idioma necesaria para los proyectos de traducción manual y de traducción automática para los mensajes multilingües.
  
->[!VIDEO](https://video.tv.adobe.com/v/3453546/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
