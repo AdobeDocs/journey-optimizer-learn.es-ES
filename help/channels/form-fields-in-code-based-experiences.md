@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Descubra cómo los desarrolladores pueden optimizar la colaboración con los equipos de marketing habilitando campos editables en canales de experiencia basada en código. Descubra cómo definir campos JSON y HTML editables en plantillas de contenido, lo que permite a los expertos en marketing actualizar elementos de la campaña como títulos y descripciones sin tocar el código. Descubra cómo las políticas de decisión incrustadas mejoran la personalización directamente dentro de las plantillas, lo que aumenta la eficacia, reduce los errores y acelera el envío de la campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463994/?learn=on&enablevpops&captions=spa)
 
 Para obtener más información, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
