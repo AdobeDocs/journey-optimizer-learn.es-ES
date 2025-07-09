@@ -41,7 +41,7 @@ En lugar de crear un nuevo esquema, el esquema de Evento de experiencia existent
 
 En Adobe Experience Platform:
 
-- Abra el esquema de evento de experiencia _**Weather-Schema**_ existente que esté usando para ofertas basadas en el clima.
+- Abra el esquema de evento de experiencia _&#x200B;**Weather-Schema**&#x200B;_ existente que esté usando para ofertas basadas en el clima.
 
 - Añada el grupo de campos:
 Evento de experiencia: interacciones de propuesta
