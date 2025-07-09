@@ -27,4 +27,4 @@ Este tutorial presenta la función Ejecución en seco de Recorrido de Adobe Jour
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) para obtener más información sobre esta característica.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) para obtener más información sobre esta característica.
