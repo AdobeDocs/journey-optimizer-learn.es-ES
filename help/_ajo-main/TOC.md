@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: ht
-source-wordcount: '830'
-ht-degree: 100%
+source-git-commit: cd7a4d88de8920e40631bcc391870333444f92f9
+workflow-type: tm+mt
+source-wordcount: '838'
+ht-degree: 99%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 100%
    + [Caso de uso: leer público](/help/create-journeys/use-case-read-audience.md)
    + [Caso de uso: Calificación de público](/help/create-journeys/use-case-audience-qualification.md)
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
+   + [Validar la lógica de recorrido con la ejecución en seco del Recorrido](/help/create-journeys/journey-dry-run.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
