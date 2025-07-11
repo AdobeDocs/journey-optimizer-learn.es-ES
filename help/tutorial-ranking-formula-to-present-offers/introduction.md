@@ -1,5 +1,5 @@
 ---
-title: Personalizar ofertas con fórmulas de clasificación basadas en el código postal del usuario y los ingresos
+title: Personalice ofertas con fórmulas de clasificación basadas en el código postal y los ingresos
 description: Utilice las fórmulas de clasificación de Adobe Journey Optimizer para ofrecer dinámicamente las ofertas financieras más relevantes (adaptadas al código postal y al nivel de ingresos de cada usuario) y lograr una mayor participación y una personalización más inteligente.
 feature: Decisioning
 role: User
@@ -7,14 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-27T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
+source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# Personalizar ofertas con fórmulas de clasificación basadas en el código postal del usuario y los ingresos
+# Personalice ofertas con fórmulas de clasificación basadas en el código postal del usuario y los ingresos
 
 Este caso de uso muestra cómo ofrecer ofertas financieras personalizadas mediante el uso de atributos de usuario como código postal e ingresos anuales dentro de Adobe Journey Optimizer. Mediante fórmulas de clasificación, las ofertas se clasifican y priorizan de forma inteligente en función de las promociones específicas de la ubicación y la idoneidad basada en los ingresos. Por ejemplo, los CD de alto rendimiento pueden promocionarse a usuarios con códigos postales acomodados, mientras que a inversores emergentes se les muestran opciones de inversión diversificadas. Las fórmulas de clasificación garantizan que cada usuario reciba ofertas relevantes y apropiadas desde el punto de vista financiero. Los criterios de clasificación se definen mediante atributos de perfil, señales contextuales y modelos de IA opcionales para mejorar aún más la precisión de la decisión. Las ofertas se entregan en tiempo real a través de canales web o de correo electrónico, lo que aumenta la participación y la conversión. Este enfoque combina la lógica empresarial con la personalización basada en datos para aumentar la experiencia del usuario y el impacto del marketing.
 
@@ -39,5 +40,3 @@ Este tutorial cubre los siguientes pasos de Offer Decisioning:
 * Definición de una estrategia de selección para agrupar y priorizar ofertas.
 
 * Creación de una política de decisión para entregar la oferta más relevante a cada individuo.
-
-
