@@ -1,15 +1,17 @@
 ---
-user-guide-title: Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante Web SDK
+title: Personalización de ofertas con datos meteorológicos en tiempo real mediante Web SDK
+description: Aprenda a personalizar el contenido web en función de las condiciones meteorológicas en tiempo real mediante Web SDK.
+user-guide-title: Personalización de ofertas con datos meteorológicos en tiempo real mediante Web SDK
 user-guide-description: Este tutorial muestra cómo personalizar el contenido web en función de las condiciones meteorológicas en tiempo real. Cuando un usuario visita el sitio web, su ubicación actual se utiliza para recuperar datos meteorológicos en directo, como la temperatura y las condiciones (por ejemplo, lluvia, cielos despejados). Esta información contextual se envía a Adobe Experience Platform mediante Web SDK (alloy), lo que permite a Adobe Journey Optimizer evaluar y devolver ofertas concretas (como promociones de temporada o sugerencias de productos según el tiempo) que se representan automáticamente en la página.
+solution: Journey Optimizer
 role: Developer
 level: Beginner
-breadcrumb-title: personalization-offers-with-real-time-weather-data
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: c81c3ce8a2564b26a92cef821a1e45533c347f30
+source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '143'
+ht-degree: 7%
 
 ---
 
