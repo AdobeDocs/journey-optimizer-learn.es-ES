@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
+source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 + Manuales de tácticas de casos de uso {#use-case-playbooks}
    + [Información general](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [Configuración de una zona protegida del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Creación y publicación de instancias del manual de tácticas](http://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Creación y publicación de instancias del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
@@ -55,7 +55,7 @@ ht-degree: 98%
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
    + [Activación de ejecuciones de recorrido diarias tras la segmentación por lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Solución de problemas de acciones entrantes en recorridos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [Solución de problemas de acciones entrantes en recorridos](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Administración de conflictos {#conflict-management}
    + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
    + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
@@ -207,8 +207,8 @@ ht-degree: 98%
    + [Aplicación de políticas de uso de datos en canales de Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
 + Ejercicios y retos {#exercises-and-challenges}
-   + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=es)
-   + [Retos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=es)
+   + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Retos](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Grabaciones en directo de Experience League](/help/experience-league-live-show-recordings.md)
 + Laboratorios Summit {#summit-labs}
    + [Hoja de referencia del laboratorio Summit 2025](/help/summit-lab-assets/l535-assets.md)
