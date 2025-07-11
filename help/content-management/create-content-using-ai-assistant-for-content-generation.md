@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Aprenda a utilizar AI Assistant para generar sugerencias de variación de contenido proactivas tanto para texto como para imágenes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434638/?learn=on&captions=spa)
