@@ -21,4 +21,4 @@ ht-degree: 100%
 
 La función de mensajería multilingüe permite crear contenido en varios idiomas dentro de una sola campaña o recorrido. Obtenga información para crear mensajes multilingües en Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452116/?learn=on&captions=spa)
