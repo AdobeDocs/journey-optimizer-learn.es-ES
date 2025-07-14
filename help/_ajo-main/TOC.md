@@ -55,7 +55,7 @@ ht-degree: 98%
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
    + [Activación de ejecuciones de recorrido diarias tras la segmentación por lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Solución de problemas de acciones entrantes en recorridos](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [Solución de problemas de acciones entrantes en recorridos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Administración de conflictos {#conflict-management}
    + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
    + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
@@ -207,7 +207,7 @@ ht-degree: 98%
    + [Aplicación de políticas de uso de datos en canales de Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
 + Ejercicios y retos {#exercises-and-challenges}
-   + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Retos](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Grabaciones en directo de Experience League](/help/experience-league-live-show-recordings.md)
 + Laboratorios Summit {#summit-labs}
