@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 97%
    + [Caso de uso: leer público](/help/create-journeys/use-case-read-audience.md)
    + [Caso de uso: Calificación de público](/help/create-journeys/use-case-audience-qualification.md)
    + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
-   + [Validar la lógica de recorrido con la ejecución en seco del Recorrido](/help/create-journeys/journey-dry-run.md)
+   + [Validación de la la lógica del recorrido con su ensayo](/help/create-journeys/journey-dry-run.md)
    + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
    + [Activación de ejecuciones de recorrido diarias tras la segmentación por lotes](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Solución de problemas de acciones entrantes en recorridos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [Solución de problemas de acciones entrantes en recorridos](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Administración de conflictos {#conflict-management}
    + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
    + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
@@ -207,7 +207,7 @@ ht-degree: 97%
    + [Aplicación de políticas de uso de datos en canales de Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
 + Ejercicios y retos {#exercises-and-challenges}
-   + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Retos](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Grabaciones en directo de Experience League](/help/experience-league-live-show-recordings.md)
 + Laboratorios Summit {#summit-labs}
