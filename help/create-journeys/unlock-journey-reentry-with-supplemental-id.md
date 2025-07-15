@@ -24,4 +24,4 @@ En este tutorial, aprenderá a habilitar y aplicar un identificador suplementari
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-Para obtener más información sobre los identificadores suplementarios, consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
+Para obtener más información sobre los identificadores suplementarios, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
