@@ -20,7 +20,7 @@ ht-degree: 0%
 Para habilitar la creación de informes sobre las impresiones y los clics de las ofertas de AJO, se deben configurar los siguientes componentes:
 >[!NOTE]
 >
-> Estos requisitos previos ya se cumplimentaron en la sección Crear esquema y conjunto de datos del [tutorial anterior](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Estos requisitos previos ya se cumplimentaron en la sección Crear esquema y conjunto de datos del [tutorial anterior](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Conjunto de datos en Adobe Experience Platform (AEP)
 
