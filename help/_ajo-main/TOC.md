@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -182,11 +182,11 @@ ht-degree: 98%
          + [Delegar subdominios CName](/help/set-up-channels/delegate-cname-subdomains.md)
          + [Configuración de un canal de correo electrónico](/help/set-up-channels/configure-email-channel.md)
          + [Creación y ejecución de un plan de calentamiento de IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + Canal SMS/MMS/RCS {#sms-mms-channel}
+      + Canal de SMS/MMS/RCS {#sms-mms-channel}
          + [Configuración de credenciales de API de SMS y superficies de canal](/help/set-up-channels/set-up-sms-channel.md)
          + [Configuración de un proveedor de SMS personalizado](/help/set-up-channels/configure-custom-sms-provider.md)
          + [Configuración de credenciales de API de MMS y superficies de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [Configuración de RCS](/help/set-up-channels/set-up-rcs.md)
+         + [Configurar el RCS](/help/set-up-channels/set-up-rcs.md)
       + Canales web y móviles {#web-and-mobile-channels}
          + [Configuración de canales guiada](/help/set-up-channels/guided-channel-setup.md)
    + Configurar recorridos {#journey-configuration}
