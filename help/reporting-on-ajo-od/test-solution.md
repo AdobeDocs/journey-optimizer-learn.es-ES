@@ -42,7 +42,7 @@ Abra el archivo weather-offers.html en el editor de texto y reemplace la etiquet
 
 - Abra la página web en su explorador favorito.
 
-- Permitir _**seguimiento de ubicación**_. Esto es necesario para obtener los detalles del tiempo en función de su ubicación.
+- Permitir _&#x200B;**seguimiento de ubicación**&#x200B;_. Esto es necesario para obtener los detalles del tiempo en función de su ubicación.
 
 - Haga clic en el botón del evento de interacciones de ofertas para almacenar en déclencheur.
 

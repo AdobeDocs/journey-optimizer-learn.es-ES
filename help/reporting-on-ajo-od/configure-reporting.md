@@ -21,6 +21,6 @@ Para comenzar a configurar los informes de Adobe Journey Optimizer Offer Decisio
 
 - Iniciar sesión en Journey Optimizer
 
-- Vaya a _**Administración ->Configuraciones ->Informes ->Administrar ->Agregar conjunto de datos**_
-- Seleccione _**Weather-schema-dataset**_, que almacena los eventos de impresión de ofertas y clics generados en el tutorial anterior.
+- Vaya a _&#x200B;**Administración ->Configuraciones ->Informes ->Administrar ->Agregar conjunto de datos**&#x200B;_
+- Seleccione _&#x200B;**Weather-schema-dataset**&#x200B;_, que almacena los eventos de impresión de ofertas y clics generados en el tutorial anterior.
 

@@ -23,9 +23,9 @@ Las etiquetas de Adobe Experience Platform (anteriormente Adobe Launch) ayudan a
 En este [vídeo se describe el proceso de creación de Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - Iniciar sesión en la recopilación de datos
-- Haz clic en _**Etiquetas -> Nueva propiedad**_
+- Haz clic en _&#x200B;**Etiquetas -> Nueva propiedad**&#x200B;_
 
-- Cree una Adobe Experience Platform Tag llamada _**personalización según el tiempo**_.
+- Cree una Adobe Experience Platform Tag llamada _&#x200B;**personalización según el tiempo**&#x200B;_.
 
 - Añada las siguientes extensiones a la etiqueta
   ![etiquetas-extensiones](assets/tags-extensions1.png)
