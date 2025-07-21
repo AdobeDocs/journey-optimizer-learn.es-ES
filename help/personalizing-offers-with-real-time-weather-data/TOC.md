@@ -2,16 +2,16 @@
 title: Personalización de ofertas con datos meteorológicos en tiempo real mediante Web SDK
 description: Aprenda a personalizar el contenido web en función de las condiciones meteorológicas en tiempo real mediante Web SDK.
 user-guide-title: Personalización de ofertas con datos meteorológicos en tiempo real mediante Web SDK
-user-guide-description: Este tutorial muestra cómo personalizar el contenido web en función de las condiciones meteorológicas en tiempo real. Cuando un usuario visita el sitio web, su ubicación actual se utiliza para recuperar datos meteorológicos en directo, como la temperatura y las condiciones (por ejemplo, lluvia, cielos despejados). Esta información contextual se envía a Adobe Experience Platform mediante Web SDK (alloy), lo que permite a Adobe Journey Optimizer evaluar y devolver ofertas concretas (como promociones de temporada o sugerencias de productos según el tiempo) que se representan automáticamente en la página.
+user-guide-description: Este tutorial muestra cómo personalizar el contenido web en función de las condiciones meteorológicas en tiempo real. Cuando un usuario visita el sitio web, su ubicación actual se utiliza para recuperar datos meteorológicos en directo, como la temperatura y las condiciones (por ejemplo, lluvia, cielos despejados). Esta información contextual se envía a Adobe Experience Platform mediante la SDK web (aleación), lo que permite a Adobe Journey Optimizer Decisioning evaluar y devolver ofertas segmentadas (como promociones de temporada o sugerencias de productos adecuadas para el tiempo) que se representan automáticamente en la página.
 solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 7%
+source-wordcount: '151'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 + [Introducción](./introduction.md)
 + [Crear esquema y conjunto de datos](./create-schema-and-dataset.md)
 + [Crear etiqueta de AEP](./create-aep-tags.md)
-+ [Crear categoría de etiqueta](./create-tag-category.md)
++ [Crear colección de ofertas](./create-tag-category.md)
 + [Crear ofertas](./create-offers.md)
 + [Crear fórmula de clasificación](./create-ranking-formula.md)
 + [Crear estrategia de selección](./selection-strategy.md)

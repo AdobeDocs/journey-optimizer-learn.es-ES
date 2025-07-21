@@ -8,7 +8,8 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: 5bff884b-17e2-4b86-affb-ea9cf3cc2a60
+source-git-commit: c2478bc3bde4c7770110a5672a0ffc425a117e62
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,8 +20,7 @@ ht-degree: 0%
 
 Para comenzar a configurar los informes de Adobe Journey Optimizer Offer Decisioning
 
-- Iniciar sesión en Journey Optimizer
+- Iniciar sesión en _**Journey Optimizer**_
 
-- Vaya a _&#x200B;**Administración ->Configuraciones ->Informes ->Administrar ->Agregar conjunto de datos**&#x200B;_
-- Seleccione _&#x200B;**Weather-schema-dataset**&#x200B;_, que almacena los eventos de impresión de ofertas y clics generados en el tutorial anterior.
-
+- Vaya a _**Administración ->Configuraciones ->Informes ->Administrar ->Agregar conjunto de datos**_
+- Seleccione _**Weather-schema-dataset**_, que almacena los eventos de impresión de ofertas y clics generados en el tutorial anterior.
