@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [Diseñador de recorridos: información general](/help/create-journeys/journey-designer-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/create-journeys/new-journey-designer.md)
    + [Introducción a la creación de un recorrido](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
+   + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Caso de uso: Recorrido transaccional](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso de uso: Evento empresarial](/help/create-journeys/use-case-business-event.md)
    + [Caso de uso: leer público](/help/create-journeys/use-case-read-audience.md)
    + [Caso de uso: Calificación de público](/help/create-journeys/use-case-audience-qualification.md)
-   + [Creación de un perfil de prueba](/help/create-journeys/test-a-journey.md)
+   + [Dominio del filtrado de atributos múltiples](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [Validación de la la lógica del recorrido con su ensayo](/help/create-journeys/journey-dry-run.md)
-   + [Publicación de un recorrido](/help/create-journeys/publish-a-journey.md)
    + [Desbloquear la reentrada de recorridos con ID suplementarios](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
