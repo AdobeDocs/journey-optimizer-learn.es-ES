@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
+source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -24,9 +25,7 @@ El objetivo es proporcionar información clara y basada en datos sobre el rendim
 
 
 
-
 ![tablero de informes](assets/dashboard-reporting.png)
-
 
 
 ## Requisitos previos para este tutorial
@@ -34,12 +33,8 @@ El objetivo es proporcionar información clara y basada en datos sobre el rendim
 Antes de comenzar, complete el tutorial [Personalización de ofertas con datos del tiempo en tiempo real.](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Establece todos los componentes básicos, incluidos:
 
 - Integración de Web SDK
-
 - Configuración de ofertas en Adobe Journey Optimizer (AJO)
-
 - Toma de decisiones mediante atributos contextuales como tiempo y temperatura
-
 - Representación de ofertas en tiempo real en una página web
 
 Este tutorial se basa directamente en esa implementación y se centra específicamente en capturar impresiones de ofertas e interacciones para la creación de informes y análisis en Journey Optimizer.
-
