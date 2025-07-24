@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
    + [Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Generando informes sobre impresiones y clics de ofertas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Generación de informes acerca de impresiones y clics sobre ofertas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Uso de la fórmula de clasificación para entregar ofertas personalizadas en Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
