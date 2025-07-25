@@ -9,18 +9,18 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '235'
 ht-degree: 9%
 
 ---
 
 # Envío de CRMID a Adobe Experience Platform
 
-Adobe Launch (Etiquetas) se utiliza para enviar el CRMID a Adobe Experience Platform (AEP) porque ofrece un mecanismo flexible basado en eventos para transmitir datos de identidad directamente desde el explorador. El envío de CRMID después del inicio de sesión del usuario permite a AEP vincular el ECID anónimo con el perfil de CRM conocido, lo que permite vincular con precisión la identidad. Este vínculo forma la base para crear perfiles unificados de clientes, calificar audiencias y ofrecer experiencias personalizadas en tiempo real en Adobe Journey Optimizer (AJO).
+Las etiquetas de Adobe Experience Platform se utilizan para enviar el CRMID a Adobe Experience Platform (AEP), ya que ofrece un mecanismo flexible basado en eventos para transmitir datos de identidad directamente desde el explorador. El envío de CRMID después del inicio de sesión del usuario permite a AEP vincular el ECID anónimo con el perfil de CRM conocido, lo que permite vincular con precisión la identidad. Este vínculo forma la base para crear perfiles unificados de clientes, calificar audiencias y ofrecer experiencias personalizadas en tiempo real en Adobe Journey Optimizer (AJO).
 
-Se crea una propiedad de etiquetas de AEP llamada FinWise. Se han añadido las siguientes extensiones a la propiedad Etiquetas
+Se crea una propiedad de etiquetas de Experience Platform llamada _**FinWise**_. Se han añadido las siguientes extensiones a la propiedad Etiquetas
 
 ![etiquetas-extensiones](assets/tags-extensions.png)
 

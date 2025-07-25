@@ -1,5 +1,5 @@
 ---
-title: Seguimiento y elaboración de informes de ofertas de Adobe Journey Optimizer (AJO) entregadas mediante AJO Offer Decisioning
+title: Seguimiento y elaboración de informes de ofertas de Adobe Journey Optimizer (AJO) entregadas mediante AJO Decisioning
 description: Este tutorial amplía una implementación de Adobe Journey Optimizer (AJO) existente que ofrece ofertas personalizadas basadas en datos contextuales como la temperatura. Describe cómo capturar los eventos de impresión e interacción y preparar los datos para la creación de informes dentro de Journey Optimizer.
 feature: Decisioning
 role: User
@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# Seguimiento y elaboración de informes de ofertas de Adobe Journey Optimizer (AJO) entregadas mediante AJO Offer Decisioning
+# Seguimiento y elaboración de informes de ofertas de Adobe Journey Optimizer (AJO) entregadas mediante AJO Decisioning
 
 Este caso de uso se centra en la activación de los informes y el análisis de rendimiento para las ofertas entregadas a través de Adobe Journey Optimizer (AJO). Cuando las ofertas se personalizan y entregan en función de señales contextuales (como el tiempo o la ubicación), es esencial rastrear tanto las impresiones como las interacciones del usuario para evaluar su eficacia.
 

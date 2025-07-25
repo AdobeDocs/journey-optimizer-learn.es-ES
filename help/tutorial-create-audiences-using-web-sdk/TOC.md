@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: create-audiences-using-web-sdk
 breadcrumb-url: /docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction
 auto-video-transcripts: true
-source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 16%
+source-wordcount: '92'
+ht-degree: 13%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 + [Introducción](./introduction.md)
 + [Crear esquemas, conjuntos de datos...etc.](./create-schema-and-dataset.md)
-+ [Creación de públicos](./create-audiences.md)
-+ [Crear etiquetas de AEP](./create-aep-tags.md)
++ [Creación de público](./create-audiences.md)
++ [Creación de etiquetas de Experience Platform](./create-aep-tags.md)
 + [Crear formulario web](./create-web-form.md)
 + [Depurar la solución](./debug.md)

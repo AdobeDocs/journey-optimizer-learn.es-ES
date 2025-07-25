@@ -9,23 +9,23 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# Creación de etiquetas de AEP
+# Creación de etiquetas de Adobe Experience Platform
 
 Las etiquetas de Adobe Experience Platform (anteriormente Adobe Launch) ayudan a administrar e implementar* tecnologías de marketing y análisis en su sitio web sin necesidad de cambiar el código del sitio.
 
-En este [vídeo se describe el proceso de creación de Adobe Experience Tags](https://experienceleague.adobe.com/es/playlists/experience-platform-get-started-with-tags)
+En este [vídeo se describe el proceso de creación de Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - Iniciar sesión en la recopilación de datos
-- Haz clic en _&#x200B;**Etiquetas -> Nueva propiedad**&#x200B;_
+- Haz clic en _**Etiquetas -> Nueva propiedad**_
 
-- Cree una Adobe Experience Platform Tag llamada _&#x200B;**personalización según el tiempo**&#x200B;_.
+- Cree una Adobe Experience Platform Tag llamada _**personalización según el tiempo**_.
 
 - Añada las siguientes extensiones a la etiqueta
   ![etiquetas-extensiones](assets/tags-extensions1.png)
