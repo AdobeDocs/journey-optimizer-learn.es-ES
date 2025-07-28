@@ -8,13 +8,13 @@ level: Beginner
 doc-type: Article
 last-substantial-update: 2025-07-08T00:00:00Z
 jira: KT-18451
-source-git-commit: 41f0d44fb39c9d187ee8c97d54202387fa9eda56
+exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
+source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Captura de interacciones de oferta con Adobe Web SDK para la formación sobre modelos de IA
 
@@ -41,7 +41,7 @@ En lugar de crear un nuevo esquema, el esquema de Evento de experiencia existent
 
 En Adobe Experience Platform:
 
-- Abra el esquema de evento de experiencia _&#x200B;**Weather-Schema**&#x200B;_ existente que esté usando para ofertas basadas en el clima.
+- Abra el esquema de evento de experiencia _**Weather-Schema**_ existente que esté usando para ofertas basadas en el clima.
 
 - Añada el grupo de campos:
 Evento de experiencia: interacciones de propuesta
@@ -72,26 +72,32 @@ Ahora se envía un evento decisioning.propositionDisplay mediante Adobe Web SDK 
 
 
 ```javascript
-if (offerIds.length > 0) {
-  alloy("sendEvent", {
-    xdm: {
-      _id: generateUUID(),
-      timestamp: new Date().toISOString(),
-      eventType: "decisioning.propositionDisplay",
-      _experience: {
-        decisioning: {
-          propositionEvent: {
-            display: 1
-          },
-          involvedPropositions: offerIds.map(id => ({
-            id,
-            scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-          }))
-        }
-      }
-    }
-  });
-}
+alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
 ```
 
 ## Captura De Eventos De Clic De Ofertas (Interacciones)
@@ -102,31 +108,42 @@ Cuando se detecta un clic, se envía un evento decisioning.propositionInteract m
 
 ```javascript
 // Attach click tracking to <a> and <button> elements
-wrapper.querySelectorAll("a, button").forEach(el => {
-  el.addEventListener("click", () => {
-    const offerId = el.getAttribute("data-offer-id") || item.id;
-    console.log("Clicked element offerId:", offerId);
+child.querySelectorAll("a, button").forEach(el => {
+                el.addEventListener("click", () => {
+                  const ecidValue = getECID();
+                  if (!ecidValue || !offerId || !trackingToken) {
+                    console.warn("Girish!!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    return;
+                  }
 
-    alloy("sendEvent", {
-      xdm: {
-        _id: generateUUID(),
-        timestamp: new Date().toISOString(),
-        eventType: "decisioning.propositionInteract",
-        _experience: {
-          decisioning: {
-            propositionEvent: {
-              interact: 1
-            },
-            involvedPropositions: [{
-              id: offerId,
-              scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-            }]
-          }
-        }
-      }
-    });
-  });
-});
+                  alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
+                });
+              });
 ```
 
 ## Creación de un modelo de IA para la clasificación de ofertas en Adobe Journey Optimizer Offer Decisioning
