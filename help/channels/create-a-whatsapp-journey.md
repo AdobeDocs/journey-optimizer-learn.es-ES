@@ -28,4 +28,4 @@ Lo que aprenderá:
 
 Ideal para los especialistas en marketing que buscan automatizar la participación personalizada del cliente a través de WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470285/?learn=on&enablevpops&captions=spa)
