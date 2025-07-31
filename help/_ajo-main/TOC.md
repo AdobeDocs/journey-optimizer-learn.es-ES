@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 41b6fb378767274151676aaf5ed247e9551717e4
+source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 96%
+source-wordcount: '905'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 + Casos de uso {#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
-   + [Reparticipación inteligente: exploración abandonada](https://experienceleague.adobe.com/es/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Reparticipación inteligente: exploración abandonada](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Generación de informes acerca de impresiones y clics sobre ofertas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Uso de la fórmula de clasificación para entregar ofertas personalizadas en Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -36,13 +36,17 @@ ht-degree: 96%
    + [Capacidades de Mobile para desarrolladores](/help/channels/mobile-capabilities-for-developers.md)
    + [Obtener ayuda con el asistente de IA](/help/ai-assistant.md)
 + Campañas {#create-campaigns}
-   + [Creación de una campaña](/help/create-campaigns/create-a-campaign.md)
-   + [Creación de una campaña in-app](/help/create-campaigns/in-app.md)
-   + [Configuración y envío de una campaña push](/help/create-campaigns/push-campaign.md)
-   + [Creación de una campaña web](/help/create-campaigns/web-campaign.md)
-   + [Creación de una campaña de experiencias basadas en código](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-   + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
-   + [Creación de experimentos de contenido para campañas de correo electrónico](/help/create-campaigns/content-experiments.md)
+   + Campañas de acción {#action-campaigns}
+      + [Creación de una campaña](/help/create-campaigns/create-a-campaign.md)
+      + [Creación de una campaña in-app](/help/create-campaigns/in-app.md)
+      + [Configuración y envío de una campaña push](/help/create-campaigns/push-campaign.md)
+      + [Creación de una campaña web](/help/create-campaigns/web-campaign.md)
+      + [Creación de una campaña de experiencias basadas en código](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [Creación de experimentos de contenido para campañas de correo electrónico](/help/create-campaigns/content-experiments.md)
+      + [Aprovechamiento de la optimización de mensajes en una campaña](/help/channels/leverage-message-optimization-in-a-campaign.md)
+   + Campañas activadas por API {#api-triggered-campaigns}
+      + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
+   + Campañas orquestadas {#orchestrated-campaigns}
 + Recorridos {#create-journeys}
    + [Diseñador de recorridos: información general](/help/create-journeys/journey-designer-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/create-journeys/new-journey-designer.md)
