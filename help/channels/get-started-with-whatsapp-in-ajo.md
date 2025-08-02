@@ -30,4 +30,4 @@ En este tutorial, descubrirá cómo hacer lo siguiente:
 
 Perfecto para los especialistas en marketing que buscan ampliar su alcance y participación a través de una de las plataformas de mensajería más populares del mundo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470247/?learn=on&enablevpops&captions=spa)
