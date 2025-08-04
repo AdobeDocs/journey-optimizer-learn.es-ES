@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
+source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 95%
@@ -17,7 +17,7 @@ ht-degree: 95%
 + Casos de uso {#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
-   + [Reparticipación inteligente: exploración abandonada](https://experienceleague.adobe.com/es/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Reparticipación inteligente: exploración abandonada](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Generación de informes acerca de impresiones y clics sobre ofertas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Uso de la fórmula de clasificación para entregar ofertas personalizadas en Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -43,7 +43,7 @@ ht-degree: 95%
       + [Creación de una campaña web](/help/create-campaigns/web-campaign.md)
       + [Creación de una campaña de experiencias basadas en código](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Creación de experimentos de contenido para campañas de correo electrónico](/help/create-campaigns/content-experiments.md)
-      + [Aprovechamiento de la optimización de mensajes en una campaña](/help/channels/leverage-message-optimization-in-a-campaign.md)
+      + [Aprovechamiento de la optimización de mensajes en una campaña](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + Campañas activadas por API {#api-triggered-campaigns}
       + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
    + Campañas orquestadas {#orchestrated-campaigns}
