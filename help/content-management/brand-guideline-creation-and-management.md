@@ -24,4 +24,4 @@ Aprenda a crear y personalizar sus propias marcas para definir claramente su ide
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
-Para obtener más información acerca de esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
+Para obtener más información acerca de esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
