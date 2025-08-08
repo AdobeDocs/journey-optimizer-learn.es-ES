@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 94%
 + Casos de uso {#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
-   + [Reparticipación inteligente: exploración abandonada](https://experienceleague.adobe.com/es/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Reparticipación inteligente: navegación abandonada](https://experienceleague.adobe.com/es/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante el SDK web](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Generación de informes acerca de impresiones y clics sobre ofertas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Uso de la fórmula de clasificación para entregar ofertas personalizadas en Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
@@ -116,7 +116,7 @@ ht-degree: 94%
       + [Introducción a WhatsApp (de extremo a extremo)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Introducción al canal de WhatsApp](/help/channels/whatsapp-introduction.md)
       + [Configuración del canal de WhatsApp](/help/channels/set-up-whatsapp.md)
-      + [Crear un recorrido de WhatsApp](/help/channels/create-a-whatsapp-journey.md)
+      + [Creación de un recorrido de WhatsApp](/help/channels/create-a-whatsapp-journey.md)
 + Administración de contenido{#content-management}
    + [Creación de mensajes: información general](/help/content-management/message-authoring-overview.md)
    + Administración de recursos {#assets}
