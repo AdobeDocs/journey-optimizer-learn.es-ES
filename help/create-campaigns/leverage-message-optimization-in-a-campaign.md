@@ -24,4 +24,4 @@ Aprenda a aprovechar la optimización de mensajes en campañas activadas por acc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
 
-Para obtener más información acerca de esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
+Para obtener más información acerca de esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
