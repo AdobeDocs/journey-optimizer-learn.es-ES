@@ -22,6 +22,6 @@ ht-degree: 89%
 
 Aprenda a aprovechar la optimización de mensajes en campañas activadas por acciones o API. Descubra cómo dirigirse a subaudiencias, crear variaciones de mensajes por ubicación, habilitar contenido de reserva y ejecutar varios experimentos dentro de una sola campaña. Este tutorial también explica cómo administrar campañas multicanal y, al mismo tiempo, mantener la coherencia del mensaje.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470371/?learn=on&enablevpops&captions=spa)
 
 Para obtener más información acerca de esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
