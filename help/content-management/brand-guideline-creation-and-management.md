@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Aprenda a crear y personalizar sus propias marcas para definir claramente su identidad visual y verbal en todas las comunicaciones. Aprenda cómo puede recibir comentarios en tiempo real sobre cómo el contenido refleja el tono, el estilo y las directrices de su marca con la puntuación de alineación de la marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470549/?learn=on&enablevpops&captions=spa)
 
 Para obtener más información sobre esta función, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
