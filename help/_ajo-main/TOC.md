@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
-workflow-type: ht
-source-wordcount: '910'
-ht-degree: 100%
+source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
