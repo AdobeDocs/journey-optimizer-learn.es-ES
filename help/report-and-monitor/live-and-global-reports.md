@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Conozca la diferencia entre los informes en vivo y globales, cómo acceder y analizar el Recorrido y los informes específicos del Mensaje, y cómo modificar los tableros del informe.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416274?quality=12&learn=on&captions=spa){transcript=true}
