@@ -26,6 +26,6 @@ Descubra cómo Adobe Experience Manager (AEM) se integra a la perfección con Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
-Experience League LIVE: [Carga de contenido personalizado en Journey Optimizer con fragmentos de contenido de AEM y Dynamic Media](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+Experience League LIVE: [Carga de contenido personalizado en Journey Optimizer con fragmentos de contenido de AEM y Dynamic Media](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
 En esta sesión, Jyothitha Chandran, Chris Ivory y Kaitlin White mostraron cómo Adobe Journey Optimizer (AJO) se integra a la perfección con los fragmentos de contenido de Adobe Experience Manager (AEM) Sites y con los AEM Assets de Dynamic Media para ofrecer una personalización escalable y en tiempo real en todos los canales.
