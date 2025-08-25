@@ -30,7 +30,7 @@ Configure los canales móviles en Journey Optimizer y Experience Platform, integ
 
 ## Funciones móviles en Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344614?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Configuración de aplicaciones y Mobile SDK
 
@@ -89,7 +89,7 @@ Aprenda cómo el canal configura sus **canales móviles** mediante la funcionali
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Configuración del canal de WhatsApp" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1755888511569" alt="Configuración del canal de WhatsApp"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470271/?format=jpeg&nocache=1755888511569&captions=spa" alt="Configuración del canal de WhatsApp"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Aprenda a configurar **canales SMS/MMS/RCS** con los proveedores estándar (Twil
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Configuración de credenciales de API de SMS y superficies de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1755888512031" alt="Configuración de credenciales de API de SMS y superficies de canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418544?format=jpeg&nocache=1755888512031&captions=spa" alt="Configuración de credenciales de API de SMS y superficies de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Aprenda a configurar **canales SMS/MMS/RCS** con los proveedores estándar (Twil
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Configuración de credenciales de API de MMS y superficies de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1755888512061" alt="Configuración de credenciales de API de MMS y superficies de canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438049/?format=jpeg&nocache=1755888512061&captions=spa" alt="Configuración de credenciales de API de MMS y superficies de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ Aprenda a configurar **canales SMS/MMS/RCS** con los proveedores estándar (Twil
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Configuración de RCS en Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755888512073" alt="Configuración de RCS en Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464758/?format=jpeg&nocache=1755888512073&captions=spa" alt="Configuración de RCS en Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +259,7 @@ Aprenda a configurar **canales SMS/MMS/RCS** con los proveedores estándar (Twil
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Información general sobre el marco de gobernanza de datos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1755888512557" alt="Información general sobre el marco de gobernanza de datos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32682/?format=jpeg&nocache=1755888512557&captions=spa" alt="Información general sobre el marco de gobernanza de datos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +282,7 @@ Aprenda a configurar **canales SMS/MMS/RCS** con los proveedores estándar (Twil
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Clasificación de datos mediante etiquetas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1755888512540" alt="Clasificación de datos mediante etiquetas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422794?format=jpeg&nocache=1755888512540&captions=spa" alt="Clasificación de datos mediante etiquetas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +305,7 @@ Aprenda a configurar **canales SMS/MMS/RCS** con los proveedores estándar (Twil
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Creación de políticas de uso de datos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1755888512550" alt="Creación de políticas de uso de datos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37128/?format=jpeg&nocache=1755888512550&captions=spa" alt="Creación de políticas de uso de datos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
