@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Elige WhatsApp como tu canal preferido cuando necesites:
 | 4 | Mantener el cumplimiento y la confianza | Los mensajes se envían a través de una API oficial con estrictos requisitos de inclusión | <ul><li>Confirmaciones de suscripción</li><li>Notificaciones reglamentarias</li></ul> |
 | 5 | Integración con otros canales | Combinación con correo electrónico, push o SMS para recorridos multicanal sin problemas | <ul><li>Reparticipación en canales múltiples</li><li>Seguimiento de los carros abandonados</li></ul> |
 
-## Cuándo no usar WhatsApp
+## Cuando *no* use WhatsApp
 
 * Si su audiencia no utiliza WhatsApp de forma activa.
 * Cuando los usuarios no se hayan registrado explícitamente para recibir mensajes de WhatsApp.

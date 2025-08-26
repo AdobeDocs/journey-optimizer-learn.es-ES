@@ -1,5 +1,5 @@
 ---
-source-git-commit: b4262722d7ebffb936a95425baab219bb40775fa
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Elija las notificaciones push como su canal de mensajería preferido cuando nece
 | 5 | Aprovechamiento de las funciones nativas del dispositivo | Las notificaciones push se integran con las funciones del sistema operativo iOS/Android, como vibración, sonidos, distintivos y déclencheur de geoperimetraje. | <ul><li> Ofertas basadas en la ubicación cuando está cerca de una tienda</li><li> Recordatorios activados en momentos específicos.</li></ul> |
 | 6 | Cuando es probable la inclusión | La funcionalidad push solo funciona para usuarios que se han suscrito explícitamente. Si la aplicación ofrece un valor alto o la marca ya tiene confianza, las tasas de inclusión pueden ser fuertes. | <ul><li> Aplicaciones con bases de usuarios fieles</li><li> Flujos de incorporación que explican el valor de las notificaciones.</li></ul> |
 
-## Cuando NO se debe utilizar la inserción como canal principal
+## Cuando *no* usa la notificación push como canal principal
 
 * Tasas de inclusión bajas o resistencia del usuario a las notificaciones.
 * Necesidad de contenido de formato largo (el correo electrónico puede ser mejor).
