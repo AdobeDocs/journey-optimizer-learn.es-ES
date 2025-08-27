@@ -28,4 +28,4 @@ Este tutorial explica cómo modificar imágenes directamente en AJO, añadir sup
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-Para obtener más información sobre esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+Para obtener más información sobre esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
