@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo rastrear el rendimiento de un recorrido individual y cómo los usuarios interactúan con diferentes pasos de un recorrido, incluidas las estadísticas de entrada y salida, los errores y las acciones ejecutadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471466/?learn=on&enablevpops&captions=spa)
