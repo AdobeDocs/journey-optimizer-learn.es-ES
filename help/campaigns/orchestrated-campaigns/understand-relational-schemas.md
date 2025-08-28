@@ -23,4 +23,4 @@ ht-degree: 0%
 
 En este tutorial, obtendrá una comprensión sólida de cómo los esquemas relacionales (específicos de campañas orquestadas en Journey Optimizer) funcionan junto a los perfiles de cliente en tiempo real. Conozca los conceptos principales detrás de la ingesta de datos, el modelado de esquemas, la segmentación y la ejecución de campañas, lo que le ofrece la base para diseñar recorridos de cliente estructurados, escalables y personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470217/?learn=on&enablevpops&captions=spa)
