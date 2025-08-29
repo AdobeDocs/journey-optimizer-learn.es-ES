@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '938'
 ht-degree: 95%
 
 ---
@@ -14,9 +14,6 @@ ht-degree: 95%
 # Tutoriales de Journey Optimizer {#tutorials}
 
 + [Tutoriales de Journey Optimizer](/help/_ajo-main/overview.md)
-   + [Información general](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configuración de una zona protegida del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Creación y publicación de instancias del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introducción a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
    + [Introducción a Journey Optimizer](/help/introduction/introduction.md)
@@ -34,7 +31,7 @@ ht-degree: 95%
       + [Creación de una campaña de experiencias basadas en código](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Aprovechamiento de la optimización de mensajes en una campaña](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + Campañas activadas por API {#api-triggered-campaigns}
-      + [Activación de campañas mediante las API](/help/create-campaigns/api-triggered-campaigns.md)
+      + [Activación de campañas mediante las API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campañas orquestadas {#orchestrated-campaigns}
       + [Introducción a las campañas organizadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Comprensión de los esquemas relacionales](/help/orchestrated-campaigns/understand-relational-schemas.md)
