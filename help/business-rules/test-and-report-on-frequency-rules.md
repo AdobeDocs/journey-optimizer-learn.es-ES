@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo probar e informar sobre reglas de frecuencia. Obtenga información sobre cómo determinar qué reglas de frecuencia se heredarán para un mensaje.
 
->[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411121?quality=12&learn=on&captions=spa){transcript=true}

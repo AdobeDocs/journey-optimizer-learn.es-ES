@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo priorizar las acciones de entrada, asegurándose de que el contenido de mayor prioridad se entregue a un cliente cuando este cumpla los requisitos para varias acciones de entrada mediante la misma configuración de canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447617/?learn=on&enablevpops&captions=spa)
 
 Consulte la documentación del producto para obtener más información sobre [Límite y arbitraje del recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
