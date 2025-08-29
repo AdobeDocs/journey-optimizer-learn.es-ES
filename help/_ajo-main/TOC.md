@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
+source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '930'
 ht-degree: 96%
 
 ---
@@ -29,12 +29,11 @@ ht-degree: 96%
       + [Configuración y envío de una campaña push](/help/campaigns/action-campaigns/push-campaign.md)
       + [Creación de una campaña web](/help/campaigns/action-campaigns/web-campaign.md)
       + [Creación de una campaña de experiencias basadas en código](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [Aprovechamiento de la optimización de mensajes en una campaña](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + Campañas activadas por API {#api-triggered-campaigns}
+      + [Aprovechamiento de la optimización de mensajes en una campaña](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
       + [Activación de campañas mediante las API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campañas orquestadas {#orchestrated-campaigns}
       + [Introducción a las campañas organizadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Comprensión de los esquemas relacionales](/help/orchestrated-campaigns/understand-relational-schemas.md)
+      + [Comprensión de los esquemas relacionales](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + Recorridos {#create-journeys}
    + [Diseñador de recorridos: información general](/help/create-journeys/journey-designer-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/create-journeys/new-journey-designer.md)
@@ -78,7 +77,6 @@ ht-degree: 96%
       + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
       + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
       + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
-      + [Configuración de experimentos de contenido para correos electrónicos](/help/experimentation/content-experiments-for-emails.md)
    + Tarjetas de contenido{#content-cards}
       + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
    + Canal en la aplicación{#in-app-channel}
