@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
+source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '933'
 ht-degree: 96%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 96%
       + [Creación de una campaña web](/help/campaigns/action-campaigns/web-campaign.md)
       + [Creación de una campaña de experiencias basadas en código](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Aprovechamiento de la optimización de mensajes en una campaña](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
+   + Campañas activadas por API {#api-triggered-campaigns}
       + [Activación de campañas mediante las API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campañas orquestadas {#orchestrated-campaigns}
       + [Introducción a las campañas organizadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
