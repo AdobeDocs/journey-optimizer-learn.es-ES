@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -24,6 +24,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo enviar contenido de una sola vez a un público específico ejecutando acciones inmediatamente o según una programación especificada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412402?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=es) para obtener más información sobre esta función.
