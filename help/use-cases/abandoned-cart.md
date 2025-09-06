@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo implementar el caso de uso del carro de compras abandonado mediante la función del manual de tácticas en Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443967/?learn=on&enablevpops&captions=spa)
 
 Para obtener más información, visite [Configurar una zona protegida de manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} y [Crear y publicar instancias de manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.

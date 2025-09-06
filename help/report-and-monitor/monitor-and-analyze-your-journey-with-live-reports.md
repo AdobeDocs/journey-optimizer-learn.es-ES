@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda a utilizar de forma eficaz la función de informes en vivo de Adobe Journey Optimizer para monitorizar y analizar el rendimiento de sus recorridos y mensajes en tiempo real. Aprenda a personalizar tableros, exportar informes e interpretar métricas específicas del recorrido para optimizar sus estrategias de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470838/?learn=on&enablevpops&captions=spa)
