@@ -35,7 +35,7 @@ Explore escenarios de marketing reales con tecnología de Adobe Journey Optimize
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Caso de uso: incorporación del cliente (tutorial)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="Caso de uso: incorporación del cliente (tutorial)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440653/?format=jpeg&nocache=1756417587791&captions=spa" alt="Caso de uso: incorporación del cliente (tutorial)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +58,7 @@ Explore escenarios de marketing reales con tecnología de Adobe Journey Optimize
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="Manual de tácticas de casos de uso: carro de compras abandonado" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1756417587818" alt="Manual de tácticas de casos de uso: carro de compras abandonado"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443967/?format=jpeg&nocache=1756417587818&captions=spa" alt="Manual de tácticas de casos de uso: carro de compras abandonado"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ Explore escenarios de marketing reales con tecnología de Adobe Journey Optimize
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="Ejemplos de renovación de participación inteligente de Luma" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1756417587792" alt="Ejemplos de renovación de participación inteligente de Luma"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454268/?format=jpeg&nocache=1756417587792&captions=spa" alt="Ejemplos de renovación de participación inteligente de Luma"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

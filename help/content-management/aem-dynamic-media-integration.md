@@ -26,6 +26,6 @@ Aprenda a integrar Dynamic Media de Adobe Experience Manager con Adobe Journey O
 
 Este tutorial explica cómo modificar imágenes directamente en AJO, añadir superposiciones de texto mediante el modo HTML, crear plantillas de medios dinámicos en AEM para hiperpersonalización y personalizar campañas adaptando el contenido para los distintos segmentos de público. Esta integración permite a los expertos en marketing crear de forma eficaz campañas atractivas y personalizadas sin cambiar entre aplicaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463785/?learn=on&enablevpops&captions=spa)
 
 Para obtener más información sobre esta función, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
