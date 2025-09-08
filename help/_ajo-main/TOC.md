@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
    + Campañas activadas por API {#api-triggered-campaigns}
       + [Activación de campañas mediante las API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campañas orquestadas {#orchestrated-campaigns}
-      + [Introducción a las campañas organizadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [Introducción a las campañas orquestadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Conceptos básicos de almacenamiento relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Recorridos {#create-journeys}
    + [Diseñador de recorridos: información general](/help/create-journeys/journey-designer-overview.md)
@@ -171,8 +171,8 @@ ht-degree: 96%
 + Informes y monitorización {#report-and-monitor}
    + [Informes y monitorización](/help/report-and-monitor/report-and-monitor.md)
    + [Introducción a la creación de informes con Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
-   + [Monitorización y análisis del recorrido con informes en directo](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
-   + [Monitorización y análisis del recorrido con los informes de Recorrido](/help/report-and-monitor/journey-reports.md)
+   + [Monitorización y análisis del recorrido con informes activos](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [Monitorización y análisis del recorrido con informes de recorrido](/help/report-and-monitor/journey-reports.md)
    + [Informes de nivel de canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exportación de informes en formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Uso de alertas](/help/administration/alerts.md)
@@ -226,7 +226,7 @@ ht-degree: 96%
       + [Información general](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Configuración de una zona protegida del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [Creación y publicación de instancias del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
-+ Ejercicios, laboratorios y desafíos {#exercises-and-challenges}
++ Ejercicios, laboratorios y retos {#exercises-and-challenges}
    + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Retos](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Laboratorios Summit {#summit-labs}
