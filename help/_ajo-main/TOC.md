@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
+source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 96%
@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Activación de campañas mediante las API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campañas orquestadas {#orchestrated-campaigns}
       + [Introducción a las campañas organizadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Comprensión de los esquemas relacionales](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
+      + [Conceptos básicos de almacenamiento relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Recorridos {#create-journeys}
    + [Diseñador de recorridos: información general](/help/create-journeys/journey-designer-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/create-journeys/new-journey-designer.md)
