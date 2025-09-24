@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 99%
       + [Activación de campañas mediante las API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campañas orquestadas {#orchestrated-campaigns}
       + [Introducción a las campañas orquestadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Conceptos básicos de almacenamiento relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [Conceptos básicos del almacén relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Recorridos {#create-journeys}
    + [Diseñador de recorridos: información general](/help/create-journeys/journey-designer-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/create-journeys/new-journey-designer.md)
@@ -46,7 +46,7 @@ ht-degree: 99%
    + [Caso de uso: leer público](/help/create-journeys/use-case-read-audience.md)
    + [Caso de uso: Calificación de público](/help/create-journeys/use-case-audience-qualification.md)
    + [Dominio del filtrado de atributos múltiples](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [Validación de la la lógica del recorrido con su ensayo](/help/create-journeys/journey-dry-run.md)
+   + [Validación de la lógica del recorrido con el ensayo de recorrido](/help/create-journeys/journey-dry-run.md)
    + [Desbloquear la reentrada de recorridos con ID suplementarios](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Actualización de contenido en un recorrido activo](/help/create-journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/create-journeys/copy-a-journey.md)
