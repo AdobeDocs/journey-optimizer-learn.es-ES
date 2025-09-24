@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Conozca los conceptos básicos del almacén relacional utilizado en la orquestación de campañas de Journey Optimizer, que abarcan el diseño de esquemas, la ingesta de datos, las fuentes admitidas y las diferencias clave del almacén de perfiles en tiempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470217/?learn=on&enablevpops&captions=spa)
