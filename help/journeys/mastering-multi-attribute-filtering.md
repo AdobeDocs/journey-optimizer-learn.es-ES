@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Al trabajar con esquemas de búsqueda, a menudo es necesario filtrar una lista de objetos en función de más de un atributo. En este vídeo se explica cómo realizar el filtrado de varios atributos en esquemas de búsqueda mediante funciones de filtro anidadas. Esto resulta especialmente útil cuando necesita reducir una lista de objetos en función de más de una condición, como filtrar los productos de un carro de compras por ID y por color.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469320/?learn=on&enablevpops&captions=spa)

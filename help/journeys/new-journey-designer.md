@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Descubra el nuevo lienzo de recorrido rediseñado y cómo aprovechar la creación de informes en directo en recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443598/?learn=on&captions=spa){transcript=true}

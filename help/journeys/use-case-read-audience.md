@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenda los casos de uso pertinentes para un recorrido que se desencadena por la actividad de lectura del público. Obtenga información sobre cómo crear recorridos basados en lotes y qué prácticas recomendadas aplicar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424997?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430360?quality=12&learn=on&captions=spa){transcript=true}

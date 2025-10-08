@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Aprenda a configurar experimentos de contenido para realizar pruebas A/B y explorar el contenido de correo electrónico que mejor impulsa sus objetivos empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419893/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447334/?learn=on&captions=spa){transcript=true}

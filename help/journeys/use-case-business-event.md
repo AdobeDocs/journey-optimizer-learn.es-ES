@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo utilizar eventos empresariales en Journey Optimizer. Los eventos empresariales permiten a las marcas activar los recorridos basados en eventos no relacionados con personas, como notificar a los suscriptores cuando una publicación de noticias tiene contenido nuevo o enviar comunicaciones durante un evento deportivo. Descubra cómo se pueden utilizar los datos de los eventos empresariales para la mensajería personalizada en recorridos.
 
->[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416328/?learn=on&captions=spa)

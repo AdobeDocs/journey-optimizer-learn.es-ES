@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenda los casos de uso aplicables para los recorridos de calificación de público. Obtenga información sobre cómo crear un recorrido con la calificación de público y qué prácticas recomendadas aplicar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446207?quality=12&learn=on&captions=spa){transcript=true}
