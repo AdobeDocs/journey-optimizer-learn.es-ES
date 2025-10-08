@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 | Reto | Reposición de productos |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=es& lang=es)</li> |
+| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Recursos que se van a descargar | [Archivo de correo electrónico de reserva de producto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## La historia
@@ -35,7 +35,7 @@ Luma le pide que implemente un recorrido en Journey Optimizer que notifique a lo
 
 >[!TAB Tarea]
 
-## 1. Defina el segmento: productos agotados en la lista de deseos
+## &#x200B;1. Defina el segmento: productos agotados en la lista de deseos
 
 Para dirigirse a los clientes potenciales interesados cuando los productos vuelvan a estar disponibles, cree un público que esté formado por los siguientes clientes:
 
@@ -49,7 +49,7 @@ Para dirigirse a los clientes potenciales interesados cuando los productos vuelv
 Asigne un nombre a este segmento: `Out-of-stock-Wishlist`
 
 
-### 2. Creación del recorrido: notificación de reabastecimiento de producto
+### &#x200B;2. Creación del recorrido: notificación de reabastecimiento de producto
 
 Cuando un producto que antes estaba agotado vuelva a estar disponible, notifique a los clientes que lo hayan añadido con una llamada para que puedan comprar ahora que el producto está disponible.
 

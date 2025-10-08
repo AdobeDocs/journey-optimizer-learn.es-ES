@@ -1,38 +1,38 @@
 ---
-title: 'Crear un correo electrónico de bienvenida con estado de fidelidad: reto'
-description: Cree un recorrido que envíe automáticamente un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de fidelidad.
+title: 'Crear un correo electrónico de bienvenida con estado de lealtad: reto'
+description: Cree un recorrido que envíe automáticamente un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de lealtad.
 jira: KT-8109
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
-# Crear un correo electrónico de bienvenida con estado de fidelidad: reto
+# Crear un correo electrónico de bienvenida con estado de lealtad: reto
 
-| Reto | Crear un correo electrónico de bienvenida de estado de fidelidad |
+| Reto | Crear un correo electrónico de bienvenida de estado de lealtad |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li> <li>[Clasificación del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=es)</li><li>[Importar contenido HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=es)</li></ul> |
+| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li> <li>[Calificación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[Importar contenido HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=es)</li></ul> |
 | Recursos que se van a descargar | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
 
 ## La historia
 
-Luma ofrece un programa de fidelidad como una forma de atraer y conservar a sus clientes. El programa ofrece cuatro niveles diferentes: bronce, plata, oro y platino. Cada nivel de fidelidad recibe diferentes recompensas, descuentos y otros incentivos especiales como recompensa por su negocio habitual.
+Luma ofrece un programa de lealtad como una forma de atraer y conservar a sus clientes. El programa ofrece cuatro niveles diferentes: bronce, plata, oro y platino. Cada nivel de lealtad recibe diferentes recompensas, descuentos y otros incentivos especiales como recompensa por su negocio habitual.
 
 Para subrayar el estado especial de platino, Luma quiere enviar un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de platino.
 
 ## Su reto
 
-Se le ha pedido que configure un recorrido que envíe automáticamente un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de fidelidad de platino.
+Se le ha pedido que configure un recorrido que envíe automáticamente un correo electrónico de bienvenida a los clientes cuando lleguen al nivel de lealtad de platino.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Cuando un cliente fiel cumple los requisitos del nivel de platino, debe recibir 
 
 1. Cree un recorrido llamado `Luma - New Status - platinum`.
 
-   1. Un cliente se traslada al recorrido cuando cumple los requisitos para el nivel de fidelidad de platino.
+   1. Un cliente se traslada al recorrido cuando cumple los requisitos para el nivel de lealtad de platino.
 
    1. El cliente tiene que recibir un mensaje de correo electrónico etiquetado como `Luma - Platinum Status - Welcome`, con la línea de asunto `Welcome to Platinum Status, {firstName}!` y con el cuerpo del correo electrónico proporcionado por el equipo creativo. Esto es un correo electrónico [!UICONTROL transaccional].
 

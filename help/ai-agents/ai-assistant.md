@@ -9,8 +9,8 @@ duration: 143
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
-source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
-workflow-type: ht
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -23,3 +23,4 @@ Descubra lo que puede hacer con el asistente de IA en aplicaciones basadas en Ad
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
 Consulte [Trabajar con el asistente de IA](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/get-started/ai-assistant) para obtener más información sobre los casos de uso admitidos en Journey Optimizer. Para obtener documentación detallada, visite la documentación de [Asistente de IA en Adobe Experience Platform](https://experienceleague.adobe.com/es/docs/experience-platform/ai-assistant/home).
+

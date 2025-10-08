@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 | Reto | Crear un anuncio de colección de verano |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=es)</li> |
+| Capacidades necesarias | <ul><li>[Creación de segmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es)</li><li> [Importación y creación de contenido de correo electrónico HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=es)</li><li>[Caso de uso: Segmento de lectura](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Recursos que se van a descargar | [Archivos de correo electrónico de recopilación estacional](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -45,7 +45,7 @@ El equipo de marketing de Luma le pedirá que implemente una campaña de marketi
 
 * Creación de un público en [!DNL Journey Optimizer] llamado *Clientes activos*.
 * El segmento solo debe incluir clientes de Luma activos.
-* Los clientes activos se definen como clientes que tienen un nivel en el programa de fidelidad de Luma (bronce, plata, oro o platino).
+* Los clientes activos se definen como clientes que tienen un nivel en el programa de lealtad de Luma (bronce, plata, oro o platino).
 
 
 >[!TAB Criterios de éxito]
@@ -53,7 +53,7 @@ El equipo de marketing de Luma le pedirá que implemente una campaña de marketi
 En el generador de segmentos, puede ver el número estimado de perfiles cualificados. Si está trabajando con los datos de la zona protegida de formación, tiene unos 753 perfiles cualificados de 1,29 K.
 
 >[!NOTE]
->Puede tardar hasta 24 horas en aparecer la inscripción a segmentos para los perfiles existentes, ya que los perfiles existentes deben rellenarse.
+>Puede tardar hasta 24 horas en aparecer el abono al segmento para los perfiles existentes, ya que los perfiles existentes deben rellenarse.
 
 **Se ha añadido un perfil correspondiente al segmento:**
 
@@ -63,13 +63,13 @@ Puede comprobar que los perfiles que se han agregado al segmento cumplen los req
 
 ![Atributos de perfil](assets/C1-S1-profile-attributes.png)
 
-También puede marcar la pestaña [!UICONTROL inscripción a segmentos]: el segmento debe aparecer en la lista.
+También puede marcar la pestaña [!UICONTROL pertenencia al segmento]: el segmento debe aparecer en la lista.
 
-![Inscripción a segmento](assets/C1-S1-profile-segment-membership.png)
+![Pertenencia al segmento](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB Compruebe su trabajo]
 
-Campos de segmento: **[!UICONTROL Atributos]** > **[!UICONTROL Perfil individual XDM]** > **[!UICONTROL Fidelidad]** > **[!UICONTROL Nivel]**
+Campos de segmento: **[!UICONTROL Atributos]** > **[!UICONTROL Perfil individual XDM]** > **[!UICONTROL Lealtad]** > **[!UICONTROL Nivel]**
 
 Este es el aspecto que debería tener el segmento:
 
@@ -133,7 +133,7 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
 Previsualice el correo electrónico:
 
 1. Agregar un perfil de prueba: Louise Petti,
-   * Área de nombres de identidad: *ID de Luma CRM*
+   * Espacio de nombres de identidad: *ID de Luma CRM*
    * Valor de identidad: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Resultado:
@@ -145,7 +145,7 @@ Resultado:
 Envíese una prueba a usted mismo:
 
 1. Añadir un perfil de prueba: Stanleigh Stooke,
-   * Área de nombres de identidad: *ID de Luma CRM*
+   * Espacio de nombres de identidad: *ID de Luma CRM*
    * Valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
 2. Seleccione el perfil de prueba: Stanleigh Stooke.
 3. Envíese una prueba a usted mismo.
@@ -194,7 +194,7 @@ Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 1. Puede probar cada rama utilizando una de las siguientes *ID de Luma CRM* como identificadores de perfil:
    * Mujer: Leora Dietsche, valor de identidad:`a8f14eab3b483c2b96171b575ecd90b1`
    * Hombre: existencia de código; valor de identidad: `4f34057d9d9e792c28ba18ecae378e98`
-   * Sexo no especificado: Louise Petti; valor de identidad: `d1f132f9f9502bba047a6ec86c4b61f9`
+   * Género no especificado: Louise Petti; valor de identidad: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 1. Después de activar la entrada del perfil, debería recibir el primer correo electrónico. El encabezado tiene que personalizarse según el perfil que elija.
 1. El recorrido debe continuar en la rama correspondiente y tiene que recibir el correo electrónico relacionado (por ejemplo, si elige *Jenna*, tendría que recibir el correo electrónico sobre la *colección para mujer de Luma*).
@@ -222,7 +222,7 @@ Este es el aspecto que debería tener el recorrido:
 
 ![Grupo de control](/help/challenges/assets/c3-j1-condition-control-group.png)
 
-**Condición - Sexo:**\
+**Condición - Género:**\
 
-![Condición - Sexo](/help/challenges/assets/c3-j1-condition-gender.png)
+![Condición - Género](/help/challenges/assets/c3-j1-condition-gender.png)
 >[!ENDTABS]
