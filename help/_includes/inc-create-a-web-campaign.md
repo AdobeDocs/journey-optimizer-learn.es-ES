@@ -1,7 +1,7 @@
 ---
-source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '24'
+source-wordcount: '22'
 ht-degree: 100%
 
 ---
@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Comprender qué es una campaña web. Obtenga información sobre cómo configurar las propiedades de campaña web, revisarlas y publicarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449984/?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}

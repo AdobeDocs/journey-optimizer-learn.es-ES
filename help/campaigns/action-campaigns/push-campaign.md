@@ -8,13 +8,13 @@ doc-type: Feature Video
 jira: KT-9894
 thumbnail: 3422017.jpeg
 exl-id: 2920a913-116b-4f76-9916-b268a9e95bde
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '24'
+ht-degree: 100%
 
 ---
 
 # Configuración y envío de una campaña push
 
-{{$include /help/_ajo-main/_includes/inc-configure-and-send-a-push-campaign.md}}
+{{$include /help/_includes/inc-configure-and-send-a-push-campaign.md}}

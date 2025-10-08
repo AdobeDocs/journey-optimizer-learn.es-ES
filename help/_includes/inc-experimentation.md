@@ -1,7 +1,7 @@
 ---
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '24'
 ht-degree: 100%
 
 ---
@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Aprenda a configurar experimentos de contenido para realizar pruebas A/B y explorar el contenido de correo electrónico que mejor impulsa sus objetivos empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447334/?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419893/?learn=on){transcript=true}
