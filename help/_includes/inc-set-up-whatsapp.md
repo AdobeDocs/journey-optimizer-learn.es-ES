@@ -1,6 +1,6 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 
@@ -17,4 +17,4 @@ Lo que aprenderá:
 
 Perfecto para los especialistas en marketing y los desarrolladores que buscan activar la mensajería WhatsApp dentro de sus recorridos de cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470271/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)

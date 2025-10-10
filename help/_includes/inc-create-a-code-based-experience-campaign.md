@@ -1,6 +1,6 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
 ht-degree: 100%
 
@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Aprenda a crear una campaña de experiencia basada en código para escalar la personalización con compatibilidad con métodos de implementación del lado del servidor, basados en API o basados en SDK para integrarse sin problemas con entornos de desarrollo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449456/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
