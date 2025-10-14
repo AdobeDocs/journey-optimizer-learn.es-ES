@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
-source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,5 @@ La captura de pantalla siguiente muestra el ID &quot;FIN001&quot; transferido co
 * Vaya a Cliente -> Perfiles -> Examinar
 * Buscar ID de FinWise CRM = FIN001
 * Abra el perfil y observe la sección Identidades. Debe ver tanto el CRMID como el ECID en la lista.   Esto confirma que las dos identidades se vincularon en un solo perfil.
-* El recorrido también debe activarse. Para comprobarlo, consulte el informe de recorrido
-* ![informe-recorrido](assets/journey-triggered-report.png)
 
 
