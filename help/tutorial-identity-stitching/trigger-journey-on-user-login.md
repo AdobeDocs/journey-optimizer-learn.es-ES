@@ -21,8 +21,8 @@ En esta extensión del tutorial de vinculación de identidad, se activa el recor
 
 ## Crear configuración de canal de correo electrónico
 
-* Iniciar sesión en _**Journey Optimizer**_
-* Vaya a _**Administración -> Canales -> Crear configuración de canal**_
+* Iniciar sesión en _&#x200B;**Journey Optimizer**&#x200B;_
+* Vaya a _&#x200B;**Administración -> Canales -> Crear configuración de canal**&#x200B;_
 * Seleccione **Correo electrónico** de la lista de canales. Proporcione un nombre y una descripción significativos.
 * Rellene la configuración de correo electrónico.
 * Proporcione los detalles de ejecución como se muestra a continuación. El correo electrónico se envía a la dirección de correo electrónico del perfil almacenada en el campo
@@ -31,8 +31,8 @@ En esta extensión del tutorial de vinculación de identidad, se activa el recor
 
 ## Crear evento
 
-* Iniciar sesión en _**Journey Optimizer**_
-* Vaya a _**Administración -> Configuraciones**_
+* Iniciar sesión en _&#x200B;**Journey Optimizer**&#x200B;_
+* Vaya a _&#x200B;**Administración -> Configuraciones**&#x200B;_
 * Haga clic en el botón Administrar de la tarjeta Eventos y haga clic en Crear evento. Especifique los valores como se muestra a continuación
 * ![evento de recorrido](assets/journey-event1.png)
 
@@ -41,9 +41,9 @@ En esta extensión del tutorial de vinculación de identidad, se activa el recor
 
 ## Crear Journey
 
-* Iniciar sesión en _**Journey Optimizer**_
-* Vaya a _**Administración de Recorrido -> Recorridos -> Crear Recorrido**_
-* Arrastre y suelte el evento _**UserLoggedIn**_ en el lienzo
+* Iniciar sesión en _&#x200B;**Journey Optimizer**&#x200B;_
+* Vaya a _&#x200B;**Administración de Recorrido -> Recorridos -> Crear Recorrido**&#x200B;_
+* Arrastre y suelte el evento _&#x200B;**UserLoggedIn**&#x200B;_ en el lienzo
 * Arrastre y suelte Correo electrónico desde el menú de acciones. Configure la acción de correo electrónico para utilizar la configuración de canal de correo electrónico creada anteriormente.
 * Publique el recorrido.
 

@@ -20,7 +20,7 @@ ht-degree: 9%
 
 Las etiquetas de Adobe Experience Platform se utilizan para enviar el CRMID a Adobe Experience Platform (AEP), ya que ofrece un mecanismo flexible basado en eventos para transmitir datos de identidad directamente desde el explorador. El envío de CRMID después del inicio de sesión del usuario permite a AEP vincular el ECID anónimo con el perfil de CRM conocido, lo que permite vincular con precisión la identidad. Este vínculo forma la base para crear perfiles unificados de clientes, calificar audiencias y ofrecer experiencias personalizadas en tiempo real en Adobe Journey Optimizer (AJO).
 
-Se crea una propiedad de etiquetas de Experience Platform llamada _**FinWise**_. Se han añadido las siguientes extensiones a la propiedad Etiquetas
+Se crea una propiedad de etiquetas de Experience Platform llamada _&#x200B;**FinWise**&#x200B;_. Se han añadido las siguientes extensiones a la propiedad Etiquetas
 
 ![etiquetas-extensiones](assets/tags-extensions.png)
 

@@ -51,7 +51,7 @@ Actualice las direcciones de correo electrónico ficticias a direcciones reales.
 * Cree un conjunto de datos llamado **_FinWiseCustomerDataSetWithAnnualIncome_** basado en el **_FinWiseProfileSchema_** creado en el informe anterior. Asegúrese de que el conjunto de datos esté habilitado para el perfil.
 
 * Vaya a Conexiones -> Fuentes -> Sistema local
-* Seleccione **_Agregar datos_** en la carga de archivo local. Asegúrese de seleccionar _**FinWiseCustomerDataSetWithAnnualIncome**_ como conjunto de datos de destino.
+* Seleccione **_Agregar datos_** en la carga de archivo local. Asegúrese de seleccionar _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ como conjunto de datos de destino.
   ![ingesta-csv](assets/ingest-csv-into-dataset.png)
 * Vaya a la pantalla siguiente. Cargue el [archivo csv](assets/finwise_profiles.csv) y verifique las asignaciones
   ![asignaciones](assets/mappings.png)
