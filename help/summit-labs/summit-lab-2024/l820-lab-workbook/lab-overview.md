@@ -29,14 +29,14 @@ En este laboratorio práctico, explorará varios escenarios móviles y aprender�
 >[!IMPORTANT]
 >
 >Absténgase de publicar fotos o capturas de pantalla de la sesión en las redes sociales.
->><br>
->>**Confidencialidad de Adobe**
->>La información y las divulgaciones de productos compartidas hoy durante este laboratorio son Información confidencial de Adobe.
->>Los participantes no podrán reproducir, utilizar, difundir ni revelar información confidencial a ninguna persona o entidad.
->>Las divulgaciones de productos son solo para fines informativos, no son una garantía de ninguna función o funcionalidad futura y están sujetas a cambios en cualquier momento. Como tal, dichas funciones o funcionalidades del producto no forman parte del acuerdo con Adobe ni se comprometen con usted de ninguna otra manera.
->><br>
->>**Descargo de responsabilidad**
->>Adobe le proporciona acceso anticipado a las funciones, que aprovechan la tecnología de IA generativa. Tenga en cuenta que estas funciones aún están en desarrollo y pueden producir respuestas inesperadas o inexactas. Agradecemos sus comentarios ya que lanzamos esta función al mercado.
+>&#x200B;><br>
+>&#x200B;>**Confidencialidad de Adobe**
+>&#x200B;>La información y las divulgaciones de productos compartidas hoy durante este laboratorio son Información confidencial de Adobe.
+>&#x200B;>Los participantes no podrán reproducir, utilizar, difundir ni revelar información confidencial a ninguna persona o entidad.
+>&#x200B;>Las divulgaciones de productos son solo para fines informativos, no son una garantía de ninguna función o funcionalidad futura y están sujetas a cambios en cualquier momento. Como tal, dichas funciones o funcionalidades del producto no forman parte del acuerdo con Adobe ni se comprometen con usted de ninguna otra manera.
+>&#x200B;><br>
+>&#x200B;>**Descargo de responsabilidad**
+>&#x200B;>Adobe le proporciona acceso anticipado a las funciones, que aprovechan la tecnología de IA generativa. Tenga en cuenta que estas funciones aún están en desarrollo y pueden producir respuestas inesperadas o inexactas. Agradecemos sus comentarios ya que lanzamos esta función al mercado.
 
 
 ### Puntos clave

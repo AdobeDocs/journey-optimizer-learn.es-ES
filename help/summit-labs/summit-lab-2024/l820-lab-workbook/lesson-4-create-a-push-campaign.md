@@ -50,7 +50,7 @@ En este ejercicio, crea la campaña push, diseña y personaliza la notificación
 >[!SUCCESS]
 >
 >Ahora debería estar en la página de propiedades de Campaign:
->> ![Propiedades de la campaña ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>&#x200B;> ![Propiedades de la campaña &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Ejercicio 4.2: Configuración de la campaña
 
@@ -199,7 +199,7 @@ Si está satisfecho con el contenido del mensaje, puede activar el mensaje:
 > ![estado de la campaña](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > El estado cambia de Procesamiento a Activo, a Completado: esto puede tardar un par de minutos.
-> > Una vez que el estado haya cambiado a completado:
+> &#x200B;> Una vez que el estado haya cambiado a completado:
 >
 > ![resultados de inserción](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
