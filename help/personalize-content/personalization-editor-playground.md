@@ -25,4 +25,4 @@ El [Patio del editor de personalización](https://experienceleague.adobe.com/es/
 
 Aprenda a utilizar muestras de código predefinidas, editar cargas útiles de perfil ficticio y previsualizar la salida del código de personalización en tiempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475955/?captions=spa&learn=on&enablevpops)
