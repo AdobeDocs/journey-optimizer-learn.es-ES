@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a crear, duplicar y aplicar reglas de segmentación reutilizables en Adobe Journey Optimizer para personalizar de forma eficaz las campañas en función de atributos del cliente como región, idioma y comportamiento, lo que ahorra tiempo y mejora la precisión de la audiencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476130/?captions=spa&learn=on&enablevpops)
