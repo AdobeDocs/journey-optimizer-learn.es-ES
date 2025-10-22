@@ -20,4 +20,4 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a utilizar de forma eficaz el informe permanente en Adobe Journey Optimizer para descubrir perspectivas de rendimiento a largo plazo en recorridos, campañas y canales de los clientes. Abarca cómo navegar por los paneles clave, interpretar los KPI esenciales, aplicar filtros e intervalos de fechas y aprovechar las herramientas como los informes de Recorrido, los informes de campaña y Insight Builder para realizar análisis más profundos y crear informes personalizados, lo que permite a los especialistas en marketing y a los administradores convertir los datos en acciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475790/?captions=spa&learn=on&enablevpops)
