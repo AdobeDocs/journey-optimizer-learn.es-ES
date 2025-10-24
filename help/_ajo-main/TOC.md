@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
 source-wordcount: '971'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 97%
    + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
    + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
    + [Restricción de frecuencia de recorridos y priorización](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Horas de silencio](/help/business-rules/configure-and-apply-quiet-hours.md)
+   + [Horario silencioso](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
    + [Perfiles y públicos: información general](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Información general del perfil y la segmentación unificados](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -221,8 +221,8 @@ ht-degree: 97%
 + Asistente de IA {#ai-assistant}
    + [Asistente de IA](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Asistente de IA para la generación de contenido](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - Información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Agente de experimentación - Información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Journey Agent: información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Experimentation Agent: información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casos de uso y prácticas recomendadas{#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
