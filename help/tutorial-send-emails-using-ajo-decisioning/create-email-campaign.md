@@ -18,4 +18,4 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a crear una campaña de correo electrónico con AJO Decisioning
 
->[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476167/?captions=spa&learn=on)
