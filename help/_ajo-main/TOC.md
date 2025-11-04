@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
 workflow-type: tm+mt
 source-wordcount: '965'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -177,7 +177,7 @@ ht-degree: 98%
    + [Monitorización y análisis del recorrido con informes activos](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Monitorización y análisis del recorrido con informes de recorrido](/help/report-and-monitor/journey-reports.md)
    + [Informes de nivel de canal](/help/report-and-monitor/channel-level-reports.md)
-   + [Analice el rendimiento general de su recorrido con todos los informes de horas](/help/report-and-monitor/all-time-reports.md)
+   + [Análisis del rendimiento general de su recorrido con los informes de todo el tiempo](/help/report-and-monitor/all-time-reports.md)
    + [Exportación de informes en formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Uso de alertas](/help/administration/alerts.md)
    + [Creación de informes mejorada con Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
