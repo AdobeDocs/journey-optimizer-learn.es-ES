@@ -20,4 +20,4 @@ En este vídeo, aprenderá a crear un esquema de perfil, introducir datos de cli
 
 Aprenda a definir campos clave como nombre, correo electrónico, estado de fidelidad e ingresos anuales, cargar datos de clientes reales y utilizarlos para crear una audiencia de clientes de alto valor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476441/?captions=spa&learn=on)

@@ -17,4 +17,4 @@ ht-degree: 0%
 # Crear ofertas, estrategia de selección, fórmula de clasificación
 
 En este vídeo, aprenderá a crear ofertas, una estrategia de selección para elegir ofertas y una fórmula de clasificación para priorizar ofertas
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476452/?captions=spa&learn=on)
