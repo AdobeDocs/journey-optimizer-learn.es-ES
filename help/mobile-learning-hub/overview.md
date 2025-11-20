@@ -20,7 +20,7 @@ Comience o suba de nivel con canales móviles en Adobe Journey Optimizer (AJO). 
 
 Explore las prácticas recomendadas, aprenda a impulsar la adopción y domine la creación de informes, todo en un solo lugar, para que los equipos puedan ofrecer experiencias móviles impactantes basadas en datos que se conecten con los usuarios en cualquier momento y en cualquier lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477001?captions=spa&quality=12&learn=on){transcript=true}
 
 
 ## Información general del canal móvil
