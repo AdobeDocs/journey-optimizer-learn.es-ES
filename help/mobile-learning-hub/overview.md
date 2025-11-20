@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
+source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Comience o suba de nivel con canales móviles en Adobe Journey Optimizer (AJO). 
 
 Explore las prácticas recomendadas, aprenda a impulsar la adopción y domine la creación de informes, todo en un solo lugar, para que los equipos puedan ofrecer experiencias móviles impactantes basadas en datos que se conecten con los usuarios en cualquier momento y en cualquier lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477001?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Información general del canal móvil
@@ -63,12 +63,6 @@ Al combinar estos canales, puede crear una experiencia del cliente perfecta y ef
 
 6. Aproveche las [experiencias basadas en código](/help/mobile-learning-hub/channels/code-based-experience-overview.md) para adaptar cada mensaje en función de las preferencias y el comportamiento del usuario, creando un recorrido verdaderamente personalizado en todos los canales.
 
-
-## Casos de uso del cliente
-
-* [Tomar vuelo con personalización: Cómo las aerolíneas pueden elevar ofertas con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=es)
-
-
 ## Construya su base
 
 Aprenda los conceptos y cómo
@@ -101,3 +95,7 @@ Aprenda los conceptos y cómo
 | **Campañas de ampliación y venta cruzada** | Promociona productos adicionales o actualizaciones para clientes existentes en función de su comportamiento, preferencias o historial de compras. | : Las notificaciones push resaltan las oportunidades relevantes de ampliación de venta.<br>: los mensajes en la aplicación y las tarjetas de contenido muestran elementos complementarios.<br>: las campañas de SMS se dirigen a audiencias segmentadas con ofertas exclusivas. |
 | **Prevención de pérdida** | Identifica a los usuarios en riesgo de abandonarlos y los involucra con estrategias de retención personalizadas para mantener la lealtad. | : déclencheur de análisis predictivo con alcance móvil para usuarios en riesgo.<br>: notificaciones push y SMS ofrecen recompensas por fidelidad o contenido personalizado.<br>: las encuestas en la aplicación recopilan comentarios para mejorar las estrategias de retención. |
 | **Mensajería multicanal** | Orquesta mensajes coherentes en varios canales móviles para garantizar que los usuarios reciban comunicaciones oportunas y relevantes. | : push, en la aplicación, SMS y correo electrónico están coordinados para la mensajería unificada.<br>: los SDK permiten la personalización en tiempo real entre canales.<br>: las tarjetas de contenido persisten entre sesiones para reforzar los mensajes clave. |
+
+## Casos de uso del cliente
+
+* [Tomar vuelo con personalización: Cómo las aerolíneas pueden elevar ofertas con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
