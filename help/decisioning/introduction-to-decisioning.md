@@ -24,4 +24,4 @@ La toma de decisiones simplifica la personalización al ofrecer un catálogo cen
 
 Este vídeo le ofrece una breve descripción general de las funciones de toma de decisiones de Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475866?captions=spa&quality=12&learn=on){transcript=true}
