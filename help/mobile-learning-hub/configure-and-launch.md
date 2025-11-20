@@ -631,7 +631,7 @@ Ver: [Flujo de notificaciones push en Adobe Journey Optimizer](https://experienc
 **Qué comprobar**
 
 - ¿Están **Journey Optimizer mobile messaging / in-app extension** y **Messaging SDK** instalados y registrados en la aplicación?
-- En la configuración de etiquetas ****:
+- En la configuración de etiquetas **&#x200B;**:
    - ¿Tiene reglas que almacenan en déclencheur las solicitudes en los eventos correctos (por ejemplo, vistas de pantalla o eventos personalizados)?
 - En **Assurance**:
    - Cuando se activan esos eventos, ¿ve que se emiten solicitudes de decisión en la aplicación o en la tarjeta de contenido?
