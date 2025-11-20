@@ -12,7 +12,7 @@ hidefromtoc: true
 hide: true
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
 source-git-commit: cfbf5b62cb6711e8675a99e2f12e02628825efa7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Aprenda a administrar perfiles y permisos de productos, y a añadir y administrar usuarios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416279?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on){transcript=true}
