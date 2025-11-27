@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra cómo Adobe Journey Optimizer optimiza la administración de recursos digitales con Adobe Experience Manager integrado, lo que le permite buscar, examinar y obtener recursos directamente desde el repositorio. Descubra cómo crear campañas, diseñar correos electrónicos con las plantillas existentes y cargar o editar recursos sin esfuerzo, poniendo a su alcance la creación de contenido potente e impactante.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477014/?captions=spa&learn=on)
