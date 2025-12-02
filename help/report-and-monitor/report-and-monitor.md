@@ -25,14 +25,14 @@ Estos tutoriales proporcionan a los especialistas en marketing las herramientas 
 ## Tutoriales
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -40,7 +40,7 @@ Estos tutoriales proporcionan a los especialistas en marketing las herramientas 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" title="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" title="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432673/?format=jpeg&nocache=1764706279446" alt="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -49,11 +49,11 @@ Estos tutoriales proporcionan a los especialistas en marketing las herramientas 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)">Introducción a los informes en Adobe Journey Optimizer(AJO)</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)">Introducción a los informes en Adobe Journey Optimizer(AJO)</a>
                     </p>
                     <p class="is-size-6">Obtenga información sobre los informes en Adobe Journey Optimizer (AJO).</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -132,7 +132,7 @@ Estos tutoriales proporcionan a los especialistas en marketing las herramientas 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -141,11 +141,11 @@ Estos tutoriales proporcionan a los especialistas en marketing las herramientas 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo">Analice el rendimiento general de su recorrido con todos los informes de horas</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo">Analice el rendimiento general de su recorrido con todos los informes de horas</a>
                     </p>
                     <p class="is-size-6">En este vídeo, aprenderá a utilizar de forma eficaz los informes de todo el tiempo en Adobe Journey Optimizer para obtener información sobre el rendimiento a largo plazo en recorridos, campañas y canales de los clientes. Aborda cómo navegar por los paneles de control clave, interpretar los KPI esenciales, aplicar filtros e intervalos de fechas y aprovechar herramientas como los informes de recorrido, los informes de campaña e Insight Builder para realizar análisis más profundos y crear informes personalizados, lo que permite a los expertos en marketing y a los directivos convertir los datos en acciones.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
