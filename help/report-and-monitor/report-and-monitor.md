@@ -1,6 +1,6 @@
 ---
 title: Informes y monitorización
-description: Obtenga una visibilidad completa de su trabajo de marketing con la funcionalidad de informes de Adobe Journey Optimizer (AJO). Obtenga información sobre cómo acceder a las métricas de información general, sumergirse en los informes específicos de campañas y recorridos, y desbloquear el análisis avanzado a través de Customer Journey Analytics.
+description: Descubra cómo los informes de Adobe Journey Optimizer (AJO) le ayudan a seguir, analizar y actuar en función de los recorridos de los clientes con facilidad. Estos tutoriales proporcionan a los especialistas en marketing y a los analistas las herramientas necesarias para monitorizar el rendimiento en tiempo real, profundizar en el recorrido detallado y las perspectivas de canal, exportar datos, establecer alertas y aprovechar los análisis avanzados para tomar decisiones más inteligentes.
 feature: Reporting
 role: User
 level: Beginner, Intermediate
@@ -8,37 +8,40 @@ doc-type: Feature Video
 duration: 395
 last-substantial-update: 2025-08-28T00:00:00Z
 exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
-source-git-commit: 0c70ce535109119a8218a1559f4db3810e313d7f
-workflow-type: ht
-source-wordcount: '392'
-ht-degree: 100%
+source-git-commit: b27e35e3dc07014caf115ec8cc057266858ddf7c
+workflow-type: tm+mt
+source-wordcount: '585'
+ht-degree: 79%
 
 ---
 
 # Informes y monitorización
 
-La creación de informes en Adobe Journey Optimizer consiste en convertir los datos sin procesar en datos procesables para ayudarle a perfeccionar los recorridos de sus clientes y las estrategias de marketing. Obtenga información sobre cómo acceder a las métricas de información general, sumergirse en los informes específicos de campañas y recorridos, y desbloquear el análisis avanzado a través de Customer Journey Analytics.
+Descubra cómo los informes de Adobe Journey Optimizer le ayudan a seguir, analizar y actuar en función de los recorridos de los clientes con facilidad.
 
-Tanto si es un principiante como un experto en marketing, estas herramientas le ofrecen claridad y le ayudan a optimizar para obtener resultados comerciales significativos.
+Estos tutoriales proporcionan a los especialistas en marketing las herramientas necesarias para monitorizar el rendimiento en tiempo real, profundizar en el recorrido detallado y las perspectivas de canal, exportar datos, establecer alertas y aprovechar los análisis avanzados para tomar decisiones más inteligentes.
+
 
 ## Tutoriales
 
 <!-- CARDS
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Measurement & Reporting - Overview">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Introduction to reporting in Adobe Journey Optimizer(AJO)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" title="Medición y creación de informes: información general" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432673/?format=jpeg&nocache=1756406406381" alt="Medición y creación de informes: información general"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" title="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432673/?format=jpeg&nocache=1764706279446" alt="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -46,11 +49,11 @@ Tanto si es un principiante como un experto en marketing, estas herramientas le 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" title="Medición y creación de informes: información general">Medición y creación de informes: información general</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" title="Introducción a la creación de informes en Adobe Journey Optimizer (AJO)">Introducción a los informes en Adobe Journey Optimizer(AJO)</a>
                     </p>
-                    <p class="is-size-6">Obtenga información sobre la creación de informes en Journey Optimizer.</p>
+                    <p class="is-size-6">Obtenga información sobre los informes en Adobe Journey Optimizer (AJO).</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -61,7 +64,7 @@ Tanto si es un principiante como un experto en marketing, estas herramientas le 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Monitorización y análisis del recorrido con informes activos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470838/?format=jpeg&nocache=1756406406388&captions=spa" alt="Monitorización y análisis del recorrido con informes activos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="Monitorización y análisis del recorrido con informes activos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,12 +82,35 @@ Tanto si es un principiante como un experto en marketing, estas herramientas le 
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Monitor and analyze your journey with Journey Reports">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="Monitorización y análisis del recorrido con informes de recorrido" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="Monitorización y análisis del recorrido con informes de recorrido"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" title="Monitorización y análisis del recorrido con informes de recorrido">Monitorizar y analizar el recorrido con informes de recorrido</a>
+                    </p>
+                    <p class="is-size-6">Obtenga información sobre cómo rastrear el rendimiento de un recorrido individual y cómo los usuarios interactúan con diferentes pasos de un recorrido, incluidas las estadísticas de entrada y salida, los errores y las acciones ejecutadas.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Channel level reports">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Informes de nivel de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448041/?format=jpeg&nocache=1756406406387&captions=spa" alt="Informes de nivel de canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="Informes de nivel de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -102,12 +128,35 @@ Tanto si es un principiante como un experto en marketing, estas herramientas le 
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze your journey's overall performance with all time reports">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" title="Análisis del rendimiento general de su recorrido con los informes de todo el tiempo">Analice el rendimiento general de su recorrido con todos los informes de horas</a>
+                    </p>
+                    <p class="is-size-6">En este vídeo, aprenderá a utilizar de forma eficaz los informes de todo el tiempo en Adobe Journey Optimizer para obtener información sobre el rendimiento a largo plazo en recorridos, campañas y canales de los clientes. Aborda cómo navegar por los paneles de control clave, interpretar los KPI esenciales, aplicar filtros e intervalos de fechas y aprovechar herramientas como los informes de recorrido, los informes de campaña e Insight Builder para realizar análisis más profundos y crear informes personalizados, lo que permite a los expertos en marketing y a los directivos convertir los datos en acciones.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Export reports in CSV format">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Exportación de informes en formato CSV" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439610/?format=jpeg&nocache=1756406406384&captions=spa" alt="Exportación de informes en formato CSV"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="Exportación de informes en formato CSV"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +179,7 @@ Tanto si es un principiante como un experto en marketing, estas herramientas le 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="Uso de alertas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3423918?format=jpeg&nocache=1756406406387&captions=spa" alt="Uso de alertas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1764706279431" alt="Uso de alertas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +202,7 @@ Tanto si es un principiante como un experto en marketing, estas herramientas le 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Creación de informes mejorada con Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443154/?format=jpeg&nocache=1756406406386&captions=spa" alt="Creación de informes mejorada con Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Creación de informes mejorada con Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
