@@ -223,7 +223,7 @@ Puede [crear y configurar esta propiedad móvil manualmente](https://experiencel
 
 #### Documentación del producto
 
-| ![Documentación de configuración de canal guiado ](./assets/configuration.svg){width="50"}[**Documentación de configuración de canal guiado**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
+| ![Documentación de configuración de canal guiado &#x200B;](./assets/configuration.svg){width="50"}[**Documentación de configuración de canal guiado**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!SUCCESS]
