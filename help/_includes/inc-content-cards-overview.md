@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # Tarjetas de contenido: información general
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460085/?captions=spa&learn=on&enablevpops){transcript=true}
 
 ## ¿Qué pasa?
 
