@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -9,16 +9,16 @@ ht-degree: 0%
 
 ## ¿Qué son los mensajes en la aplicación?
 
-Los mensajes en la aplicación son mensajes que aparecen dentro de una aplicación mientras el usuario los está utilizando activamente. Son mensajes de tipo superposición que se encuentran en la parte superior de la aplicación. No aparecen en la pantalla de bloqueo ni fuera de la aplicación; en su lugar, aparecen como titulares, ventanas emergentes o tarjetas pequeñas mientras el usuario explora la aplicación.
+Los mensajes en la aplicación aparecen dentro de la aplicación móvil mientras un usuario participa activamente. Estos mensajes de estilo superpuesto se muestran como banners, ventanas emergentes o tarjetas directamente en la parte superior de la interfaz de la aplicación. No aparecen en la pantalla de bloqueo ni fuera del entorno de la aplicación.
 
-Los mensajes en la aplicación se activan mediante acciones o condiciones específicas del usuario, como ver una página determinada, completar una compra o formar parte de un segmento de audiencia segmentado.
+Los mensajes en la aplicación se activan mediante acciones o condiciones específicas del usuario, como ver una pantalla en particular, completar una compra o calificar para un segmento de audiencia segmentado.
 
 
-Por ejemplo:
+Algunos ejemplos son:
 
-* Un juego podría mostrar una ventana emergente que explica una nueva función en el momento en que el usuario la desbloquea.
-* Una aplicación de compras puede mostrar un banner con un código de cupón mientras el usuario navega por los artículos.
-* Una aplicación de medios sociales puede mostrar un mensaje sugiriendo al usuario que siga las nuevas cuentas.
+* Un juego que muestra una ventana emergente que presenta una nueva función en el momento en que el usuario la desbloquea.
+* Una aplicación de compras que muestra un banner con un código de cupón mientras el usuario navega por los productos.
+* Una aplicación social que sugiere nuevas cuentas a seguir en función de la actividad actual
 
 ## Casos de uso
 

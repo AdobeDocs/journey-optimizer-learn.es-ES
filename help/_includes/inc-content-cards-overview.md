@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # Tarjetas de contenido: información general
 
->[!VIDEO](https://video.tv.adobe.com/v/3460085/?learn=on&enablevpops&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## ¿Qué pasa?
 
-**Las tarjetas de contenido** son mensajes persistentes en la aplicación que se encuentran dentro de una bandeja de entrada o fuente dedicada dentro de la aplicación. A diferencia de las notificaciones push, no interrumpen al usuario y se pueden ver según le convenga.\
-Son ideales para entregar **contenido no urgente**, **informativo** o **contenido promocional** que se beneficia de la visibilidad con el tiempo.
+**Las tarjetas de contenido** son mensajes persistentes en la aplicación que se muestran en una bandeja de entrada o fuente dedicada dentro de la aplicación. A diferencia de las notificaciones push, no interrumpen al usuario y se pueden ver siempre que este lo desee.
 
-Considere las tarjetas de contenido como un &quot;centro de mensajes&quot; en la aplicación o un suministro de noticias personalizado.
+Son ideales para **contenido no urgente**, **informativo** o **promocional** que se beneficia de una visibilidad más larga y de exposición repetida. Considere las tarjetas de contenido como un &quot;centro de mensajes&quot; en la aplicación o una fuente de contenido personalizada en la que los usuarios pueden examinar las actualizaciones a su propio ritmo&quot;.
 
 ### Ejemplos:
 
