@@ -11,8 +11,8 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: 50f0641415818db8763e5de58a74b77b7eab5d16
-workflow-type: ht
+source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 
@@ -24,9 +24,9 @@ La configuración de canales guiada le ayuda a configurar y validar rápidamente
 
 Obtenga información sobre cómo configurar y validar una notificación de canal push en una aplicación de marketing móvil de iOS de muestra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449625/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Consulte la documentación del producto para obtener más información:
 
-* [Introducción a la configuración de canales guiada](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=es)
-* [Creación de una configuración de canales](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=es)
+* [Introducción a la configuración de canales guiada](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=es){target="_blank"}
+* [Creación de una configuración de canales](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=es){target="_blank"}
