@@ -1,6 +1,6 @@
 ---
 title: Creación de informes mejorada con Customer Journey Analytics
-description: La creación de informes de Journey Optimizer ahora está totalmente integrada con las funciones de Customer Journey Analytics, lo que estandariza la creación de informes en ambas plataformas y mejora la coherencia y fiabilidad de los datos. Esta integración perfecta entre Journey Optimizer y Customer Journey Analytics proporciona una visión más clara de las métricas de rendimiento, lo que permite a los usuarios tomar decisiones más informadas.
+description: Aprenda paso a paso a navegar por las herramientas de creación de informes mejoradas de Adobe Journey Optimizer, desde las métricas unificadas y la visualización de recorridos hasta las perspectivas personalizadas y el análisis avanzado
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -9,16 +9,17 @@ duration: 22500
 last-substantial-update: 2025-01-27T00:00:00Z
 jira: KT-15774
 exl-id: 385f2f89-bef9-4a32-9ca1-4a2f4afb2c6a
-source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
-workflow-type: ht
-source-wordcount: '116'
-ht-degree: 100%
+source-git-commit: d869245cb8d9482776d901b9ad298914b3fa0c95
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 19%
 
 ---
 
 # Creación de informes mejorada con Customer Journey Analytics
 
-La creación de informes de Journey Optimizer ahora está totalmente integrada con las funciones de Customer Journey Analytics, lo que estandariza la creación de informes en ambas plataformas y mejora la coherencia y fiabilidad de los datos. Esta integración perfecta entre Journey Optimizer y Customer Journey Analytics proporciona una visión más clara de las métricas de rendimiento, lo que permite a los usuarios tomar decisiones más fundamentadas.
-Para obtener documentación detallada, consulte [Analizar en Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
+Aprenda paso a paso a navegar por las herramientas de creación de informes mejoradas de Adobe Journey Optimizer, desde las métricas unificadas y la visualización de recorridos hasta las perspectivas personalizadas y el análisis avanzado
 
->[!VIDEO](https://video.tv.adobe.com/v/3443154/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+
+Para obtener documentación detallada, consulte [Analizar en Customer Journey Analytics](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
