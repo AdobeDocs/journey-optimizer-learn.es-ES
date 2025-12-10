@@ -6,9 +6,9 @@ level: Beginner,Intermediate
 breadcrumb-title: Semana del garaje de fidelización
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty-garage-week/overview
 auto-video-transcripts: true
-source-git-commit: 9f321d550a5b59b39063b11bea594ecd18cf499e
+source-git-commit: 066f1d44a778ee4075bdbf31b8fc5f4ebd162e65
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
@@ -16,5 +16,6 @@ ht-degree: 0%
 
 # Semana del garaje de fidelización {#loyalty-garage-week}
 
-+ [Semana de fidelización en el garaje](/help/loyalty-garage-week/overview.md)
-+[Orquestación de fidelización impulsada por IA](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
++ [Semana del garaje de fidelización](/help/loyalty-garage-week/overview.md)
++ [Orquestación de fidelización impulsada por IA](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
++ [Lealtad basada en el desafío](/help/loyalty-garage-week/challenge-based-loyalty.md)
