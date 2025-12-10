@@ -39,7 +39,7 @@ El cuarto punto de error son las **experiencias de fidelidad que no están incru
 
 La combinación de estos errores lleva a lo que se puede llamar **disonancia de lealtad**, la brecha psicológica entre lo que el cliente espera y lo que la marca ofrece. La lealtad omnicanal resuelve esto alineando la identidad, los datos, las decisiones, la orquestación del recorrido y la experiencia del usuario en torno a una sola narrativa continua.
 
----
+&#x200B;---
 
 ## &#x200B;2. Lo que realmente significa la lealtad omnicanal
 
