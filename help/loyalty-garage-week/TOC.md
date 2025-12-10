@@ -6,9 +6,9 @@ level: Beginner,Intermediate
 breadcrumb-title: Semana del garaje de fidelización
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty-garage-week/overview
 auto-video-transcripts: true
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
@@ -20,3 +20,4 @@ ht-degree: 0%
 + [Orquestación de fidelización impulsada por IA](/help/loyalty-garage-week/ai-driven-loyalty-orchestration.md)
 + [Lealtad basada en el desafío](/help/loyalty-garage-week/challenge-based-loyalty.md)
 + [Lealtad en un mundo omnicanal](/help/loyalty-garage-week/loyalty-in-an-omnichannel-world.md)
++ [Lealtad emocional y construcción de la comunidad](/help/loyalty-garage-week/emotional-loyalty-and-community-building.md)

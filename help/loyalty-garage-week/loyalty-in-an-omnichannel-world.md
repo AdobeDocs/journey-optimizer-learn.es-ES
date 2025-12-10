@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ El tercer punto de error es **sincronización de datos basada en lotes**. Muchos
 El cuarto punto de error son las **experiencias de fidelidad que no están incrustadas en todos los puntos de contacto del cliente**. Muchos programas muestran lealtad solo en la aplicación o en las comunicaciones por correo electrónico. Pero los clientes se involucran en todas partes. El valor de fidelidad debe estar visible en la página de inicio, las páginas de detalles del producto, el carro de compras, las notificaciones push, los hilos SMS, los recibos digitales, las interfaces del centro de llamadas y la señalización física de la tienda. Cuando la lealtad es invisible o aparece de forma incoherente, los clientes perciben menos valor y se relacionan con menos frecuencia.
 
 La combinación de estos errores lleva a lo que se puede llamar **disonancia de lealtad**, la brecha psicológica entre lo que el cliente espera y lo que la marca ofrece. La lealtad omnicanal resuelve esto alineando la identidad, los datos, las decisiones, la orquestación del recorrido y la experiencia del usuario en torno a una sola narrativa continua.
-
-&#x200B;---
 
 ## &#x200B;2. Lo que realmente significa la lealtad omnicanal
 
