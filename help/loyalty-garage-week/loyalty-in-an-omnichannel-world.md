@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -13,10 +13,11 @@ ht-degree: 0%
 ---
 
 
+# Lealtad en un mundo omnicanal
 
-# Lealtad en un mundo omnicanal: creación de una experiencia de lealtad unificada, predictiva y en tiempo real en todos los puntos de contacto del cliente
+## Creación de una experiencia de lealtad unificada, predictiva y en tiempo real en todos los puntos de contacto del cliente
 
-## Resumen ejecutivo
+### Resumen ejecutivo
 
 El recorrido moderno del cliente está fracturado, no es lineal e intensamente multicanal. Los consumidores realizan una transición fluida entre aplicaciones móviles, navegadores de escritorio, experiencias en tienda, centros de llamadas, correo electrónico, SMS, notificaciones push, canales sociales, dispositivos conectados y retargeting de medios de pago. Sin embargo, la mayoría de los programas de fidelidad siguen funcionando con sistemas en silo, incentivos centrados en el canal y procesamiento por lotes que no pueden satisfacer las expectativas de los clientes en cuanto a inmediatez, continuidad y personalización. El resultado es una experiencia de lealtad inconexa: el correo electrónico indica que hay una recompensa disponible, mientras que la aplicación muestra información obsoleta; el personal de la tienda no puede ver la idoneidad del nivel o el beneficio; las notificaciones push se activan sin sincronizar con los recorridos de correo electrónico; los clientes reciben ofertas conflictivas; las discrepancias de identidad provocan una pérdida de progreso; y el valor de lealtad es incoherentemente visible en las superficies de la marca.
 

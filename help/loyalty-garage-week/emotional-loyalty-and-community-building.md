@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Lealtad emocional y construcción de la comunidad
 
-Cómo las marcas crean identidad, pertenencia y defensa a través de la lealtad basada en la experiencia
+## Cómo las marcas crean identidad, pertenencia y defensa a través de la lealtad basada en la experiencia
 
-## Resumen ejecutivo
+### Resumen ejecutivo
 
 La lealtad emocional (el grado en que los clientes se sienten conectados con la identidad, los valores y la comunidad de una marca) se está convirtiendo en el principal diferenciador competitivo en la estrategia de lealtad moderna. Los programas tradicionales de lealtad transaccional, basados en puntos, descuentos y mecánicas básicas de ganancia/pérdida, siguen siendo importantes, pero ya no crean una diferenciación significativa en los mercados saturados. A medida que aumenta la transparencia de los precios, disminuye la fricción de cambio y los consumidores se vuelven más empoderados, los programas transaccionales por sí solos no pueden mantener la lealtad o la defensa a largo plazo. En cambio, las marcas que logran un rendimiento de lealtad desmesurado son las que crean **comunidades**, no programas: marcas que ayudan a los clientes a expresar su identidad, perseguir objetivos aspiracionales, interactuar con otros miembros y participar en rituales compartidos que crean apego emocional.
 
