@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: b93a715d5ef1fec814035fa1f86c082d041cf666
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '969'
 ht-degree: 99%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 99%
    + [Capacidades de Mobile para especialistas en marketing](/help/channels/mobile-capabilities.md)
    + [Capacidades de Mobile para desarrolladores](/help/channels/mobile-capabilities-for-developers.md)
    + [Obtener ayuda con el asistente de IA](/help/ai-agents/ai-assistant.md)
++ [Journey Optimizer - Centro de aprendizaje móvil](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 + Campañas {#create-campaigns}
    + Campañas de acción {#action-campaigns}
       + [Creación de una campaña](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -63,7 +64,7 @@ ht-degree: 99%
    + [Creación de público con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creación de un público cargando un archivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creación de públicos mediante SDK web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
 + Canales {#channels}
    + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
@@ -230,7 +231,7 @@ ht-degree: 99%
    + [Generación de informes acerca de impresiones y clics sobre ofertas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Uso de la fórmula de clasificación para entregar ofertas personalizadas en Journey Optimizer](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Mejorar la participación del cliente](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Escalar la orquestación a la participación omnicanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/exercises-and-challenges/summit-labs/introduction){target="_blank"}
    + Manuales de tácticas de casos de uso {#use-case-playbooks}
       + [Información general](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Configuración de una zona protegida del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
