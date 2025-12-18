@@ -50,7 +50,7 @@ En este ejercicio, crea la campaña push, diseña y personaliza la notificación
 >[!SUCCESS]
 >
 >Ahora debería estar en la página de propiedades de Campaign:
-> ![Propiedades de la campaña ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Propiedades de la campaña &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Ejercicio 4.2: Configuración de la campaña
 
