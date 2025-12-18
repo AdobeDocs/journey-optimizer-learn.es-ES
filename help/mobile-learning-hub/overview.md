@@ -20,7 +20,7 @@ Comience o eleve su estrategia de participación móvil con Adobe Journey Optimi
 
 Explore las prácticas recomendadas, aprenda a impulsar la adopción y configure flujos de trabajo de creación de informes centralizados, todo en un solo lugar, para ofrecer experiencias móviles impactantes basadas en datos que lleguen a los clientes en cualquier momento y en cualquier lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477001?captions=spa&quality=12&learn=on){transcript=true}
 
 
 ## Información general del canal móvil
