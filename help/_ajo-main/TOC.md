@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 45c7276e212f489c6d0a234d4e859bf94f188d6c
+source-git-commit: f557bb5542f413be99ae0f578a18f4dec60f0e06
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Capacidades de Mobile para especialistas en marketing](/help/channels/mobile-capabilities.md)
    + [Capacidades de Mobile para desarrolladores](/help/channels/mobile-capabilities-for-developers.md)
    + [Obtener ayuda con el asistente de IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Centro de aprendizaje móvil](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer - Centro de aprendizaje móvil](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campañas {#create-campaigns}
    + Campañas de acción {#action-campaigns}
       + [Creación de una campaña](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [Creación de público con el generador de reglas](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creación de un público cargando un archivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creación de públicos mediante SDK web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
 + Canales {#channels}
    + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
