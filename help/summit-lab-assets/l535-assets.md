@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 17%
@@ -24,7 +24,7 @@ Esta página contiene texto y vínculos que se están utilizando en el laborator
 
 * [Sitio web de SecurFinancial](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:ajo-summit-lab/journey-optimizer/journeys){target="_blank"}
-* [Libro L535](/help/summit-labs/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
+* [Libro L535](/help/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
 * [Descargar la aplicación](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
 
 ## Copiar y pegar para ejercicios
@@ -121,7 +121,7 @@ dxdemo://atm
 
 ## Imágenes
 
-![Logotipo de SecureFinancial](/help/summit-labs/summit-lab-assets/assets/SecureFinancial-logo.png)
+![Logotipo de SecureFinancial](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
 
 
-![Teléfono móvil](/help/summit-labs/summit-lab-assets/assets/online-banking-app-01.png)
+![Teléfono móvil](/help/summit-lab-assets/assets/online-banking-app-01.png)

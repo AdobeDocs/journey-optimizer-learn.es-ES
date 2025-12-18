@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
@@ -34,11 +34,11 @@ En esta lección, va a experimentar la interacción con la marca como consumidor
 
 1. En la página de inicio de Fréscopa, haz clic en **[!UICONTROL Iniciar sesión]**.
 
-   ![Página principal de Fréscopa](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Página principal de Fréscopa")
+   ![Página principal de Fréscopa](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Página principal de Fréscopa")
 
 1. En la página de inicio de sesión, seleccione **[!UICONTROL Crear una cuenta]**.
 
-   ![Página de inicio de sesión de Fréscopa](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Inicio de sesión de Fréscopa")
+   ![Página de inicio de sesión de Fréscopa](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Inicio de sesión de Fréscopa")
 
 1. En la página siguiente, rellene sus datos:
 
@@ -57,19 +57,19 @@ En esta lección, va a experimentar la interacción con la marca como consumidor
 
    1. Escriba su **número de puesto**. (Puede encontrarlo en el escritorio de su máquina de laboratorio).
 
-      ![Escritorio de máquina de laboratorio](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+      ![Escritorio de máquina de laboratorio](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 
    1. Para especificar si tienes una máquina Fréscopa, elige **Sí** o **No**.
 
 1. Haga clic en **Registrar**.
 
-   ![Página de registro de Fréscopa](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+   ![Página de registro de Fréscopa](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
 ## Ejercicio 1.2 - Descargue e instale la aplicación Fréscopa
 
 Instale la aplicación móvil en su dispositivo iOS o Android™ escaneando el código QR desde el mensaje que recibió al registrarse o desde abajo:
 
-![Códigos QR de la aplicación móvil Fréscopa](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Códigos QR de la aplicación móvil Fréscopa")
+![Códigos QR de la aplicación móvil Fréscopa](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Códigos QR de la aplicación móvil Fréscopa")
 
 Instalación específica del dispositivo:
 
@@ -83,23 +83,23 @@ Después de instalar la aplicación, debe confiar en el desarrollador empresaria
 
 1. Vaya a **Configuración** > **General** > **Administración de VPN y dispositivos**.
 
-   ![Pantalla de configuración de administración de dispositivos](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Pantalla de configuración de administración de dispositivos"){width="250" align="center" zoomable="yes"}
+   ![Pantalla de configuración de administración de dispositivos](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Pantalla de configuración de administración de dispositivos"){width="250" align="center" zoomable="yes"}
 
 1. Seleccione **Adobe Systems Inc** y **Trust Adobe Systems Inc**.
 
-   ![Pantalla de selección de sistemas de Adobe](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Pantalla de selección de sistemas de Adobe"){width="250" align="center" zoomable="yes"}
+   ![Pantalla de selección de sistemas de Adobe](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Pantalla de selección de sistemas de Adobe"){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![Pantalla Trust Adobe Systems](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![Pantalla Trust Adobe Systems](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * Ahora deberías poder lanzar la **aplicación Fréscopa** en tu iPhone: ![Icono de la aplicación Fréscopa](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * Ahora deberías poder lanzar la **aplicación Fréscopa** en tu iPhone: ![Icono de la aplicación Fréscopa](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. Abra la aplicación.
 
 1. En la ventana emergente, haz clic en **Permitir** para permitir que la aplicación DX Demo te envíe notificaciones.
 
-   ![ventana emergente de notificación](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+   ![ventana emergente de notificación](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
@@ -107,11 +107,11 @@ Después de instalar la aplicación, debe confiar en el desarrollador empresaria
 
 En Android, descargue e instale el APK siguiendo las instrucciones de alerta que se muestran aquí:
 
-![Pantalla de descarga de Android](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Pantalla de descarga de Android"){width="250" align="center" zoomable="yes"}
+![Pantalla de descarga de Android](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Pantalla de descarga de Android"){width="250" align="center" zoomable="yes"}
 <br>
-![Pantalla de instalación de Android](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Pantalla de instalación de Android](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* Ahora deberías poder lanzar la **aplicación Fréscopa** en tu dispositivo Android: ![Icono de la aplicación Fréscopa](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* Ahora deberías poder lanzar la **aplicación Fréscopa** en tu dispositivo Android: ![Icono de la aplicación Fréscopa](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
@@ -144,12 +144,12 @@ Recibirá insignias para cada una de estas actividades.
 >
 >En la página de inicio de Frescopa, haz clic en **Progreso de Adobe Summit Lab Challenge** (parte inferior de la página).
 > 
->  ![Botón de progreso del desafío](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>  ![Botón de progreso del desafío](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >
 > Puede ver qué insignias ha obtenido:
 > 
-> ![Insignias](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
+> ![Insignias](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
 
 En las lecciones siguientes, aprenderá a crear experiencias móviles y web en Adobe Journey Optimizer.
 
-[def]: /help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
+[def]: /help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
