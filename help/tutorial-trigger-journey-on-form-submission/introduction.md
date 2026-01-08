@@ -1,13 +1,13 @@
 ---
 title: recorrido de déclencheur al enviar el formulario
 description: Obtenga información sobre cómo almacenar en déclencheur un recorrido en el envío de formularios de HTML
-feature: Decisioning
+feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 043f41acd8f7f7165d9ec416d8f789f78d407ca1
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Este caso de uso muestra cómo un cliente envía un formulario y cómo déclench
 * Envío de datos de envío de formularios a Adobe Experience Platform
 
 Introducción al caso de uso y creación de esquemas de eventos
->[!VIDEO](https://video.tv.adobe.com/v/3478474?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

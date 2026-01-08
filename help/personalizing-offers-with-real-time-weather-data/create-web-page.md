@@ -9,16 +9,16 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # Prueba de la solución
 
-Para probar la solución de extremo a extremo, los archivos [weather-offers.html](assets/weather-offers.html) y [weather-related-offers-script.js](assets/weather-related-offers-script.js) deben alojarse en un servidor web o en un servicio de alojamiento público como Github Pages. Esto es necesario porque:
+Para probar la solución de extremo a extremo, extraiga weather-offers.html y weather-related-offers-script.js de [weather-offers.zip].(assets/weather-offers.zip) Estos archivos deben alojarse en un servidor web o en un servicio de alojamiento público como Github Pages. Esto es necesario porque:
 : La API de geolocalización del explorador solo funciona mediante HTTPS o localhost
 
 Para mantener las cosas organizadas y garantizar que las rutas relativas funcionen correctamente, recomendamos la siguiente estructura de carpetas para alojar la solución:
@@ -27,9 +27,8 @@ Para mantener las cosas organizadas y garantizar que las rutas relativas funcion
 
 ## Descargar los archivos proporcionados
 
-[Archivo de HTML](assets/weather-offers.html)
+Descargue y extraiga el HTML y el archivo javascript de [weather-offers.zip].(assets/weather-offers.zip)
 
-[Archivo Javascript](assets/weather-related-offers-script.js)
 
 
 ## Actualizar la URL de superficie en el archivo javascript
