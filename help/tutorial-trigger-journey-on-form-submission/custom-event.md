@@ -19,7 +19,7 @@ ht-degree: 0%
 Con el esquema de evento, defina un evento personalizado en Adobe Journey Optimizer. Este evento escucha los datos de envío de formularios que llegan a Adobe Experience Platform.
 
 Defina un evento personalizado llamado **_InvestmentPreference_**
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478486?captions=spa)
 
 
 

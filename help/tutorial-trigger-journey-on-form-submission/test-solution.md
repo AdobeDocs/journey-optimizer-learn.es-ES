@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Prueba de la solución
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478549?captions=spa)
 
 ## Implementar los recursos de muestra
 

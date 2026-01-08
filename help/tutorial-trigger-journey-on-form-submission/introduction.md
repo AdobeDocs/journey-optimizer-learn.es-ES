@@ -36,7 +36,7 @@ Este caso de uso muestra cómo un cliente envía un formulario y cómo déclench
 * Envío de datos de envío de formularios a Adobe Experience Platform
 
 Introducción al caso de uso y creación de esquemas de eventos
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478474?captions=spa)
 
 
 

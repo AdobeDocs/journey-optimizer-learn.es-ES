@@ -19,7 +19,7 @@ ht-degree: 0%
 Configure el formulario para enviar datos de envío a Adobe Experience Platform en tiempo real mediante una integración basada en HTTP, asegurándose de que la carga útil de evento se ajuste al esquema.
 
 Definir punto final de flujo HTTP
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478499?captions=spa)
 
 
 
