@@ -5,9 +5,10 @@ feature: Overview
 role: User, Admin, Developer
 hide: false
 index: true
+jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: c2f3040358442ac2bb78d02b2a210d93b327c3ee
+source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
 workflow-type: tm+mt
 source-wordcount: '892'
 ht-degree: 0%
@@ -20,7 +21,7 @@ Comience o eleve su estrategia de participación móvil con Adobe Journey Optimi
 
 Explore las prácticas recomendadas, aprenda a impulsar la adopción y configure flujos de trabajo de creación de informes centralizados, todo en un solo lugar, para ofrecer experiencias móviles impactantes basadas en datos que lleguen a los clientes en cualquier momento y en cualquier lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477001?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Información general del canal móvil
@@ -98,4 +99,4 @@ Aprenda los conceptos y cómo
 
 ## Casos de uso del cliente
 
-* [Tomar vuelo con personalización: Cómo las aerolíneas pueden elevar ofertas con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=es)
+* [Tomar vuelo con personalización: Cómo las aerolíneas pueden elevar ofertas con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
