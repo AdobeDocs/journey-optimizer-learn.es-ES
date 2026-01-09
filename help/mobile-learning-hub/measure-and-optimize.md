@@ -60,7 +60,7 @@ Acceda a informes, analice el rendimiento y perfeccione estrategias para obtener
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Informes de nivel de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="Informes de nivel de canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448041/?captions=spa&format=jpeg&nocache=1755729019635" alt="Informes de nivel de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Acceda a informes, analice el rendimiento y perfeccione estrategias para obtener
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Creación de informes mejorada con Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="Creación de informes mejorada con Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443154/?captions=spa&format=jpeg&nocache=1755729019655" alt="Creación de informes mejorada con Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
