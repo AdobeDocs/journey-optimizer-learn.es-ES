@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Capacidades de Mobile para especialistas en marketing](/help/channels/mobile-capabilities.md)
    + [Capacidades de Mobile para desarrolladores](/help/channels/mobile-capabilities-for-developers.md)
    + [Obtener ayuda con el asistente de IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Centro de aprendizaje móvil](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer: Centro de aprendizaje móvil](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campañas {#create-campaigns}
    + Campañas de acción {#action-campaigns}
       + [Creación de una campaña](/help/campaigns/action-campaigns/create-a-campaign.md)
