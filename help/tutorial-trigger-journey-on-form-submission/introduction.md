@@ -37,7 +37,7 @@ Este caso de uso muestra cómo un cliente envía un formulario y cómo déclench
 * Configurar la búsqueda de conjuntos de datos para incluir datos de referencia en el correo electrónico
 
 Introducción al caso de uso y creación de esquemas de eventos
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478474?captions=spa)
 
 
 

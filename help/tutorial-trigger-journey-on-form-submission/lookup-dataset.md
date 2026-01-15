@@ -20,7 +20,7 @@ Una búsqueda de conjuntos de datos permite a Adobe Journey Optimizer recuperar 
 
 En este caso de uso, cuando un usuario envía un formulario de preferencia de inversión (acciones, bonos o CD), el recorrido busca dinámicamente los detalles de inversión correspondientes de un conjunto de datos de referencia y utiliza esa información para personalizar un correo electrónico.
 Creando conjunto de datos de búsqueda
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478763?captions=spa)
 
 Pruebe los campos de búsqueda del conjunto de datos enviando la configuración del formulario en el paso anterior
 
