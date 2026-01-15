@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: déclencheur-recorrido-en-formulario-envío
 breadcrumb-url: /docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction
 auto-video-transcripts: true
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 2%
@@ -22,4 +22,5 @@ ht-degree: 2%
 + [Crear recorrido](./create-journey.md)
 + [Prueba de la solución](./test-solution.md)
 + [Crear conjunto de datos de búsqueda](./lookup-dataset.md)
+
 

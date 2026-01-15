@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 3%
 
 ---
 
@@ -34,9 +34,10 @@ Este caso de uso muestra cómo un cliente envía un formulario y cómo déclench
 * Configuración de canal de correo electrónico
 * Creación de un Recorrido activado por el evento personalizado
 * Envío de datos de envío de formularios a Adobe Experience Platform
+* Configurar la búsqueda de conjuntos de datos para incluir datos de referencia en el correo electrónico
 
 Introducción al caso de uso y creación de esquemas de eventos
->[!VIDEO](https://video.tv.adobe.com/v/3478474?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 
