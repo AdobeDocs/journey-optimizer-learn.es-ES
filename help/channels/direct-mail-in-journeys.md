@@ -24,4 +24,4 @@ Explore cómo aprovechar el canal de correo postal en Adobe Journey Optimizer pa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) para obtener más información.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) para obtener más información.
