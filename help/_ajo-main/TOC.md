@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 64b89b0766130778e5cd3e7702ab39f5dfaeda4e
+source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '980'
 ht-degree: 99%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 99%
       + [Uso de la toma de decisiones en el canal basado en código](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal de correo directo{#direct-mail-channel}
       + [Creación de un correo directo](/help/channels/direct-mail.md)
+      + [Envío de mensajes de correo directo con recorridos](/help/channels/direct-mail-in-journeys.md)
    + Canal de correo electrónico{#email-channel}
       + [Canal de correo electrónico: información general](/help/channels/email-channel-overview.md)
       + [Diseño y personalización de correo electrónico: información general](/help/channels/email-design-and-personalization-overview.md)
