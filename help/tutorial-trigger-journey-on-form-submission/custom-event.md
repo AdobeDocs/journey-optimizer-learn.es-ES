@@ -20,7 +20,7 @@ Con el esquema de evento, defina un evento personalizado en Adobe Journey Optimi
 
 Defina un evento personalizado llamado **_InvestmentPreference_**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478486?captions=spa)
 
 
 

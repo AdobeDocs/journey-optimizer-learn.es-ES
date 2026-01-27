@@ -22,7 +22,7 @@ Crear un recorrido implica crear las siguientes configuraciones
 
 **Creando configuración de canal de correo electrónico**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478513?captions=spa)
 
 
 
