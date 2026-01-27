@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 188
 last-substantial-update: 2026-01-24T00:00:00Z
 jira: KT-20176
-hide: true
-hidefromtoc: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+hide: false
+hidefromtoc: false
+source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 20%
@@ -24,4 +24,4 @@ Explore cómo aprovechar el canal de correo postal en Adobe Journey Optimizer pa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) para obtener más información.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) para obtener más información.
