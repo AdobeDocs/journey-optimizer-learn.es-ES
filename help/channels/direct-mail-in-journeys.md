@@ -22,6 +22,6 @@ ht-degree: 20%
 
 Explore cómo aprovechar el canal de correo postal en Adobe Journey Optimizer para automatizar y programar envíos de correo postal dentro de sus recorridos. Descubra la configuración del enrutamiento de archivos, configure la frecuencia de creación y utilice acciones de correo directo en el lienzo de Recorrido. Este vídeo muestra cómo AJO pone en cola a los participantes, genera archivos con marca de tiempo a intervalos y los envía automáticamente una vez activados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479165/?captions=spa&learn=on&enablevpops)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) para obtener más información.
