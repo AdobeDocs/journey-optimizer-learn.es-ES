@@ -151,10 +151,10 @@ ht-degree: 97%
       + [Tutorial de la toma de decisiones de extremo a extremo](/help/decisioning/decisioning-end-to-end.md)
       + [Navegación por la interfaz del generador de fórmulas](/help/decisioning/formula-builder-ui.md)
       + [Reglas reutilizables](/help/decisioning/reusable-targeting-rules.md)
-      + [recorrido de Déclencheur al enviar el formulario](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [recorrido de Déclencheur al enviar el formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Personalización de ofertas con datos meteorológicos en tiempo real](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Uso de la fórmula de clasificación para entregar ofertas personalizadas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Usar la toma de decisiones en el canal de correo electrónico](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Usar la toma de decisiones en el canal de correo electrónico](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Uso de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Uso de la toma de decisiones en y mensajes SMS](/help/decisioning/use-decisioning-in-an-SMS-message.md)
    + Gestión de decisiones {#decision-management}
