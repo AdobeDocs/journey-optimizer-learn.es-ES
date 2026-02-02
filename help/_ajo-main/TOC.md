@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
 workflow-type: tm+mt
 source-wordcount: '1007'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -93,7 +93,7 @@ ht-degree: 97%
    + Canal push{#push-channel}
       + [Notificaciones push: información general](/help/channels/push-notifications-overview.md)
       + [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
-      + [Creación de notificaciones push web](/help/channels/create-web-push-notifications.md)
+      + [Crear notificaciones push web](/help/channels/create-web-push-notifications.md)
    + Canal de SMS/MMS{#sms-channel}
       + [Mensajes SMS/MMS: información general](/help/channels/sms-mms-messages-overview.md)
       + [Configuración, creación y entrega de mensajes SMS](/help/channels/author-sms-messages.md)
@@ -151,11 +151,11 @@ ht-degree: 97%
       + [Tutorial de la toma de decisiones de extremo a extremo](/help/decisioning/decisioning-end-to-end.md)
       + [Navegación por la interfaz del generador de fórmulas](/help/decisioning/formula-builder-ui.md)
       + [Reglas reutilizables](/help/decisioning/reusable-targeting-rules.md)
-      + [recorrido de Déclencheur al enviar el formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Activación de recorrido al enviar un formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Personalización de ofertas con datos meteorológicos en tiempo real](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Uso de la fórmula de clasificación para entregar ofertas personalizadas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Usar la toma de decisiones en el canal de correo electrónico](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [Uso de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
+      + [Use la toma de decisiones en el canal de correo electrónico](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Uso de la toma de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Uso de decisiones en un mensaje SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Gestión de decisiones {#decision-management}
       + [Introducción a la gestión de decisiones](/help/decision-management/introduction-to-decision-management.md)
