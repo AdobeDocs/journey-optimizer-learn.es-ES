@@ -1,6 +1,6 @@
 ---
 title: Envío de mensajes de correo directo con recorridos
-description: Automatice el correo postal en Adobe Journey Optimizer. Obtenga información sobre la configuración y programación del enrutamiento de archivos para una entrega sin problemas.
+description: Automatice el correo directo en Adobe Journey Optimizer. Obtenga información sobre los ajustes, la configuración y la programación del enrutamiento de archivos para una entrega sin problemas.
 feature: Direct Mail
 role: User
 level: Intermediate
@@ -11,17 +11,17 @@ jira: KT-20176
 hide: false
 hidefromtoc: false
 source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
 
 # Envío de mensajes de correo directo con recorridos
 
-Explore cómo aprovechar el canal de correo postal en Adobe Journey Optimizer para automatizar y programar envíos de correo postal dentro de sus recorridos. Descubra la configuración del enrutamiento de archivos, configure la frecuencia de creación y utilice acciones de correo directo en el lienzo de Recorrido. Este vídeo muestra cómo AJO pone en cola a los participantes, genera archivos con marca de tiempo a intervalos y los envía automáticamente una vez activados.
+Explore cómo aprovechar el canal de correo directo en Adobe Journey Optimizer para automatizar y programar envíos de correo directo en sus recorridos. Descubra los ajustes del enrutamiento de archivos, configure la frecuencia de creación y utilice acciones de correo directo en el lienzo del recorrido. Este vídeo muestra cómo AJO pone en cola a los participantes, genera archivos con marca de tiempo a intervalos y los envía automáticamente una vez activados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479165/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys) para obtener más información.
