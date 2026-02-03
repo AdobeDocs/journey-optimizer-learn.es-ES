@@ -22,6 +22,6 @@ Explore cómo monitorizar de forma eficaz el estado operativo y el rendimiento d
 
 Este informe ayuda a identificar problemas, mejorar el rendimiento del recorrido y garantizar un funcionamiento sin problemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479544/?captions=spa&learn=on&enablevpops)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) para obtener más información sobre esta función.
