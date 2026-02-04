@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20238
-source-git-commit: 589260ba993073b9d5b0c02ffd26b5127f7a389e
+source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 16%
@@ -22,6 +22,7 @@ Explore cómo monitorizar de forma eficaz el estado operativo y el rendimiento d
 
 Este informe ayuda a identificar problemas, mejorar el rendimiento del recorrido y garantizar un funcionamiento sin problemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479544/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) para obtener más información sobre esta función.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) para obtener más información sobre esta función.
+
