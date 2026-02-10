@@ -1,6 +1,6 @@
 ---
 title: Uso de alertas
-description: Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, Journey Optimizer o mediante una API.
+description: Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, en Journey Optimizer o mediante una API.
 jira: KT-11081
 thumbnail: 336218.jpg
 feature: Alerts
@@ -10,16 +10,16 @@ role: Admin
 level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: dfbf246c95cf89afebd7460361791d1c33aa9e6e
-workflow-type: ht
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # Uso de alertas
 
-Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, Journey Optimizer o mediante una API.
+Obtenga información sobre cómo suscribirse a alertas predefinidas para detectar comportamientos de recorrido inesperados y recibir notificaciones por correo electrónico, en Journey Optimizer o mediante una API.
 
 >[!NOTE]
 >
@@ -28,6 +28,6 @@ Obtenga información sobre cómo suscribirse a alertas predefinidas para detecta
 >
 >Al acceder a las alertas desde Journey Optimizer, de forma predeterminada solo se muestran las específicas de sus recorridos en directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423918?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/test/alerts){target="_blank"} para obtener más información.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"} para obtener más información.
