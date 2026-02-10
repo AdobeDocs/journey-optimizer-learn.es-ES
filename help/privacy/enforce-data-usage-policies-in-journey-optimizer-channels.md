@@ -25,4 +25,4 @@ Descubra cómo se aplican las políticas de uso de datos en los canales de Journ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Consulte la documentación del producto para obtener más información sobre la [gobernanza de datos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/action-privacy-restricted) y cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.
+Consulte la documentación del producto para obtener más información sobre la [gobernanza de datos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/action-privacy-restricted) y cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.
