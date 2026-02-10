@@ -37,4 +37,4 @@ Este caso de uso muestra cómo un cliente envía un formulario y cómo déclench
 
 **Introducción al caso de uso y creación de esquema de evento**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478474?captions=spa)
