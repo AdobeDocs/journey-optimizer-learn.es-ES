@@ -9,7 +9,7 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -42,8 +42,6 @@ Abra el archivo weather-offers.html en el editor de texto y reemplace la etiquet
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
-
-
 
 ## Lo que hace la página web
 
@@ -98,13 +96,13 @@ JavaScript recupera dinámicamente información meteorológica en función de la
 
 6. **Recupera y procesa ofertas**
 
-   Recibe ofertas devueltas por AJO Decisioning.
+* Recibe ofertas devueltas por AJO Decisioning.
 
-   Descodifica el contenido de HTML.
+* Descodifica el contenido de HTML.
 
-   Inserta de forma dinámica las ofertas en <div id="offerContainer"> Elemento.
+* Inserta de forma dinámica las ofertas en <div id="offerContainer"> Elemento.
 
 ## Pasos siguientes
 
-[Mida e informe del impacto de AJO Decisioning.](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[Mida e informe del impacto de AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
