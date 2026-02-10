@@ -28,6 +28,6 @@ Obtenga información sobre cómo suscribirse a alertas predefinidas para detecta
 >
 >Al acceder a las alertas desde Journey Optimizer, de forma predeterminada solo se muestran las específicas de sus recorridos en directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423918?captions=spa&quality=12&learn=on){transcript=true}
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"} para obtener más información.
