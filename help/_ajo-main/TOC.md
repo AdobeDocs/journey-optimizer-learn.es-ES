@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
+source-git-commit: afcdfe125025a480f5af9dc947889081b5690462
 workflow-type: tm+mt
 source-wordcount: '1001'
 ht-degree: 98%
@@ -250,4 +250,5 @@ ht-degree: 98%
       + [Escalar la orquestación a la participación omnicanal en Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sesiones en directo e inmersiones profundas {#live-sessions-and-deep-dives}
    + [Grabaciones en directo de Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
+
 
