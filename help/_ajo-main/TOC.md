@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: afcdfe125025a480f5af9dc947889081b5690462
+source-git-commit: 43bc064671b80f6d0c6d073c125b17caf609f5c7
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1007'
 ht-degree: 98%
 
 ---
@@ -90,6 +90,8 @@ ht-degree: 98%
       + [Creación de un mensaje en la aplicación en un recorrido](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
       + [Configuración de experimentos de contenido para mensajes en la aplicación](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + Actividades activas (#live-activities)
+      + [Actividades de iOS Live](/help/channels/ios-live-activities.md)
    + Canal push{#push-channel}
       + [Notificaciones push: información general](/help/channels/push-notifications-overview.md)
       + [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
