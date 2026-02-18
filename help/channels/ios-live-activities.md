@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Descubre cómo configurar iOS Live Activities con Adobe Journey Optimizer para ofrecer actualizaciones enriquecidas en tiempo real en la pantalla de bloqueo de iPhone y Dynamic Island.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479867/?captions=spa&learn=on&enablevpops)
