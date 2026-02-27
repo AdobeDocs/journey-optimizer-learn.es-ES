@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
+source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
 workflow-type: tm+mt
-source-wordcount: '1009'
-ht-degree: 98%
+source-wordcount: '1014'
+ht-degree: 97%
 
 ---
 
@@ -54,6 +54,8 @@ ht-degree: 98%
    + [Actualización de contenido en un recorrido activo](/help/journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/journeys/copy-a-journey.md)
    + [Activación de ejecuciones de recorrido diarias tras la segmentación por lotes](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ Lealtad {#loyalty}
++[Crear un desafío de fidelidad](/help/loyalty/create-a-loyalty-challenge.md)
 + Administración de conflictos y priorización {#conflict-management}
    + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
    + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
