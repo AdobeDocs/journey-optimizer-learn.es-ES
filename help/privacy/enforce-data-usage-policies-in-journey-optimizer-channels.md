@@ -23,6 +23,6 @@ ht-degree: 98%
 
 Descubra cómo se aplican las políticas de uso de datos en los canales de Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434908/?captions=spa&learn=on)
 
 Consulte la documentación del producto para obtener más información sobre la [gobernanza de datos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/action-privacy-restricted) y cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.
