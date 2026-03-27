@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 3706c5ad-9a80-4799-8880-c45eda082f22
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
 
 ---
-
 
 # Lealtad emocional y construcción de la comunidad
 
@@ -102,7 +102,7 @@ Estas marcas ilustran cómo la lealtad emocional trasciende las transacciones, s
 
 ## &#x200B;6. Habilitar la lealtad emocional con la tecnología moderna
 
-Los programas de lealtad emocional modernos dependen en gran medida de las capacidades de orquestación de plataformas como Adobe Journey Optimizer, Salesforce Loyalty Management, Braze y plataformas comunitarias como Khoros o ecosistemas de aplicaciones personalizadas. Las infraestructuras de datos e identidad desempeñan un papel esencial. Un perfil unificado del cliente debe rastrear no solo el comportamiento transaccional, sino también las señales emocionales: participación de desafío, interacciones de contenido, actividad de la comunidad, sentimiento, preferencias, envíos creativos o duración de la racha.
+Los programas de lealtad emocional modernos dependen en gran medida de las capacidades de orquestación de plataformas como Adobe Journey Optimizer, Salesforce Loyalty Management, Braze y plataformas comunitarias como Khoros o ecosistemas de aplicaciones personalizadas. Las infraestructuras de datos e identidad desempeñan un papel esencial. Un perfil unificado del cliente debe rastrear no solo el comportamiento transaccional, sino también las señales emocionales: participación de desafío, interacciones de contenido, actividad de la comunidad, opinión, preferencias, envíos creativos o duración de la racha.
 
 Las plataformas de organización deben proporcionar un reconocimiento personalizado en el momento adecuado. Esto significa activar celebraciones de hito en el momento en que un usuario completa un desafío, actualiza los distintivos de la aplicación instantáneamente o muestra módulos de lealtad personalizados en la aplicación y la web. La visualización del progreso en tiempo real es crítica para mantener la participación emocional. Al exponer los indicadores de progreso dondequiera que los clientes interactúen, las marcas refuerzan la narrativa de que el cliente está en un recorrido significativo.
 

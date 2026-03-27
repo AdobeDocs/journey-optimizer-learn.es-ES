@@ -10,7 +10,7 @@ index: false
 jira: KT-19872
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: c61ece71-58cd-448e-a421-50ba89134713
-source-git-commit: 88474fda4fe1d24356f91214b0f3a5ebd9032b93
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 | Caso de uso | Descripción | Ejemplo de caso de uso |
 |---------|-------------|----------------------|
-| **Incorporación y adopción de la aplicación** | Guía a los nuevos usuarios a través de las etapas iniciales de la participación con la aplicación: la instalación de la aplicación, la finalización de la configuración y el descubrimiento de funciones clave. El objetivo es maximizar la retención y el uso a largo plazo. | - Notificaciones push y SMS de bienvenida a los usuarios y finalización rápida del perfil.<br>: los mensajes en la aplicación resaltan características y recomiendan las primeras acciones.<br>: los vínculos profundos en correos electrónicos o anuncios dirigen a los usuarios a pantallas de aplicación específicas para una incorporación perfecta. |  |
+| **Incorporación y adopción de la aplicación** | Guía a los nuevos usuarios a través de las etapas iniciales de la participación con la aplicación: la instalación de la aplicación, la finalización de la configuración y el descubrimiento de funciones clave. El objetivo es maximizar la retención y el uso a largo plazo. | - Notificaciones push y SMS de bienvenida a los usuarios y finalización rápida del perfil.<br>: los mensajes en la aplicación resaltan características y recomiendan las primeras acciones.<br>: los vínculos profundos en correos electrónicos o anuncios dirigen a los usuarios a pantallas de aplicación específicas para una incorporación perfecta. |
 | **Participación basada en la ubicación** | Envía mensajes personalizados y oportunos a los usuarios en función de su proximidad física a tiendas, eventos u otras ubicaciones relevantes. | : notificaciones push de déclencheur técnico de señalización y geoperimetraje cuando los usuarios entran en zonas de destino.<br>: los SMS/MMS envían ofertas y actualizaciones localizadas.<br>: los titulares y las tarjetas en la aplicación adaptan el contenido en función de la ubicación en tiempo real. |
 | **Renovación del compromiso de abandono** | Se dirige a los usuarios que abandonan los carros de compras, los formularios o las sesiones de navegación, con el fin de recuperarlos y completar la acción deseada. | : Las notificaciones push recuerdan a los usuarios de carros de compras abandonados o acciones incompletas.<br>: los seguimientos de SMS incluyen incentivos o vínculos directos para reanudar.<br>: aparecen mensajes en la aplicación cuando los usuarios regresan y ofrecen recomendaciones personalizadas. |
 | **Campaña de ampliación y venta cruzada** | Promociona productos adicionales o actualizaciones para clientes existentes en función de su comportamiento, preferencias o historial de compras. | Impulso de la resuscripción y el crecimiento de ingresos |

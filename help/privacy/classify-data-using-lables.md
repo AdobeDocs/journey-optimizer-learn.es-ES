@@ -1,16 +1,17 @@
 ---
 title: Clasificación de datos mediante etiquetas
-description: Aprenda a aplicar etiquetas a los esquemas y conjuntos de datos.
+description: 'Aprenda a aplicar etiquetas a los esquemas y conjuntos de datos. '
 feature: Governance, Privacy, Data Management, Access Management
-role: Data Architect, Admin
+role: Developer, Admin
 level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
 last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+exl-id: 52930777-3231-4156-b1fe-a2d82003629a
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
@@ -24,4 +25,4 @@ Aprenda a aplicar etiquetas a los esquemas y conjuntos de datos. Las etiquetas d
 >
 >El vídeo muestra esta función en la interfaz de usuario de Adobe Experience Platform. La misma funcionalidad está disponible en la interfaz de usuario de Journey Optimizer, en la sección ADMINISTRACIÓN DE DATOS del panel de navegación izquierdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422794?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)
