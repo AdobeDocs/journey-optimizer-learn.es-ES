@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 104f7ca9f80139719b42d49b96ea5c2ea34570bc
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -41,6 +41,7 @@ ht-degree: 97%
    + [Journey Agent: información general](/help/ai-agents/journey-agent-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/journeys/new-journey-designer.md)
    + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
+   + [Uso de la búsqueda de conjuntos de datos en un recorrido](/help/journeys/lookup-dataset.md)
    + [Creación de un perfil de prueba](/help/journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
    + [Actividad de decisión de contenido](/help/journeys/content-decision-activity.md)
@@ -60,7 +61,7 @@ ht-degree: 97%
    + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
    + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
    + [Restricción de frecuencia de recorridos y priorización](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Uso de la búsqueda de conjuntos de datos en un recorrido](/help/journeys/lookup-dataset.md)
+
    + [Horario silencioso](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Perfiles, públicos y suscripciones {#profiles-audiences-subscriptions}
    + [Perfiles y públicos: información general](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
