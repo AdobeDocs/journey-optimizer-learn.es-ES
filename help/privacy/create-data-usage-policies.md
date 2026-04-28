@@ -30,4 +30,4 @@ Obtenga información sobre la creación y administración de las políticas de u
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Consulte la documentación del producto para obtener más información sobre cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.
+Consulte la documentación del producto para obtener más información sobre cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.
