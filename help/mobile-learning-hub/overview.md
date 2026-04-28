@@ -21,7 +21,7 @@ Comience o aumente su estrategia de participación móvil con Adobe Journey Opti
 
 Explore best practices, learn how to drive adoption, and setup centralized reporting workflows — all in one place — to deliver impactful, data-driven mobile experiences that reach customers anytime, anywhere.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477001?captions=spa&quality=12&learn=on){transcript=true}
 
 
 ## Mobile channel overview

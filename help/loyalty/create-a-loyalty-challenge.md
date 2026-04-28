@@ -24,4 +24,4 @@ ht-degree: 1%
 
 Aprenda a crear un desafío de fidelidad configurando tareas, recompensas y programaciones. Obtenga información sobre cómo configurar contenido, mensajes y audiencias mientras se genera automáticamente un recorrido completo del cliente en segundo plano.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480329/?captions=spa&learn=on&enablevpops)

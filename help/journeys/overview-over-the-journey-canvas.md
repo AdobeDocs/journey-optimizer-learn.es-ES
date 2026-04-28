@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Conozca las características y capacidades del lienzo de Recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344628?captions=spa&quality=12&learn=on){transcript=true}

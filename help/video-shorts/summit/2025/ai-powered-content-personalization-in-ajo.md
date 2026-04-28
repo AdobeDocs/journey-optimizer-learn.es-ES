@@ -20,4 +20,4 @@ ht-degree: 0%
 Learn how Adobe Journey Optimizer integrates with tools like GenStudio and Experience Manager to deliver AI-driven, on-brand personalized content.
 
 <!-- 62_S520_3442520_97_aipowered-content-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458183/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460147/?captions=spa&learn=on&enablevpops=true)
