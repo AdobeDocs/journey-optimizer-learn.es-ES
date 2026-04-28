@@ -138,7 +138,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Crear notificación push ](./assets/configuration.svg)[**Crear una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Diseñar notificación push ](./assets/content-management.png){width="50"}[**Diseñar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Enviar notificación push ](./assets/communication-channel.svg)[**Enviar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![Crear notificación push &#x200B;](./assets/configuration.svg) [**Crear una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Diseñar notificación push &#x200B;](./assets/content-management.png){width="50"}[**Diseñar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Enviar notificación push &#x200B;](./assets/communication-channel.svg) [**Enviar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB En la aplicación]
@@ -220,7 +220,7 @@ CARDS
 
 #### Documentación
 
-| ![Crear mensaje ](./assets/configuration.svg)[**Crear mensajes móviles en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Diseñar contenido ](./assets/content-management.png){width="50"}[**Diseñar contenido en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Enviar notificación ](./assets/communication-channel.svg)[**Enviar notificaciones en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![Crear mensaje &#x200B;](./assets/configuration.svg) [**Crear mensajes móviles en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Diseñar contenido &#x200B;](./assets/content-management.png){width="50"}[**Diseñar contenido en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Enviar notificación &#x200B;](./assets/communication-channel.svg) [**Enviar notificaciones en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Tarjetas de contenido]
@@ -270,7 +270,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Crear y configurar tarjetas de contenido ](./assets/configuration.svg)[**Crear y configurar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Diseñar tarjetas de contenido ](./assets/content-management.png){width="50"}[**Diseñar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![Crear y configurar tarjetas de contenido &#x200B;](./assets/configuration.svg) [**Crear y configurar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Diseñar tarjetas de contenido &#x200B;](./assets/content-management.png){width="50"}[**Diseñar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -424,7 +424,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Introducción a los mensajes de texto ](./assets/configuration.svg)[**Introducción a los mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Diseñar contenido ](./assets/content-management.png){width="50"}[**Crear mensajes SMS, MMS y RCS**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Enviar notificación ](./assets/communication-channel.svg)[**Comprobar y enviar mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![Introducción a los mensajes de texto &#x200B;](./assets/configuration.svg) [**Introducción a los mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Diseñar contenido &#x200B;](./assets/content-management.png){width="50"}[**Crear mensajes SMS, MMS y RCS**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Enviar notificación &#x200B;](./assets/communication-channel.svg) [**Comprobar y enviar mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Experiencias basadas en código]
@@ -495,7 +495,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Create Code-Based Experiences ](./assets/content-management.png){width="50"}[**Create Code-Based Experiences**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![Create Code-Based Experiences &#x200B;](./assets/content-management.png){width="50"}[**Create Code-Based Experiences**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -568,7 +568,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Create WhatsApp Messages ](./assets/configuration.svg)[*Create WhatsApp Messages*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Preview, Validate, and Send WhatsApp Messages ](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![Create WhatsApp Messages &#x200B;](./assets/configuration.svg) [*Create WhatsApp Messages*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Preview, Validate, and Send WhatsApp Messages &#x200B;](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
