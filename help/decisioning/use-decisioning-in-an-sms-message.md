@@ -1,6 +1,6 @@
 ---
-title: Uso de Decisioning en un mensaje SMS
-description: Descubra cómo AJO Decisioning personaliza y optimiza el contenido de los SMS para mejorar la participación.
+title: Use Decisioning in an SMS message
+description: Discover how AJO Decisioning personalizes and optimizes SMS content for better engagement.
 feature: Decisioning, SMS
 role: User
 level: Intermediate
@@ -10,16 +10,16 @@ last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20237
 hidefromtoc: false
 hide: false
-source-git-commit: 48396b23d2b7f78d42813e368869a78e80f126fd
+exl-id: 60b29c0c-c3a5-4a20-9298-68119f4d4cc6
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
+# Use Decisioning in an SMS message
 
-# Uso de Decisioning en un mensaje SMS
+Learn how to use AJO Decisioning to personalize and optimize SMS content. Enhance your SMS messages to improve engagement and meet business goals.
 
-Aprenda a utilizar AJO Decisioning para personalizar y optimizar el contenido de SMS. Mejore sus mensajes SMS para mejorar la participación y cumplir los objetivos comerciales.
-
->[!VIDEO](https://video.tv.adobe.com/v/3479532/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)

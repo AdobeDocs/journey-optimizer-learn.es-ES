@@ -11,22 +11,22 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 93%
 
 ---
 
 # Configuración de canales guiada
 
-La configuración de canales guiada le ayuda a configurar y validar rápidamente canales web y móviles con los recursos necesarios en Experience Platform, Journey Optimizer y recopilación de datos para que su equipo de marketing pueda empezar a crear campañas y Recorridos.
+La configuración de canales guiada le ayuda a configurar y validar rápidamente canales web y móviles con los recursos necesarios en Experience Platform, Journey Optimizer y recopilación de datos para que su equipo de marketing pueda empezar a crear campañas y recorridos.
 
 Obtenga información sobre cómo configurar y validar una notificación de canal push en una aplicación de marketing móvil de iOS de muestra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449625/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Consulte la documentación del producto para obtener más información:
 
-* [Introducción a la configuración de canales guiada](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=es){target="_blank"}
-* [Creación de una configuración de canales](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=es){target="_blank"}
+* [Introducción a la configuración de canales guiados](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=es){target="_blank"}
+* [Crear una configuración de canal](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=es){target="_blank"}

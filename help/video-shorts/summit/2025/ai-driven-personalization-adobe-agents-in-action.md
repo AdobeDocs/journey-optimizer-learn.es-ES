@@ -8,9 +8,9 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 28d2a04b-70b7-4809-876b-d7bf381c1b1f
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo los agentes inteligentes de Adobe organizan experiencias de cliente hiperpersonalizadas a escala, abordando desafíos como presupuestos ajustados y cuellos de botella en la producción de contenido.
 
 <!-- 72_S653_3442539_83_aidriven-personalization-adobe-agents-in-action -->
->[!VIDEO](https://video.tv.adobe.com/v/3460112/?captions=spa&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458198/?learn=on&enablevpops=true)

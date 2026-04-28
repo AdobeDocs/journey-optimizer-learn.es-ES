@@ -1,6 +1,6 @@
 ---
-title: 'Audience Agent: Monitorización proactiva y optimización'
-description: Vea cómo Audience Agent en Adobe Journey Optimizer supervisa de forma proactiva el estado de la audiencia, identifica problemas y sugiere soluciones procesables para mejorar la participación.
+title: Audience Agent - Proactive Monitoring and Optimization
+description: See how the Audience Agent in Adobe Journey Optimizer proactively monitors audience health, identifies issues, and suggests actionable solutions to enhance engagement.
 doc-type: Short Video
 duration: 204
 index: false
@@ -8,16 +8,16 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 3a9d2c74-0fb8-47cb-8eb1-c7b70bae74cb
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Audience Agent: Monitorización proactiva y optimización
+# Audience Agent: Proactive Monitoring and Optimization
 
-Vea cómo Audience Agent en Adobe Journey Optimizer supervisa de forma proactiva el estado de la audiencia, identifica problemas y sugiere soluciones procesables para mejorar la participación.
+See how the Audience Agent in Adobe Journey Optimizer proactively monitors audience health, identifies issues, and suggests actionable solutions to enhance engagement.
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-monitoring-and-optimization -->
->[!VIDEO](https://video.tv.adobe.com/v/3460278/?captions=spa&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458192/?learn=on&enablevpops=true)

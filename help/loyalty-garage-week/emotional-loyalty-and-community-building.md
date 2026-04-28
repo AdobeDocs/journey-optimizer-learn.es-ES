@@ -6,9 +6,9 @@ role: User
 hide: true
 index: false
 exl-id: 3706c5ad-9a80-4799-8880-c45eda082f22
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2156'
+source-wordcount: '2205'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Una marca no puede crear una comunidad: los clientes crean comunidades cuando la
 
 La comunidad profundiza la lealtad porque incrusta el programa en el tejido social de los clientes. Un cliente puede dejar un programa de puntos, pero es mucho menos probable que abandone una comunidad en la que sienta conexión, reconocimiento y propósito compartido.
 
-## &#x200B;4. Poner en práctica la lealtad emocional en todo el ciclo de vida del cliente
+## &#x200B;4. Poner en funcionamiento la lealtad emocional en todo el ciclo de vida del cliente
 
 La creación de lealtad emocional requiere integrar la identidad, la participación, el reconocimiento y la comunidad en todo el ciclo de vida del cliente.
 
@@ -100,7 +100,7 @@ Los ejemplos más convincentes de lealtad emocional provienen de marcas que comp
 
 Estas marcas ilustran cómo la lealtad emocional trasciende las transacciones, se convierte en parte de la identidad diaria de los clientes.
 
-## &#x200B;6. Habilitar la lealtad emocional con la tecnología moderna
+## &#x200B;6. Habilitar la lealtad emocional con tecnología moderna
 
 Los programas de lealtad emocional modernos dependen en gran medida de las capacidades de orquestación de plataformas como Adobe Journey Optimizer, Salesforce Loyalty Management, Braze y plataformas comunitarias como Khoros o ecosistemas de aplicaciones personalizadas. Las infraestructuras de datos e identidad desempeñan un papel esencial. Un perfil unificado del cliente debe rastrear no solo el comportamiento transaccional, sino también las señales emocionales: participación de desafío, interacciones de contenido, actividad de la comunidad, opinión, preferencias, envíos creativos o duración de la racha.
 
@@ -126,4 +126,4 @@ La lealtad emocional no es una táctica de marketing. Es la arquitectura de la i
 
 Las marcas que lideran la lealtad emocional no la tratan como un programa. Lo tratan como una estrategia cultural. Crean sistemas en los que los clientes pueden descubrirse a sí mismos, conectarse con otros y expresar su identidad. E integran lealtad emocional en superficies digitales, entornos físicos y espacios comunitarios.
 
-La lealtad emocional es el futuro de la lealtad, y las organizaciones que invierten ahora se beneficiarán de relaciones más profundas y de una economía más fuerte en los años venideros.
+Emotional loyalty is the future of loyalty—and the organizations that invest now will benefit from deeper relationships and stronger economics for years to come.

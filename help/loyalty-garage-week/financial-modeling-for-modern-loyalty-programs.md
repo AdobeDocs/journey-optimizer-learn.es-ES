@@ -6,9 +6,9 @@ role: User
 hide: true
 index: false
 exl-id: de51792e-2cac-410f-b32e-7d443721ff81
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '1979'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -49,27 +49,27 @@ Los desgloses afectan tanto al coste de pasivo como al de recompensa. Cuando la 
 
 ### Costo por punto (CPP)
 
-Coste por punto determina el coste marginal para la empresa cuando se canjea un punto. Este coste depende en gran medida del catálogo de premios. El reembolso es caro. Los productos patentados con márgenes elevados son más baratos. Las experiencias pueden ser muy rentables si su valor percibido supera el coste de envío real. CPP influye en todo, desde la responsabilidad hasta la estrategia de promoción para recompensar la gestión del catálogo.
+Coste por punto determina el coste marginal para la empresa cuando se canjea un punto. Este coste depende en gran medida del catálogo de premios. El reembolso es caro. Proprietary goods with high margins are cheaper. Experiences can be highly cost-effective if their perceived value exceeds actual delivery cost. CPP influences everything from liability to promotion strategy to reward catalog curation.
 
-### Ingresos incrementales (el corazón del ROI de la lealtad)
+### Incremental Revenue (The Heart of Loyalty ROI)
 
-La incrementalidad es la porción de ingresos que no se habrían producido sin el programa de fidelización. Muchos programas de fidelización sobreestiman la incrementalidad suponiendo que todas las amortizaciones sean incrementales. En realidad, solo una parte del comportamiento de compra es atribuible a la lealtad. La incrementalidad verdadera se mide a través de experimentos controlados, comparaciones de cohortes y modelos predictivos. Sin un análisis de incrementalidad, los equipos de fidelidad pueden creer que su programa es rentable cuando, de hecho, las recompensas simplemente incentivan un comportamiento que habría ocurrido de todos modos.
+Incrementality is the portion of revenue that would not have occurred without the loyalty program. Many loyalty programs overestimate incrementality by assuming all redemptions are incremental. In reality, only a portion of purchase behavior is attributable to loyalty. True incrementality is measured through controlled experiments, cohort comparisons, and predictive modeling. Without incrementality analysis, loyalty teams may believe their program is profitable when, in fact, rewards simply incentivize behavior that would have happened anyway.
 
-### Economía de nivel (coste frente a alza)
+### Tier Economics (Cost vs. Uplift)
 
-Los sistemas de nivel (Silver, Gold, Platinum, Elite) crean poderosos motores psicológicos. Pero los niveles también son centros de costos: las ventajas de envío, el servicio prioritario, los eventos de acceso anticipado y las ofertas exclusivas tienen peso económico. La economía de nivel requiere modelar cuánto aumento financiero genera un nivel en relación con el costo de los beneficios. Si un nivel aumenta la frecuencia pero destruye el margen debido a los costosos beneficios, se convierte en un pasivo financiero disfrazado de éxito de lealtad. Un modelado de niveles adecuado lo impide.
+Tier systems—Silver, Gold, Platinum, Elite—create powerful psychological drivers. But tiers are also cost centers: shipping perks, priority service, early access events, and exclusive offers all carry economic weight. Tier economics require modeling how much financial uplift a tier generates relative to the cost of benefits. If a tier increases frequency but destroys margin due to costly benefits, it becomes a financial liability disguised as loyalty success. Proper tier modeling prevents this.
 
-Juntos, estos cinco componentes crean la columna vertebral económica de un programa de lealtad.
+Together, these five components create the economic spine of a loyalty program.
 
-## &#x200B;3. Modelar Ganancia y Quemadura: El Motor Económico de la Lealtad
+## 3. Modeling Earn and Burn: The Economic Engine of Loyalty
 
-En el corazón de la economía de la lealtad se encuentra el motor de ganar y quemar, es decir, cómo los clientes acumulan (ganan) y canjean (queman) puntos o recompensas con el tiempo. La interacción entre estas dos dinámicas determina la responsabilidad, el coste, la participación y la formación de hábitos.
+At the heart of loyalty economics lies the earn-and-burn engine—how customers accumulate (earn) and redeem (burn) points or rewards over time. The interplay between these two dynamics determines liability, cost, engagement, and habit formation.
 
-### Modelado del motor de obtención
+### Modeling the Earn Engine
 
-El motor de ganancias determina cuántos puntos o créditos entran en circulación. El volumen de ganancias depende de varios factores: tasa de ganancias base, multiplicadores promocionales, multiplicadores basados en desafíos, ganancias financiadas por socios y aumentos basados en niveles. Las previsiones de modelo robusto ganan volumen en el nivel de segmento, cohorte o nivel. El volumen de ganancias no es lineal; los picos estacionales, los ciclos de lanzamiento y las campañas promocionales crean patrones asimétricos que deben modelarse por separado para evitar una subestimación o sobreestimación de la responsabilidad.
+The earn engine determines how many points or credits enter circulation. Earn volume is driven by several factors: base earn rate, promotional multipliers, challenge-based multipliers, partner-funded earn, and tier-based boosts. A robust model forecasts earn volume at the segment, cohort, or tier level. Earn volume is not linear; seasonal spikes, launch cycles, and promotional campaigns create asymmetric patterns that must be modeled separately to avoid under- or over-estimating liability.
 
-### Modelado del motor de grabación
+### Modeling the Burn Engine
 
 El motor de combustión pronostica el comportamiento de canje. Las curvas de combustión a menudo se asemejan a patrones invertidos en forma de S: redención temprana mínima, seguida de redención acelerada a medida que los usuarios alcanzan los umbrales de recompensa, seguida de periodos de desaceleración. Modelo de canje de marcas de alto rendimiento mediante análisis de cohorte. En lugar de asumir una única probabilidad de rescate, analizan la probabilidad de cada cohorte a lo largo del tiempo. Esto les permite prever las quemaduras con mayor precisión y anticipar cuándo se producirán picos de responsabilidad.
 
@@ -78,15 +78,15 @@ El motor de combustión pronostica el comportamiento de canje. Las curvas de com
 Un programa de lealtad ideal logra un equilibrio deliberado: la velocidad de ganancia motiva a los clientes a acumular valor, pero la velocidad de combustión garantiza que se den cuenta de ese valor con regularidad. Los programas con ingresos extremadamente altos y quemaduras extremadamente bajas son económicamente atractivos a corto plazo, pero dañan la confianza a largo plazo. Por el contrario, los programas con una velocidad de combustión extremadamente alta pueden abrumar los presupuestos de responsabilidad. El modelado es necesario para mantener la participación y la solidez financiera.
 
 
-## &#x200B;4. Previsión De Pasivos: Una Profunda Disciplina Financiera
+## &#x200B;4. Previsión de Pasivos: Una profunda disciplina financiera
 
 La responsabilidad es la contraparte económica del compromiso de lealtad. A medida que los clientes ganan y canjean puntos, la responsabilidad cambia en consecuencia. El modelado de responsabilidad moderno requiere tres niveles de análisis.
 
-### &#x200B;1. Previsión De Pasivos Basada En Cohortes
+### &#x200B;1. Previsión de responsabilidad basada en cohortes
 
 No todos los puntos se comportan del mismo modo. Los modelos de responsabilidad deben agrupar los puntos en cohortes en función del mes (o semana) en que se emitieron, el segmento de cliente al que pertenecen y la distribución esperada del tiempo de grabación. Esta estructura basada en cohortes permite a los equipos financieros predecir el impacto del flujo de efectivo, recompensar los requisitos de stock y los plazos de reconocimiento de ingresos.
 
-### &#x200B;2. Modelado de canje basado en la probabilidad
+### &#x200B;2. Modelado de canje basado en probabilidades
 
 Las probabilidades de canje difieren considerablemente según el segmento. Los clientes de alto valor canjean con frecuencia, mientras que los de bajo valor suelen acumular puntos hasta la caducidad. Los modelos predictivos estiman la probabilidad de amortización en intervalos de tiempo definidos. Estas probabilidades se incorporan directamente en la previsión de pasivos y el modelado de riesgos.
 
@@ -97,7 +97,7 @@ Los programas sensibles a las responsabilidades deben producir escenarios en el 
 Cuando los líderes fieles pueden presentar el análisis de responsabilidad con este nivel de rigor, transforma las percepciones en el nivel ejecutivo. El programa pasa de ser visto como un centro de costos a ser entendido como un activo financiero gestionado.
 
 
-## &#x200B;5. Modelar la economía de nivel: las matemáticas del estatus
+## &#x200B;5. Modelando la economía de nivel: las matemáticas del estatus
 
 Los niveles (plata, oro, platino) suelen ser el núcleo emocional y psicológico de un programa de lealtad. Sin embargo, los beneficios de los niveles pueden ser extremadamente caros si no se modelan cuidadosamente.
 
@@ -131,7 +131,7 @@ La IA está remodelando profundamente la economía de la lealtad. El modelado de
 
 La IA reduce el desperdicio económico, mejora el margen de contribución y permite que los programas de fidelidad funcionen como sistemas financieros sofisticados y automatizados.
 
-## &#x200B;9. Guía financiera de este trimestre
+## &#x200B;9. El libro de estrategias financieras de este trimestre
 
 Los líderes leales deberían comenzar con un reinicio financiero. En primer lugar, cree un modelo integral de responsabilidad y rotura. Segundo, ejecute previsiones de ganancias y quemaduras en el nivel de segmento. En tercer lugar, evaluar la economía de nivel e identificar los beneficios negativos en términos de costos. En cuarto lugar, ejecute experimentos controlados para cuantificar los ingresos incrementales. Por último, alinearse con las finanzas en las métricas compartidas, la cadencia de gobernanza y la planificación de escenarios.
 

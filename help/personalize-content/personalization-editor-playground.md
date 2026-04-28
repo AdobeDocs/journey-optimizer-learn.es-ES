@@ -12,9 +12,9 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -25,4 +25,4 @@ El [Patio del editor de personalización](https://experienceleague.adobe.com/es/
 
 Aprenda a utilizar muestras de código predefinidas, editar cargas útiles de perfil ficticio y previsualizar la salida del código de personalización en tiempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475955/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

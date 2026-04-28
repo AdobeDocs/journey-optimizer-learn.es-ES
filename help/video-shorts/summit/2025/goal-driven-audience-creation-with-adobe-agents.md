@@ -8,9 +8,9 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 591d06fb-4537-4103-bc35-670564f9465e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra cómo Audience Agent de Adobe utiliza la IA para crear audiencias precisas y orientadas a objetivos aprovechando los datos en tiempo real y los modelos de aprendizaje automático.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3460300/?captions=spa&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
