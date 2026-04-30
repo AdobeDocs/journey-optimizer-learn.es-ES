@@ -1,6 +1,6 @@
 ---
 title: Crear un correo electrónico de confirmación del pedido
-description: Pruebe su conocimiento sobre cómo crear y personalizar mensajes transaccionales.
+description: Pruebe sus conocimientos sobre la creación y personalización de mensajes transaccionales.
 jira: KT-7531
 feature: Journeys
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '688'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 98%
 | Reto | Crear un correo electrónico transaccional de confirmación de pedido |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=es& lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=es)</li></ul> |
+| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=es)</li></ul> |
 | Recursos que se van a descargar | [Recursos de confirmación de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 {style="table-layout:auto"}
@@ -71,7 +71,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
   <td>
   <div>
     <strong>Sección de confirmación de pedido
- </strong>
+    </strong>
   </td>
   <td>
     <p>
@@ -80,7 +80,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
    <div>
     <p>
      <em>Se ha hecho el pedido.
-    <p>Cuando el paquete se envíe, le mandaremos un correo electrónico con un número de seguimiento para que pueda hacer un seguimiento del pedido.</p></em>
+    <p>Cuando el paquete se envíe, le mandaremos un correo electrónico con el número de seguimiento para que pueda hacer el seguimiento del pedido.</p></em>
     </strong>
     </tr>
   </td>
@@ -95,7 +95,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
       <li> Quitar el <i>descuento, el total, la llegada</i></p>
   </td>
   <td>
-  <p> Enviar a:</p>
+  <p>Enviar a:</p>
       <em>{firstName} {lastName}<br>
      {Street 1}<br>
      {City}, {State} {postalCode}<br></em></p>
@@ -103,9 +103,9 @@ El correo electrónico debe estructurarse de la siguiente manera:
  <tr>
 <td>
   <div>
-     <strong>Sección de Detalles del pedido</strong>
+     <strong>Sección detalles del pedido</strong>
       </div>
-       <p><li>Agregue esta sección debajo de <b>Enviar a</b> para obtener más información.
+       <p><li>Añada esta sección debajo de <b>Enviar a</b>.
       </p><br>
       <p><b>Sugerencias:</b>
       <li>Uso del componente de estructura <b>1:2 columna izquierda</b> para esta sección
@@ -122,10 +122,10 @@ El correo electrónico debe estructurarse de la siguiente manera:
   </strong>
   <p>Enumere cada producto en el orden con una imagen, el precio y el nombre.
   <p>El diseño de cada elemento debería tener este aspecto:
- <img alt="pedido" src="./assets/c2-order.png"> 
-<p><b>Agregar el vínculo al carro de compras</b>
-<p>Sustituya el ID de pedido de la dirección URL por el número de orden de compra:
- <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
+   <img alt="pedido" src="./assets/c2-order.png"> 
+<p><b>Añadir el vínculo al carro de compras</b>
+<p>Sustituya el ID de pedido de la dirección URL por el número del pedido de compra:
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>

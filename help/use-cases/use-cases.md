@@ -7,8 +7,8 @@ level: Beginner, Intermediate, Experienced
 doc-type: Overview
 last-substantial-update: 2025-08-28T00:00:00Z
 source-git-commit: 1c8bcba7b46b6fc88ba93b2bad7ca3ed5f621e86
-workflow-type: tm+mt
-source-wordcount: '594'
+workflow-type: ht
+source-wordcount: '895'
 ht-degree: 100%
 
 ---
@@ -20,13 +20,13 @@ Explore escenarios de marketing reales con tecnología de Adobe Journey Optimize
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
-* https://experienceleague.adobe.com/es/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
-* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
+* https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -35,7 +35,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Caso de uso: incorporación del cliente (tutorial)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440653/?captions=spa&format=jpeg&nocache=1770161593376" alt="Caso de uso: incorporación del cliente (tutorial)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1770161593376" alt="Caso de uso: incorporación del cliente (tutorial)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,7 +45,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="Caso de uso: incorporación del cliente (tutorial)">Caso de uso: incorporación del cliente (tutorial)</a>
                     </p>
-                    <p class="is-size-6">Obtenga información sobre cómo implementar un recorrido de incorporación de clientes en Adobe Journey Optimizer (AJO).El proceso se dirige a los nuevos miembros del programa de fidelización, enviándoles correos electrónicos y SMS personalizados para animarles a descargar la aplicación.Incluye enviar un correo electrónico de bienvenida, comprobar la instalación de la aplicación y realizar un seguimiento con recordatorios.Este tutorial también muestra cómo utilizar el asistente de contenido de IA para crear y personalizar contenido.</p>
+                    <p class="is-size-6">Obtenga información sobre cómo implementar un recorrido de incorporación de clientes en Adobe Journey Optimizer (AJO). El proceso se dirige a los nuevos miembros del programa de fidelización, enviándoles correos electrónicos y SMS personalizados para animarles a descargar la aplicación. Incluye enviar un correo electrónico de bienvenida, comprobar la instalación de la aplicación y realizar un seguimiento con recordatorios. Este tutorial también muestra cómo utilizar el asistente de contenido de IA para crear y personalizar contenido.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
@@ -58,7 +58,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="Manual de tácticas de casos de uso: carro de compras abandonado" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443967/?captions=spa&format=jpeg&nocache=1770161593189" alt="Manual de tácticas de casos de uso: carro de compras abandonado"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1770161593189" alt="Manual de tácticas de casos de uso: carro de compras abandonado"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="Ejemplos de renovación de participación inteligente de Luma" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454268/?captions=spa&format=jpeg&nocache=1770161592925" alt="Ejemplos de renovación de participación inteligente de Luma"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1770161592925" alt="Ejemplos de renovación de participación inteligente de Luma"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,7 +104,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" title="Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -183,7 +183,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction" target="_blank" rel="referrer" title="Escalar la orquestación a la participación omnicanal en Adobe Journey Optimizer: introducción">Escalar la orquestación a la participación omnicanal en Adobe Journey Optimizer: introducción</a>
                     </p>
-                    <p class="is-size-6">En este laboratorio, aprenderá a transformar las comunicaciones empresariales, desde la mensajería saliente básica hasta sofisticadas experiencias omnicanal. Mediante ejemplos prácticos, puede crear un recorrido del cliente que combine un alcance proactivo con una participación adaptable. </p>
+                    <p class="is-size-6">En este laboratorio, aprenderá a transformar las comunicaciones empresariales, desde la mensajería saliente básica hasta sofisticadas experiencias omnicanal. Mediante ejemplos prácticos, puede crear un recorrido del cliente que combine un alcance proactivo con una participación adaptable.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>

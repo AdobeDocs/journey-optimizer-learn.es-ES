@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: ht
-source-wordcount: '1108'
+source-wordcount: '1154'
 ht-degree: 100%
 
 ---
@@ -59,7 +59,7 @@ En el generador de segmentos, puede ver el número estimado de perfiles cualific
 
 Puede comprobar que los perfiles que se han agregado al segmento cumplen los requisitos navegando a uno de los perfiles enumerados en la vista de detalles del segmento.
 
- En la página de perfil, marque la pestaña [!UICONTROL Atributos] para confirmar que cumplen los requisitos: el nivel debe ser plata, oro, platino o diamante.
+En la página de perfil, marque la pestaña [!UICONTROL Atributos] para confirmar que cumplen los requisitos: el nivel debe ser plata, oro, platino o diamante.
 
 ![Atributos de perfil](assets/C1-S1-profile-attributes.png)
 
@@ -108,7 +108,7 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
       * Línea de asunto *(nombre del destinatario), la nueva colección de verano de Luma está aquí.*
       * Utilice el archivo de HTML proporcionado `SeasonalCollectionEmail.html` para el cuerpo del correo electrónico.
    1. Espere dos días y envíe un correo electrónico de seguimiento con contenido de destino más específico:
-      * Los clientes masculinos deben recibir el correo electrónico **Colección para hombre de Luma** 
+      * Los clientes masculinos deben recibir el correo electrónico **Colección para hombre de Luma**
          * Título del mensaje: *Colección para hombre de Luma*
          * Línea de asunto: *(nombre del destinatario), Explore los nuevos equipos atléticos para hombres.*
          * Cuerpo del correo electrónico: `MensCollectionEmail.html` para el cuerpo del correo electrónico.
@@ -151,7 +151,7 @@ Envíese una prueba a usted mismo:
 3. Envíese una prueba a usted mismo.
 
 Resultado:\
-Debe recibir un correo electrónico. La línea de asunto debe decir *Stanleigh, explore los nuevos equipos atléticos para hombre.* y el cuerpo del correo electrónico debe coincidir con lo que se ha visto en la vista previa.
+Debe recibir un correo electrónico. La línea de asunto debe decir *Stanleigh, explore la nueva ropa deportiva para hombre* y el cuerpo del correo electrónico debe coincidir con lo que ha visto en la vista previa.
 
 >[!NOTE]
 >Puede tardar un par de minutos en recibir la prueba.
@@ -174,7 +174,7 @@ Vista previa del correo electrónico con el perfil de prueba *Louise Petti.*
 >
 >Antes de configurar el recorrido en modo de prueba:
 >
->1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el área de nombres establecida en **ID de Luma CRM (lumaCrmId)**
+>1. Asegúrese de que la variable [!UICONTROL Leer Actividad de segmentos] tiene el espacio de nombres establecida en **ID de Luma CRM (lumaCrmId)**
 >1. Para cada correo electrónico, anule los parámetros predeterminados para los correos electrónicos, de modo que se envíen a su dirección:
 >    * Muestre los valores ocultos haciendo clic en el símbolo de ojo.
 >    * En los parámetros de correo electrónico, haga clic en el símbolo T (habilitar anulación de parámetros).
@@ -201,7 +201,7 @@ Pruebe el recorrido y envíe los correos electrónicos a su propia cuenta:
 1. Cuando abre el segundo correo electrónico, el recorrido tendría que finalizar.
 1. Puede repetir el paso 4. - 7. para que los tres perfiles comprueben si las ramas funcionan correctamente.
 1. Para probar los tiempos de espera, establezca el tiempo de espera en 30 segundos y active la entrada.
-1. No abra los correos electrónicos que reciba (no previsualice el correo electrónico) y deje que transcurra el tiempo de espera.
+1. No abra los correos electrónicos que reciba (no previsualice el correo electrónico [!]) y deje que transcurra el tiempo de espera.
 
 Tiene que recibir los siguientes correos electrónicos:
 

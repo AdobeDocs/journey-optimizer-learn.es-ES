@@ -1,14 +1,14 @@
 ---
 title: 'Retos de Journey Optimizer: introducción y requisitos previos'
-description: Los retos ofrecen un escenario y los requisitos necesarios para practicar lo que ha aprendido. Cada reto de esta sección aborda un caso de uso único que usted implementa.
+description: Los retos ofrecen un escenario y los requisitos necesarios para practicar lo que ha aprendido. Cada reto de esta sección aborda un caso práctico único que usted implementa.
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
-source-wordcount: '411'
+workflow-type: ht
+source-wordcount: '547'
 ht-degree: 100%
 
 ---
@@ -76,13 +76,13 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
     <td>
     <div>
     <a>
-      <img alt="¡Le damos la bienvenida!" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+      <img alt="Le damos la bienvenida." src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
       <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">Crear un correo electrónico de bienvenida de estado de fidelidad </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Crear un correo electrónico de bienvenida del estado de lealtad </strong>
     </a>
     </div>
     <p>
@@ -103,11 +103,11 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong><a href="order-confirmation-challenge.md">Cree una confirmación de pedido</strong>
+    <strong><a href="order-confirmation-challenge.md">Crear una confirmación de pedido</strong>
     </a>
     <div>
     <p>
-    <em>Pruebe sus conocimientos sobre la creación y personalización de mensajes transaccionales
+    <em>Poner a prueba sus conocimientos sobre la creación y la personalización de mensajes transaccionales
     </em>
     <p>
     <b>Competencias requeridas:</b>

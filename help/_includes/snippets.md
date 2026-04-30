@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: ht
-source-wordcount: '178'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ Experience League LIVE:
 
 >[!AVAILABILITY]
 >
->Actualmente, esta función está en versión beta y solo se encuentra disponible para los clientes de dicha versión. Para unirse al programa beta, póngase en contacto con el Servicio de atención al cliente de Adobe.
+>Actualmente, esta función está en versión Beta y solo se encuentra disponible para los clientes de dicha versión. Para unirse al programa beta, póngase en contacto con el Servicio de atención al cliente de Adobe.
 
 ## Vídeo de plataforma: políticas (#platform-video)
 

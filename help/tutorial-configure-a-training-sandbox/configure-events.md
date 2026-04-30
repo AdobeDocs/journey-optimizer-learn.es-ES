@@ -9,8 +9,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '162'
+workflow-type: ht
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ En esta sección, configure los tres eventos necesarios para los ejercicios prá
 
 En el siguiente vídeo se explica cómo crear eventos:
 
->[!VIDEO](https://video.tv.adobe.com/v/3431518?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## Creación del evento de compra en línea de Luma
 
@@ -48,7 +48,7 @@ Al utilizar este evento, Journey Optimizer recibe información cuando una person
 
    ![Añadir condición de evento](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. Seleccione [!UICONTROL ÁREA DE NOMBRES]: `Luma CRM ID (lumaCrmId)`
+1. Seleccione [!UICONTROL ESPACIO DE NOMBRES]: `Luma CRM ID (lumaCrmId)`
 
 1. Seleccione **[!UICONTROL Guardar]**.
 
