@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Aprenda a utilizar la toma de decisiones de AJO para personalizar y optimizar el contenido de los SMS. Mejore sus mensajes SMS para aumentar la participación y cumplir los objetivos empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479532/?captions=spa&learn=on&enablevpops)
