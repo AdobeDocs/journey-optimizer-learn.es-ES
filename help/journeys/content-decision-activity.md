@@ -14,13 +14,13 @@ exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Actividad de decisión de contenido en el lienzo de recorrido
+# Actividad de decisión de contenido en el lienzo del recorrido
 
 Descubra cómo la actividad de decisión de contenido en el lienzo de Recorrido permite a los usuarios aprovechar Adobe Journey Optimizer Decisioning para ofrecer contenido personalizado. Utilice esta función para dirigir perfiles basados en ofertas recuperadas o enviar ofertas a sistemas externos, lo que mejora la eficacia y personalización de su recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479110/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

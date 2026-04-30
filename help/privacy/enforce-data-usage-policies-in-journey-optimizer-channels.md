@@ -15,7 +15,7 @@ exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 87%
 
 Descubra cómo se aplican las políticas de uso de datos en los canales de Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434908/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
 Consulte la documentación del producto para obtener más información sobre la [gobernanza de datos](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/action-privacy-restricted) y cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.
