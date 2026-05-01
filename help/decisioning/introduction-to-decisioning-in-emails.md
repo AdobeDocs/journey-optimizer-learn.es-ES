@@ -24,4 +24,4 @@ El proceso implica crear una colección de ofertas, asignar reglas de elegibilid
 
 Esta potente herramienta mejora la participación del cliente y genera resultados empresariales impactantes. Vea el vídeo incrustado para obtener una guía detallada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486204/?captions=spa&learn=on&enablevpops)
