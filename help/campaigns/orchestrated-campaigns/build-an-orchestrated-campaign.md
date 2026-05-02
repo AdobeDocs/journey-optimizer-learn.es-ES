@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a diseñar y ejecutar campañas orquestadas en Adobe Journey Optimizer mediante la creación de flujos de trabajo que combinen audiencias, manipulación de datos y entrega multicanal. Este vídeo explica la programación de campañas, la creación de audiencias a partir de datos relacionales, el enriquecimiento y la deduplicación y el uso de varios flujos para admitir casos de uso avanzados como seguimientos del carro de compras abandonado, prevención de pérdida y notificaciones de regreso en stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484968/?captions=spa&learn=on&enablevpops)
