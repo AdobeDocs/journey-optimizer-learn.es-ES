@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ Una agencia le proporcionó cuatro archivos HTML con el diseño de los correos e
          * Línea de asunto: *(nombre del destinatario), explore la colección para mujer de Luma.*
          * Cuerpo del correo electrónico: `WomensCollectionEmail.html`
       * Otros clientes deben recibir el correo electrónico **20 % de descuento en la colección de Luma**.
-      * Título del mensaje: *20 % de descuento en la colección de Luma*
-      * Línea de asunto: *(nombre del destinatario), disfrute de un 20 % de descuento en su compra.*
-      * Cuerpo del correo electrónico: `20OOffCollectionEmail.html`
+         * Título del mensaje: *20 % de descuento en la colección de Luma*
+         * Línea de asunto: *(nombre del destinatario), disfrute de un 20 % de descuento en su compra.*
+         * Cuerpo del correo electrónico: `20OOffCollectionEmail.html`
    1. Después de enviar los correos electrónicos de destino anteriores, espere dos días a que se abran.
    1. Si el correo electrónico de destino no se abre en un plazo de 2 días, envíe el **Correo electrónico de 20 % de descuento en la colección de Luma** como un intento final de resegmentación.
 
