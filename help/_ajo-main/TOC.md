@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
+source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 95%
+source-wordcount: '1448'
+ht-degree: 93%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 95%
       + [Creación de una campaña organizada](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Recorridos {#journeys}
    + [Diseñador de recorridos: información general](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent: información general](/help/ai-agents/journey-agent-overview.md)
+   + [Analizar y crear Recorridos con Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Descubra el nuevo Diseñador de recorridos](/help/journeys/new-journey-designer.md)
    + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
    + [Uso de la búsqueda en el conjunto de datos de un recorrido](/help/journeys/lookup-dataset.md)
@@ -244,7 +244,7 @@ ht-degree: 95%
 + Asistentes y agentes de IA {#ai-assistant}
    + [Asistente de IA](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Asistente de IA para la generación de contenido](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analizar y crear Recorridos con Journey Agent](/help/ai-agents/journey-agent-overview.md)
+   + [Analizar y crear Recorridos con Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent: información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casos de uso y prácticas recomendadas{#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
