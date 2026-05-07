@@ -6,10 +6,10 @@ level: Beginner,Intermediate
 breadcrumb-title: Centro de aprendizaje móvil de AJO
 breadcrumb-url: /docs/journey-optimizer-learn/mobile-learning-hub/overview
 auto-video-transcripts: true
-source-git-commit: 1c44d2997df09292a21e4b6a0cbff8901d4f1a08
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 17%
+source-wordcount: '42'
+ht-degree: 30%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 17%
 + [Configuración e inicio](/help/mobile-learning-hub/configure-and-launch.md)
 + [Diseño y entrega](/help/mobile-learning-hub/design-and-deliver.md)
 + [Medir y optimizar](/help/mobile-learning-hub/measure-and-optimize.md)
-+ [Casos de uso](/help/mobile-learning-hub/use-cases.md)
++ {hide-from-toc}[Casos de uso](/help/mobile-learning-hub/use-cases.md)
 
 

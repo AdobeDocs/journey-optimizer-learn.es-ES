@@ -9,9 +9,8 @@ duration: 209
 last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
-hidefromtoc: false
 exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
@@ -28,6 +27,6 @@ Obtenga información sobre la creación y administración de las políticas de u
 >
 >Vea este [tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) para obtener información sobre cómo se aplican las políticas en los canales de Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/37128/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
 Consulte la documentación del producto para obtener más información sobre cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.

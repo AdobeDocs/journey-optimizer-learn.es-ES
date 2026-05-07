@@ -8,11 +8,10 @@ doc-type: Feature Video
 duration: 598
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18657
-hidefromtoc: true
 exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
-source-git-commit: e0aee000736f2e1d2ac290c4e24b2e0de95753a0
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -30,4 +29,4 @@ En este tutorial, descubrirá cómo hacer lo siguiente:
 
 Perfecto para los especialistas en marketing que buscan expandir su alcance y participación a través de una de las plataformas de mensajería más populares del mundo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470247/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
