@@ -1,23 +1,22 @@
 ---
-title: New Channels and Integrations in Adobe Journey Optimizer
-description: Explore the latest channel innovations and integrations in Adobe Journey Optimizer, including WhatsApp, iOS Live Activities, and RCS messaging, to enhance customer engagement.
+title: Nuevos canales e integraciones en Adobe Journey Optimizer
+description: Explore las últimas innovaciones e integraciones de canal en Adobe Journey Optimizer, incluidas WhatsApp, iOS Live Activities y la mensajería RCS, para mejorar la participación de los clientes.
 doc-type: Short Video
 duration: 208
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: c14e8b09-b6d5-41e9-8fb3-cd7b55692687
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# New Channels and Integrations in Adobe Journey Optimizer
+# Nuevos canales e integraciones en Adobe Journey Optimizer
 
-Explore the latest channel innovations and integrations in Adobe Journey Optimizer, including WhatsApp, iOS Live Activities, and RCS messaging, to enhance customer engagement.
+Explore las últimas innovaciones e integraciones de canal en Adobe Journey Optimizer, incluidas WhatsApp, iOS Live Activities y la mensajería RCS, para mejorar la participación de los clientes.
 
 <!-- 62_S520_3442520_207_new-channels-and-integrations-in-adobe-journey-optimizer -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460345/?captions=spa&learn=on&enablevpops=true)
