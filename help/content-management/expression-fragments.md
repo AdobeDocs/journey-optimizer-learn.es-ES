@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a crear y utilizar fragmentos de expresión.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438920/?captions=spa&learn=on)

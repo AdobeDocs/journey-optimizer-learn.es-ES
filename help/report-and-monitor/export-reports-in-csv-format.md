@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo descargar un informe CSV para un informe y para un widget único.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439610/?captions=spa&learn=on)

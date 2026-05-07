@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a administrar perfiles y permisos de productos, y a añadir y administrar usuarios.
 
->[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416279?captions=spa&quality=12&learn=on){transcript=true}
