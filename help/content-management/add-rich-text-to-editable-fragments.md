@@ -7,12 +7,24 @@ role: User, Developer
 level: Intermediate, Experienced
 doc-type: Feature Video
 duration: 333
-last-substantial-update: 2025-06-24T00:00:00Z
+last-substantial-update: '2025-06-24T00:00:00.000Z'
 jira: KT-18432
 exl-id: 83bbfccd-dc86-422a-8412-9135973084ad
-source-git-commit: 34337e2d18a9ed1f84ef53e8b91780f14a4e2e11
-workflow-type: ht
-source-wordcount: '121'
+autotag-review: '2026-05-14T18:08:05.405Z'
+TQID: 'https://experienceleague.adobe.com/dtPzq8ncGMnYP1f9vFSUauliIdnKS4qmUEqQZQTIO9A'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
+workflow-type: tm+mt
+source-wordcount: 134
 ht-degree: 100%
 
 ---
@@ -22,6 +34,6 @@ ht-degree: 100%
 
 Descubra cómo hacer que los componentes HTML dentro de un fragmento se puedan editar, lo que permite actualizaciones dinámicas tanto del contenido como del estilo. Descubra cómo estructurar el HTML, configurar campos editables en línea y conectarlos al contenido predeterminado y a CSS; y a continuación, probar y validar los cambios en un entorno de campaña en directo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464371/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3464371/?captions=spa&learn=on&enablevpops)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} para obtener más información sobre esta función.
