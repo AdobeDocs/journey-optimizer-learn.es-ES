@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Explore cómo se configuran las ofertas, las colecciones y las reglas de elegibilidad en Adobe Journey Optimizer Decisioning para controlar qué clientes cumplen los requisitos para cada oferta de producto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491093/?captions=spa&learn=on&enablevpops)

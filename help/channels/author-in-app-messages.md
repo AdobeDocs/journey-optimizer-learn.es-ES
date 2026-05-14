@@ -32,7 +32,7 @@ ht-degree: 100%
 
 Obtenga información acerca de cómo crear y probar un mensaje en la aplicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422076?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Recursos adicionales
 

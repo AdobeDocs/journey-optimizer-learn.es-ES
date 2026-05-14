@@ -36,4 +36,4 @@ ht-degree: 0%
 
 Explore la experiencia integral del cliente en el sitio de demostración de SecurFinancial, desde visitantes anónimos hasta usuarios registrados con una oferta de producto personalizada, a través de una aplicación de préstamo que déclencheur un SMS en tiempo real, todo ello organizado por Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3489999/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490184/?captions=spa&learn=on&enablevpops)
