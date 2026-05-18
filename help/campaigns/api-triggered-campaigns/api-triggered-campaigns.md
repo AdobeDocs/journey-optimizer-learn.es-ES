@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear una campaña y activarla desde un sistema externo basado en las interacciones del usuario, utilizando la [API de REST de ejecución de mensaje interactivo](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452728/?captions=spa&learn=on)
