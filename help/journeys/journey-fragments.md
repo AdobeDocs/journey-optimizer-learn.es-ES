@@ -18,7 +18,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 84eae8147c58bd7ccb4a61cbdfcf7eaf336d114e
+source-git-commit: 3defd5900b460509d7dd859aab09d32778db5551
 workflow-type: tm+mt
 source-wordcount: 84
 ht-degree: 0%
@@ -31,3 +31,4 @@ ht-degree: 0%
 Aprenda a crear fragmentos de recorrido reutilizables en Adobe Journey Optimizer. Esta función permite a los usuarios guardar un conjunto de nodos de recorrido como fragmentos, lo que permite reutilizarlos rápidamente en otros recorridos. El uso de fragmentos ahorra tiempo, optimiza los flujos de trabajo y garantiza la coherencia en varios recorridos. Vea el vídeo incrustado para obtener una guía detallada y ejemplos prácticos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491390/?captions=spa&learn=on&enablevpops)
+
