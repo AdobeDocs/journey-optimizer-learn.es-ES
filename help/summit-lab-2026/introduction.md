@@ -35,6 +35,6 @@ Presentado originalmente en Adobe Summit 2026 como Lab L610, este tutorial le gu
 
 En el transcurso de cinco ejercicios, aprenderá a construir un sistema de toma de decisiones para SecurFinancial mediante Adobe Journey Optimizer. Puede configurar una lógica que identifique la oferta de producto más adecuada por cliente en función de su perfil financiero y acciones en tiempo real, y luego implementarla de forma coherente mediante un banner web y SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3489058/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3489061/?captions=spa&learn=on&enablevpops)
 
 Vea el libro [aquí](https://adobelabs.dev/developers/l610/).
