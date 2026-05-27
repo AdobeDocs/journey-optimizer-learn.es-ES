@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ El elemento de datos ECID en las etiquetas de Experience Platform se crea única
 
 Cree y publique las etiquetas de Adobe Experience Platform.
 
-Cuando se publica una propiedad Etiquetas de AEP, Adobe le proporciona una etiqueta de script que debe colocar en su HTML ``` <head>``` o en la parte inferior de las etiquetas ``` <body>```.
+Cuando se publica una propiedad Etiquetas de AEP, Adobe le proporciona una etiqueta de script que debe colocar en su HTML `<head>` o en la parte inferior de las etiquetas `<body>`.
 
 1. Vaya a la propiedad Etiquetas (servicio ECID).
 
@@ -52,4 +52,4 @@ Cuando se publica una propiedad Etiquetas de AEP, Adobe le proporciona una etiqu
 
 1. Observe el código incrustado.
 
-   Este código debe colocarse justo antes de la etiqueta de cierre ```</body>``` en la página de HTML.
+   Este código debe colocarse justo antes de la etiqueta de cierre `</body>` en la página de HTML.
