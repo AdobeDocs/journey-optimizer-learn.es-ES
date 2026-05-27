@@ -9,9 +9,9 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -20,20 +20,22 @@ ht-degree: 0%
 
 Las etiquetas de Adobe Experience Platform (anteriormente Adobe Launch) ayudan a administrar e implementar* tecnologías de marketing y análisis en su sitio web sin necesidad de cambiar el código del sitio.
 
-En este [vídeo se describe el proceso de creación de Adobe Experience Tags](https://experienceleague.adobe.com/es/playlists/experience-platform-get-started-with-tags)
+En este [vídeo se describe el proceso de creación de Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
-- Iniciar sesión en la recopilación de datos
-- Haz clic en _&#x200B;**Etiquetas -> Nueva propiedad**&#x200B;_
+* Iniciar sesión en la recopilación de datos
+* Haga clic en _**Etiquetas -> Nueva propiedad**
+* Cree una Adobe Experience Platform Tag llamada _**personalización según el tiempo**_.
+* Añada las siguientes extensiones a la etiqueta
 
-- Cree una Adobe Experience Platform Tag llamada _&#x200B;**personalización según el tiempo**&#x200B;_.
+![etiquetas-extensiones](assets/tags-extensions1.png)
 
-- Añada las siguientes extensiones a la etiqueta
-  ![etiquetas-extensiones](assets/tags-extensions1.png)
-- Agregue un elemento de datos llamado &quot;ECID&quot; como se muestra a continuación. Este elemento de datos se utiliza más adelante en los informes
-  ![ecid-data-element](assets/ecid-data-element.png)
+* Agregue un elemento de datos llamado &quot;ECID&quot; como se muestra a continuación. Este elemento de datos se utiliza más adelante en los informes
 
-- Asegúrese de configurar Adobe Experience Platform Web SDK para que utilice el entorno correcto y la **secuencia de datos relacionada con el tiempo** creada en el paso anterior.
-  ![web-sdk-configuration](assets/tags-extensions.png)
+![ecid-data-element](assets/ecid-data-element.png)
+
+* Asegúrese de configurar Adobe Experience Platform Web SDK para que utilice el entorno correcto y la **secuencia de datos relacionada con el tiempo** creada en el paso anterior.
+
+![web-sdk-configuration](assets/tags-extensions.png)
 
 
 
@@ -57,10 +59,8 @@ A continuación, haga clic en el botón Guardar y crear en desarrollo para crear
 
 ## Incluir etiquetas de AEP en la página de HTML
 
-Cuando publica una propiedad de etiquetas de AEP, Adobe le proporciona una etiqueta de script que debe colocar dentro de su HTML ``` <head>``` o en la parte inferior de las etiquetas ``` <body>```.
+Cuando publica una propiedad de etiquetas de AEP, Adobe le proporciona una etiqueta de script que debe colocar dentro de su HTML ` <head>` o en la parte inferior de las etiquetas ` <body>`.
 
-- Vaya a la propiedad Etiquetas (personalización según el tiempo).
-
-- Haga clic en Entornos y en el icono de instalación del entorno que desee (por ejemplo, Desarrollo, Ensayo, Producción).
-
-- Anote el código incrustado. Se necesita en una etapa posterior de este tutorial.
+1. Vaya a la propiedad Etiquetas (personalización según el tiempo).
+2. Haga clic en Entornos y en el icono de instalación del entorno que desee (por ejemplo, Desarrollo, Ensayo, Producción).
+3. Anote el código incrustado. Se necesita en una etapa posterior de este tutorial.

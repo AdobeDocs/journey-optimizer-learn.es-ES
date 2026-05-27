@@ -9,10 +9,10 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Las etiquetas de Adobe Experience Platform (anteriormente Adobe Launch) ayudan a administrar e implementar* tecnologías de marketing y análisis en su sitio web sin necesidad de cambiar el código del sitio.
 
-En este [vídeo se describe el proceso de creación de Adobe Experience Tags](https://experienceleague.adobe.com/es/playlists/experience-platform-get-started-with-tags)
+En este [vídeo se describe el proceso de creación de Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Iniciar sesión en la recopilación de datos
 * Haga clic en Etiquetas -> Nueva propiedad
@@ -80,14 +80,17 @@ El Generador de reglas de Etiquetas de Adobe Experience Platform le permite defi
 
 
 * Cree una configuración de evento denominada Clase de recurso preferido seleccionada como se muestra a continuación. Este evento escucha eventos assetClassSelection.
-  ![evento de regla](assets/rule-event.png)
+
+![evento de regla](assets/rule-event.png)
 
 
 * Cree una acción para enviar el esquema XDM actualizado a AEP
-  ![send-event](assets/rule-send-event.png)
+
+![send-event](assets/rule-send-event.png)
 
 * La regla final debería ser la siguiente
-  ![regla final](assets/final-rule.png)
+
+![regla final](assets/final-rule.png)
 
 ## Creación e implementación de etiquetas de AEP
 
@@ -108,7 +111,7 @@ A continuación, haga clic en el botón Guardar y crear en desarrollo para crear
 
 ## Incluir etiquetas de AEP en la página de HTML
 
-Cuando publica una propiedad de etiquetas de AEP, Adobe le proporciona una etiqueta de script que debe colocar dentro de su HTML ``` <head>``` o en la parte inferior de las etiquetas ``` <body>```.
+Cuando publica una propiedad de etiquetas de AEP, Adobe le proporciona una etiqueta de script que debe colocar dentro de su HTML ` <head>` o en la parte inferior de las etiquetas `<body>`.
 
 * Vaya a su propiedad de Tags (asesores financieros).
 
