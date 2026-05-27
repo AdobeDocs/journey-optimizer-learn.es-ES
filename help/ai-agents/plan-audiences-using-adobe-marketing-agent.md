@@ -37,5 +37,5 @@ Vea el siguiente vídeo incrustado para ver una demostración en directo de Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
 
-Para obtener más información sobre cómo empezar a ver [Introducción a Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
-Para ver cómo los especialistas en marketing utilizan Adobe Marketing Agent for Microsoft 365 Copilot para planificar campañas, revisar el rendimiento y supervisar los recorridos en vuelo, vea [Flujos de trabajo de marketing con Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.
+Para obtener más información sobre cómo empezar a ver [Introducción a Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
+Para ver cómo los especialistas en marketing utilizan Adobe Marketing Agent for Microsoft 365 Copilot para planificar campañas, revisar el rendimiento y supervisar los recorridos en vuelo, vea [Flujos de trabajo de marketing con Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.
