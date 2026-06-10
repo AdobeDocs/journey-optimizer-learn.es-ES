@@ -31,5 +31,5 @@ En este vídeo se explica cómo dirigirse a los recorridos por ID de suscripció
 
 Para obtener más información acerca de esta característica, visite [la documentación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491838/?captions=spa&learn=on)
 
