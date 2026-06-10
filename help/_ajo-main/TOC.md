@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
    + [Actividad de decisión de contenido](/help/journeys/content-decision-activity.md)
    + [Dominio del filtrado de atributos múltiples](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [Use segmentación de varias entidades con audiencias federadas en recorrido](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [Validación de la lógica del recorrido con el ensayo de recorrido](/help/journeys/journey-dry-run.md)
    + [Desbloquear la reentrada de recorridos con ID suplementarios](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Actualización de contenido en un recorrido activo](/help/journeys/update-content-in-live-journey.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [Creación de un público cargando un archivo CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creación de públicos mediante SDK web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [Evaluar públicos bajo demanda](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [Suscripciones y páginas de destino](/help/subscriptions-and-landing-pages.md)
+   + [Suscripciones y páginas de destino](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + Canales {#channels}
    + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
    + Canal de experiencia basada en código{#code-based-experience-channel}
@@ -245,7 +246,7 @@ ht-degree: 91%
 + Asistentes y agentes de IA {#ai-assistant}
    + [Asistente de IA](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Asistente de IA para la generación de contenido](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analizar y crear Recorridos con Journey Agent](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analizar y crear Recorridos con Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent: información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Planificar audiencias con Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Casos de uso y prácticas recomendadas{#use-cases}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [Escalar la orquestación a la participación omnicanal en Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sesiones en directo e inmersiones profundas {#live-sessions-and-deep-dives}
    + [Grabaciones en directo de Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
