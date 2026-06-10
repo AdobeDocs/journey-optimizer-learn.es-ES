@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
+source-git-commit: fe5ce1bd62e4cf628d0adf67389e4301660a223a
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -21,13 +22,13 @@ En este paso, creará un recorrido en Adobe Journey Optimizer activado por el ev
 Para crear un recorrido activado en el evento price.drop, siga los siguientes pasos
 
 * Iniciar sesión en Journey Optimizer
-* Vaya a Administración de Recorridos | Recorrido | Crear Recorrido
+* Navegar a Administración de Recorrido | RECORRIDOS | Crear Recorrido
 
 ![crear-recorrido](assets/create-journey.png)
 
 ## Añadir PriceDropEvent
 
-Arrastre `PriceDropEvent` desde la sección de eventos al lienzo
+Arrastre `PriceDropEvent` desde la sección de eventos al lienzo.
 ![evento de caída de precios](assets/add-price-drop-event.png)
 
 ## Añadir acción push
@@ -52,9 +53,9 @@ Asociar la configuración `MyFirstWebPushChannel` creada anteriormente en el tut
 Añada una combinación de contenido estático y dinámico a la notificación push mediante el editor de personalización para que el mensaje sea más atractivo y relevante.
 
 Para comenzar a redactar el mensaje, haga clic en `Content` para abrir la pestaña de contenido, donde puede definir tanto el texto fijo como los campos dinámicos derivados de los datos de evento.
-![content-push](assets/compose-message.png)
+![inserción de contenido](assets/compose-message.png)
 
-Especifique el título del mensaje push y, a continuación, abra el editor de personalización para componer el cuerpo del mensaje. El contenido incluirá dinámicamente los nombres de los productos cuyos precios han bajado. Para lograr esto, use la [función de ayuda](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each) de each
+Especifique el título del mensaje push y, a continuación, abra el editor de personalización para componer el cuerpo del mensaje. El contenido incluirá dinámicamente los nombres de los productos cuyos precios han bajado. Para lograr esto, use la función de ayuda each [](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 para iterar en la lista de productos y procesar sus nombres dentro del mensaje.
 
 ## Componga el cuerpo del mensaje
@@ -62,7 +63,7 @@ para iterar en la lista de productos y procesar sus nombres dentro del mensaje.
 Seleccione e inserte la función `Each` desde el menú de funciones de ayuda.
 ![función de ayuda](assets/journey-content-helper-function.png)
 
-Seleccione los atributos contextuales | Journey Orchestration | Eventos | PriceDropEvent | productListItems | Nombre
+Selección de los atributos contextuales | JOURNEY ORCHESTRATION | Eventos | PriceDropEvent | productListItems | Nombre
 
 Haga clic en el icono &quot;+&quot; para insertar la matriz en el bucle each dentro del editor de personalización. A continuación, actualice el contenido del mensaje para que coincida con el formato mostrado en la captura de pantalla de referencia. Tenga en cuenta que el ID de evento mostrado en su entorno puede diferir del que se muestra.
 
@@ -73,6 +74,3 @@ Finalmente, guarde todos los cambios y publique el recorrido. Una vez publicado,
 ## Prueba de la solución
 
 Para almacenar en déclencheur el evento price.drop, abra la página de déclencheur [price drop,](http://localhost:3000/price-drop-trigger.html) seleccione uno o más productos y haga clic en Déclencheur Price Drop. Esto envía el evento a través de la capa de datos de Adobe mediante etiquetas de AEP, que a continuación inicia la recorrido y envía la notificación push en tiempo real.
-
-
-
