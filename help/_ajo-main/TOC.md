@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
+source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1475'
 ht-degree: 90%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 90%
          + [Uso de la toma de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Uso de la toma de decisiones en un mensaje SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Uso de la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+         + [Uso de fragmentos de contenido de Experience Manager con decisiones](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
       + Déclencheur de decisiones desde déclencheur e interacciones externos {#trigger}
          + [Activación de recorrido al enviar un formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
          + [Personalizar ofertas con datos del tiempo real](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
