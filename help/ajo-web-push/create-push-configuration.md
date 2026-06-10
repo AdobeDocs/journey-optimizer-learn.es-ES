@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 0a8be7eb-9962-466a-9fcc-022cb84c7b0a
+source-git-commit: 108686aa75358f940b5d7d83e7f04bf55f72978f
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -20,18 +21,19 @@ El primer paso es crear un canal push en Adobe Journey Optimizer. Como parte de 
 
 ## Generar claves VAPID
 
-VAPID (Identificación voluntaria del servidor de aplicaciones) es un estándar push web que permite que el servidor se identifique en servicios push (como Chrome, Edge, etc.) utilizando pares de claves públicas/privadas, de modo que el proveedor push sepa quién envía la notificación.
+VAPID (identificación voluntaria del servidor de aplicaciones) es un estándar de inserción web que permite que el servidor se identifique ante los servicios push (como Chrome, Edge, etc.) uso de pares de claves públicas/privadas para que el proveedor push sepa quién envía la notificación.
 
 Se genera mediante una herramienta como web-push generate-vapid-keys, que crea una clave pública (compartida con el explorador) y una clave privada (conservada en el servidor) que se utilizan juntas para autenticar y enviar mensajes push de forma segura.
 
 Para este tutorial hemos utilizado Node.js para generar las claves VAPID.
 
 Asegúrese de que tiene instalado Node.js. A continuación, ejecute el siguiente comando
-```npm install web-push -g ```
+
+`npm install web-push -g `
 
 ![web-push](assets/install-web-push.png)
 
-```web-push generate-vapid-keys```
+`web-push generate-vapid-keys`
 
 ![vapid](assets/vapid-keys.png)
 
@@ -39,7 +41,7 @@ Asegúrese de que tiene instalado Node.js. A continuación, ejecute el siguiente
 
 * Inicie sesión en Journey Optimizer
 
-* Vaya a Administración | Canales | CONFIGURACIÓN PUSH | Credenciales push | Crear credencial push
+* Navegar a Administración | Canales | CONFIGURACIÓN DE PUSH | Credenciales push| Crear credencial push
 
 * ![credencial de inserción](assets/push-credential.png)
 
@@ -47,5 +49,5 @@ Asegúrese de que tiene instalado Node.js. A continuación, ejecute el siguiente
 
 * Inicie sesión en Journey Optimizer
 
-* Vaya a Administración | Canales | Crear configuración de canal
+* Navegar a Administración | Canales | Crear configuración de canal
   ![configuración de canal](assets/push-channel.png)
