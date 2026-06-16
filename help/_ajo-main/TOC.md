@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
+source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
 ht-degree: 89%
@@ -142,7 +142,7 @@ ht-degree: 89%
       + [Asistente de IA para la Generación de contenido: información general](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Creación de contenido con el Asistente de IA para la generación de contenido](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Creación y administración de directrices de marca](/help/content-management/brand-guideline-creation-and-management.md)
-   + {hide-from-toc}[Optimizar canales según las preferencias de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
+   + [Optimizar canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
    + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + [Habilitar integraciones de datos externos en la creación de canales](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + Personalización del contenido {#personalize-content}
@@ -248,7 +248,7 @@ ht-degree: 89%
 + Asistentes y agentes de IA {#ai-assistant}
    + [Asistente de IA](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Asistente de IA para la generación de contenido](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analizar y crear Recorridos con Journey Agent](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analizar y crear Recorridos con Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent: información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Planificar audiencias con Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Casos de uso y prácticas recomendadas{#use-cases}
