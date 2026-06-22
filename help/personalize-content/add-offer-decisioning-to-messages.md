@@ -18,7 +18,7 @@ role_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 40
 ht-degree: 100%
 

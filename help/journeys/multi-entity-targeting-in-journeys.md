@@ -1,6 +1,6 @@
 ---
-title: Segmentación de varias entidades con audiencias federadas en AJO
-description: Aprenda a utilizar la segmentación de varias entidades en Adobe Journey Optimizer con audiencias federadas para segmentar recorridos por ID de suscripción, ID de cuenta o ID de pedido.
+title: Segmentación de varias entidades con públicos federados en AJO
+description: Aprenda a utilizar la segmentación de varias entidades en Adobe Journey Optimizer con públicos federados para segmentar recorridos por ID de suscripción, ID de cuenta o ID de pedido.
 feature: Audiences
 role: User
 level: Beginner
@@ -17,19 +17,19 @@ feature_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: 324d5fdbb23e15e2977ed8f4625248b9972ff583
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 120
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Use segmentación de varias entidades con audiencias federadas en recorrido
+# Uso de la segmentación de varias entidades con públicos federados en recorridos
 
-Aprenda a utilizar la segmentación de varias entidades para ir más allá de las audiencias basadas en perfiles y ofrecer experiencias de cliente más relevantes mediante audiencias federadas.
+Aprenda a utilizar la segmentación de varias entidades para ir más allá de los públicos basados en perfiles y ofrecer experiencias de cliente más relevantes mediante públicos federados.
 
-En este vídeo se explica cómo dirigirse a los recorridos por ID de suscripción, ID de cuenta o ID de pedido, lo que permite una activación de audiencia más precisa y una participación personalizada cuando un solo cliente está asociado a varias entidades comerciales.
+Este vídeo muestra cómo segmentar los recorridos por ID de suscripción, ID de cuenta o ID de pedido, lo que permite una activación de públicos más precisa y una participación personalizada cuando un solo cliente está asociado a varias entidades comerciales.
 
-Para obtener más información acerca de esta característica, visite [la documentación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
+Para más información sobre esta función, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491838/?captions=spa&learn=on)
 

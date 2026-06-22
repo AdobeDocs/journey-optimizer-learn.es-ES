@@ -1,6 +1,6 @@
 ---
-title: Creación de una campaña organizada
-description: Aprenda a diseñar y ejecutar campañas con Adobe Journey Optimizer mediante flujos de trabajo para la creación de audiencias, la manipulación de datos y la entrega multicanal.
+title: Creación de una campaña orquestada
+description: Aprenda a diseñar y ejecutar campañas mediante Adobe Journey Optimizer con flujos de trabajo para crear públicos, manipular datos y realizar envíos multicanal.
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 294
 last-substantial-update: 2026-05-02T00:00:00Z
 jira: KT-20991
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
-workflow-type: tm+mt
+exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
+source-git-commit: cef9796ba122f2f26ec99a31b09d37c09990ea79
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Creación de una campaña orquestada
 
-# Creación de una campaña organizada
-
-Aprenda a diseñar y ejecutar campañas orquestadas en Adobe Journey Optimizer mediante la creación de flujos de trabajo que combinen audiencias, manipulación de datos y entrega multicanal. Este vídeo explica la programación de campañas, la creación de audiencias a partir de datos relacionales, el enriquecimiento y la deduplicación y el uso de varios flujos para admitir casos de uso avanzados como seguimientos del carro de compras abandonado, prevención de pérdida y notificaciones de regreso en stock.
+Aprenda a diseñar y ejecutar campañas orquestadas en Adobe Journey Optimizer mediante la creación de flujos de trabajo que combinen públicos, la manipulación de datos y el envío multicanal. En este vídeo se muestra paso a paso como programar campañas, crear públicos a partir de datos relacionales, enriquecer y deduplicar los datos, así como utilizar múltiples flujos para dar respuesta a casos de uso avanzados como seguimientos de carros de compras abandonados, prevención de pérdidas de clientes y notificaciones de reposición de existencias.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484968/?captions=spa&learn=on&enablevpops)

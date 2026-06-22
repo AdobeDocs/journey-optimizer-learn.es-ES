@@ -1,6 +1,6 @@
 ---
-title: Optimizar canales en función de la preferencia de perfil o las puntuaciones de tendencia
-description: Descubra cómo la función de optimización de canales de Adobe Journey Optimizer le ayuda a llegar a los clientes en el canal más eficaz mediante el uso de la prioridad manual, los atributos de perfil o el modelo de IA de Adobe, de modo que el mensaje llegue a donde es más probable que interactúe cada cliente.
+title: Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia
+description: Descubra cómo la función de optimización de canales de Adobe Journey Optimizer le ayuda a llegar a los clientes en el canal más eficaz, ya sea mediante el uso de la prioridad manual, los atributos de perfil o el modelo de IA de Adobe, para que el mensaje llegue allí donde cada cliente tiene más probabilidades de interactuar.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -26,17 +26,17 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 96
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Optimizar canales en función de la preferencia de perfil o las puntuaciones de tendencia
+# Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia
 
 {{limited-availability}}
 
-Descubra cómo la función de optimización de canales de Adobe Journey Optimizer le ayuda a llegar a los clientes en el canal más eficaz mediante el uso de la prioridad manual, los atributos de perfil o el modelo de IA de Adobe, de modo que el mensaje llegue a donde es más probable que interactúe cada cliente.
+Descubra cómo la función de optimización de canales de Adobe Journey Optimizer le ayuda a llegar a los clientes en el canal más eficaz, ya sea mediante el uso de la prioridad manual, los atributos de perfil o el modelo de IA de Adobe, para que el mensaje llegue allí donde cada cliente tiene más probabilidades de interactuar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492135/?captions=spa&learn=on&enablevpops)

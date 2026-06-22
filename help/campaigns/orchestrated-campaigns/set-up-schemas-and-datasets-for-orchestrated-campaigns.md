@@ -1,6 +1,6 @@
 ---
 title: Configuración de esquemas y conjuntos de datos para campañas
-description: Aprenda a definir esquemas, introducir datos y validar conjuntos de datos para campañas de Adobe Journey Optimizer. Obtenga información sobre personalización y ejecución en minutos.
+description: Aprenda a definir esquemas, ingerir datos y validar conjuntos de datos para campañas de Adobe Journey Optimizer. Obtenga información sobre la personalización y ejecución en cuestión de minutos.
 feature: Campaigns
 role: Developer
 level: Beginner
@@ -23,14 +23,14 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 105
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Configuración de esquemas y conjuntos de datos para campañas
 
-Aprenda a configurar esquemas y conjuntos de datos relacionales para campañas orquestadas en Adobe Journey Optimizer. Esta guía explica cómo definir claves, relaciones y el uso de archivos DDL para crear esquemas de forma eficaz. También aprenderá a ingerir datos a través de cargas de CSV y a cambiar la captura de datos (CDC), validar conjuntos de datos y prepararlos para consultas, personalización y ejecución de campañas. Vea el vídeo incrustado para obtener instrucciones paso a paso para optimizar los flujos de trabajo de la campaña.
+Aprenda a configurar esquemas relacionales y conjuntos de datos para campañas orquestadas en Adobe Journey Optimizer. En esta guía se explica cómo definir claves, relaciones y utilizar archivos DDL para crear esquemas de forma eficaz. También aprenderá a ingerir datos a través de cargas de CSV y CDC (Cambiar captura de datos), validar conjuntos de datos y prepararlos para consultas, para la personalización y la ejecución de campañas. Mire el vídeo incrustado para obtener instrucciones paso a paso para optimizar los flujos de trabajo de su campaña.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484904/?captions=spa&learn=on&enablevpops)

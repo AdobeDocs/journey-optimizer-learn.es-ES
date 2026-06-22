@@ -1,6 +1,6 @@
 ---
 title: Cómo utilizar fragmentos de contenido de Experience Manager con Journey Optimizer Decisioning
-description: Aprenda a utilizar los fragmentos de contenido de Adobe Experience Manager con el Recorrido de trabajo de Adobe para personalizar y optimizar el contenido en sus comunicaciones Agile.
+description: Aprenda a utilizar los fragmentos de contenido de Adobe Experience Manager con Adobe Journey para personalizar y optimizar el contenido en sus comunicaciones Agile.
 feature: Decisioning
 role: User
 level: Beginner, Intermediate
@@ -23,15 +23,15 @@ topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 56a1d7868c410dc2f9811194c52cffc5c627b461
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 66
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Cómo utilizar fragmentos de contenido de Experience Manager con Journey Optimizer Decisioning
 
-Aprenda a utilizar los fragmentos de contenido de Adobe Experience Manager con el Recorrido de trabajo de Adobe para personalizar y optimizar el contenido en sus comunicaciones Agile.
+Aprenda a utilizar los fragmentos de contenido de Adobe Experience Manager con Adobe Journey para personalizar y optimizar el contenido en sus comunicaciones Agile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492218/?captions=spa&learn=on&enablevpops)
