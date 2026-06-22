@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,34 +36,34 @@ ht-degree: 89%
    + Campañas orquestadas {#orchestrated-campaigns}
       + [Introducción a las campañas orquestadas](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Conceptos básicos del almacén relacional](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-      + [Configurar esquemas y conjuntos de datos para campañas orquestadas](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
-      + [Creación de una campaña organizada](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
+      + [Configuración de esquemas y conjuntos de datos para campañas orquestadas](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+      + [Creación de una campaña orquestada](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Recorridos {#journeys}
    + [Diseñador de recorridos: información general](/help/journeys/journey-designer-overview.md)
-   + [Analizar y crear Recorridos con Journey Agent](/help/ai-agents/journey-agent-overview.md)
-   + {hide-from-toc}[Descubra el nuevo Designer de Recorrido](/help/journeys/new-journey-designer.md)
+   + [Análisis y creación de recorridos con Journey Agent](/help/ai-agents/journey-agent-overview.md)
+   + {hide-from-toc}[Descubrimiento del nuevo diseñador de recorridos](/help/journeys/new-journey-designer.md)
    + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
    + [Uso de la búsqueda en el conjunto de datos de un recorrido](/help/journeys/lookup-dataset.md)
    + [Creación de un perfil de prueba](/help/journeys/test-a-journey.md)
    + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
    + [Actividad de decisión de contenido](/help/journeys/content-decision-activity.md)
    + [Dominio del filtrado de atributos múltiples](/help/journeys/mastering-multi-attribute-filtering.md)
-   + [Use segmentación de varias entidades con audiencias federadas en recorrido](/help/journeys/multi-entity-targeting-in-journeys.md)
+   + [Uso de la segmentación de varias entidades con públicos federados en recorridos](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [Validación de la lógica del recorrido con el ensayo de recorrido](/help/journeys/journey-dry-run.md)
    + [Desbloquear la reentrada de recorridos con ID suplementarios](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Actualización de contenido en un recorrido activo](/help/journeys/update-content-in-live-journey.md)
    + [Copia de un recorrido en otra zona protegida](/help/journeys/copy-a-journey.md)
    + [Activación de ejecuciones de recorrido diarias tras la segmentación por lotes](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Guardar nodos de recorrido como fragmentos](/help/journeys/journey-fragments.md)
+   + [Cómo guardar nodos de recorrido como fragmentos](/help/journeys/journey-fragments.md)
    + Casos de uso {#use-cases}
       + [Caso de uso: Recorrido transaccional](/help/journeys/use-case-transactional-journey.md)
       + [Caso de uso: Evento empresarial](/help/journeys/use-case-business-event.md)
       + [Caso de uso: leer público](/help/journeys/use-case-read-audience.md)
       + [Caso de uso: Calificación de público](/help/journeys/use-case-audience-qualification.md)
    + Tutoriales{#tutorials}
-      + [Déclencheur de un recorrido en el envío del formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Activación de un recorrido al enviar un formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + Lealtad {#loyalty}
-   + {hide-from-toc}[Crear un desafío de fidelidad](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[Creación de un reto de lealtad](/help/loyalty/create-a-loyalty-challenge.md)
 + Administración de conflictos y priorización {#conflict-management}
    + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
    + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
@@ -142,9 +142,9 @@ ht-degree: 89%
       + [Asistente de IA para la Generación de contenido: información general](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Creación de contenido con el Asistente de IA para la generación de contenido](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Creación y administración de directrices de marca](/help/content-management/brand-guideline-creation-and-management.md)
-   + [Optimizar canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
+   + [Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
    + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
-   + [Habilitar integraciones de datos externos en la creación de canales](/help/content-management/external-data-integrations-in-channel-authoring.md)
+   + [Habilitación de las integraciones de datos externos en la creación de canales](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + Personalización del contenido {#personalize-content}
    + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
    + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -160,7 +160,7 @@ ht-degree: 89%
    + [Experimentation Agent: información general](/help/ai-agents/experimentation-agent-overview.md)
 + Funcionalidades de decisión{#decision-capabilities}
    + Toma de decisiones {#decisioning}
-      + Fundamentos de decisión {#fundamentals}
+      + Conceptos básicos de la toma de decisiones {#fundamentals}
          + [Introducción a la toma de decisiones](/help/decisioning/introduction-to-decisioning.md)
          + [Tutorial de la toma de decisiones de extremo a extremo](/help/decisioning/decisioning-end-to-end.md)
          + [Navegación por la interfaz del generador de fórmulas](/help/decisioning/formula-builder-ui.md)
@@ -168,15 +168,15 @@ ht-degree: 89%
          + [Uso de la fórmula de clasificación para ofrecer ofertas personalizadas](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [Datos del modelo de IA](/help/decisioning/ai-model-insights.md)
       + Uso de decisiones para personalizar mensajes {#use-decisioning}
-         + [Introducción a la toma de decisiones en correos electrónicos](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [Uso de la toma de decisiones para personalizar correos electrónicos (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
+         + [Introducción a las decisiones en correos electrónicos](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [Uso de decisiones para personalizar ofertas web (tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [Uso de la toma de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Uso de la toma de decisiones en un mensaje SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Uso de la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-         + [Uso de fragmentos de contenido de Experience Manager con decisiones](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
-      + Déclencheur de decisiones desde déclencheur e interacciones externos {#trigger}
+         + [Uso de fragmentos de contenido de Adobe Experience Manager con Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
+      + Activación de decisiones desde activadores externos e interacciones {#trigger}
          + [Activación de recorrido al enviar un formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
-         + [Personalizar ofertas con datos del tiempo real](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+         + [Personalización de ofertas con datos meteorológicos en tiempo real](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + Gestión de decisiones {#decision-management}
       + [Introducción a la gestión de decisiones](/help/decision-management/introduction-to-decision-management.md)
       + [Demostración de las funcionalidades de la gestión de decisiones](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -234,7 +234,7 @@ ht-degree: 89%
    + Reglas empresariales {#business-rules}
       + [Configuración de las reglas de restricción frecuencia](/help/business-rules/configure-frequency-capping-rules.md)
       + [Trabajar con conjuntos de reglas](/help/business-rules/work-with-rule-sets.md)
-      + {hide-from-toc}[Probar e informar sobre reglas de frecuencia](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[Prueba e informe sobre las reglas de frecuencia](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Control de acceso {#access-control}
    + {hide-from-toc}[Administración de acceso](/help/set-up-access/access-management.md)
    + [Configuración del control de acceso basado en atributos](/help/administration/attribute-based-access-control.md)
@@ -245,12 +245,12 @@ ht-degree: 89%
    + [Creación de políticas de uso de datos](/help/privacy/create-data-usage-policies.md)
    + [Aplicación de políticas de uso de datos en canales de Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Enmascaramiento de datos en mensajes](/help/privacy/mask-data-in-messages.md)
-+ Asistentes y agentes de IA {#ai-assistant}
++ Asistentes de IA y agentes {#ai-assistant}
    + [Asistente de IA](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Asistente de IA para la generación de contenido](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analizar y crear Recorridos con Journey Agent](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Análisis y creación de recorridos con Journey Agent](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [Experimentation Agent: información general](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
-   + [Planificar audiencias con Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
+   + [Planificación de públicos con Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Casos de uso y prácticas recomendadas{#use-cases}
    + [Incorporación del cliente](/help/use-cases/customer-onboarding.md)
    + [Carro de compras abandonado](/help/use-cases/abandoned-cart.md)
