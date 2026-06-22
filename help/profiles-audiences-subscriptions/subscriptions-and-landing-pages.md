@@ -23,4 +23,4 @@ Obtenga información sobre cómo configurar suscripciones y crear páginas de de
 * Integración de la opción de suscripción (o cancelarla) en el mensaje
 * Configuración de recorridos relevantes
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344397?captions=spa&quality=12&learn=on){transcript=true}

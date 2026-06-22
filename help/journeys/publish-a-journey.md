@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenda los diferentes estados de un recorrido y el impacto de la publicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427933?captions=spa&quality=12&learn=on){transcript=true}

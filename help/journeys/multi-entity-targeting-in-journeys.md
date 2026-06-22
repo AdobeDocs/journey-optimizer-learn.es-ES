@@ -31,5 +31,5 @@ Este vídeo muestra cómo segmentar los recorridos por ID de suscripción, ID de
 
 Para más información sobre esta función, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491838/?captions=spa&learn=on)
 

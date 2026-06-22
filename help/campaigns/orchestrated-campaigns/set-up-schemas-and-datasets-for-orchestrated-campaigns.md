@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Aprenda a configurar esquemas relacionales y conjuntos de datos para campañas orquestadas en Adobe Journey Optimizer. En esta guía se explica cómo definir claves, relaciones y utilizar archivos DDL para crear esquemas de forma eficaz. También aprenderá a ingerir datos a través de cargas de CSV y CDC (Cambiar captura de datos), validar conjuntos de datos y prepararlos para consultas, para la personalización y la ejecución de campañas. Mire el vídeo incrustado para obtener instrucciones paso a paso para optimizar los flujos de trabajo de su campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484904/?captions=spa&learn=on&enablevpops)
