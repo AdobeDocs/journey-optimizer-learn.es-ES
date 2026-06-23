@@ -34,4 +34,4 @@ Aprenda a configurar y utilizar las integraciones de Managed Services de Adobe E
 
 Este tutorial le guiará por la configuración de conexiones de repositorios, la validación de configuraciones con el Asesor de contenido y la selección de fragmentos de contenido directamente en el editor de personalización, lo que permite a los especialistas en marketing reutilizar y previsualizar el contenido de AEM de forma eficaz en sus campañas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492532/?captions=spa&learn=on&enablevpops)
