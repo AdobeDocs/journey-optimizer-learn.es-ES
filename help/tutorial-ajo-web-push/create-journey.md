@@ -55,7 +55,7 @@ Añada una combinación de contenido estático y dinámico a la notificación pu
 Para comenzar a redactar el mensaje, haga clic en `Content` para abrir la pestaña de contenido, donde puede definir tanto el texto fijo como los campos dinámicos derivados de los datos de evento.
 ![inserción de contenido](assets/compose-message.png)
 
-Especifique el título del mensaje push y, a continuación, abra el editor de personalización para componer el cuerpo del mensaje. El contenido incluirá dinámicamente los nombres de los productos cuyos precios han bajado. Para lograr esto, use la función de ayuda each [&#128279;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Especifique el título del mensaje push y, a continuación, abra el editor de personalización para componer el cuerpo del mensaje. El contenido incluirá dinámicamente los nombres de los productos cuyos precios han bajado. Para lograr esto, use la función de ayuda each [&#128279;](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 para iterar en la lista de productos y procesar sus nombres dentro del mensaje.
 
 ## Componga el cuerpo del mensaje

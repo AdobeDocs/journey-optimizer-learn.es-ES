@@ -106,7 +106,7 @@ ht-degree: 98%
       + [Notificaciones push: información general](/help/channels/push-notifications-overview.md)
       + [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
       + [Crear notificaciones push web](/help/channels/create-web-push-notifications.md)
-      + [Tutorial push web de extremo a extremo](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [Tutorial push web de extremo a extremo](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + Canal de SMS/MMS{#sms-channel}
       + [Mensajes SMS/MMS: información general](/help/channels/sms-mms-messages-overview.md)
       + [Configuración, creación y entrega de mensajes SMS](/help/channels/author-sms-messages.md)
