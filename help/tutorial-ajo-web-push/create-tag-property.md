@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 108de002-f033-4b88-bee5-2b50463c345c
+source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -36,7 +37,7 @@ Escucha el evento price.drop
 ![evento-insertado-datos](assets/tag-rule-event.png)
 
 Actualizar productListItems mediante la variable de actualización
-![variable de actualización](assets/update-variable.png)
+![variable-actualización](assets/update-variable.png)
 Finalmente, envíe el evento price.drop a AEP con la variable xml actualizada
 ![send-event](assets/send-event.png)
 
@@ -50,6 +51,3 @@ El siguiente código JavaScript envía el evento price.drop a las etiquetas de A
       });
   </script>
 ```
-
-
-

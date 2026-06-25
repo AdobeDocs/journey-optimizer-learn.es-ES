@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: d419f6a4-67d5-46b5-9ae7-5a317300d1ad
+source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---

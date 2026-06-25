@@ -7,10 +7,11 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 55cb0875-2953-4d5c-a240-4277aa2f746e
+source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 2%
 
 ---
 
@@ -49,4 +50,3 @@ Compruebe el json del evento message.feedback para `feedback.status`. El valor d
 
 - **Comprobar la configuración del recorrido**\
   Asegúrese de que el recorrido esté publicado y configurado para escuchar el evento `price.drop`.
-

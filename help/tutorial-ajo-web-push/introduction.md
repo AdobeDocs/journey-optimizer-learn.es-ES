@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 5cda28e4-ea2f-4277-8951-a23525ca655a
+source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -62,11 +63,10 @@ Si las notificaciones están bloqueadas o no aparecen, es posible que tenga que 
 
 Para ayudarle a seguir, hay disponible una aplicación de ejemplo completa.
 
-- [Demostración en directo - Inclusión:](https://ajo-web-push.onrender.com/)
+- [Demostración en directo: inclusión:](https://ajo-web-push.onrender.com/)
 
-- [Evento de bajada de precios de Déclencheur:](https://ajo-web-push.onrender.com/price-drop-trigger.html)
+- [Evento de bajada de precios de déclencheur:](https://ajo-web-push.onrender.com/price-drop-trigger.html)
 
 - [Código Source:](https://github.com/gbedekar489/ajo-web-push)
 
 Puede explorar la demostración en directo para ver el flujo en acción o clonar el repositorio para ejecutar el proyecto localmente.
-

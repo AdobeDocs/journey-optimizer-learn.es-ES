@@ -7,7 +7,7 @@ solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
-source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
+source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%

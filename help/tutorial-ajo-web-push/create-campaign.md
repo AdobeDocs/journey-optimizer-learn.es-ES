@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
 exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
-source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
+source-git-commit: 136459518341f00af69fcbf2e629bf0ccc2bd27f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
@@ -20,10 +20,9 @@ ht-degree: 1%
 En este paso, creará una campaña en Adobe Journey Optimizer para enviar notificaciones push web programadas a los usuarios que se han suscrito. La campaña se dirige a un público apto y envía mensajes en un momento predefinido, lo que permite una participación planificada y basada en el público.
 
 * Iniciar sesión en Journey Optimizer
-* Vaya a Administración de Recorrido | Campañas | Crear campañas
+* Navegar a Administración de Recorrido | Campañas | Creación de campañas
 
 ## Especificar la configuración de campaña
-
 
 Especifique el nombre de la campaña
 

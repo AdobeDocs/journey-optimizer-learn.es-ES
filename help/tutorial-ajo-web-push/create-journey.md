@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
 exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
-source-git-commit: fe5ce1bd62e4cf628d0adf67389e4301660a223a
+source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
