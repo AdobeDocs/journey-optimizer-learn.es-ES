@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 756
 last-substantial-update: 2025-10-22T00:00:00Z
 jira: KT-17805
-source-git-commit: 73c799bab4c92faf7d34cb5aa564b2016625d443
-workflow-type: ht
-source-wordcount: '152'
+exl-id: be9426fc-708d-4f72-a6f4-d45d383b5597
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+workflow-type: tm+mt
+source-wordcount: '156'
 ht-degree: 100%
 
 ---
-
 
 # Análisis del rendimiento general de su recorrido con los informes de todo el tiempo
 

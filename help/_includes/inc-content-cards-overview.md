@@ -1,8 +1,8 @@
 ---
 source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 2%
+source-wordcount: '307'
+ht-degree: 3%
 
 ---
 # Tarjetas de contenido: información general
