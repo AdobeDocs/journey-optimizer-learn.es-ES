@@ -37,11 +37,11 @@ En esta lección, crea y almacena en déclencheur mensajes móviles en la aplica
    <br>
 Puede encontrar los detalles de su inicio de sesión en el escritorio de su máquina de laboratorio. Utilice Adobe ID y la contraseña.   ![escritorio](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
 
-   ![Pantalla de inicio de sesión
+   !&lbrack;Pantalla de inicio de sesión
    <br>
 3. Puede omitir las dos pantallas siguientes:
    <br>
-   ![Número de teléfono
+   !&lbrack;Número de teléfono
    <br>
    ![ventana emergente de Personalization](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
@@ -190,7 +190,7 @@ Cuando haga clic fuera del campo de valor, la imagen debería aparecer.
 
       Si cambia a esta ficha y en la sección **[!UICONTROL Vista previa]**, puede cambiar la **Vista previa de la aplicación**.
       <br>\
-      ![Ficha Configuración
+      !&lbrack;Ficha Configuración
       <br>
 
       1. La sección **[!UICONTROL Diseño]** le da la opción de usar una imagen como fondo o un color sólido.
@@ -276,12 +276,12 @@ Las características **Duplicar campaña** y **Vista previa en el dispositivo** 
 
 1. Puede acceder a la función Vista previa en el dispositivo en la página **[!UICONTROL Revisión de campaña]** o en el paso **[!UICONTROL Autor de la campaña]**.
 
-   ![vista previa en el botón del dispositivo
+   !&lbrack;vista previa en el botón del dispositivo
    <br>
 
 1. A continuación, haga clic en el **[!UICONTROL botón de inicio]** desde la pantalla de conexión al dispositivo.
 
-   ![botón de inicio
+   !&lbrack;botón de inicio
    <br>
 
 1. Introduzca la URL base que se ha configurado para iniciar la aplicación Fréscopa: `dxdemo://`
@@ -295,7 +295,7 @@ Las características **Duplicar campaña** y **Vista previa en el dispositivo** 
    2. Introduzca el pin que se muestra en AJO en la pantalla de Assurance de su dispositivo y haga clic en el botón Connect que aparece en la parte inferior derecha una vez que haya introducido el pin.
 
 
-   ![introducir anclaje
+   !&lbrack;introducir anclaje
    <br>
 1. Esta ventana emergente aparece en la pantalla del equipo
 
