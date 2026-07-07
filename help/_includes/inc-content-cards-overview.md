@@ -1,13 +1,13 @@
 ---
 source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 2%
+source-wordcount: '307'
+ht-degree: 3%
 
 ---
 # Tarjetas de contenido: información general
 
->[!VIDEO](https://video.tv.adobe.com/v/3460085/?captions=spa&learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## ¿Qué pasa?
 

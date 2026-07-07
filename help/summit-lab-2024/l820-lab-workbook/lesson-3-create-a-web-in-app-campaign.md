@@ -12,8 +12,8 @@ thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
 source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 2%
+source-wordcount: '778'
+ht-degree: 5%
 
 ---
 
@@ -149,12 +149,12 @@ En esta sección define el contenido, el diseño y el diseño del mensaje.
 
 **Vídeos explicativos:**
 
-* [Creación de una campaña en la aplicación](/help/channels/create-an-in-app-campaign.md)
+* [Creación de una campaña in-app](/help/channels/create-an-in-app-campaign.md)
 * [Creación de un mensaje en la aplicación](/help/channels/author-in-app-messages.md)
 
 **Documentación del producto:**
 
-* [Introducción al canal en la aplicación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Crear un mensaje en la aplicación web](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Diseño del contenido en la aplicación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/design-in-app)
-* [Compruebe y envíe su notificación en la aplicación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introducción al canal en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creación de un mensaje web en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Diseño del contenido en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Comprobación y envío de la notificación en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
