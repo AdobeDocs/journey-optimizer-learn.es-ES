@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Descubra consejos prácticos para ampliar las directrices de marca más allá de Adobe Journey Optimizer a herramientas como GenStudio y Adobe Express. Aprenda a refinar los estilos de escritura, los elementos visuales y los resultados asistidos por IA para mantener la coherencia de la marca. Esta página también cubre la creación de especificaciones de marca detalladas y el uso de ejemplos para la generación de contenido. También verá cómo administrar varias marcas para admitir distintos equipos y estrategias de comunicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494285/?captions=spa&learn=on&enablevpops)

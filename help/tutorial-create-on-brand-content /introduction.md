@@ -20,5 +20,5 @@ ht-degree: 2%
 
 Esta introducción explica cómo las herramientas con tecnología de IA le ayudan a generar contenido de correo electrónico y aplicar directrices de marca. Verá cómo escalar la personalización mediante plantillas, indicadores y contenido de referencia. También aprenderá cómo AI Assistant admite la generación de contenido y la garantía de calidad, lo que garantiza que su mensajería sea coherente, compatible y alineada con su marca desde el principio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494361/?captions=spa&learn=on&enablevpops)
 

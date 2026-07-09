@@ -23,4 +23,4 @@ Aprenda a mejorar y personalizar el contenido visual mediante herramientas con t
 
 Este vídeo muestra cómo generar infografías, añadir superposiciones y refinar imágenes directamente dentro del flujo de trabajo. También verá cómo aprovechar las integraciones para ampliar sus capacidades de edición. A continuación, aprenda a aplicar elementos de marca como logotipos, colores y fuentes, y a moverse sin problemas entre las herramientas para mantener la coherencia y el control. Esto garantiza que cada recurso visual se ajuste a la identidad de su marca, desde la creación hasta el diseño final.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494639/?captions=spa&learn=on&enablevpops)

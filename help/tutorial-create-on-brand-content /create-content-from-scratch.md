@@ -21,4 +21,4 @@ ht-degree: 0%
 
 En este vídeo se muestra cómo empezar a partir de una plantilla, aplicar directrices de marca y utilizar indicaciones sencillas para crear correos electrónicos, notificaciones push y mensajes en la aplicación desde cero. También verá cómo refinar el tono, las imágenes y la mensajería mediante variaciones y puntuación impulsadas por IA. Esto le ayuda a producir rápidamente contenido coherente de alta calidad en todas las experiencias omnicanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434638/?captions=spa&learn=on&enablevpops)
