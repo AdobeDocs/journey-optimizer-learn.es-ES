@@ -1,24 +1,24 @@
 ---
-title: Garantizar la calidad, la alineación de la marca y el control
-description: Aprenda a evaluar y mejorar la calidad del contenido al tiempo que mantiene una alineación de marca sólida con herramientas con tecnología de IA.
+title: Garantizar la calidad del contenido, la alineación de la marca y el control
+description: Aprenda a evaluar y mejorar la calidad del contenido al tiempo que lo compara con las directrices de marca, tanto en recursos escritos como visuales.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 282
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20391
-source-git-commit: a9ad56300dec0e1f17280a2d26fa9c8f63d453a3
+source-git-commit: 7f82406c2a2a486f0b18e5180e0be9326d0b62fa
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
-# Garantizar la calidad, la alineación de la marca y el control
+# Garantizar la calidad del contenido, la alineación de la marca y el control
 
-Aprenda a evaluar y mejorar la calidad del contenido al tiempo que mantiene una alineación de marca sólida con herramientas con tecnología de IA. Esta descripción general muestra cómo aplicar directrices de marca al contenido generado y creado manualmente, automatizar comprobaciones de calidad e identificar oportunidades de mejora en el estilo de escritura y los elementos visuales. También aprenderá a utilizar la puntuación en tiempo real y las recomendaciones procesables para que todos los recursos sean compatibles, coherentes y estén listos para su envío.
+Aprenda a evaluar y mejorar la calidad del contenido al tiempo que lo compara con las directrices de marca, tanto en recursos escritos como visuales. Evalúa la alineación de la marca para el contenido generado por IA y creado manualmente, mediante comprobaciones de calidad automatizadas con puntuaciones en tiempo real y recomendaciones procesables. Identifique y corrija problemas en copia, imágenes, iconografía y conformidad, mediante el control de calidad automatizado como ayuda dentro del proceso de control y revisión de su equipo antes de que el contenido se publique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494648/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on)
