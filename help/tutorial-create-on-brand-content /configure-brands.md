@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este vídeo explica cómo cargar documentos de directrices de marca, estructurar elementos clave de marca y definir el estilo de escritura, el contenido visual y los detalles de identidad. También aprenderá a perfeccionar y personalizar estas directrices para potenciar el contenido generado por IA y las comprobaciones de calidad automatizadas, lo que garantiza una comunicación coherente y en línea con la marca en todos los canales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494370/?captions=spa&learn=on)

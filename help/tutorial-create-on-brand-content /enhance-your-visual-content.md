@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Aprenda a mejorar y personalizar el contenido visual mediante herramientas con tecnología de IA para crear diseños más atractivos y propios de la marca. Este vídeo muestra cómo generar infografías, añadir superposiciones y refinar las imágenes directamente en el flujo de trabajo, a la vez que aprovecha las integraciones para ampliar las capacidades de edición. Explore cómo aplicar elementos de marca como logotipos, colores y fuentes, y alternar sin problemas entre herramientas para mantener la coherencia y el control, lo que garantiza que cada recurso visual se ajuste a su identidad de marca, desde la creación hasta el diseño final.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494639/?captions=spa&learn=on)

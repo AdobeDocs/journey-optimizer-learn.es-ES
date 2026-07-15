@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Aprenda a refinar y personalizar secciones individuales de su contenido mediante habilidades de IA. Este vídeo muestra cómo editar líneas de asunto, encabezados previos, bloques de texto e imágenes dentro de una plantilla existente manteniendo la coherencia de la marca. Explore cómo aplicar indicadores, aprovechar contenido de referencia, ajustar el tono y los mensajes y generar nuevas imágenes, todo mientras utiliza las directrices de marca para garantizar resultados compatibles de alta calidad en todos los componentes de la comunicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495881/?captions=spa&learn=on)
