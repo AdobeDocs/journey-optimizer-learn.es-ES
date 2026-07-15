@@ -1,17 +1,17 @@
 ---
-title: Configuración de marcas en Journey Optimizer
-description: Aprenda a cargar directrices de marca, definir estilos y garantizar una comunicación coherente y dentro de la marca entre canales en Adobe Journey Optimizer.
+title: Configuración de marcas en Adobe Journey Optimizer
+description: Este vídeo explica cómo cargar documentos de directrices de marca, estructurar elementos clave de marca y definir el estilo de escritura y el contenido visual.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-09T00:00:00Z
+last-substantial-update: 2026-07-14T00:00:00Z
 jira: KT-21952
-source-git-commit: 935e14c72ee3c912fb0071c9eaee03f3cfb2e597
+source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Configuración de marcas en Adobe Journey Optimizer
 
-Aprenda a configurar las directrices de marca en Adobe Journey Optimizer para garantizar una comunicación coherente y dentro de la marca en todos los canales. Esta guía cubre la carga de documentos de marca y la estructuración de elementos clave de marca, incluidos estilos de escritura, imágenes y detalles de identidad. También verá cómo perfeccionar estas directrices para mejorar la generación de contenido y automatizar las comprobaciones de calidad, manteniendo la identidad de su marca fuerte y eficaz. Vea el siguiente vídeo para obtener una guía paso a paso.
+Este vídeo explica cómo cargar documentos de directrices de marca, estructurar elementos clave de marca y definir el estilo de escritura, el contenido visual y los detalles de identidad. También aprenderá a perfeccionar y personalizar estas directrices para potenciar el contenido generado por IA y las comprobaciones de calidad automatizadas, lo que garantiza una comunicación coherente y en línea con la marca en todos los canales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494370/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494370/?captions=spa&learn=on)

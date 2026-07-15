@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+source-git-commit: 07ded5be8302aeb2df77ecafb8f1bfdd747702a1
 workflow-type: tm+mt
-source-wordcount: '1527'
-ht-degree: 98%
+source-wordcount: '1546'
+ht-degree: 97%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 98%
       + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
       + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
       + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
+      + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
    + Tarjetas de contenido{#content-cards}
       + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
    + Canal en la aplicación{#in-app-channel}
