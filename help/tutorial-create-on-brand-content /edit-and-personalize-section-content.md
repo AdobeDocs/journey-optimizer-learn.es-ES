@@ -1,17 +1,17 @@
 ---
 title: Editar y personalizar el contenido de la sección
-description: Aprenda a refinar y personalizar secciones individuales de su contenido mediante habilidades de IA en Adobe Journey Optimizer.
+description: Edite y personalice secciones individuales de una plantilla de correo electrónico con funciones de IA en Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 500
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20385
-source-git-commit: 3255170bd08302d74ec7caaa08b74bf71b2db1c6
+source-git-commit: d6edc073e34d3e14e7d51f73001b47a4cb52bb18
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Editar y personalizar el contenido de la sección
 
-Aprenda a refinar y personalizar secciones individuales de su contenido mediante habilidades de IA. Este vídeo muestra cómo editar líneas de asunto, encabezados previos, bloques de texto e imágenes dentro de una plantilla existente manteniendo la coherencia de la marca. Explore cómo aplicar indicadores, aprovechar contenido de referencia, ajustar el tono y los mensajes y generar nuevas imágenes, todo mientras utiliza las directrices de marca para garantizar resultados compatibles de alta calidad en todos los componentes de la comunicación.
+Edite y personalice secciones individuales de una plantilla de correo electrónico con funciones de IA en Adobe Journey Optimizer. Cambie las líneas de asunto, los encabezados previos, los bloques de texto y las imágenes a la vez que conserva los colores de marca, la voz y las reglas de conformidad. Utilice indicaciones y contenido de referencia para ajustar el tono, reformular el texto, traducir el idioma y generar imágenes de marca para cada componente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495881/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
