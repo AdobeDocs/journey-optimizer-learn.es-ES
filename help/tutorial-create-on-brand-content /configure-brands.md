@@ -1,24 +1,24 @@
 ---
-title: Configuración de marcas en Adobe Journey Optimizer
-description: Este vídeo explica cómo cargar documentos de directrices de marca, estructurar elementos clave de marca y definir el estilo de escritura y el contenido visual.
+title: Configuración de una marca para contenido con tecnología de IA en Adobe Journey Optimizer
+description: Aprenderá a crear y configurar una marca que las capacidades de IA utilicen para generar y validar contenido en Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21952
-source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
+source-git-commit: 7c1f5db3b2e5c628dcf233cb112bfca49bc28aad
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
-# Configuración de marcas en Adobe Journey Optimizer
+# Configuración de una marca para contenido con tecnología de IA en Adobe Journey Optimizer
 
-Este vídeo explica cómo cargar documentos de directrices de marca, estructurar elementos clave de marca y definir el estilo de escritura, el contenido visual y los detalles de identidad. También aprenderá a perfeccionar y personalizar estas directrices para potenciar el contenido generado por IA y las comprobaciones de calidad automatizadas, lo que garantiza una comunicación coherente y en línea con la marca en todos los canales.
+Aprenderá a crear y configurar una marca que las capacidades de IA utilicen para generar y validar contenido en Adobe Journey Optimizer. Puede cargar documentos de directrices de marca y asignar elementos clave como el tono de voz, lemas, restricciones legales, reglas de imagen y formato CTA. Puede editar las directrices a nivel de canal y de elemento para mejorar la precisión de la generación y las comprobaciones de calidad automatizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494370/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
