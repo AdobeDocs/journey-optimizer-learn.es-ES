@@ -21,4 +21,4 @@ ht-degree: 0%
 
 En este paso puede mejorar y personalizar imágenes y gráficos con las herramientas de IA de Adobe Journey Optimizer. Puede generar infografías, agregar superposiciones y refinar las imágenes mientras mantiene los logotipos, los colores y las fuentes alineados con su marca. Los recursos se mueven entre Adobe Journey Optimizer y Adobe Express para ampliar las ediciones y mantener la coherencia. Al final de este paso, guarda los elementos visuales de marca en el repositorio para reutilizarlos en todas las campañas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494639/?captions=spa&learn=on)
