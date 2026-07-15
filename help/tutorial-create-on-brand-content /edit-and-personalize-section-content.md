@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Edite y personalice secciones individuales de una plantilla de correo electrónico con funciones de IA en Adobe Journey Optimizer. Cambie las líneas de asunto, los encabezados previos, los bloques de texto y las imágenes a la vez que conserva los colores de marca, la voz y las reglas de conformidad. Utilice indicaciones y contenido de referencia para ajustar el tono, reformular el texto, traducir el idioma y generar imágenes de marca para cada componente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495881/?captions=spa&learn=on)
