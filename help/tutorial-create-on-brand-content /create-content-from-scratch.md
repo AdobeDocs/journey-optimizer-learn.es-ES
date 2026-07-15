@@ -21,4 +21,4 @@ ht-degree: 0%
 
 En este paso, se empieza desde una plantilla de contenido existente y se genera un recurso completo, como un correo electrónico, una notificación push o un mensaje en la aplicación, con las funcionalidades de IA. Las directrices de marca se aplican y se configuran los ajustes de idioma, tono e imagen para mantener el contenido en la marca. Puede generar varias variaciones impulsadas por IA, revisar la puntuación de la marca y editar el contenido a mano o con un segundo pase de IA para refinar la mensajería y los elementos visuales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434638/?captions=spa&learn=on)
