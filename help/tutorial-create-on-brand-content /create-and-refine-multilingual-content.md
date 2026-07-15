@@ -21,4 +21,4 @@ ht-degree: 0%
 
 En este paso traduce y adapta mensajes a otros idiomas utilizando Adobe Journey Optimizer, con español y francés como configuraciones regionales de ejemplo. Puede copiar un punto de contacto existente en plantillas de configuración regional y utilizar las capacidades de IA para generar traducciones de marca, junto con el resto de flujos de trabajo de traducción manuales o automatizados. Revisa la puntuación, refina el tono y la mensajería, y mantiene el contenido traducido alineado con las directrices de tu marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494629/?captions=spa&learn=on)
