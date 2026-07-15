@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Consulte cómo las funciones de IA en Adobe Journey Optimizer le ayudan a crear contenido de correo electrónico a escala de la marca. Este tutorial muestra un correo electrónico completo generado a partir de un único mensaje, utilizando directrices de marca y contenido de referencia para la generación de guías, seleccionando un modelo de generación e insertando texto e imágenes generados por IA directamente en la plantilla. Los mismos activos de marca también permiten comprobaciones de calidad automatizadas, y puntúan cada variante para el cumplimiento, el tono y la alineación de marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494361/?captions=spa&learn=on)
