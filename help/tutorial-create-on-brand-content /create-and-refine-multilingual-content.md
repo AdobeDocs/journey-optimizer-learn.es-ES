@@ -1,17 +1,17 @@
 ---
 title: Cree y perfeccione versiones multilingües de su contenido
-description: Aprenda a traducir y adaptar el contenido en todos los idiomas sin perder la coherencia de la marca.
+description: En este paso puede traducir y adaptar los mensajes a otros idiomas mediante Adobe Journey Optimizer.
 feature: Multilingual Content
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 191
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20389
-source-git-commit: ff729095a5631700d23b33906deb351c729aea90
+source-git-commit: 0498282fc8b8906999b10c94409908931c7bb8c1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Cree y perfeccione versiones multilingües de su contenido
 
-Aprenda a traducir y adaptar el contenido en todos los idiomas sin perder la coherencia de la marca. Esta descripción general muestra cómo crear versiones multilingües de sus campañas, utilizar la traducción asistida por IA para generar rápidamente contenido localizado y refinar el tono y la mensajería para que coincidan con las directrices de su marca. También verá cómo combinar flujos de trabajo automatizados y traducciones sobre la marcha para escalar de forma eficaz las comunicaciones globales entre canales.
+En este paso traduce y adapta mensajes a otros idiomas utilizando Adobe Journey Optimizer, con español y francés como configuraciones regionales de ejemplo. Puede copiar un punto de contacto existente en plantillas de configuración regional y utilizar las capacidades de IA para generar traducciones de marca, junto con el resto de flujos de trabajo de traducción manuales o automatizados. Revisa la puntuación, refina el tono y la mensajería, y mantiene el contenido traducido alineado con las directrices de tu marca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494629/?captions=spa&learn=on)

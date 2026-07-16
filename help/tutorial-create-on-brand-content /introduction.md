@@ -1,23 +1,23 @@
 ---
-title: Introducción
-description: Esta introducción explica cómo las herramientas con tecnología de IA le ayudan a generar contenido de correo electrónico, aplicar directrices de marca y escalar la personalización.
+title: Creación de contenido de correo electrónico en la marca con IA
+description: Consulte cómo las funciones de IA en Adobe Journey Optimizer le ayudan a crear contenido de correo electrónico a escala de la marca.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 362
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21951
-source-git-commit: 275d51229bde149e2ce617be47685c6ac3d65ad1
+source-git-commit: 79297344b8a35e642f619ef123a676caf58e3bf7
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 2%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Introducción
+# Creación de contenido de correo electrónico en la marca con IA
 
-Esta introducción muestra cómo las herramientas con tecnología de IA le ayudan a generar contenido de correo electrónico, aplicar directrices de marca y escalar la personalización mediante plantillas, indicadores y contenido de referencia. También verá cómo las capacidades de IA admiten la generación de contenido y la garantía de calidad, lo que garantiza que la mensajería sea coherente, compatible y alineada con su marca desde el principio.
+Consulte cómo las funciones de IA en Adobe Journey Optimizer le ayudan a crear contenido de correo electrónico a escala de la marca. Este tutorial muestra un correo electrónico completo generado a partir de un único mensaje, utilizando directrices de marca y contenido de referencia para la generación de guías, seleccionando un modelo de generación e insertando texto e imágenes generados por IA directamente en la plantilla. Los mismos activos de marca también permiten comprobaciones de calidad automatizadas, y puntúan cada variante para el cumplimiento, el tono y la alineación de marca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494361/?captions=spa&learn=on)
