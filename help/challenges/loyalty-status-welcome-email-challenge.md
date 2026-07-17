@@ -8,8 +8,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
-source-wordcount: '403'
+workflow-type: tm+mt
+source-wordcount: '443'
 ht-degree: 100%
 
 ---
@@ -54,7 +54,7 @@ Cuando un cliente fiel cumple los requisitos del nivel de platino, debe recibir 
 
 Prueba del recorrido:
 
-1. Asegúrese de que la variable [!UICONTROL Leer actividad de segmentos] tiene la variable [!UICONTROL área de nombres] configurada como **[!DNL Luma CRM id(lumaCrmId)]**.
+1. Asegúrese de que la variable [!UICONTROL Leer actividad de segmentos] tiene la variable [!UICONTROL espacio de nombres] configurada como **[!DNL Luma CRM id(lumaCrmId)]**.
 
 1. Anule el valor predeterminado [!UICONTROL parámetros de correo electrónico] y configúrelo en su propia dirección de correo electrónico:
    * En los **[!UICONTROL parámetros de correo electrónico]**, haga clic en el símbolo T (habilitar anulación de parámetros)

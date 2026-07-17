@@ -1,6 +1,6 @@
 ---
 title: Configuración manual de la estructura de datos
-description: Cree las áreas de nombres de identidad necesarias y defina la estructura de datos de muestra de Luma.
+description: Cree los espacios de nombres de identidad necesarios y defina la estructura de datos de muestra de Luma.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 jira: KT-9382
@@ -10,27 +10,27 @@ recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1033'
 ht-degree: 100%
 
 ---
 
 # Configuración manual de datos
 
-En esta sección, se crean las áreas de nombres de identidad necesarias y se define la [!DNL Luma] estructura de datos de muestra creando los [[!UICONTROL esquemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=es).
+En esta sección, se crean los espacios de nombres de identidad necesarios y se define la [!DNL Luma] estructura de datos de muestra creando los [[!UICONTROL esquemas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=es).
 
 >[!TIP]
 >Vea el videotutorial [Asignación de identidades](/help/data-management/map-identities.md) antes de empezar.
 
-## Paso 1: Crear áreas de nombres de identidad
+## Paso 1: Crear espacios de nombres de identidad
 
-En este paso, creará áreas de nombres de identidad para [!DNL Luma] campos de identidad personalizados con nombre `lumaLoyaltyId`, `lumaCrmId` y `lumaProductSKU`. Las áreas de nombres de identidad desempeñan un papel esencial en la creación de perfiles de clientes en tiempo real, ya que dos valores coincidentes en la misma área de nombres permiten que dos fuentes de datos formen un gráfico de identidad.
+En este paso, creará espacios de nombres de identidad para [!DNL Luma] campos de identidad personalizados con nombre `lumaLoyaltyId`, `lumaCrmId` y `lumaProductSKU`. Los espacios de nombres de identidad desempeñan un papel esencial en la creación de perfiles de clientes en tiempo real, ya que dos valores coincidentes en el mismo espacio de nombres permiten que dos fuentes de datos formen un gráfico de identidad.
 
 Comience creando un [!UICONTROL area de nombres] para el [!DNL Luma Loyalty ID] esquema:
 
 1. En la interfaz de usuario de Journey Optimizer, vaya a **[!UICONTROL Cliente]** > **[!UICONTROL Identidades]** en el panel de navegación izquierdo.
 
-1. Seleccione **[!UICONTROL Crear área de nombres de identidad]**.
+1. Seleccione **[!UICONTROL Crear espacio de nombres de identidad]**.
 
 1. Proporcione los siguientes detalles:
 
@@ -40,9 +40,9 @@ Comience creando un [!UICONTROL area de nombres] para el [!DNL Luma Loyalty ID] 
 
 1. Seleccione **[!UICONTROL Crear]**.
 
-   ![Crear áreas de nombres](assets/createNamespace.png)
+   ![Crear espacios de nombres](assets/createNamespace.png)
 
-1. Cree dos áreas de nombres más siguiendo los mismos pasos:
+1. Cree dos espacios de nombres más siguiendo los mismos pasos:
 
    | Nombre para mostrar | Símbolo de identidad | Tipo |
    |---|---|---|
@@ -99,7 +99,7 @@ A continuación, se le pedirá que añada grupos de campos al esquema mediante g
 
    * **[!UICONTROL Datos personales de contacto]** para obtener información básica de contacto, como la dirección de correo electrónico y el número de teléfono.
 
-   * **[!UICONTROL Detalles de fidelidad]** para obtener detalles de fidelidad, como puntos, fecha de unión o estado. El grupo de campos de fidelidad está muy por debajo de la lista, por lo que es más fácil buscarlo.
+   * **[!UICONTROL Detalles de lealtad]** para obtener detalles de lealtad, como puntos, fecha de unión o estado. El grupo de campos de lealtad está muy por debajo de la lista, por lo que es más fácil buscarlo.
 
 1. Seleccionar **[!UICONTROL Agregar grupo de campos]** para agregar los tres grupos de campos al esquema.
 
@@ -125,13 +125,13 @@ Para garantizar la coherencia en todos los esquemas, Adobe recomienda administra
 
    ![Crear nuevo grupo de campo](assets/addnewfieldgroup.png)
 
-#### Añada campos al nuevo [!UICONTROL grupo de campo] 
+#### Añada campos al nuevo [!UICONTROL grupo de campo]
 
 El nuevo grupo de campo vacío se agrega al esquema. Con los botones +, puede agregar nuevos campos a cualquier ubicación de la jerarquía. En este caso, debe añadir campos en el nivel raíz:
 
 1. Seleccione **[!UICONTROL +]** junto al nombre del esquema.
 
-   Este paso añade un campo debajo del área de nombres de **su id de inquilino**, para administrar los conflictos entre los campos personalizados y los campos estándar.
+   Este paso añade un campo debajo del espacio de nombres de **su id de inquilino**, para administrar los conflictos entre los campos personalizados y los campos estándar.
 
 1. En la barra lateral **[!UICONTROL Propiedades del campo]**, añada los detalles del nuevo campo:
 
@@ -158,7 +158,7 @@ El nuevo grupo de campo vacío se agrega al esquema. Con los botones +, puede ag
 
 #### Establecer identidades
 
-Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] configurado. Para poder introducir datos, debe etiquetar los campos de identidad. Cada esquema utilizado con [!UICONTROL Perfil del cliente en tiempo real] es necesario para tener una identidad principal especificada y cada registro introducido debe tener un valor para ese campo.
+Ahora tiene el [!UICONTROL espacio de nombres] y el [!DNL Luma Loyalty schema] configurado. Para poder introducir datos, debe etiquetar los campos de identidad. Cada esquema utilizado con [!UICONTROL Perfil del cliente en tiempo real] es necesario para tener una identidad principal especificada y cada registro introducido debe tener un valor para ese campo.
 
 1. Configure la **identidad principal**:
 
@@ -172,7 +172,7 @@ Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] con
 
    4. Habilite el cuadro de **[!UICONTROL Identidad principal]**.
 
-   5. Seleccione el `Luma Loyalty Id`área de nombres del menú desplegable de **[!UICONTROL Áreas de nombres de identidad]**.
+   5. Seleccione el `Luma Loyalty Id`espacio de nombres del menú desplegable de **[!UICONTROL Espacios de nombres de identidad]**.
 
    6. Seleccione **[!UICONTROL Aplicar]**.
 
@@ -188,7 +188,7 @@ Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] con
 
    3. En **[!UICONTROL Propiedades del campo]**, habilite el cuadro de **[!UICONTROL Identidad]**.
 
-   4. Seleccione el `Luma CRM Id` área de nombres del menú desplegable de **[!UICONTROL Áreas de nombres de identidad]**.
+   4. Seleccione el `Luma CRM Id` espacio de nombres del menú desplegable de **[!UICONTROL Espacios de nombres de identidad]**.
 
    5. Seleccione **[!UICONTROL Aplicar]**.
 
@@ -200,7 +200,7 @@ Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] con
 
    El esquema debería tener este aspecto:
 
-   ![Esquema de fidelización de Luma](assets/lumaloyaltyschema.png)
+   ![Esquema de lealtad de Luma](assets/lumaloyaltyschema.png)
 
 1. Seleccione **[!UICONTROL Guardar]**.
 
@@ -297,7 +297,7 @@ Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] con
 
    2. Desplácese hacia abajo hasta la parte inferior de **[!UICONTROL Propiedades del campo]**.
 
-   3. Active **[!UICONTROL Enumeración]**.
+   3. Habilite **[!UICONTROL Enumeración]**.
 
    4. Introduzca **[!UICONTROL valores] ([!UICONTROL etiqueta)]**: `restock` (`Restock`).
 
@@ -315,11 +315,11 @@ Ahora tiene el [!UICONTROL área de nombres] y el [!DNL Luma Loyalty schema] con
 
    1. Desplácese hacia abajo hasta la parte inferior de **[!UICONTROL Propiedades del campo]**.
 
-   2. Active **[!UICONTROL Relación]**.
+   2. Habilite **[!UICONTROL Relación]**.
 
       1. **[!UICONTROL Esquema de referencia]**: [!DNL Luma Product Catalog Schema].
 
-      2. **[!UICONTROL Referencia al Área de nombres de identidad]**: [!DNL LumaProductSKU].
+      2. **[!UICONTROL Referencia al espacio de nombres de identidad]**: [!DNL LumaProductSKU].
 
    3. Seleccione **[!UICONTROL Aplicar]**.
 
@@ -340,9 +340,9 @@ Cree los siguientes [!UICONTROL esquemas] adicionales:
 | **[!UICONTROL Clase]** | [!UICONTROL Perfil individual de XDM] | [!UICONTROL Evento de experiencia de XDM] | [!UICONTROL Perfil individual de XDM] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL Añadir grupo de campos existente]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL Relación]** |  | `productListItems.SKU`:<br> Esquema de referencia `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Esquema de referencia `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-|  [!UICONTROL Área de nombres])**de la**[!UICONTROL  Identidad principal] | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| [!UICONTROL Área de nombres])**de la**[!UICONTROL  Identidad principal] | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL Habilitar esquema para perfil]** | sí | sí | sí | sí |
 
-## Pasos siguientes
+## Próximos pasos
 
 Ahora que ha generado la estructura de datos, puede [crear conjuntos de datos e introducir datos de muestra](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).

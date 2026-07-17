@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 El siguiente videotutorial explica cómo crear conjuntos de datos e introducir datos manualmente:
 
->[!VIDEO](https://video.tv.adobe.com/v/3416648?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
 
 Cree los siguientes conjuntos de datos:
 
