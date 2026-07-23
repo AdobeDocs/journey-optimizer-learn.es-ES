@@ -1,5 +1,5 @@
 ---
-title: Presentación del nuevo lienzo de recorrido
+title: Introducción al nuevo lienzo de recorrido
 description: Descubra la nueva experiencia de lienzo de recorrido en Adobe Journey Optimizer. Esta actualización presenta un motor de renderización moderno que alimenta el lienzo de Recorrido, alineándolo con la experiencia ya utilizada en las campañas orquestadas y la composición de audiencias.
 feature: Journeys
 role: User
@@ -14,7 +14,7 @@ product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: aada6451a411d6e29f34399dc1cb8f397f71029b
 workflow-type: tm+mt
 source-wordcount: 82
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 ---
 
 
-# Presentación del nuevo lienzo de recorrido
+# Introducción al nuevo lienzo de recorrido
 
 Descubra la nueva experiencia de lienzo de recorrido en Adobe Journey Optimizer. Esta actualización presenta un motor de renderización moderno que alimenta el lienzo de Recorrido, alineándolo con la experiencia ya utilizada en las campañas orquestadas y la composición de audiencias.
 
