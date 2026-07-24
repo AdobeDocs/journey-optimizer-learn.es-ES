@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
+source-git-commit: 639317aed6158d880c9fc86922b726b6d3ac84aa
 workflow-type: tm+mt
 source-wordcount: '1550'
 ht-degree: 95%
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
   + [Analizar y crear recorridos con IA](/help/ai-agents/journey-agent-overview.md)
   + [Creación de un perfil de prueba](/help/journeys/test-a-journey.md)
-  + [Simulación de recorridos con audiencias externas](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + {hide-from-toc}[Simular recorridos con audiencias externas](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
   + [Actividad de decisión de contenido](/help/journeys/content-decision-activity.md)
   + [Uso de la búsqueda de conjuntos de datos en un recorrido](/help/journeys/lookup-dataset.md)
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
     + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
     + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
-    + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Tarjetas de contenido{#content-cards}
     + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
   + Canal en la aplicación{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 95%
   + [Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
   + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Habilitación de las integraciones de datos externos en la creación de canales](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Creación de contenido de marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Creación de contenido de marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalización del contenido {#personalize-content}
   + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
   + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
