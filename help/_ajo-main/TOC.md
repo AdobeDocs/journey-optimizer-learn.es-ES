@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1555'
+source-wordcount: '1562'
 ht-degree: 95%
 
 ---
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
     + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
     + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
-    + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Tarjetas de contenido{#content-cards}
     + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
   + Canal en la aplicación{#in-app-channel}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
   + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Habilitación de las integraciones de datos externos en la creación de canales](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Creación de contenido de marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Creación de contenido de marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalización del contenido {#personalize-content}
   + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
   + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -178,6 +178,7 @@ ht-degree: 95%
       + [Uso de decisiones para personalizar ofertas web (tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Uso de la toma de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Uso de la toma de decisiones en un mensaje SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[Usar la toma de decisiones en el editor visual web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Uso de la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Uso de fragmentos de contenido de Adobe Experience Manager con Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Activación de decisiones desde activadores externos e interacciones {#trigger}
