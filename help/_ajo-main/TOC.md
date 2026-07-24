@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1562'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + Recorridos {#journeys}
   + [Diseñador de recorridos: información general](/help/journeys/journey-designer-overview.md)
   + [Introducción al nuevo lienzo de recorrido](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Análisis y creación de recorridos con Journey Agent](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[Descubrimiento del nuevo diseñador de recorridos](/help/journeys/new-journey-designer.md)
   + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
-  + [Uso de la búsqueda en el conjunto de datos de un recorrido](/help/journeys/lookup-dataset.md)
+  + [Analizar y crear recorridos con IA](/help/ai-agents/journey-agent-overview.md)
   + [Creación de un perfil de prueba](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[Simular recorridos con audiencias externas](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
   + [Actividad de decisión de contenido](/help/journeys/content-decision-activity.md)
-  + [Dominio del filtrado de atributos múltiples](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Uso de la búsqueda de conjuntos de datos en un recorrido](/help/journeys/lookup-dataset.md)
+  + [Filtrado principal de varios atributos](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Uso de la segmentación de varias entidades con públicos federados en recorridos](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Validación de la lógica del recorrido con el ensayo de recorrido](/help/journeys/journey-dry-run.md)
   + [Desbloquear la reentrada de recorridos con ID suplementarios](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [Introducción al canal de WhatsApp](/help/channels/whatsapp-introduction.md)
     + [Configuración del canal de WhatsApp](/help/channels/set-up-whatsapp.md)
     + [Creación de un recorrido de WhatsApp](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[Configurar y usar canales personalizados](/help/channels/configure-and-use-custom-channels.md)
 + Administración de contenido{#content-management}
   + [Creación de mensajes: información general](/help/content-management/message-authoring-overview.md)
   + Administración de recursos {#assets}
@@ -177,6 +178,7 @@ ht-degree: 97%
       + [Uso de decisiones para personalizar ofertas web (tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Uso de la toma de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Uso de la toma de decisiones en un mensaje SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[Usar la toma de decisiones en el editor visual web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Uso de la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Uso de fragmentos de contenido de Adobe Experience Manager con Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Activación de decisiones desde activadores externos e interacciones {#trigger}
