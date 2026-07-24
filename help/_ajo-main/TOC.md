@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bd6dab91e0bbc696fd9e9273413601cf98603486
+source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
 workflow-type: tm+mt
 source-wordcount: '1555'
 ht-degree: 95%
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
     + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
     + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
-    + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Tarjetas de contenido{#content-cards}
     + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
   + Canal en la aplicación{#in-app-channel}
@@ -124,7 +124,7 @@ ht-degree: 95%
     + [Introducción al canal de WhatsApp](/help/channels/whatsapp-introduction.md)
     + [Configuración del canal de WhatsApp](/help/channels/set-up-whatsapp.md)
     + [Creación de un recorrido de WhatsApp](/help/channels/create-a-whatsapp-journey.md)
-  + [Configuración y uso de canales personalizados](/help/channels/configure-and-use-custom-channels.md)
+  + {hide-from-toc}[Configurar y usar canales personalizados](/help/channels/configure-and-use-custom-channels.md)
 + Administración de contenido{#content-management}
   + [Creación de mensajes: información general](/help/content-management/message-authoring-overview.md)
   + Administración de recursos {#assets}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
   + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Habilitación de las integraciones de datos externos en la creación de canales](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Creación de contenido de marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Creación de contenido de marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalización del contenido {#personalize-content}
   + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
   + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
