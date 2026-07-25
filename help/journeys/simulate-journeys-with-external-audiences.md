@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo simular recorridos que utilizan perfiles de audiencias externas de un archivo CSV o una composición de audiencia federada, incluidos atributos no almacenados en el perfil, como ID de ticket o fecha de viaje. En este vídeo se explica cómo filtrar una audiencia, personalizar mensajes con atributos externos, crear un usuario simulado y burlarse de los datos de audiencia para validar la ruta correcta antes de que el recorrido se active.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496269/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496272/?captions=spa&learn=on&enablevpops)
