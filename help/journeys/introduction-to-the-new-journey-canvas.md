@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Descubra la nueva experiencia de lienzo de recorrido en Adobe Journey Optimizer. Esta actualización presenta un motor de renderización moderno que alimenta el lienzo de Recorrido, alineándolo con la experiencia ya utilizada en las campañas orquestadas y la composición de audiencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496196/?captions=spa&learn=on&enablevpops)
