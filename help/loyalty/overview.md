@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 35dcb7e021fa57e88131d1ea1fd47112a22674f5
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ Comprenda qué es la lealtad de Journey Optimizer, dónde se encuentra en AJO y 
 
 Este módulo le guiará a través de la creación y configuración de un desafío de lealtad de principio a fin: tipo, estructura y programación, tareas y recompensas.
 
-* [Cree y publique su primer desafío de fidelidad](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-Aprenda a crear un desafío: tipos (estándar/de flujo/secuencial), estructura y programación, guarde y publique un desafío (sin recorridos).
+* [Configurar un desafío de fidelidad](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+Aprenda a configurar un desafío de lealtad seleccionando el tipo de desafío adecuado, configurando audiencias y programaciones, definiendo reglas de participación y controlando cómo se realiza el seguimiento y se recompensa el progreso.
 * [Configurar tareas para el desafío de fidelidad](./configure-your-challenge/create-tasks.md)
 Aprenda a configurar tareas: compras y gastos, cantidades, artículos aptos y exclusiones, y reutilización.
 * [Configurar recompensas para tu desafío de fidelidad](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
