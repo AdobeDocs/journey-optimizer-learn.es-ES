@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Aprenda a utilizar la lealtad de Adobe Journey Optimizer para convertir los datos de lealtad en experiencias personalizadas con perspectivas impulsadas por IA, gamification adaptable y perfiles de cliente unificados que impulsan la participación y los resultados de lealtad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496454/?captions=spa&learn=on&enablevpops)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Aprenda a crear y configurar tareas de desafío de lealtad mediante actividades de compra, gasto y evento personalizado, incluidas reglas de elegibilidad, exclusiones y plantillas de tareas reutilizables.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496445/?captions=spa&learn=on&enablevpops)
