@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
+source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Este módulo le guiará a través de la creación y configuración de un desafí
 Aprenda a configurar un desafío de lealtad seleccionando el tipo de desafío adecuado, configurando audiencias y programaciones, definiendo reglas de participación y controlando cómo se realiza el seguimiento y se recompensa el progreso.
 * [Configurar tareas para el desafío de fidelidad](./configure-your-challenge/create-tasks.md)
 Aprenda a configurar tareas: compras y gastos, cantidades, artículos aptos y exclusiones, y reutilización.
-* [Configurar recompensas para tu desafío de fidelidad](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
+* [Configurar recompensas para tu desafío de fidelidad](./configure-your-challenge/configure-rewards.md)
 Aprenda a configurar recompensas: proveedor, hito frente a entrega de finalización, tipos de recompensas y cupones.
 * [Cree desafíos y obtenga información con el agente de inteligencia artificial aplicada a la fidelidad](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
 Aprenda a utilizar el agente de IA de fidelización para crear desafíos y obtener perspectivas.
