@@ -1,5 +1,5 @@
 ---
-title: Introducción a la fidelización de Journey Optimizer para especialistas en marketing
+title: Introducción a la fidelización de Journey Optimizer
 description: Obtenga información sobre cómo incorporarse a Lealtad de Adobe Journey Optimizer, configurar un desafío, aplicarlo y mostrarlo, y analizar su rendimiento.
 topic: Get Started
 role: User
@@ -7,33 +7,26 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
+source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 0%
+source-wordcount: '337'
+ht-degree: 11%
 
 ---
 
 
-# Introducción a la fidelización de Journey Optimizer para especialistas en marketing
+# Introducción a la fidelización de Journey Optimizer
 
-Curso básico para que los especialistas en marketing se incorporen a Lealtad de Adobe Journey Optimizer: configurar un desafío de lealtad, aplicarlo y mostrarlo, y analizar su rendimiento.
+Los desafíos de lealtad le permiten crear programas de lealtad atractivos e interactivos que impulsan el comportamiento de los clientes y profundizan las relaciones de marca. Cree desafíos que recompensen a los clientes por acciones específicas, desde hacer compras y escribir críticas hasta participar en redes sociales y recomendar a amigos.
 
-## Lo que aprende
-
-* Comprenda qué es la lealtad de Journey Optimizer, cómo se encuentra en AJO y el ciclo de vida de desafío de extremo a extremo.
-* Cree y configure un desafío de fidelidad en la interfaz de usuario, incluidas tareas, recompensas y el agente de inteligencia artificial aplicada a la fidelidad.
-* Muestre y aplique un desafío a través de una tarjeta de contenido o una experiencia basada en código.
-* Lea el informe de desafíos integrado para rastrear el rendimiento.
-
-### Introducción a la lealtad
+## Introducción a la lealtad
 
 Este módulo presenta la lealtad de Journey Optimizer: qué es, dónde se encuentra en Adobe Journey Optimizer y el ciclo vital de desafío desde la configuración hasta el análisis.
 
 * [Descubre lo que es la lealtad de Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Comprenda qué es la lealtad de Journey Optimizer, dónde se encuentra en AJO y el ciclo vital de los desafíos.
 
-### Configurar el desafío
+## Configurar el desafío
 
 Este módulo le guiará a través de la creación y configuración de un desafío de lealtad de principio a fin: tipo, estructura y programación, tareas y recompensas.
 
@@ -46,14 +39,14 @@ Aprenda a configurar recompensas: proveedor, hito frente a entrega de finalizaci
 * [Cree desafíos y obtenga información con el agente de inteligencia artificial aplicada a la fidelidad](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
 Aprenda a utilizar el agente de IA de fidelización para crear desafíos y obtener perspectivas.
 
-### Aplicar y mostrar el desafío
+## Aplicar y mostrar el desafío
 
 Este módulo muestra cómo llevar un desafío a sus clientes a través de tarjetas de contenido y experiencias basadas en código.
 
 * [Crear una tarjeta de contenido de desafío con una experiencia basada en código](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
 Aprenda a crear una tarjeta de contenido/experiencia basada en código de desafío, que cubra la inclusión y el progreso dinámico en las fases de inclusión, progreso y finalización, además de las recompensas y la configuración de canal.
 
-### Analizar e informar
+## Analizar e informar
 
 Este módulo explica cómo realizar un seguimiento del rendimiento del desafío.
 
