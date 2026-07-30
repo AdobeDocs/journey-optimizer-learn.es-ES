@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: fidelidad
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
+source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 # Introducción a la fidelización de Journey Optimizer {#loyalty}
 
-+ {hide-from-toc}[Introducción a la fidelidad de Journey Optimizer para especialistas en marketing](./overview.md)
++ [Introducción a la fidelización de Journey Optimizer para especialistas en marketing](./overview.md)
 + [Lealtad de Discover Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Configurar el desafío {#configure-your-challenge}
   + [Configurar un desafío de fidelidad](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [Cree tareas para el desafío de fidelidad](./configure-your-challenge/create-tasks.md)
   + [Configure recompensas para su desafío de fidelidad](./configure-your-challenge/configure-rewards.md)
-  + {hide-from-toc}[Cree desafíos y obtenga información con el agente de inteligencia artificial aplicada a la fidelidad](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
+  + [Cree desafíos y obtenga perspectivas con el agente de Loyalty AI](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + Aplicar y mostrar el desafío {#apply-and-display-your-challenge}
-  + {hide-from-toc}[Crear una tarjeta de contenido de desafío con una experiencia basada en código](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
+  + [Crear una tarjeta de contenido de desafío con una experiencia basada en código](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 + Analizar e informar {#analyze-and-report}
   + {hide-from-toc}[Rastrear rendimiento con el informe de desafío](./analyze-and-report/track-performance-with-the-challenge-report.md)
