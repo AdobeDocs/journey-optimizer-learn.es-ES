@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Aprenda a crear una tarjeta de contenido de desafío con plantillas, imágenes, botones y configuraciones de aplicación creados previamente para promover desafíos de lealtad y mostrar el progreso de los participantes en la aplicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496532/?captions=spa&learn=on&enablevpops)
