@@ -19,4 +19,4 @@ ht-degree: 8%
 
 Aprenda a configurar recompensas de desafío seleccionando tipos de recompensa, definiendo métodos de entrega y recompensando a los participantes en hitos clave o al finalizar el desafío.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496484/?captions=spa&learn=on&enablevpops)

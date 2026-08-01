@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Aprenda a configurar un desafío de lealtad seleccionando el tipo de desafío adecuado, configurando audiencias y programaciones, definiendo reglas de participación y controlando cómo se realiza el seguimiento y se recompensa el progreso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496471/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496474/?captions=spa&learn=on&enablevpops)
