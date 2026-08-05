@@ -10,8 +10,8 @@ last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2669'
-ht-degree: 53%
+source-wordcount: '3509'
+ht-degree: 68%
 
 ---
 
@@ -122,7 +122,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="Optimizar las notificaciones push con AJO Decisioning">Optimizar notificaciones push con AJO Decisioning</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="Optimizar las notificaciones push con AJO Decisioning">Optimizar las notificaciones push con AJO Decisioning</a>
                     </p>
                     <p class="is-size-6">Mejore la participación con notificaciones push personalizadas mediante AJO Decisioning. Cree ofertas adaptadas y analice el rendimiento de la campaña.</p>
                 </div>
@@ -342,8 +342,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Opción de inclusión doble para Sinch e Infobip" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440278/?captions=spa&format=jpeg&nocache=1770071085934" alt="Opción de inclusión doble para Sinch e Infobip"
+                    <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Inclusión doble para Sinch e Infobip" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440278/?captions=spa&format=jpeg&nocache=1770071085934" alt="Inclusión doble para Sinch e Infobip"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -351,7 +351,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Opción de inclusión doble para Sinch e Infobip">Opción de inclusión doble para Sinch e Infobip</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Inclusión doble para Sinch e Infobip">Opción de inclusión doble para Sinch e Infobip</a>
                     </p>
                     <p class="is-size-6">Más información sobre cómo configurar la inclusión doble para SMS.</p>
                 </div>
@@ -462,7 +462,7 @@ CARDS
                     <p class="is-size-6">Aprenda a crear una campaña de experiencia basada en código para escalar la personalización con compatibilidad con métodos de implementación del lado del servidor, basados en API o basados en SDK para integrarse sin problemas con entornos de desarrollo.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -480,12 +480,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" target="_blank" rel="referrer" title="Adición de campos de formulario a plantillas de canal de experiencia basada en código">Add Form Fields to Code-Based Experience Channel Templates</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" target="_blank" rel="referrer" title="Adición de campos de formulario a plantillas de canal de experiencia basada en código">Agregar campos de formulario a plantillas de canal de experiencia basadas en código</a>
                     </p>
                     <p class="is-size-6">Descubra cómo los desarrolladores pueden optimizar la colaboración con los equipos de marketing habilitando campos editables en canales de experiencia basada en código.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -495,18 +495,18 @@ CARDS
 
 #### Documentación del producto
 
-| ![Create Code-Based Experiences &#x200B;](./assets/content-management.png){width="50"}[**Create Code-Based Experiences**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![Crear experiencias basadas en código &#x200B;](./assets/content-management.png){width="50"}[**Crear experiencias basadas en código**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
 
-### WhatsApp messages
+### Mensajes de WhatsApp
 
 
 >[!PREREQUISITES]
 >
-> 1. Make sure the [WhatsApp channel](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) has been configured.
-> 2. Ensure that customer profiles and audiences are ready for targeting.
+> 1. Asegúrate de que el [canal de WhatsApp](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel) esté configurado.
+> 2. Asegúrese de que los perfiles y las audiencias del cliente estén listos para la segmentación.
 
 #### Tutoriales
 
@@ -535,7 +535,7 @@ CARDS
                     <p class="is-size-6">El vídeo ofrece información general de alto nivel sobre el valor de la integración de WhatsApp con Adobe Journey Optimizer. Resalta el alcance global de WhatsApp y sus beneficios de participación, y destaca los requisitos previos clave como la configuración de una cuenta de WhatsApp Business, mediante generación de tókenes de acceso y la creación de plantillas de mensajes.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -558,7 +558,7 @@ CARDS
                     <p class="is-size-6">Este tutorial lo acompaña en la creación de un recorrido de WhatsApp de varios pasos con Adobe Journey Optimizer.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -568,14 +568,14 @@ CARDS
 
 #### Documentación del producto
 
-| ![Create WhatsApp Messages &#x200B;](./assets/configuration.svg) [*Create WhatsApp Messages*](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Preview, Validate, and Send WhatsApp Messages &#x200B;](./assets/communication-channel.svg){width="50"}[**Preview, Validate, and Send WhatsApp Messages**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![Crear mensajes de WhatsApp &#x200B;](./assets/configuration.svg) [*Crear mensajes de WhatsApp*](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Previsualizar, validar y enviar mensajes de WhatsApp &#x200B;](./assets/communication-channel.svg){width="50"}[**Previsualizar, validar y enviar mensajes de WhatsApp**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
 
-## Apply Best Practices
+## Aplicar prácticas recomendadas
 
-### Time messages to moments of value for the user
+### Mensajes de tiempo a momentos de valor para el usuario
 
 <!--
 CARDS
@@ -588,7 +588,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="Identificar posibles conflictos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1770071087955" alt="Identificar posibles conflictos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445647/?captions=spa&format=jpeg&nocache=1770071087955" alt="Identificar posibles conflictos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -601,7 +601,7 @@ CARDS
                     <p class="is-size-6">Descubra cómo identificar y administrar posibles conflictos, como superposición de públicos, cronologías simultáneas, canales de comunicación compartidos y restricciones de frecuencia entre los recorridos y las campañas para garantizar una experiencia de comunicación fluida y fácil de usar.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -638,7 +638,7 @@ CARDS
                     <p class="is-size-6">Obtenga información sobre qué contenido se puede personalizar en Journey Optimizer.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -661,7 +661,7 @@ CARDS
                     <p class="is-size-6">Aprenda a transformar los valores de personalización mediante las funciones de ayuda de personalización y comprenda diferentes casos de uso de las funciones de ayuda.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -684,7 +684,7 @@ CARDS
                     <p class="is-size-6">Obtenga información sobre cómo utilizar elementos de la biblioteca de personalización guardados en un mensaje y cómo crear y administrar los elementos de esta biblioteca.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -692,7 +692,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Control message frequency to avoid user fatigue:
+### Frecuencia del mensaje de control para evitar la fatiga del usuario:
 
 <!--
 CARDS
@@ -714,12 +714,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" target="_blank" rel="referrer" title="Asignación de puntuaciones de prioridad a acciones de entrada">Assign Priority Scores to Inbound Actions</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" target="_blank" rel="referrer" title="Asignación de puntuaciones de prioridad a acciones de entrada">Asignar puntuaciones de prioridad a las acciones entrantes</a>
                     </p>
                     <p class="is-size-6">Obtenga información sobre cómo priorizar las acciones de entrada, asegurándose de que el contenido de mayor prioridad se entregue a un cliente cuando este cumpla los requisitos para varias acciones de entrada mediante la misma configuración de canal.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
@@ -737,12 +737,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" target="_blank" rel="referrer" title="Restricción de la frecuencia y priorización de recorridos">Journey Frequency Capping and Prioritization</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" target="_blank" rel="referrer" title="Restricción de la frecuencia y priorización de recorridos">Límite de frecuencia de Recorrido y priorización</a>
                     </p>
                     <p class="is-size-6">Obtenga información sobre cómo priorizar las acciones de entrada, asegurándose de que el contenido de mayor prioridad se entregue a un cliente cuando este cumpla los requisitos para varias acciones de entrada mediante la misma configuración de canal.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>

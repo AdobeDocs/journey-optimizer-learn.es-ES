@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Descubra cómo identificar y administrar posibles conflictos, como superposición de públicos, cronologías simultáneas, canales de comunicación compartidos y restricciones de frecuencia entre los recorridos y las campañas para garantizar una experiencia de comunicación fluida y fácil de usar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445647/?captions=spa&learn=on&enablevpops)
 
 Consulte la documentación del producto para obtener más información sobre cómo [Detectar posibles conflictos en recorridos y campañas](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/conflict-prioritization/conflicts).
