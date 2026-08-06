@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo utilizar la toma de decisiones para personalizar su página web en el editor visual web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496306/?captions=spa&learn=on&enablevpops)

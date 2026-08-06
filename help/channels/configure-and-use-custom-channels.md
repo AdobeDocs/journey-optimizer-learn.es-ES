@@ -31,4 +31,4 @@ Obtenga información sobre cómo conectar canales de mensajería no admitidos de
 
 Este vídeo muestra cómo crear un canal de salida personalizado de extremo a extremo y utilizarlo en un recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496289/?captions=spa&learn=on&enablevpops)
