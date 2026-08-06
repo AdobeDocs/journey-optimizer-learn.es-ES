@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1567'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,10 +44,10 @@ ht-degree: 94%
   + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
   + [Analizar y crear recorridos con IA](/help/ai-agents/journey-agent-overview.md)
   + [Creación de un perfil de prueba](/help/journeys/test-a-journey.md)
-  + [Simulación de recorridos con audiencias externas](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Simular recorridos con público externo](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
   + [Actividad de decisión de contenido](/help/journeys/content-decision-activity.md)
-  + [Uso de la búsqueda de conjuntos de datos en un recorrido](/help/journeys/lookup-dataset.md)
+  + [Usar la búsqueda del conjunto de datos en un recorrido](/help/journeys/lookup-dataset.md)
   + [Filtrado principal de varios atributos](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Uso de la segmentación de varias entidades con públicos federados en recorridos](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Validación de la lógica del recorrido con el ensayo de recorrido](/help/journeys/journey-dry-run.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [Creación de contenido con el Diseñador de correo electrónico](/help/channels/create-content-with-the-email-designer.md)
     + [Importación y creación de contenido de correo electrónico HTML](/help/channels/import-and-author-html-email-content.md)
     + [Previsualización, prueba y publicación](/help/channels/preview-proof-and-publish.md)
-    + [Creación de contenido con tecnología de IA y marca: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Creación de contenido coherente con la marca y con tecnología de IA: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Tarjetas de contenido{#content-cards}
     + [Creación de tarjetas de contenido](/help/channels/create-content-cards.md)
   + Canal en la aplicación{#in-app-channel}
@@ -123,7 +123,7 @@ ht-degree: 94%
     + [Introducción al canal de WhatsApp](/help/channels/whatsapp-introduction.md)
     + [Configuración del canal de WhatsApp](/help/channels/set-up-whatsapp.md)
     + [Creación de un recorrido de WhatsApp](/help/channels/create-a-whatsapp-journey.md)
-  + [Configuración y uso de canales personalizados](/help/channels/configure-and-use-custom-channels.md)
+  + [Configurar y usar canales personalizados](/help/channels/configure-and-use-custom-channels.md)
 + Administración de contenido{#content-management}
   + [Creación de mensajes: información general](/help/content-management/message-authoring-overview.md)
   + Administración de recursos {#assets}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
   + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Habilitación de las integraciones de datos externos en la creación de canales](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Creación de contenido de marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Crear contenido coherente con la marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalización del contenido {#personalize-content}
   + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
   + [Personalización basada en perfiles y abono al público](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
