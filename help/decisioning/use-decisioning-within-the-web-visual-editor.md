@@ -1,6 +1,6 @@
 ---
-title: Utilice las decisiones para personalizar la página web en el editor visual web
-description: Aprenda a utilizar la toma de decisiones para personalizar la página web en el editor visual web.
+title: Utilice la toma de decisiones para personalizar su página web en el editor visual web
+description: Obtenga información sobre cómo utilizar la toma de decisiones para personalizar su página web en el editor visual web.
 feature: Decisioning, Web Channel
 role: User
 level: Beginner
@@ -19,15 +19,15 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Utilice las decisiones para personalizar la página web en el editor visual web
+# Utilice la toma de decisiones para personalizar su página web en el editor visual web
 
-Aprenda a utilizar la toma de decisiones para personalizar la página web en el editor visual web.
+Obtenga información sobre cómo utilizar la toma de decisiones para personalizar su página web en el editor visual web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496306/?captions=spa&learn=on&enablevpops)
