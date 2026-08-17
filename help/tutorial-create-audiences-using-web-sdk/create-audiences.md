@@ -35,7 +35,7 @@ Las audiencias en Adobe Experience Platform son grupos de usuarios creados en fu
   * Clientes interesados en el CD
 
 
-* Asegúrese de que el método de evaluación de cada audiencia esté establecido en _**Edge**_ para la calificación en tiempo real.
+* Asegúrese de que el método de evaluación de cada audiencia esté establecido en _&#x200B;**Edge**&#x200B;_ para la calificación en tiempo real.
   ![audiencia de Edge](assets/audience-edge.png)
 
 * Utilice el campo PreferredFinancialInstrument para segmentar a los usuarios según su interés de inversión seleccionado, como acciones, bonos o CD
@@ -49,7 +49,7 @@ Las audiencias en Adobe Experience Platform son grupos de usuarios creados en fu
 
 >[!NOTE]
 >
->>Si el campo PreferredFinancialInstrument no está visible en la pestaña Eventos, haga clic en el icono de configuración y active Mostrar el esquema XDM completo.
+>&#x200B;>Si el campo PreferredFinancialInstrument no está visible en la pestaña Eventos, haga clic en el icono de configuración y active Mostrar el esquema XDM completo.
 
 
 
