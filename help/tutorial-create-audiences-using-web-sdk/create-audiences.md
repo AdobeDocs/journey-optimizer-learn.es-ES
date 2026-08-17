@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
 jira: KT-17923
-source-git-commit: ba83be3caf214d2daaa8c99556d246686ff3f0cb
+exl-id: d90f1868-0514-49b2-832d-82460883b6e4
+source-git-commit: 073d4a99b74a0bc341117e83a66747aed02648bf
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -23,15 +24,15 @@ Las audiencias en Adobe Experience Platform son grupos de usuarios creados en fu
 * Vaya a Cliente -> Audiencias -> Crear audiencia
 * Crear audiencias mediante el método de generación de reglas
 
-  ![audiencia](assets/rule-based-audience.png)
+  ![público](assets/rule-based-audience.png)
 
 * Crear las tres audiencias siguientes
 
-   * Clientes interesados en las acciones
+  * Clientes interesados en las acciones
 
-   * Clientes interesados en bonos
+  * Clientes interesados en bonos
 
-   * Clientes interesados en el CD
+  * Clientes interesados en el CD
 
 
 * Asegúrese de que el método de evaluación de cada audiencia esté establecido en _&#x200B;**Edge**&#x200B;_ para la calificación en tiempo real.
@@ -53,5 +54,3 @@ Las audiencias en Adobe Experience Platform son grupos de usuarios creados en fu
 
 
 ![toggle-full-xdm-schema](assets/show-custom-fields.png)
-
-
