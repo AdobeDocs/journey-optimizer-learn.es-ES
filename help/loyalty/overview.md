@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '396'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ Esta sección presenta la lealtad de Journey Optimizer: qué es, dónde se encue
 
 * [Descubre lo que es la lealtad de Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Comprenda qué es la lealtad de Journey Optimizer, dónde se encuentra en AJO y el ciclo vital de los desafíos.
+
+## Configurar fidelización
+
+Esta sección trata sobre la configuración inicial única necesaria para empezar a crear un desafío.
+
+* [Configurar un proveedor de recompensas por fidelidad](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+Aprenda a configurar un proveedor de recompensas, crear definiciones de recompensas y configurar cargas de recompensas para que Adobe Journey Optimizer pueda emitir recompensas de lealtad a través de su sistema de recompensas externo.
 
 ## Configurar el desafío
 
@@ -45,3 +52,5 @@ Esta sección muestra cómo plantear un desafío a sus clientes a través de tar
 
 * [Crear una tarjeta de contenido de desafío](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 Aprenda a crear una tarjeta de contenido/experiencia basada en código de desafío, que cubra la inclusión y el progreso dinámico en las fases de inclusión, progreso y finalización, además de las recompensas y la configuración de canal.
+* [Configurar la mensajería de ciclo vital para su desafío](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+Aprenda a configurar la mensajería multicanal para cada fase de un desafío de fidelidad, desde invitaciones y mensajes de participación hasta notificaciones de finalización y recompensa.
