@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '393'
 ht-degree: 10%
 
 ---
@@ -51,6 +51,6 @@ Aprenda a utilizar CX Enterprise Coworker para crear, configurar y lanzar desaf�
 Esta sección muestra cómo plantear un desafío a sus clientes a través de tarjetas de contenido y experiencias basadas en código.
 
 * [Crear una tarjeta de contenido de desafío](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-Aprenda a crear una tarjeta de contenido/experiencia basada en código de desafío, que cubra la inclusión y el progreso dinámico en las fases de inclusión, progreso y finalización, además de las recompensas y la configuración de canal.
+Aprenda a crear una tarjeta de contenido de desafío que cubra la inclusión y el progreso dinámico en las fases de inclusión, progreso y finalización, además de las recompensas y la configuración de canal.
 * [Configurar la mensajería de ciclo vital para su desafío](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 Aprenda a configurar la mensajería multicanal para cada fase de un desafío de fidelidad, desde invitaciones y mensajes de participación hasta notificaciones de finalización y recompensa.

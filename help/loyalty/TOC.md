@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: fidelidad
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 9cf282f2c9f448648852931bfe0f3f7bb789205d
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
   + [Cree desafíos y obtenga perspectivas con el agente de Loyalty AI](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + Aplicar y mostrar el desafío {#apply-and-display-your-challenge}
   + [Crear una tarjeta de contenido de desafío](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [Mostrar contenido de desafío mediante el canal de experiencia basado en código](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
   + [Configurar la mensajería del ciclo vital para su desafío](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analizar e informar {#analyze-and-report}
   + {hide-from-toc}[Rastrear rendimiento con el informe de desafío](./analyze-and-report/track-performance-with-the-challenge-report.md)
