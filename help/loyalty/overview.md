@@ -305,7 +305,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="Publicación de un desafío y generación de un recorrido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498577/?format=jpeg&nocache=1787273065792" alt="Publicación de un desafío y generación de un recorrido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498580/?captions=spa&format=jpeg&nocache=1787273065792" alt="Publicación de un desafío y generación de un recorrido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

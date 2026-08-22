@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Aprenda a configurar un proveedor de recompensas, crear definiciones de recompensas y configurar cargas de recompensas para que Adobe Journey Optimizer pueda emitir recompensas de lealtad a través de su sistema de recompensas externo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497412/?captions=spa&learn=on&enablevpops)
