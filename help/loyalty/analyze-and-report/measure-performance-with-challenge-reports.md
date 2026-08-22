@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Aprenda a utilizar los informes de desafío y los paneles de rendimiento para medir la participación, las tasas de finalización, la atribución de ingresos y el rendimiento general del programa de fidelización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497562/?captions=spa&learn=on&enablevpops)

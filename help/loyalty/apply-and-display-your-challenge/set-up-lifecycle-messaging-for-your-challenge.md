@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Aprenda a configurar la mensajería multicanal para cada fase de un desafío de fidelidad, desde invitaciones y mensajes de participación hasta notificaciones de finalización y recompensa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497458/?captions=spa&learn=on&enablevpops)

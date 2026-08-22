@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Aprenda a utilizar experiencias basadas en código para promover desafíos de lealtad, mostrar el progreso de los desafíos y ofrecer contenido personalizado dentro de la aplicación mediante HTML o JSON.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497468/?captions=spa&learn=on&enablevpops)

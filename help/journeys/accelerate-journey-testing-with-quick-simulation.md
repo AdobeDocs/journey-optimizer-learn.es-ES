@@ -19,4 +19,4 @@ ht-degree: 0%
 
 La simulación rápida simplifica la prueba de recorridos de clientes mediante la automatización de procesos clave. Genera perfiles de prueba, organiza eventos, acelera los tiempos de espera y valida escenarios. Esta herramienta ayuda a garantizar que los recorridos complejos funcionen según lo previsto antes de la publicación, lo que ahorra tiempo y mejora la precisión.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497478/?captions=spa&learn=on&enablevpops)

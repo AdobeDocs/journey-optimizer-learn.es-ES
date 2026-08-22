@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo publicar un desafío y generar automáticamente un recorrido. Descubra cómo se traducen las comunicaciones de desafío en orquestación de recorrido, revise la estructura de recorrido generada y personalícela con condiciones, decisiones o lógica de optimización adicionales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498580/?captions=spa&learn=on&enablevpops)
