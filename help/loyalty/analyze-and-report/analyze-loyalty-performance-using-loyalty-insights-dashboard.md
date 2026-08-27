@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Explore el panel de perspectivas de fidelidad y descubra cómo las perspectivas generadas por IA le ayudan a identificar cambios significativos en el rendimiento del programa de fidelidad, priorizar conclusiones basadas en KPI empresariales y tomar medidas sobre las métricas que más importan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497562/?captions=spa&learn=on&enablevpops)
