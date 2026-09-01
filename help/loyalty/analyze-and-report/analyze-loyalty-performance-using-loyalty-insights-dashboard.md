@@ -1,36 +1,22 @@
 ---
-title: Analizar el rendimiento de lealtad mediante el panel de perspectivas de lealtad
-description: Explore el panel de perspectivas de fidelidad y descubra cómo las perspectivas generadas por IA le ayudan a identificar cambios significativos en el rendimiento del programa de fidelidad, priorizar conclusiones basadas en KPI empresariales y tomar medidas sobre las métricas que más importan.
+title: Analizar el rendimiento de la lealtad con el panel de perspectivas
+description: Explore el panel de perspectivas de fidelización, donde las perspectivas generadas por IA muestran cambios significativos y dan prioridad a los resultados por KPI.
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 201
-last-substantial-update: '2026-08-27T00:00:00.000Z'
+last-substantial-update: 2026-08-27T00:00:00Z
 jira: KT-21771
-autotag-review: '2026-08-27T22:18:01.534Z'
-TQID: 'https://experienceleague.adobe.com/THYMO-t-IzY4zrgLU-XSOkTk5Vox9ck41HCHOiVUx28'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
-subfeature_v2:
-  - id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 356f2f8512bc4be640f00d5e9cbdd45d2ddb007c
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 
-# Analizar el rendimiento de lealtad mediante el panel de perspectivas de lealtad
+# Analizar el rendimiento de la lealtad con el panel de perspectivas
 
-Explore el panel de perspectivas de fidelidad y descubra cómo las perspectivas generadas por IA le ayudan a identificar cambios significativos en el rendimiento del programa de fidelidad, priorizar conclusiones basadas en KPI empresariales y tomar medidas sobre las métricas que más importan.
+Explore el panel de perspectivas de fidelización, donde las perspectivas generadas por IA muestran cambios significativos y dan prioridad a los resultados por KPI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3502413/?learn=on&enablevpops)
