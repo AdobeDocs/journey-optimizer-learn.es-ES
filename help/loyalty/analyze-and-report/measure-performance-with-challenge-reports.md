@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Utilice informes y paneles de desafío para medir la participación, las tasas de finalización y los ingresos de su programa de fidelidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497562/?captions=spa&learn=on&enablevpops)
