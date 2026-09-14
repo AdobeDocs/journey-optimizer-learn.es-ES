@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Aprenda a recuperar datos de desafío con una acción personalizada y utilícela para personalizar dinámicamente tarjetas de contenido y experiencias basadas en código en función del progreso y las recompensas del desafío de cada miembro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503387/?captions=spa&learn=on&enablevpops)
