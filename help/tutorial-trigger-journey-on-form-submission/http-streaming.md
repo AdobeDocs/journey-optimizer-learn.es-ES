@@ -19,4 +19,4 @@ Configure el formulario para enviar datos de envío a Adobe Experience Platform 
 
 **Definir punto final de flujo HTTP**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478499?captions=spa)
