@@ -5,25 +5,24 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
-
 ---
-
 # Crear fórmula de clasificación
 
 Durante la toma de decisiones de oferta se utiliza una fórmula de clasificación en Adobe Journey Optimizer, específicamente dentro de una estrategia de selección para determinar el orden de prioridad de las ofertas aptas. La fórmula de clasificación entra en juego después del filtrado de elegibilidad, cuando varias ofertas cumplen los requisitos para un perfil determinado, pero solo la principal (o pocas) debe presentarse en función de la lógica empresarial o el contexto del perfil.
 
 * Iniciar sesión en Journey Optimizer
 
-* Vaya a _&#x200B;**Decisión ->Configuración de estrategia ->Fórmulas de clasificación ->Crear fórmula**&#x200B;_
+* Vaya a _**Decisión ->Configuración de estrategia ->Fórmulas de clasificación ->Crear fórmula**_
 
-Asigne un nombre a la fórmula _&#x200B;**Tiempo - Relacionado - Ofertas**&#x200B;_
+Asigne un nombre a la fórmula _**Tiempo - Relacionado - Ofertas**_
 
 
 
