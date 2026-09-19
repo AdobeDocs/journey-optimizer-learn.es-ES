@@ -5,15 +5,14 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21
 jira: KT-18526
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+exl-id: 34027499-0037-4ea1-813b-51be15eafe24
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '230'
 ht-degree: 0%
-
 ---
-
 # Habilitar el límite de frecuencia para una campaña de AJO
 
 Para aplicar un límite de frecuencia a las ofertas, complete los siguientes pasos:
@@ -47,5 +46,3 @@ Active la campaña modificada.
 ## Envío de eventos de impresión y seguimiento
 
 Modifique el código JavaScript existente para capturar y enviar eventos de impresión e interacción de ofertas a Adobe Experience Platform mediante el SDK web de Adobe. Consulte el [código de ejemplo proporcionado aquí.](capture-impression-click-events.md)
-
-

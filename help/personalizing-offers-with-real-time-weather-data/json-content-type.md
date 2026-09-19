@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-18T00:00:00Z
+last-substantial-update: 2025-06-18
 jira: KT-18387
 recommendations: noDisplay, noCatalog
-source-git-commit: 9f5b52063605832a9b00c05fb1a93bf60ec7686f
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
-
+source-wordcount: '501'
+ht-degree: 3%
 ---
-
 # Entrega de Personalization con contenido JSON en Adobe Journey Optimizer
 
 Esta sección se proporciona como recurso adicional para usuarios avanzados que desean un mayor control sobre cómo se representan las ofertas en el front-end.
@@ -66,5 +65,5 @@ La respuesta de AJO contiene elementos de decisión personalizados en formato JS
 
 Para empezar, descargue el archivo HTML de muestra y el archivo JavaScript que muestran cómo utilizar ofertas basadas en JSON y procesarlas dinámicamente en su página web.
 
-[Código JavaScript](assets/weather-related-offers-script-multiple-json.js)
+[código JavaScript](assets/weather-related-offers-script-multiple-json.js)
 [Archivo HTML](assets/multiple-json.html)

@@ -5,16 +5,15 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24T00:00:00Z
+last-substantial-update: 2025-09-24
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
+exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
-
+source-wordcount: '290'
+ht-degree: 10%
 ---
-
 # Déclencheur del Recorrido de Adobe Journey Optimizer mediante Adobe Web SDK
 
 En esta extensión del tutorial de vinculación de identidad, se activa el recorrido de Adobe Journey Optimizer que envía un correo electrónico al usuario que ha iniciado sesión utilizando su perfil vinculado. **Este artículo supone que está familiarizado con el canal de correo electrónico y la creación de contenido para el canal de correo electrónico.**
@@ -39,7 +38,7 @@ En esta extensión del tutorial de vinculación de identidad, se activa el recor
 * Compruebe si eventType del evento es igual a LoginEvent. El tipo `LoginEvent` se ha definido en la etiqueta Adobe Experience Platform.
 * Guarde el evento
 
-## Crear Journey
+## Crear Recorrido
 
 * Iniciar sesión en _&#x200B;**Journey Optimizer**&#x200B;_
 * Vaya a _&#x200B;**Administración de Recorrido -> Recorridos -> Crear Recorrido**&#x200B;_
@@ -53,7 +52,3 @@ El recorrido se activa cuando la carga útil de evento enviada a través de Web 
 
 * Verifíquelo consultando el informe de recorrido
 * ![informe-recorrido](assets/journey-triggered-report.png)
-
-
-
-

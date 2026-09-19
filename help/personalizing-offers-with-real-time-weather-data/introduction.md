@@ -1,19 +1,18 @@
 ---
-title: Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante Web SDK
-description: Este tutorial muestra cómo ofrecer ofertas dinámicas según el tiempo en Adobe Journey Optimizer utilizando datos contextuales en tiempo real y la API de Personalization de Adobe Web SDK. Aprenderá a pasar atributos meteorológicos (como temperatura y condiciones) de su sitio web a Adobe Experience Platform, asignarlos a su esquema de evento y utilizarlos en reglas de decisión y fórmulas de clasificación para personalizar ofertas en el momento de cargar la página. Ideal para especialistas en marketing y desarrolladores que buscan mejorar las experiencias digitales con un contexto ambiental en tiempo real.
+title: Personalización de ofertas con datos meteorológicos en tiempo real en Adobe Journey Optimizer mediante SDK web
+description: Este tutorial muestra cómo presentar ofertas dinámicas y adaptadas a las condiciones meteorológicas en Adobe Journey Optimizer utilizando datos contextuales en tiempo real y la API de personalización del SDK web de Adobe. Aprenderá a pasar atributos meteorológicos (como temperatura y condiciones) de su sitio web a Adobe Experience Platform, asignarlos a su esquema de evento y utilizarlos en reglas de decisión y fórmulas de clasificación para personalizar ofertas en el momento de cargar la página. Ideal para especialistas en marketing y desarrolladores que buscan mejorar las experiencias digitales con un contexto ambiental en tiempo real.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+exl-id: f40dd541-470c-4f42-8181-eb1c277ebaa3
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
-
+source-wordcount: '230'
+ht-degree: 42%
 ---
-
 # Descripción del caso de uso
 
 El uso de datos relacionados con el tiempo en Adobe Journey Optimizer (AJO) para ofrecer ofertas permite a las empresas personalizar las experiencias de los clientes en función de las condiciones ambientales en tiempo real. El tiempo es una poderosa señal contextual. Las necesidades y el comportamiento de la gente cambian dependiendo del clima. Mediante los datos meteorológicos:
