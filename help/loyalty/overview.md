@@ -52,7 +52,7 @@ CARDS
 
 * https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts
+* https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts
     {decription = Before you build anything in Adobe Journey Optimizer Loyalty, it helps to understand what a loyalty challenge is and the few pieces it's made of.}
 
 -->
@@ -85,7 +85,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" title="Comprensión de los conceptos de desafío de lealtad" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" title="Comprensión de los conceptos de desafío de lealtad" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/slideshow.png" alt="Comprensión de los conceptos de desafío de lealtad"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="Comprensión de los conceptos de desafío de lealtad">Comprender los conceptos del desafío de lealtad</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="Comprensión de los conceptos de desafío de lealtad">Comprender los conceptos del desafío de lealtad</a>
                     </p>
                     <p class="is-size-6">Comprender los conceptos y el vocabulario principales detrás de Journey Optimizer Loyalty. Aprenderá lo que constituye un desafío de lealtad (desafíos, tareas y recompensas) y cómo encajan las piezas, por lo que tendrá el modelo mental que necesita antes de crear uno en el siguiente módulo.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/introduction/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
