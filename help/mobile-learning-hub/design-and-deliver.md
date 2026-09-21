@@ -136,7 +136,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Crear notificación push ](./assets/configuration.svg)[**Crear una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Diseñar notificación push ](./assets/content-management.png){width="50"}[**Diseñar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Enviar notificación push ](./assets/communication-channel.svg)[**Enviar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![Crear notificación push &#x200B;](./assets/configuration.svg) [**Crear una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Diseñar notificación push &#x200B;](./assets/content-management.png){width="50"}[**Diseñar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Enviar notificación push &#x200B;](./assets/communication-channel.svg) [**Enviar una notificación push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB En la aplicación]
@@ -218,7 +218,7 @@ CARDS
 
 #### Documentación
 
-| ![Crear mensaje ](./assets/configuration.svg)[**Crear mensajes móviles en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Diseñar contenido ](./assets/content-management.png){width="50"}[**Diseñar contenido en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Enviar notificación ](./assets/communication-channel.svg)[**Enviar notificaciones en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![Crear mensaje &#x200B;](./assets/configuration.svg) [**Crear mensajes móviles en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Diseñar contenido &#x200B;](./assets/content-management.png){width="50"}[**Diseñar contenido en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Enviar notificación &#x200B;](./assets/communication-channel.svg) [**Enviar notificaciones en la aplicación**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Tarjetas de contenido]
@@ -268,7 +268,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Crear y configurar tarjetas de contenido ](./assets/configuration.svg)[**Crear y configurar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Diseñar tarjetas de contenido ](./assets/content-management.png){width="50"}[**Diseñar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![Crear y configurar tarjetas de contenido &#x200B;](./assets/configuration.svg) [**Crear y configurar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Diseñar tarjetas de contenido &#x200B;](./assets/content-management.png){width="50"}[**Diseñar tarjetas de contenido**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Actividades activas]
@@ -294,7 +294,7 @@ Aprenda a crear y entregar actualizaciones de Android Live en Adobe Journey Opti
 
 #### Documentación del producto
 
-| ![Configurar Actividad En Directo ](./assets/configuration.svg)[**Configurar Actividad En Directo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+| ![Configurar Actividad En Directo &#x200B;](./assets/configuration.svg) [**Configurar Actividad En Directo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -448,7 +448,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Introducción a los mensajes de texto ](./assets/configuration.svg)[**Introducción a los mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Diseñar contenido ](./assets/content-management.png){width="50"}[**Crear mensajes SMS, MMS y RCS**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Enviar notificación ](./assets/communication-channel.svg)[**Comprobar y enviar mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![Introducción a los mensajes de texto &#x200B;](./assets/configuration.svg) [**Introducción a los mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Diseñar contenido &#x200B;](./assets/content-management.png){width="50"}[**Crear mensajes SMS, MMS y RCS**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Enviar notificación &#x200B;](./assets/communication-channel.svg) [**Comprobar y enviar mensajes de texto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Experiencias basadas en código]
@@ -519,7 +519,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Crear experiencias basadas en código ](./assets/content-management.png){width="50"}[**Crear experiencias basadas en código**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![Crear experiencias basadas en código &#x200B;](./assets/content-management.png){width="50"}[**Crear experiencias basadas en código**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -592,7 +592,7 @@ CARDS
 
 #### Documentación del producto
 
-| ![Crear mensajes de WhatsApp ](./assets/configuration.svg)[*Crear mensajes de WhatsApp*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Previsualizar, validar y enviar mensajes de WhatsApp ](./assets/communication-channel.svg){width="50"}[**Previsualizar, validar y enviar mensajes de WhatsApp**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![Crear mensajes de WhatsApp &#x200B;](./assets/configuration.svg) [*Crear mensajes de WhatsApp*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Previsualizar, validar y enviar mensajes de WhatsApp &#x200B;](./assets/communication-channel.svg){width="50"}[**Previsualizar, validar y enviar mensajes de WhatsApp**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
