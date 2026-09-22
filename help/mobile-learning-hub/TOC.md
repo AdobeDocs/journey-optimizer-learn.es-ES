@@ -1,29 +1,28 @@
 ---
 user-guide-title: Centro de aprendizaje móvil
-user-guide-description: null
+user-guide-description:
 role: User, Admin, Devloper
 level: Beginner,Intermediate
 breadcrumb-title: Centro de aprendizaje móvil de AJO
 breadcrumb-url: /docs/journey-optimizer-learn/mobile-learning-hub/overview
 auto-video-transcripts: true
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 30%
-
+source-wordcount: '44'
+ht-degree: 34%
 ---
-
 
 # Centro de aprendizaje móvil {#mobile-learning-hub}
 
 + [Centro de aprendizaje móvil de AJO](/help/mobile-learning-hub/overview.md)
 + Información general sobre canales móviles {#mobile-channels-overview}
-   + [Notificaciones push](/help/mobile-learning-hub/channels/push-notifications-overview.md)
-   + [Mensajes en la aplicación](/help/mobile-learning-hub/channels/in-app-messages-overview.md)
-   + [Tarjetas de contenido](/help/mobile-learning-hub/channels/content-cards-overview.md)
-   + [Experiencia basada en código](/help/mobile-learning-hub/channels/code-based-experience-overview.md)
-   + [SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)
-   + [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)
+  + [Notificaciones push](/help/mobile-learning-hub/channels/push-notifications-overview.md)
+  + [Mensajes en la aplicación](/help/mobile-learning-hub/channels/in-app-messages-overview.md)
+  + [Tarjetas de contenido](/help/mobile-learning-hub/channels/content-cards-overview.md)
+  + [Experiencia basada en código](/help/mobile-learning-hub/channels/code-based-experience-overview.md)
+  + [SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)
+  + [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)
+  + [Actividades en directo](/help/mobile-learning-hub/channels/live-activities-overview.md)
 + [Configuración e inicio](/help/mobile-learning-hub/configure-and-launch.md)
 + [Diseño y entrega](/help/mobile-learning-hub/design-and-deliver.md)
 + [Medir y optimizar](/help/mobile-learning-hub/measure-and-optimize.md)

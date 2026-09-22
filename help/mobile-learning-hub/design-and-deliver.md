@@ -6,15 +6,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '3509'
-ht-degree: 68%
-
+source-wordcount: '3622'
+ht-degree: 67%
 ---
-
 # Diseño y entrega
 
 Descubra cómo crear y ofrecer comunicaciones móviles impactantes con Adobe Journey Optimizer. Aprenda a crear, diseñar y enviar una variedad de tipos de mensajes, incluidas notificaciones push, mensajes en la aplicación, tarjetas de contenido, SMS/MMS/RCS, mensajes de marketing de WhatsApp y experiencias basadas en código, adaptadas a su audiencia y optimizadas para la participación móvil.
@@ -272,6 +270,32 @@ CARDS
 
 | ![Crear y configurar tarjetas de contenido &#x200B;](./assets/configuration.svg) [**Crear y configurar tarjetas de contenido**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Diseñar tarjetas de contenido &#x200B;](./assets/content-management.png){width="50"}[**Diseñar tarjetas de contenido**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+>[!TAB Actividades activas]
+
+### Actividades en directo
+
+>[!PREREQUISITES]
+>
+> 1. Compruebe que la aplicación esté integrada con Mobile SDK y configurada con las extensiones de Live Activity (consulte [Configuración de Live Activity](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}).
+> 2. Asegúrese de que los perfiles de cliente y los segmentos de audiencia estén listos para la segmentación.
+
+#### iOS Live Activities
+
+Descubra cómo configurar iOS Live Activities con Adobe Journey Optimizer para ofrecer actualizaciones enriquecidas en tiempo real en la pantalla de bloqueo de iPhone y Dynamic Island.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479867/?captions=spa&learn=on&enablevpops)
+
+#### Actualizaciones de Android Live
+
+Aprenda a crear y entregar actualizaciones de Android Live en Adobe Journey Optimizer, lo que permite experiencias de cliente persistentes en tiempo real que mantienen a los usuarios informados a medida que las actividades progresan.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+
+#### Documentación del producto
+
+| ![Configurar Actividad En Directo &#x200B;](./assets/configuration.svg) [**Configurar Actividad En Directo**](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
 
@@ -532,7 +556,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" target="_blank" rel="referrer" title="Introducción al canal de WhatsApp">Introducción al canal de WhatsApp</a>
                     </p>
-                    <p class="is-size-6">El vídeo ofrece información general de alto nivel sobre el valor de la integración de WhatsApp con Adobe Journey Optimizer. Resalta el alcance global de WhatsApp y sus beneficios de participación, y destaca los requisitos previos clave como la configuración de una cuenta de WhatsApp Business, mediante generación de tókenes de acceso y la creación de plantillas de mensajes.</p>
+                    <p class="is-size-6">El vídeo ofrece información general de alto nivel sobre el valor de la integración de WhatsApp con Adobe Journey Optimizer. Resalta el alcance global de WhatsApp y sus beneficios de participación, y destaca los requisitos previos clave como la configuración de una cuenta de WhatsApp Business, mediante generación de tokens de acceso y la creación de plantillas de mensajes.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>

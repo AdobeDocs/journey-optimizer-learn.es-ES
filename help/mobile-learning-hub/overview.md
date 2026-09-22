@@ -6,15 +6,13 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 5%
-
 ---
-
 # Journey Optimizer: centro de aprendizaje móvil
 
 Comience o aumente su estrategia de participación móvil con Adobe Journey Optimizer. El centro de aprendizaje móvil proporciona a desarrolladores, administradores, expertos en marketing y analistas todo lo necesario para configurar canales móviles de entrada y de salida, e integrarlos perfectamente en potentes recorridos y campañas en canales múltiples.
@@ -34,9 +32,9 @@ Los canales salientes le permiten enviar mensajes de forma proactiva a los clien
 
 Todos los canales salientes de Adobe Journey Optimizer aplican directivas de consentimiento personalizadas en el momento de enviar el mensaje. Si no se concede el consentimiento para una acción de marketing específica, el mensaje se suprime automáticamente para garantizar la entrega conforme.
 
-| ![Notificaciones push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notificaciones Push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| Enviados fuera de la aplicación, los mensajes push llaman la atención inmediatamente. Son perfectas para actualizaciones que requieren tiempo y para animar a los usuarios a volver a su aplicación. | Mensajes directos enviados a los teléfonos móviles de los usuarios sin necesidad de la aplicación. Ideal para alertas urgentes, recordatorios y contenido con medios enriquecidos, como imágenes o vídeos. | Canal de conversación a través de una aplicación de mensajería ampliamente utilizada, que permite comunicaciones personalizadas y bidireccionales y campañas interactivas. |
+| ![Notificaciones push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notificaciones Push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Actividades activas](/help/mobile-learning-hub/assets/live-activities.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Actividades activas](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| Enviados fuera de la aplicación, los mensajes push llaman la atención inmediatamente. Son perfectas para actualizaciones que requieren tiempo y para animar a los usuarios a volver a su aplicación. | Mensajes directos enviados a los teléfonos móviles de los usuarios sin necesidad de la aplicación. Ideal para alertas urgentes, recordatorios y contenido con medios enriquecidos, como imágenes o vídeos. | Canal de conversación a través de una aplicación de mensajería ampliamente utilizada, que permite comunicaciones personalizadas y bidireccionales y campañas interactivas. | Actualizaciones persistentes en tiempo real en la pantalla de bloqueo, Dynamic Island o el tono de notificación que mantienen informados a los clientes a medida que progresa una actividad. |
 
 ### Canales de entrada
 
