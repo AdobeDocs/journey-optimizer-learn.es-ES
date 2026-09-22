@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -12,10 +12,10 @@ Las **actividades en vivo** le permiten entregar actualizaciones persistentes en
 
 Adobe Journey Optimizer admite actividades activas en las dos plataformas móviles principales:
 
-* **[Actividades de iOS Live](/help/channels/ios-live-activities.md)**: actualizaciones enriquecidas en tiempo real en la pantalla de bloqueo de iPhone y Dynamic Island.
+* **[Actividades de iOS Live](/help/channels/ios-live-activities.md)**: Actualizaciones en tiempo real y enriquecidas en la pantalla de bloqueo de iPhone y Dynamic Island.
 * **[Actualizaciones de Android Live](/help/channels/android-live-updates.md)**: actualizaciones persistentes en tiempo real en el sombreado de notificaciones de Android.
 
-Para configurar Mobile SDK y usar las API para iniciar, actualizar y finalizar experiencias en directo en los recorridos de los clientes, consulta [Configurar la actividad en directo](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
+Para configurar Mobile SDK y usar las API para iniciar, actualizar y finalizar experiencias en directo en los recorridos de los clientes, consulta [Configurar la actividad en directo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
 
 ## Casos de uso
 
@@ -32,5 +32,5 @@ Elija actividades en directo como su canal preferido cuando necesite:
 
 * Para estados de larga duración o abiertos sin un final claro: finalice la actividad una vez que se complete el proceso subyacente.
 * Para contenido promocional o de marketing: en su lugar, utilice notificaciones push, mensajes en la aplicación o tarjetas de contenido.
-* Cuando la cadencia de actualización es muy alta, el sistema operativo puede limitar las actualizaciones frecuentes o hacer ruido al usuario.
+* Cuando la cadencia de la actualización es muy alta: el sistema operativo puede limitar las actualizaciones frecuentes o hacer ruido al usuario.
 * Si la aplicación no admite las versiones de sistema operativo mínimas requeridas para las actividades de iOS Live o las actualizaciones de Android Live.
