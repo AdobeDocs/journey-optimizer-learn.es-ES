@@ -5,17 +5,15 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
 source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 0%
-
 ---
-
 # Prueba de la solución
 
 Para validar la implementación de, abra la página web que contiene el formulario de preferencias. Utilice las herramientas de desarrollo del explorador (pestañas Consola y Red) para monitorizar el proceso de envío del formulario. Después de enviar una preferencia (por ejemplo, seleccionando &quot;Existencias&quot;), confirme que AEP Web SDK (alloy.sendEvent) realiza correctamente el déclencheur y que se envían los datos correctos a Adobe Experience Platform. En AEP, vaya a la sección Audiencias y compruebe que su perfil cumple los requisitos de la audiencia esperada (por ejemplo, &quot;Interesado en acciones&quot;) en unos momentos, mediante la segmentación de Edge. También puede inspeccionar los datos de evento entrantes en el conjunto de datos asociado para asegurarse de que contienen el valor de preferencia correcto. Repetir este proceso para cada clase de recurso (acciones, bonos, CD) para garantizar que el flujo de trabajo completo funcione correctamente.
