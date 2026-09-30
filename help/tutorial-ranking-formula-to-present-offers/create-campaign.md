@@ -5,17 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
 source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '741'
 ht-degree: 0%
-
 ---
-
 # Creación de una campaña
 
 Para enviar ofertas personalizadas a los usuarios en la página web, se creó una campaña en Adobe Journey Optimizer y se configuró con el canal correcto, el canal web. Esta configuración garantiza que las ofertas se entreguen mediante decisiones en tiempo real a los usuarios que interactúen con el sitio web.
@@ -38,7 +36,7 @@ El resultado es un conjunto de ofertas personalizado, devuelto como contenido de
 1. **Crear una configuración de canal**\
    Defina dónde y cómo aparecen las ofertas (por ejemplo, una página web con experiencia basada en código).
    - Inicie sesión en Recorrido Optimizer
-Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x200B;_
+     Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x200B;_
    - **Nombre**: `finwise-web-personalization`\
      Identifica esta configuración para la entrega de ofertas web personalizadas de FinWise.
 
@@ -65,16 +63,16 @@ Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x2
 
 3. **Agregar acción**\
    Vaya a la pestaña _&#x200B;**Acciones**&#x200B;_
-Añada una acción de experiencia basada en código y vincule la acción a una configuración de canal creada anteriormente.
+   Añada una acción de experiencia basada en código y vincule la acción a una configuración de canal creada anteriormente.
 
 
 
 4. **Audiencia**\
    Vaya a la pestaña _&#x200B;**Audiencia**&#x200B;_
-Todos los visitantes (predeterminado).
+   Todos los visitantes (predeterminado).
 
    Tipo de identidad: ECID (Experience Cloud ID)
-Esta configuración utiliza el ECID como identidad principal para reconocer usuarios. Cuando se establece la vinculación de identidad, ECID está vinculado a CRM ID para Personalized Targeting. Seleccione o cree una política de decisión que defina la lógica de oferta.
+   Esta configuración utiliza el ECID como identidad principal para reconocer usuarios. Cuando se establece la vinculación de identidad, ECID está vinculado a CRM ID para Personalized Targeting. Seleccione o cree una política de decisión que defina la lógica de oferta.
 
 5. **Directiva de decisión**
 
@@ -84,12 +82,12 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
    Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en la ficha _&#x200B;**Acciones**&#x200B;_ y, a continuación, haga clic en **_Editar código_** para abrir el editor de personalización.
 
    Seleccione el icono _&#x200B;**Directiva de decisión**&#x200B;_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
-Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. Asegúrese de seleccionar la oferta de reserva adecuada.
+   Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. Asegúrese de seleccionar la oferta de reserva adecuada.
 
 6. **Insertar directiva de decisión**
 
    Inserte la directiva de decisión recién creada haciendo clic en el botón _&#x200B;**Insertar directiva**&#x200B;_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
-Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`
+   Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`
 
    Directiva de decisión insertada en el editor de personalización
 
