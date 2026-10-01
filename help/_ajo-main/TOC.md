@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1579'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Tutoriales de Journey Optimizer {#tutorials}
@@ -43,7 +43,7 @@ ht-degree: 98%
   + [Analizar y crear recorridos con IA](/help/ai-agents/journey-agent-overview.md)
   + [Creación de un perfil de prueba](/help/journeys/test-a-journey.md)
   + [Simular recorridos con público externo](/help/journeys/simulate-journeys-with-external-audiences.md)
-  + [Acelerar las pruebas de recorrido con simulación rápida](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
+  + [Acelerar las pruebas de recorrido con Simulación rápida](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
   + [Actividad de decisión de contenido](/help/journeys/content-decision-activity.md)
   + [Usar la búsqueda del conjunto de datos en un recorrido](/help/journeys/lookup-dataset.md)
@@ -62,7 +62,7 @@ ht-degree: 98%
     + [Caso de uso: Calificación de público](/help/journeys/use-case-audience-qualification.md)
   + Tutoriales{#tutorials}
     + [Activación de un recorrido al enviar un formulario](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [Fidelidad](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
++ [Lealtad](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + Administración y priorización de conflictos {#conflict-management}
   + [Identificar posibles conflictos](/help/conflict-management/identify-potential-conflicts.md)
   + [Asignar puntuaciones de prioridad](/help/conflict-management/assign-priority-score.md)
@@ -102,7 +102,7 @@ ht-degree: 98%
     + [Configuración de experimentos de contenido para mensajes en la aplicación](/help/experimentation/content-experiments-for-in-app-messages.md)
   + Actividades activas {#live-activities}
     + [iOS Live Activities](/help/channels/ios-live-activities.md)
-    + [Configuración de actualizaciones en directo para Android](/help/channels/android-live-updates.md)
+    + [Configuración de actualizaciones activas para Android](/help/channels/android-live-updates.md)
   + Canal push{#push-channel}
     + [Notificaciones push: información general](/help/channels/push-notifications-overview.md)
     + [Configuración y envío de una campaña push](/help/channels/create-a-push-campaign.md)
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [Uso de decisiones para personalizar ofertas web (tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Uso de la toma de decisiones en notificaciones push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Uso de la toma de decisiones en un mensaje SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + [Uso de decisiones en el editor visual web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [Usar la toma de decisiones en el editor visual web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Uso de la toma de decisiones para personalizar ofertas web (Tutorial)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Uso de fragmentos de contenido de Adobe Experience Manager con Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Activación de decisiones desde activadores externos e interacciones {#trigger}
