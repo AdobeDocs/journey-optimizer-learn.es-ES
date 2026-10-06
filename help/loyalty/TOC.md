@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: fidelidad
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: c6d18e0a5cc1f80affb52852be6d7fcc6c832fe1
+source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '170'
 ht-degree: 0%
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 0%
   + [Comprensión de los conceptos de desafío de lealtad](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Configurar fidelización {#set-up-loyality}
   + Configuración de la ingesta de datos de fidelización {#set-up-loyalty-data-ingestion}
-    + [Creación de esquemas y conjuntos de datos de perfil y evento](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
-    + [Configuración de la fuente de la API HTTP y asignación de datos de lealtad](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
+    + [Preparación de estructuras de datos de lealtad](./set-up-loyalty/prepare-loyalty-data-structures.md)
+    + [Conexión y asignación de datos de fidelidad](./set-up-loyalty/connect-and-map-loyalty-data.md)
     + [Verificar datos de fidelidad y configurar informes de rendimiento](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
   + [Configurar un proveedor de recompensas por fidelidad](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurar el desafío {#configure-your-challenge}
