@@ -117,5 +117,5 @@ JavaScript recupera dinámicamente información meteorológica en función de la
 
 ## Pasos siguientes
 
-[Mida e informe del impacto de AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Mida e informe del impacto de AJO Decisioning.](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
