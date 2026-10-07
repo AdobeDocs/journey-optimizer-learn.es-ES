@@ -1,53 +1,72 @@
 ---
-title: L535 Cheat Sheet
-description: This page has text and links that are being used in the L535 Summit Lab.
+title: Hoja de características clave L535
+description: Esta página contiene texto y vínculos que se están utilizando en el laboratorio L535 Summit.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
 level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 6eb7d9ad-3477-58b3-957a-080ef7738a30
+    internal-label: SMS
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 15%
-
 ---
+# Summit Lab L535 - Hoja de referencia
 
-# Summit Lab L535- Cheat Sheet
-
-This page has text and links that are being used in the L535 Summit Lab. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
+Esta página contiene texto y vínculos que se están utilizando en el laboratorio L535 Summit. Permite copiar y pegar el contenido en los mensajes de Journey Optimizer.
 
 ## Vínculos
 
-* [SecurFinancial Website](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
+* [Sitio web de SecurFinancial](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:ajo-summit-lab/journey-optimizer/journeys){target="_blank"}
-* [L535 Workbook](/help/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
-* [Download the app](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
+* [Libro L535](/help/summit-lab-assets/assets/summit_lab_manual_l535-final-v4.pdf){target="_blank"}
+* [Descargue la aplicación](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
 
-## Copy and paste for exercises
+## Copiar y pegar para ejercicios
 
-### Exercise 2.1 - Login to Journey Optimizer
+### Ejercicio 2.1: inicio de sesión en Journey Optimizer
 
-Log in using the following details:
+Inicie sesión con los siguientes detalles:
 
-Email Address:    L535+*your seat number*@adobeeventlab.com
+Dirección de correo electrónico: L535+*su número de asiento*@adobeeventlab.com
 
-Password:       Adobe4Summit!
+Contraseña: Adobe4Summit!
 
 
-### Exercise 2.3 - Compose the email message
+### Ejercicio 2.3: redactar el mensaje de correo electrónico
 
-#### Prompt
+#### Preguntar
 
 ```
 Generate a welcome email for new SecurFinancial customers who just opened a new checking account. 
 Add a call to action to install the SecurFinancial mobile app.
 ```
 
-### Exercise 3.1 - Apply dynamic content to the SMS message
+### Ejercicio 3.1: Aplicar contenido dinámico al mensaje SMS
 
 #### Código
 
@@ -67,7 +86,7 @@ s3.amazonaws.com/dxdemo/summit/index.html
 {%/if%} 
 ```
 
-### Exercise 4.2 - Configure the treatments
+### Ejercicio 4.2: Configurar los tratamientos
 
 #### Título
 
@@ -75,7 +94,7 @@ s3.amazonaws.com/dxdemo/summit/index.html
 Welcome to SecurFinancial
 ```
 
-#### Body Text
+#### Texto independiente
 
 ```
 Did you know you can find an ATM near in the SecurFinancial app? Try it now!
@@ -87,7 +106,7 @@ Did you know you can find an ATM near in the SecurFinancial app? Try it now!
 dxdemo://atm
 ```
 
-### Exercise 6 - Content Cards
+### Ejercicio 6: Tarjetas de contenido
 
 #### Título
 
@@ -101,19 +120,19 @@ Welcome to SecurFinancial!
 Thank you for downloading the app. You can find ATMs, track your spending and more. All within the app.
 ```
 
-#### Media URL
+#### URL de medios
 
 ```
 https://demo-system-next.s3.amazonaws.com/assets/securfinancial/home-loan.jpg
 ```
 
-#### Button Title
+#### Título del botón
 
 ```
 Find ATMs
 ```
 
-#### Target URL
+#### URL de destino
 
 ```
 dxdemo://atm
@@ -121,7 +140,7 @@ dxdemo://atm
 
 ## Imágenes
 
-![SecureFinancial logo](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+![Logotipo de SecureFinancial](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
 
 
 ![Teléfono móvil](/help/summit-lab-assets/assets/online-banking-app-01.png)

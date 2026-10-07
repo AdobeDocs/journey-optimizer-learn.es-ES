@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 108de002-f033-4b88-bee5-2b50463c345c
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
-
 ---
-
 # Crear propiedad de etiqueta
 
 En la segunda parte de este tutorial, aprenderá a almacenar en déclencheur las notificaciones push en tiempo real enviando manualmente un evento personalizado price.drop. Este método utiliza la recopilación de datos de AEP (etiquetas) para capturar el evento desde la página web y enviarlo a Adobe Experience Platform. Una vez introducido el evento, almacena en déclencheur un recorrido en Adobe Journey Optimizer, lo que le permite enviar notificaciones push bajo demanda en función de las acciones del usuario o los eventos empresariales.

@@ -6,16 +6,29 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2025-07-08T00:00:00Z
+last-substantial-update: 2025-07-08T00:00:00.000Z
 jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
-source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '708'
 ht-degree: 3%
-
 ---
-
 # Captura de interacciones de oferta con Adobe Web SDK para la formación sobre modelos de IA
 
 >[!NOTE]
@@ -24,7 +37,7 @@ ht-degree: 3%
 
 
 
-Este artículo muestra cómo capturar eventos de interacción de ofertas (como impresiones o clics) mediante Adobe Experience Platform Web SDK llamando a alloy(&quot;sendEvent&quot;, ...) directamente en el código de JavaScript. Los datos se incorporan en AEP y se utilizan para entrenar modelos de IA en Adobe Journey Optimizer (AJO) para una clasificación de ofertas más inteligente basada en el comportamiento en tiempo real.
+Este artículo muestra cómo capturar eventos de interacción de ofertas (como impresiones o clics) mediante Adobe Experience Platform Web SDK llamando a alloy(&quot;sendEvent&quot;, ...) directamente en el código JavaScript. Los datos se incorporan en AEP y se utilizan para entrenar modelos de IA en Adobe Journey Optimizer (AJO) para una clasificación de ofertas más inteligente basada en el comportamiento en tiempo real.
 
 Para crear un modelo de IA para la clasificación de ofertas en Adobe Journey Optimizer, el conjunto de datos debe basarse en un esquema que incluya el grupo de campos Interacciones de propuestas. Este grupo de campos admite eventos de toma de decisiones clave como decisioning.propositionDisplay y decisioning.propositionInteract, junto con campos obligatorios como involedPropositions, display e interaction.
 
@@ -41,7 +54,7 @@ En lugar de crear un nuevo esquema, el esquema de Evento de experiencia existent
 
 En Adobe Experience Platform:
 
-- Abra el esquema de evento de experiencia _&#x200B;**Weather-Schema**&#x200B;_ existente que esté usando para ofertas basadas en el clima.
+- Abra el esquema de evento de experiencia _**Weather-Schema**_ existente que esté usando para ofertas basadas en el clima.
 
 - Añada el grupo de campos:
 Evento de experiencia: interacciones de propuesta

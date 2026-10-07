@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1520'
 ht-degree: 2%
-
 ---
-
 # Lección 2: Creación de una campaña móvil en la aplicación
 
 En esta lección, crea y almacena en déclencheur mensajes móviles en la aplicación.
@@ -35,13 +48,14 @@ En esta lección, crea y almacena en déclencheur mensajes móviles en la aplica
    **Nombre de usuario:** L820+**`<your seat number>`**@adobeeventlab.com
    **Contraseña:** Adobe2024!
    <br>
-Puede encontrar los detalles de su inicio de sesión en el escritorio de su máquina de laboratorio. Utilice Adobe ID y la contraseña.   ![escritorio](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
+Puede encontrar los detalles de su inicio de sesión en el escritorio de su máquina de laboratorio. Utilice Adobe ID y la contraseña.
+   ![escritorio](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
 
-   !&lbrack;Pantalla de inicio de sesión
+   ![Pantalla de inicio de sesión](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
    <br>
 3. Puede omitir las dos pantallas siguientes:
    <br>
-   !&lbrack;Número de teléfono
+   ![Número de teléfono](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
    ![ventana emergente de Personalization](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
@@ -146,9 +160,9 @@ Por ejemplo, haga clic en **[!UICONTROL Modal]** para que su mensaje en la aplic
 
 #### 2.3.3.2: creando su mensaje y publicando su campaña
 
-1. En la sección de medios, pegue la siguiente URL:  
+1. En la sección de medios, pegue la siguiente URL:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-Cuando haga clic fuera del campo de valor, la imagen debería aparecer.
+   Cuando haga clic fuera del campo de valor, la imagen debería aparecer.
 
    ![medios mostrados en la vista previa](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
@@ -190,7 +204,7 @@ Cuando haga clic fuera del campo de valor, la imagen debería aparecer.
 
       Si cambia a esta ficha y en la sección **[!UICONTROL Vista previa]**, puede cambiar la **Vista previa de la aplicación**.
       <br>\
-      !&lbrack;Ficha Configuración
+      ![Ficha Configuración](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
       <br>
 
       1. La sección **[!UICONTROL Diseño]** le da la opción de usar una imagen como fondo o un color sólido.
@@ -276,12 +290,12 @@ Las características **Duplicar campaña** y **Vista previa en el dispositivo** 
 
 1. Puede acceder a la función Vista previa en el dispositivo en la página **[!UICONTROL Revisión de campaña]** o en el paso **[!UICONTROL Autor de la campaña]**.
 
-   !&lbrack;vista previa en el botón del dispositivo
+   ![vista previa en el botón del dispositivo](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
 1. A continuación, haga clic en el **[!UICONTROL botón de inicio]** desde la pantalla de conexión al dispositivo.
 
-   !&lbrack;botón de inicio
+   ![botón de inicio](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
 
 1. Introduzca la URL base que se ha configurado para iniciar la aplicación Fréscopa: `dxdemo://`
@@ -295,7 +309,7 @@ Las características **Duplicar campaña** y **Vista previa en el dispositivo** 
    2. Introduzca el pin que se muestra en AJO en la pantalla de Assurance de su dispositivo y haga clic en el botón Connect que aparece en la parte inferior derecha una vez que haya introducido el pin.
 
 
-   !&lbrack;introducir anclaje
+   ![introducir anclaje](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. Esta ventana emergente aparece en la pantalla del equipo
 
@@ -319,7 +333,7 @@ Las características **Duplicar campaña** y **Vista previa en el dispositivo** 
 
 **Documentación del producto:**
 
-* [Introducción al canal en la aplicación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Creación de un mensaje móvil en la aplicación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/create-in-app)
-* [Diseño del contenido en la aplicación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/design-in-app)
-* [Comprobación y envío de la notificación en la aplicación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introducción al canal en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creación de un mensaje móvil en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Diseño del contenido en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Comprobación y envío de la notificación en la aplicación](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

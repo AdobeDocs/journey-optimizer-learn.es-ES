@@ -6,22 +6,35 @@ role: User
 level: Beginner
 doc-type: Tutorial
 recommendations: noDisplay, noCatalog
-last-substantial-update: 2025-07-18T00:00:00Z
+last-substantial-update: 2025-07-18T00:00:00.000Z
 jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '472'
 ht-degree: 0%
-
 ---
-
 # Captura de impresiones y eventos de interacciones
 
 Para habilitar la creación de informes sobre impresiones y clics de ofertas desde AJO Decisioning, se deben configurar los siguientes componentes:
 >[!NOTE]
 >
-> Estos requisitos previos ya se cumplimentaron en la sección Crear esquema y conjunto de datos del [tutorial anterior](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Estos requisitos previos ya se cumplimentaron en la sección Crear esquema y conjunto de datos del [tutorial anterior](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Conjunto de datos en Adobe Experience Platform (AEP)
 
@@ -29,12 +42,12 @@ Para habilitar la creación de informes sobre impresiones y clics de ofertas des
 
 El esquema debe incluir `Web Details` grupo de campos que captura la dirección URL de la página, el referente, etc.
 
-## &#x200B;2. Configuración del flujo de datos
+## &#x200B;2. Configuración de flujo de datos
 
 - Se debe crear una **secuencia de datos** en Adobe Experience Platform.
 - Este conjunto de datos debe vincularse al conjunto de datos configurado anteriormente para garantizar que todos los eventos de Web SDK se incorporen correctamente en el destino correcto.
 
-## &#x200B;3. Propiedad de etiquetas de Adobe Experience Platform
+## &#x200B;3. Propiedad de etiquetas Adobe Experience Platform
 
 - Extensión de AEP Web SDK configurada para utilizar la secuencia de datos creada en el paso anterior.
 - Servicio de Experience Cloud ID configurado

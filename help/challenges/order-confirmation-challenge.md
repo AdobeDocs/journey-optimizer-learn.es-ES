@@ -5,22 +5,32 @@ jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 100%
-
 ---
-
 
 # Crear un correo electrónico de confirmación del pedido
 
 | Reto | Crear un correo electrónico transaccional de confirmación de pedido |
 |---|---|
 | Grupo de usuarios | Administrador de recorridos |
-| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=es& lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=es)</li></ul> |
+| Capacidades necesarias | <ul><li>[Creación de contenido de correo electrónico con el editor de mensajes](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=es)</li> <li>[Uso de información de evento contextual para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html? lang=es)</li><li>[Uso de funciones de ayuda para la personalización](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=es)</li></ul> |
 | Recursos que se van a descargar | [Recursos de confirmación de pedido](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 {style="table-layout:auto"}
@@ -47,9 +57,9 @@ Crear un recorrido que envíe un correo electrónico de confirmación de pedido 
 
    * Utilice la plantilla `Luma - Order summary` y modifíquela:
 
-      * Quite las secciones `You may also like`
+     * Quite las secciones `You may also like`
 
-      * Añada el vínculo de cancelación de suscripción en la parte inferior del correo electrónico
+     * Añada el vínculo de cancelación de suscripción en la parte inferior del correo electrónico
 
 El correo electrónico debe estructurarse de la siguiente manera:
 
@@ -95,7 +105,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
       <li> Quitar el <i>descuento, el total, la llegada</i></p>
   </td>
   <td>
-  <p>Enviar a:</p>
+  <p> Enviar a:</p>
       <em>{firstName} {lastName}<br>
      {Street 1}<br>
      {City}, {State} {postalCode}<br></em></p>
@@ -103,9 +113,9 @@ El correo electrónico debe estructurarse de la siguiente manera:
  <tr>
 <td>
   <div>
-     <strong>Sección detalles del pedido</strong>
+     <strong>Sección de Detalles del pedido</strong>
       </div>
-       <p><li>Añada esta sección debajo de <b>Enviar a</b>.
+       <p><li>Agregue esta sección debajo de <b>Enviar a</b> para obtener más información.
       </p><br>
       <p><b>Sugerencias:</b>
       <li>Uso del componente de estructura <b>1:2 columna izquierda</b> para esta sección

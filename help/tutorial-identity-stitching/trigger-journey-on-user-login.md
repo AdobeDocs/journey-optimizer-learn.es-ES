@@ -5,11 +5,26 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24
+last-substantial-update: 2025-09-24T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
 exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 10%
@@ -20,8 +35,8 @@ En esta extensión del tutorial de vinculación de identidad, se activa el recor
 
 ## Crear configuración de canal de correo electrónico
 
-* Iniciar sesión en _&#x200B;**Journey Optimizer**&#x200B;_
-* Vaya a _&#x200B;**Administración -> Canales -> Crear configuración de canal**&#x200B;_
+* Iniciar sesión en _**Journey Optimizer**_
+* Vaya a _**Administración -> Canales -> Crear configuración de canal**_
 * Seleccione **Correo electrónico** de la lista de canales. Proporcione un nombre y una descripción significativos.
 * Rellene la configuración de correo electrónico.
 * Proporcione los detalles de ejecución como se muestra a continuación. El correo electrónico se envía a la dirección de correo electrónico del perfil almacenada en el campo
@@ -30,8 +45,8 @@ En esta extensión del tutorial de vinculación de identidad, se activa el recor
 
 ## Crear evento
 
-* Iniciar sesión en _&#x200B;**Journey Optimizer**&#x200B;_
-* Vaya a _&#x200B;**Administración -> Configuraciones**&#x200B;_
+* Iniciar sesión en _**Journey Optimizer**_
+* Vaya a _**Administración -> Configuraciones**_
 * Haga clic en el botón Administrar de la tarjeta Eventos y haga clic en Crear evento. Especifique los valores como se muestra a continuación
 * ![evento de recorrido](assets/journey-event1.png)
 
@@ -40,9 +55,9 @@ En esta extensión del tutorial de vinculación de identidad, se activa el recor
 
 ## Crear Recorrido
 
-* Iniciar sesión en _&#x200B;**Journey Optimizer**&#x200B;_
-* Vaya a _&#x200B;**Administración de Recorrido -> Recorridos -> Crear Recorrido**&#x200B;_
-* Arrastre y suelte el evento _&#x200B;**UserLoggedIn**&#x200B;_ en el lienzo
+* Iniciar sesión en _**Journey Optimizer**_
+* Vaya a _**Administración de Recorrido -> Recorridos -> Crear Recorrido**_
+* Arrastre y suelte el evento _**UserLoggedIn**_ en el lienzo
 * Arrastre y suelte Correo electrónico desde el menú de acciones. Configure la acción de correo electrónico para utilizar la configuración de canal de correo electrónico creada anteriormente.
 * Publique el recorrido.
 

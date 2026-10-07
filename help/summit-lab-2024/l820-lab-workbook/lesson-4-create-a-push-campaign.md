@@ -9,13 +9,23 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 2%
-
+source-wordcount: '825'
+ht-degree: 4%
 ---
-
 # Lección 4: Creación de una campaña push
 
 En el ejercicio anterior, eras un entusiasta del café, un cliente de Fréscopa. Interactuó con la marca a través de su sitio web y la aplicación Fréscopa y recibió muchos mensajes transaccionales. Estos mensajes se activan mediante la interacción del usuario con el sitio web o la aplicación.
@@ -50,7 +60,7 @@ En este ejercicio, crea la campaña push, diseña y personaliza la notificación
 >[!SUCCESS]
 >
 >Ahora debería estar en la página de propiedades de Campaign:
-> ![Propiedades de la campaña &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Propiedades de la campaña ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Ejercicio 4.2: Configuración de la campaña
 
@@ -211,7 +221,7 @@ Si está satisfecho con el contenido del mensaje, puede activar el mensaje:
 
 **Documentación del producto:**
 
-* [Introducción a las notificaciones push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/get-started-push)
-* [Crear una notificación push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/create-push)
-* [Diseñar una notificación push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/design-push)
-* [Comprueba y envía tu notificación push](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/push/send-push)
+* [Introducción a las notificaciones push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Crear una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Diseño de una notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Comprobación y envío de la notificación push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

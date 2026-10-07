@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05T00:00:00Z
+last-substantial-update: 2025-05-05T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
-
 ---
-
 # Creación de etiquetas de Adobe Experience Platform
 
 Las etiquetas de Experience Platform se configuran en la página web para cargar Adobe Experience Platform Web SDK, lo que permite realizar la llamada de la API sendEvent para almacenar en déclencheur las experiencias personalizadas. Esta configuración garantiza que las bibliotecas del lado del cliente necesarias se inicialicen correctamente, lo que permite la interacción en tiempo real con Adobe Journey Optimizer para la entrega de ofertas.
@@ -35,7 +48,7 @@ No se necesita ninguna configuración adicional para la capa de datos del client
 
 ## Creación del elemento de datos
 
-El elemento de datos ECID en las etiquetas de Experience Platform se crea únicamente con fines de depuración y prueba. El elemento de datos permite a los desarrolladores ver el Experience Cloud ID asignado a la sesión del explorador de un usuario, lo cual puede ayudar a validar la vinculación de identidad y garantizar que las llamadas de `sendEvent` estén asociadas al perfil correcto. Este elemento no es necesario para que la personalización funcione, pero resulta útil durante la implementación y el control de calidad
+El elemento de datos ECID en las etiquetas de Experience Platform se crea únicamente con fines de depuración y prueba. El elemento de datos permite a los desarrolladores ver el Experience Cloud ID asignado a la sesión de explorador de un usuario, lo cual puede ayudar a validar la vinculación de identidad y garantizar que las llamadas de `sendEvent` estén asociadas al perfil correcto. Este elemento no es necesario para que la personalización funcione, pero resulta útil durante la implementación y el control de calidad
 
 ![ecid](assets/ecid-data-element.png)
 
