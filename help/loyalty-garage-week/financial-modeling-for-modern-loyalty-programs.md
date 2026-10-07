@@ -6,13 +6,23 @@ role: User
 hide: true
 index: false
 exl-id: de51792e-2cac-410f-b32e-7d443721ff81
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2062'
 ht-degree: 0%
-
 ---
-
 # Modelado financiero para programas de fidelización modernos
 
 ## Un marco integral y preparado para los CFO para la predicción de la responsabilidad, la economía de recompensas y el valor incremental.
@@ -49,27 +59,27 @@ Los desgloses afectan tanto al coste de pasivo como al de recompensa. Cuando la 
 
 ### Costo por punto (CPP)
 
-Coste por punto determina el coste marginal para la empresa cuando se canjea un punto. Este coste depende en gran medida del catálogo de premios. El reembolso es caro. Proprietary goods with high margins are cheaper. Experiences can be highly cost-effective if their perceived value exceeds actual delivery cost. CPP influences everything from liability to promotion strategy to reward catalog curation.
+Coste por punto determina el coste marginal para la empresa cuando se canjea un punto. Este coste depende en gran medida del catálogo de premios. El reembolso es caro. Los productos patentados con márgenes elevados son más baratos. Las experiencias pueden ser muy rentables si su valor percibido supera el coste de envío real. CPP influye en todo, desde la responsabilidad hasta la estrategia de promoción para recompensar la gestión del catálogo.
 
-### Incremental Revenue (The Heart of Loyalty ROI)
+### Ingresos incrementales (el corazón del ROI de la lealtad)
 
-Incrementality is the portion of revenue that would not have occurred without the loyalty program. Many loyalty programs overestimate incrementality by assuming all redemptions are incremental. In reality, only a portion of purchase behavior is attributable to loyalty. True incrementality is measured through controlled experiments, cohort comparisons, and predictive modeling. Without incrementality analysis, loyalty teams may believe their program is profitable when, in fact, rewards simply incentivize behavior that would have happened anyway.
+La incrementalidad es la porción de ingresos que no se habrían producido sin el programa de fidelización. Muchos programas de fidelización sobreestiman la incrementalidad suponiendo que todas las amortizaciones sean incrementales. En realidad, solo una parte del comportamiento de compra es atribuible a la lealtad. La incrementalidad verdadera se mide a través de experimentos controlados, comparaciones de cohortes y modelos predictivos. Sin un análisis de incrementalidad, los equipos de fidelidad pueden creer que su programa es rentable cuando, de hecho, las recompensas simplemente incentivan un comportamiento que habría ocurrido de todos modos.
 
-### Tier Economics (Cost vs. Uplift)
+### Economía de nivel (coste frente a alza)
 
-Tier systems—Silver, Gold, Platinum, Elite—create powerful psychological drivers. But tiers are also cost centers: shipping perks, priority service, early access events, and exclusive offers all carry economic weight. Tier economics require modeling how much financial uplift a tier generates relative to the cost of benefits. If a tier increases frequency but destroys margin due to costly benefits, it becomes a financial liability disguised as loyalty success. Proper tier modeling prevents this.
+Los sistemas de nivel (Silver, Gold, Platinum, Elite) crean poderosos motores psicológicos. Pero los niveles también son centros de costos: las ventajas de envío, el servicio prioritario, los eventos de acceso anticipado y las ofertas exclusivas tienen peso económico. La economía de nivel requiere modelar cuánto aumento financiero genera un nivel en relación con el costo de los beneficios. Si un nivel aumenta la frecuencia pero destruye el margen debido a los costosos beneficios, se convierte en un pasivo financiero disfrazado de éxito de lealtad. Un modelado de niveles adecuado lo impide.
 
-Together, these five components create the economic spine of a loyalty program.
+Juntos, estos cinco componentes crean la columna vertebral económica de un programa de lealtad.
 
-## 3. Modeling Earn and Burn: The Economic Engine of Loyalty
+## &#x200B;3. Modelar Ganancia y Quema: El Motor Económico de la Lealtad
 
-At the heart of loyalty economics lies the earn-and-burn engine—how customers accumulate (earn) and redeem (burn) points or rewards over time. The interplay between these two dynamics determines liability, cost, engagement, and habit formation.
+En el corazón de la economía de la lealtad se encuentra el motor de ganar y quemar, es decir, cómo los clientes acumulan (ganan) y canjean (queman) puntos o recompensas con el tiempo. La interacción entre estas dos dinámicas determina la responsabilidad, el coste, la participación y la formación de hábitos.
 
-### Modeling the Earn Engine
+### Modelado del motor de obtención
 
-The earn engine determines how many points or credits enter circulation. Earn volume is driven by several factors: base earn rate, promotional multipliers, challenge-based multipliers, partner-funded earn, and tier-based boosts. A robust model forecasts earn volume at the segment, cohort, or tier level. Earn volume is not linear; seasonal spikes, launch cycles, and promotional campaigns create asymmetric patterns that must be modeled separately to avoid under- or over-estimating liability.
+El motor de ganancias determina cuántos puntos o créditos entran en circulación. El volumen de ganancias depende de varios factores: tasa de ganancias base, multiplicadores promocionales, multiplicadores basados en desafíos, ganancias financiadas por socios y aumentos basados en niveles. Las previsiones de modelo robusto ganan volumen en el nivel de segmento, cohorte o nivel. El volumen de ganancias no es lineal; los picos estacionales, los ciclos de lanzamiento y las campañas promocionales crean patrones asimétricos que deben modelarse por separado para evitar una subestimación o sobreestimación de la responsabilidad.
 
-### Modeling the Burn Engine
+### Modelado del motor de grabación
 
 El motor de combustión pronostica el comportamiento de canje. Las curvas de combustión a menudo se asemejan a patrones invertidos en forma de S: redención temprana mínima, seguida de redención acelerada a medida que los usuarios alcanzan los umbrales de recompensa, seguida de periodos de desaceleración. Modelo de canje de marcas de alto rendimiento mediante análisis de cohorte. En lugar de asumir una única probabilidad de rescate, analizan la probabilidad de cada cohorte a lo largo del tiempo. Esto les permite prever las quemaduras con mayor precisión y anticipar cuándo se producirán picos de responsabilidad.
 

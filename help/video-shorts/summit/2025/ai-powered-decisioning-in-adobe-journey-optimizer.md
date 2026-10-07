@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: d8daab7e-7cfd-4943-98a7-f37a0f46adce
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
-
 ---
-
 # Decisiones con tecnología de IA en Adobe Journey Optimizer
 
 Descubra cómo Adobe Journey Optimizer aprovecha la IA y el aprendizaje automático para lograr las mejores acciones siguientes, la optimización de los recorridos y la toma de decisiones para ofrecer experiencias personalizadas a los clientes.

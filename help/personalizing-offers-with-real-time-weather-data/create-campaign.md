@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
-source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '658'
 ht-degree: 1%
-
 ---
-
 # Creación de una campaña
 
 Para ofrecer ofertas personalizadas a los usuarios en la página web, se creó una campaña en Adobe Journey Optimizer y se configuró con el canal correcto, Canal de experiencia basado en código. Esta configuración garantiza que las ofertas se entreguen mediante decisiones en tiempo real a los usuarios que interactúen con el sitio web.
@@ -32,11 +45,11 @@ Cuando un usuario visita el sitio web, el sistema detecta su ubicación y obtien
 ## Pasos de alto nivel para crear una campaña en AJO
 
 - Crear una configuración de canal
-   - Defina dónde y cómo aparecen las ofertas (por ejemplo, una página web con experiencia basada en código).
-   - Inicie sesión en Recorrido Optimizer
-   - Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x200B;_
-   - **Nombre**: `offers-by-weather`\
-     Identifica esta configuración para la entrega de ofertas web personalizadas.
+  - Defina dónde y cómo aparecen las ofertas (por ejemplo, una página web con experiencia basada en código).
+  - Inicie sesión en Recorrido Optimizer
+  - Vaya a _&#x200B;**Administración ->Canales->Crear configuración de canal**&#x200B;_
+  - **Nombre**: `offers-by-weather`\
+    Identifica esta configuración para la entrega de ofertas web personalizadas.
 - **Canal**:
   `Code-based experience`\
   Las ofertas no se insertan directamente en el DOM. En su lugar, AJO devuelve HTML sin procesar que se analiza mediante JavaScript personalizado.
@@ -53,23 +66,23 @@ Cuando un usuario visita el sitio web, el sistema detecta su ubicación y obtien
 
 
 - **Iniciar una nueva campaña**
-   - Vaya a la sección Campañas y cree una nueva campaña de marketing programada. Asigne un nombre adecuado a la campaña.
-   - **Agregar acción**
-      - Añada una acción de experiencia basada en código y vincule la acción a una configuración de canal creada anteriormente.
+  - Vaya a la sección Campañas y cree una nueva campaña de marketing programada. Asigne un nombre adecuado a la campaña.
+  - **Agregar acción**
+    - Añada una acción de experiencia basada en código y vincule la acción a una configuración de canal creada anteriormente.
 
 
 
-   - **Audiencia**
-      - Todos los visitantes (predeterminado).
-      - Tipo de identidad: ECID (Experience Cloud ID)
-Esta configuración utiliza el ECID como identidad principal para reconocer usuarios.
+  - **Audiencia**
+    - Todos los visitantes (predeterminado).
+    - Tipo de identidad: ECID (Experience Cloud ID)
+      Esta configuración utiliza el ECID como identidad principal para reconocer usuarios.
 
 
 - **Crear directiva de decisión**
-   - La acción está vinculada a una **Directiva de decisión** que define cómo se seleccionan las ofertas y cuántas ofertas se devuelven para su visualización. Esta directiva usa una **estrategia de selección** que se creó anteriormente en el tutorial.
-   - Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en las secciones Acciones y luego haga clic en **_Editar código_** para abrir el editor de personalización.
-   - Seleccione el icono _&#x200B;**Directiva de decisión**&#x200B;_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
-   - Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. No se han asociado ofertas de reserva con la política de decisión.
+  - La acción está vinculada a una **Directiva de decisión** que define cómo se seleccionan las ofertas y cuántas ofertas se devuelven para su visualización. Esta directiva usa una **estrategia de selección** que se creó anteriormente en el tutorial.
+  - Para insertar la directiva de decisión, haga clic en **_Editar contenido_** en las secciones Acciones y luego haga clic en **_Editar código_** para abrir el editor de personalización.
+  - Seleccione el icono _&#x200B;**Directiva de decisión**&#x200B;_ a la izquierda y haga clic en el botón **Agregar directiva de decisión** para abrir la pantalla **Crear directiva de decisión**. Proporcione un nombre significativo a la política de decisión y seleccione el número de elementos que debe devolver la política de decisión. El valor predeterminado es 1.
+  - Haga clic en **_siguiente_**, agregue la estrategia de selección creada en el paso anterior a la directiva de decisión y haga clic en **siguiente** para completar el proceso de creación de la directiva de decisión. No se han asociado ofertas de reserva con la política de decisión.
 
 
 
@@ -77,7 +90,7 @@ Esta configuración utiliza el ECID como identidad principal para reconocer usua
   ![editor de personalización](assets/personalization-editor.png)
 
   Inserte la directiva de decisión recién creada haciendo clic en el botón _&#x200B;**Insertar directiva**&#x200B;_. Esto inserta un bucle for en el editor de personalización, en el lado derecho.
-Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`. Ajuste la oferta en una Div con el elemento de oferta de clase como se muestra en la captura de pantalla.
+  Coloque el cursor entre el bucle each de la línea dos e inserte offerText navegando hasta la oferta explorando en profundidad `tenant name`. Ajuste la oferta en una Div con el elemento de oferta de clase como se muestra en la captura de pantalla.
 
 
 

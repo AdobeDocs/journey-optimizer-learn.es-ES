@@ -5,16 +5,29 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: d419f6a4-67d5-46b5-9ae7-5a317300d1ad
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
-
 ---
-
 # Crear flujo de datos
 
 Un conjunto de datos en Adobe Experience Platform (AEP) actúa como el extremo que recibe los datos enviados desde Web SDK. Enruta estos datos a servicios configurados como AEP, Adobe Analytics o Adobe Journey Optimizer. En este tutorial, la secuencia de datos se utiliza para enviar datos de suscripción push web y eventos price.drop a AEP para su activación.

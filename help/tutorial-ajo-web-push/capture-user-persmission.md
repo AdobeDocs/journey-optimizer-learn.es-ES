@@ -11,16 +11,25 @@ exl-id: 5897420a-7488-4d48-b56c-86a53d1d2395
 TQID: 'https://experienceleague.adobe.com/O5xiLJ7UOQNYSkfpCa2umhCkxt1cKILsO4fOKxtVifM'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+    internal-label: Journeys
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 0%
-
 ---
-
 # Capturar permiso de usuario
 
 Esta página web registra el consentimiento del usuario para recibir notificaciones push. Solicita al usuario que habilite las notificaciones mediante la API de notificaciones del explorador y, al aceptarlas, registra la suscripción push con Adobe Experience Platform mediante Web SDK. Esto garantiza que solo los usuarios seleccionados puedan recibir notificaciones push a través de campañas y recorridos en Adobe Journey Optimizer.

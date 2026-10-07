@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: bd6a7a14-f9cf-46de-89d4-3e85f8fc02b0
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # Mensajería en la aplicación basada en geoperímetros con Adobe Journey Optimizer
 
 Aprenda a utilizar la integración de Adobe Journey Optimizer con el servicio Places para crear mensajes en la aplicación basados en la ubicación para una participación personalizada de los clientes.
