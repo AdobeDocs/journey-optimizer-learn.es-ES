@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Aprenda a crear, editar y utilizar las plantillas de contenido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418585?captions=spa&quality=12&learn=on){transcript=true}

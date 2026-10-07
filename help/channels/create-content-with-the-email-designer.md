@@ -33,5 +33,5 @@ ht-degree: 100%
 
 Aprenda a crear correos electrónicos desde cero. Aprenda a utilizar recursos de la biblioteca de Adobe Experience Manager Assets Essentials, editar el diseño de correo electrónico adaptable y crear correos electrónicos a partir de plantillas.
 
->[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416231?captions=spa&quality=12&learn=on){transcript=true}
 

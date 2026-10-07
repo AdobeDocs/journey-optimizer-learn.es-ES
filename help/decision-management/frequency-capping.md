@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Información sobre cómo funciona la restricción de frecuencia para la toma de decisiones sobre ofertas. Información sobre cómo configurar la restricción frecuencia para un evento personalizado y cómo configurar incrementos definiendo la frecuencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422161/?captions=spa&quality=12&learn=on){transcript=true}
