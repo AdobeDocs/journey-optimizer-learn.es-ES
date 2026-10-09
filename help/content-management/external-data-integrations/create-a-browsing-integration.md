@@ -43,4 +43,4 @@ Obtenga información sobre cómo configurar una integración de navegación para
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-Para obtener más información, consulte la [documentación sobre la integración de exploración](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
+Para obtener más información, consulte la [documentación sobre la integración de exploración](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).

@@ -43,4 +43,4 @@ Obtenga información sobre cómo crear una integración estándar para utilizar 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Para obtener más información, consulte la [documentación de integración estándar](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
+Para obtener más información, consulte la [documentación de integración estándar](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
