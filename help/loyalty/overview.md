@@ -133,7 +133,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" title="Preparación de estructuras de datos de lealtad" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="Preparación de estructuras de datos de lealtad"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504141/?captions=spa&format=jpeg" alt="Preparación de estructuras de datos de lealtad"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" title="Conexión y asignación de datos de fidelidad" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="Conexión y asignación de datos de fidelidad"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504132/?captions=spa&format=jpeg" alt="Conexión y asignación de datos de fidelidad"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="Verificar datos de fidelidad y configurar informes de rendimiento" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="Verificar datos de fidelidad y configurar informes de rendimiento"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504123/?captions=spa&format=jpeg" alt="Verificar datos de fidelidad y configurar informes de rendimiento"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

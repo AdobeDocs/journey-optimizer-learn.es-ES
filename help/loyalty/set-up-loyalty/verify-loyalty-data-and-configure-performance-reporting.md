@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo enviar datos de evento y perfil de lealtad de ejemplo a Adobe Experience Platform, comprobar que aparecen en los conjuntos de datos y el perfil de cliente unificado y, a continuación, seleccionar los conjuntos de datos y priorizar un KPI en la configuración de Rendimiento de lealtad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504123/?captions=spa&learn=on)

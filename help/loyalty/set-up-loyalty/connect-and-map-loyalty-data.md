@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear una conexión de API HTTP y flujos de datos y, a continuación, asignar campos de perfil y evento de lealtad entrantes a sus conjuntos de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504132/?captions=spa&learn=on)
