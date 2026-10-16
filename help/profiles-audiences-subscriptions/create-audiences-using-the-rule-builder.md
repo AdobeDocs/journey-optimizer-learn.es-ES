@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Descubra cómo Journey Optimizer utiliza reglas para generar público y aprenda a utilizar atributos, eventos y audiencias existentes para crear público.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425020?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430332?captions=spa&quality=12&learn=on){transcript=true}
