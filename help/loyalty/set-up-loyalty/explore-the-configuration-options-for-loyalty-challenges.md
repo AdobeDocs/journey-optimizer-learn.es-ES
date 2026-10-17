@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Explore las opciones de configuración que admiten los desafíos de lealtad, incluida la configuración global, los informes, las recompensas, la asignación de eventos, el inventario de productos y las exclusiones. Para obtener instrucciones detalladas sobre la configuración, vea los vídeos dedicados a los proveedores de recompensas y la asignación de eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504417/?captions=spa&learn=on&enablevpops)

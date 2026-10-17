@@ -41,6 +41,6 @@ ht-degree: 0%
 
 Obtenga información sobre cómo configurar una integración de navegación para una API externa, vincularla a una integración estándar y permitir que los especialistas en marketing busquen, examinen y seleccionen elementos en el editor de AJO sin introducir valores manualmente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504298/?captions=spa&learn=on&enablevpops)
 
 Para obtener más información, consulte la [documentación sobre la integración de exploración](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
