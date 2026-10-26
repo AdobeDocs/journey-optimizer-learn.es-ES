@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Aprenda a utilizar la información de evento contextual de un recorrido para personalizar un mensaje.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428527?captions=spa&quality=12&learn=on){transcript=true}

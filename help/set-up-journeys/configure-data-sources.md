@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Comprenda qué es una fuente de datos y aprenda a configurar fuentes de datos de Experience Platform y externas.
 
->[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416633?captions=spa&quality=12&learn=on){transcript=true}

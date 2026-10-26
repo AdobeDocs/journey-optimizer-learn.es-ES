@@ -41,6 +41,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear una integración estándar para utilizar datos externos y contenido en la creación de canales de Adobe Journey Optimizer. Esto le ayudará a mejorar la personalización y la participación en los canales de salida. Para más información, mire el vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484121/?captions=spa&learn=on&enablevpops)
 
 Para más información, consulte la [documentación sobre la integración estándar](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).

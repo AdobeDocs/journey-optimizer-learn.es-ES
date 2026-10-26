@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Aprenda a copiar un recorrido y sus objetos dependientes de una zona protegida a otra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413052?captions=spa&quality=12&learn=on){transcript=true}

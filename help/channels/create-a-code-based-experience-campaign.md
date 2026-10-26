@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Aprenda a crear una campaña de experiencias basadas en código para escalar la personalización con compatibilidad con métodos de implementación basados en API o basados en SDK del lado del servidor, de modo que pueda integrarse sin problemas en entornos de desarrollo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449456/?captions=spa&learn=on)

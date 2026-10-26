@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo actualizar contenido en un recorrido activo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439607/?captions=spa&learn=on)
