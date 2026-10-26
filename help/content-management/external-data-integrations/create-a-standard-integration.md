@@ -1,5 +1,5 @@
 ---
-title: Creación de una integración estándar
+title: Crear una integración estándar
 description: Aprenda a crear una integración estándar para utilizar datos y contenido externos en la creación de canales de Adobe Journey Optimizer y a mejorar la personalización en los canales salientes.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
@@ -33,14 +33,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 19%
+ht-degree: 100%
 ---
-# Creación de una integración estándar
+# Crear una integración estándar
 
-Obtenga información sobre cómo crear una integración estándar para utilizar datos y contenido externos en la creación de canales de Adobe Journey Optimizer. Esto le ayudará a mejorar la personalización y la participación en los canales de salida. Para más información, mire el vídeo.
+Obtenga información sobre cómo crear una integración estándar para utilizar datos externos y contenido en la creación de canales de Adobe Journey Optimizer. Esto le ayudará a mejorar la personalización y la participación en los canales de salida. Para más información, mire el vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484121/?captions=spa&learn=on&enablevpops)
 
-Para obtener más información, consulte la [documentación de integración estándar](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
+Para más información, consulte la [documentación sobre la integración estándar](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).

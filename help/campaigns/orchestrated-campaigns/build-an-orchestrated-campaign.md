@@ -1,6 +1,6 @@
 ---
 title: Creación de una campaña orquestada
-description: Aprenda a diseñar y ejecutar campañas con Adobe Journey Optimizer con flujos de trabajo para la creación de audiencias, la manipulación de datos y la entrega multicanal.
+description: Aprenda a diseñar y ejecutar campañas mediante Adobe Journey Optimizer con flujos de trabajo para crear públicos, manipular datos y realizar entregas multicanal.
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -10,9 +10,9 @@ last-substantial-update: 2026-05-02
 jira: KT-20991
 exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
 source-git-commit: 0db5fb0d647929c7712b69531423c5c99e2dad90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 75%
+ht-degree: 100%
 ---
 # Creación de una campaña orquestada
 

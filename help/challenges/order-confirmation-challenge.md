@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '688'
 ht-degree: 100%
 ---
@@ -90,7 +90,7 @@ El correo electrónico debe estructurarse de la siguiente manera:
    <div>
     <p>
      <em>Se ha hecho el pedido.
-    <p>Cuando el paquete se envíe, le mandaremos un correo electrónico con el número de seguimiento para que pueda hacer el seguimiento del pedido.</p></em>
+    <p>Cuando el paquete se envíe, le mandaremos un correo electrónico con el número de seguimiento para que pueda rastrear su pedido.</p></em>
     </strong>
     </tr>
   </td>

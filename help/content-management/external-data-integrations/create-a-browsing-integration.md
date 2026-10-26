@@ -1,6 +1,6 @@
 ---
-title: Creación de una integración de navegación
-description: Obtenga información sobre cómo configurar una integración de navegación para una API externa, vincularla a una integración estándar y permitir que los especialistas en marketing busquen, examinen y seleccionen elementos en el editor de AJO sin introducir valores manualmente.
+title: Crear una integración de navegación
+description: Obtenga información sobre cómo configurar una integración de navegación para una API externa, vincularla a una integración estándar y permitir que los expertos en marketing busquen, examinen y seleccionen elementos en el editor de AJO sin introducir valores manualmente.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,15 +32,15 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# Creación de una integración de navegación
+# Crear una integración de navegación
 
-Obtenga información sobre cómo configurar una integración de navegación para una API externa, vincularla a una integración estándar y permitir que los especialistas en marketing busquen, examinen y seleccionen elementos en el editor de AJO sin introducir valores manualmente.
+Obtenga información sobre cómo configurar una integración de navegación para una API externa, vincularla a una integración estándar y permitir que los expertos en marketing busquen, examinen y seleccionen elementos en el editor de AJO sin introducir valores manualmente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504298/?captions=spa&learn=on&enablevpops)
 
-Para obtener más información, consulte la [documentación sobre la integración de exploración](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
+Para obtener más información, consulte la [documentación de integración de navegación](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
