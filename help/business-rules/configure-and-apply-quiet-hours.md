@@ -34,7 +34,7 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
     internal-label: Customer engagement
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 ---
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 Aprenda a utilizar la función de horario silencioso de Adobe Journey Optimizer para evitar que se envíen mensajes a los clientes durante períodos de tiempo especificados. Esto ayuda a prevenir que los especialistas en marketing envíen mensajes en momentos inadecuados mientras se mejora la participación de los clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475855/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

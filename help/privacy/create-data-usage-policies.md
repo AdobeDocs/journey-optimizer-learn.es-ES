@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 ---
@@ -42,6 +42,6 @@ Obtenga información sobre la creación y administración de las políticas de u
 >
 >Vea este [tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) para obtener información sobre cómo se aplican las políticas en los canales de Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/37128/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
 Consulte la documentación del producto para obtener más información sobre cómo [trabajar con políticas de consentimiento](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/privacy/consent/consent) en Journey Optimizer.

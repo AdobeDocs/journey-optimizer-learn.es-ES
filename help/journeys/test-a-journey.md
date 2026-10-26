@@ -1,5 +1,5 @@
 ---
-title: Creación de un perfil de prueba
+title: Crear un perfil de prueba
 description: Aprenda a crear un perfil de prueba.
 jira: KT-7529
 thumbnail: 334236.jpg
@@ -22,12 +22,12 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '22'
 ht-degree: 100%
 ---
-# Creación de un perfil de prueba
+# Crear un perfil de prueba
 
 Aprenda a crear un perfil de prueba.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416330?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12&learn=on){transcript=true}

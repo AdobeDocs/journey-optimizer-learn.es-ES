@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
 ht-degree: 100%
 ---
@@ -40,7 +40,7 @@ La configuración de canales guiada le ayuda a configurar y validar rápidamente
 
 Obtenga información sobre cómo configurar y validar una notificación de canal push en una aplicación de marketing móvil de iOS de muestra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449625/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Consulte la documentación del producto para obtener más información:
 

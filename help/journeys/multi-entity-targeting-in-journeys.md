@@ -31,7 +31,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 ---
@@ -43,5 +43,5 @@ Este vídeo muestra cómo segmentar los recorridos por ID de suscripción, ID de
 
 Para más información sobre esta función, consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491838/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
 

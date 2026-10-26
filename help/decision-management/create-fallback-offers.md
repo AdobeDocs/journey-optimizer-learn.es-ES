@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear [ofertas de reserva](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=es) para la administración de decisiones. Las ofertas de reserva son ofertas predeterminadas que se muestran a los clientes que no cumplen los requisitos de ninguna de sus ofertas personalizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/341344?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on){transcript=true}
 
 Para obtener más información sobre cómo crear ofertas de reserva con una API, consulte la [guía del producto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=es)

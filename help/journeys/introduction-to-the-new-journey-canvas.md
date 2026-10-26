@@ -27,7 +27,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Descubra la nueva experiencia de lienzo del recorrido en Adobe Journey Optimizer. Esta actualización presenta un motor de renderizado moderno que potencia el lienzo del recorrido, alineándolo con la experiencia ya utilizada en las campañas orquestadas y la composición de público.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496196/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)

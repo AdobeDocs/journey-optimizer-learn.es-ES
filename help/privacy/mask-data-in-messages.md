@@ -27,7 +27,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 ---
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Comprenda qué es el enmascaramiento de datos y cuándo y por qué puede necesitar emplearlo. Aprenda a enmascarar datos en mensajes de Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413045?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}

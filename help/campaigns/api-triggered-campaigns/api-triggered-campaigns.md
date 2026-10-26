@@ -31,7 +31,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 ---
@@ -39,4 +39,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear una campaña y activarla desde un sistema externo basado en las interacciones del usuario, utilizando la [API de REST de ejecución de mensaje interactivo](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3452728/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)

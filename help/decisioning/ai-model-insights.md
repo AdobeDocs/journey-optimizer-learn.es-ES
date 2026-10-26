@@ -31,7 +31,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 ---
@@ -39,4 +39,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo analizar el estado de la formación del modelo de IA, la asignación de tráfico y el rendimiento para optimizar la toma de decisiones personalizada en Journey Optimizer. Obtenga información sobre cómo identificar problemas, solucionar problemas de modelos y mejorar las tasas de conversión mediante las capacidades de IA. Este vídeo le guiará a través de la administración eficaz de los modelos de IA para impulsar el impacto empresarial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479852/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

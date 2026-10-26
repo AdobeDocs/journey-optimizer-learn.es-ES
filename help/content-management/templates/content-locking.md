@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 ---
@@ -36,6 +36,6 @@ ht-degree: 100%
 
 Aprenda a bloquear el contenido de las plantillas. Este tutorial trata sobre el bloqueo total o parcial de plantillas, el uso de modos de bloqueo de solo lectura y contenido, y cómo administrar las áreas editables dentro de una plantilla bloqueada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451610/?captions=spa&learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/content-templates/content-locking) para obtener más información.

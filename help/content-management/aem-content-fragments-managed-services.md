@@ -36,7 +36,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 ---
@@ -46,4 +46,4 @@ Aprenda a configurar y utilizar las integraciones de Adobe Experience Manager (A
 
 Este tutorial le guiará por la configuración de conexiones de repositorios, la validación de configuraciones con el Asesor de contenido y la selección de fragmentos de contenido directamente en el editor de personalización, lo que permite a los expertos en marketing reutilizar y obtener una vista previa del contenido de AEM de forma eficaz en sus campañas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492532/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)

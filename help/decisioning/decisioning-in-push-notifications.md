@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Aprenda a utilizar AJO Decisioning para personalizar las notificaciones push para su público. Cree ofertas atractivas basadas en perfiles de destinatarios para impulsar las ventas. Comprenda las estrategias de toma de decisiones, pruebe las campañas y analice las métricas para lograr una comunicación eficaz. Mejore la participación y ofrezca las promociones más relevantes a sus clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479213/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)

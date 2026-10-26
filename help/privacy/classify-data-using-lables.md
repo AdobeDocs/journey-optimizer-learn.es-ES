@@ -33,7 +33,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
 ht-degree: 100%
 ---
@@ -45,4 +45,4 @@ Aprenda a aplicar etiquetas a los esquemas y conjuntos de datos. Las etiquetas d
 >
 >El vídeo muestra esta función en la interfaz de usuario de Adobe Experience Platform. La misma funcionalidad está disponible en la interfaz de usuario de Journey Optimizer, en la sección ADMINISTRACIÓN DE DATOS del panel de navegación izquierdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422794?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Descubra cómo las zonas protegidas de Experience Platform proporcionan entornos aislados para probar funcionalidades nuevas o existentes y trabajar con un enfoque “fail fast” (informe rápido de errores). Aprenda a restablecer y reiniciar los entornos de desarrollo y a utilizar zonas protegidas con llamadas a la API. Para obtener más información, consulte la [Guía de usuario de zonas protegidas](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430293/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)

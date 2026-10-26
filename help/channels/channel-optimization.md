@@ -1,5 +1,5 @@
 ---
-title: Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia
+title: Optimización de canales en función de la preferencia del perfil o de las puntuaciones de propensión
 description: Descubra cómo la función de optimización de canales de Adobe Journey Optimizer le ayuda a llegar a los clientes en el canal más eficaz, ya sea mediante el uso de la prioridad manual, los atributos de perfil o el modelo de IA de Adobe, para que el mensaje llegue allí donde cada cliente tiene más probabilidades de interactuar.
 feature: Channels
 role: Developer
@@ -36,15 +36,15 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
 
-# Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia
+# Optimización de canales en función de la preferencia del perfil o de las puntuaciones de propensión
 
 {{limited-availability}}
 
 Descubra cómo la función de optimización de canales de Adobe Journey Optimizer le ayuda a llegar a los clientes en el canal más eficaz, ya sea mediante el uso de la prioridad manual, los atributos de perfil o el modelo de IA de Adobe, para que el mensaje llegue allí donde cada cliente tiene más probabilidades de interactuar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492135/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)

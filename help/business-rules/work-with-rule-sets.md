@@ -31,7 +31,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 ---
@@ -39,6 +39,6 @@ ht-degree: 100%
 
 Aprenda a crear un conjunto de reglas de límite de frecuencia de cliente para limitar el número de comunicaciones enviadas a los clientes en función del tipo de comunicación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444729/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/configuration/rule-sets) para obtener más información.

@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Aprenda a utilizar la toma de decisiones de AJO para personalizar y optimizar el contenido de los SMS. Mejore sus mensajes SMS para aumentar la participación y cumplir los objetivos empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479532/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)

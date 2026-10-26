@@ -19,7 +19,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '569'
 ht-degree: 100%
 ---
@@ -96,7 +96,7 @@ Luma busca promocionar su última colección de ropa y equipación e impulsar la
     </a>
     </div>
     <p>
-    <em>Envíe un correo electrónico cuando un cliente fiel pase a un nuevo nivel para felicitarlo e informarlo de sus nuevas ventajas.</em>
+    <em>Envíe un correo electrónico cuando un cliente de lealtad pase a un nuevo nivel para felicitarlo e informarle de sus nuevos beneficios.</em>
     <p>
     <b>Competencias requeridas:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=es"> Creación de segmentos</li>

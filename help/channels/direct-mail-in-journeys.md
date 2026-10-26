@@ -26,7 +26,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Explore cómo aprovechar el canal de correo directo en Adobe Journey Optimizer para automatizar y programar envíos de correo directo en sus recorridos. Descubra los ajustes del enrutamiento de archivos, configure la frecuencia de creación y utilice acciones de correo directo en el lienzo del recorrido. Este vídeo muestra cómo AJO pone en cola a los participantes, genera archivos con marca de tiempo a intervalos y los envía automáticamente una vez activados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479165/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail) para obtener más información.
