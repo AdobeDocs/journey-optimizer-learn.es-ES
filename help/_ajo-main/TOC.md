@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
 workflow-type: tm+mt
 source-wordcount: '1589'
-ht-degree: 98%
+ht-degree: 99%
 ---
 
 # Tutoriales de Journey Optimizer {#tutorials}
@@ -42,7 +42,7 @@ ht-degree: 98%
   + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
   + [Analizar y crear recorridos con IA](/help/ai-agents/journey-agent-overview.md)
   + [Creación de condiciones de recorrido utilizando lenguaje natural](/help/journeys/create-journey-conditions-using-natural-language.md)
-  + [Creación de un perfil de prueba](/help/journeys/test-a-journey.md)
+  + [Crear un perfil de prueba](/help/journeys/test-a-journey.md)
   + [Simular recorridos con público externo](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Acelerar las pruebas de recorrido con Simulación rápida](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Publicación de un recorrido](/help/journeys/publish-a-journey.md)
@@ -79,7 +79,7 @@ ht-degree: 98%
   + [Suscripciones y páginas de destino](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + Canales {#channels}
   + [Optimización de aplicaciones móviles: información general](/help/channels/mobile-app-optimization-overview.md)
-  + [Optimización de canales en función de la preferencia de perfil o las puntuaciones de tendencia](/help/channels/channel-optimization.md)
+  + [Optimización de canales en función de la preferencia del perfil o de las puntuaciones de propensión](/help/channels/channel-optimization.md)
   + Canal de experiencia basada en código{#code-based-experience-channel}
     + [Creación de una campaña de experiencia basada en código](/help/channels/create-a-code-based-experience-campaign.md)
     + [Adición de campos de formulario a plantillas de canal de experiencia basada en código](/help/channels/form-fields-in-code-based-experiences.md)
@@ -150,8 +150,8 @@ ht-degree: 98%
     + [Creación y administración de directrices de marca](/help/content-management/brand-guideline-creation-and-management.md)
   + [Creación de un correo electrónico con GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + Integraciones de datos externos {#external-data-integrations}
-    + [Creación de una integración estándar](/help/content-management/external-data-integrations/create-a-standard-integration.md)
-    + [Creación de una integración de navegación](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
+    + [Crear una integración estándar](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [Crear una integración de navegación](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Crear contenido coherente con la marca en Journey Optimizer: tutorial](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalización del contenido {#personalize-content}
   + [Editor de personalización: información general](/help/personalize-content/personalization-editor-overview.md)
