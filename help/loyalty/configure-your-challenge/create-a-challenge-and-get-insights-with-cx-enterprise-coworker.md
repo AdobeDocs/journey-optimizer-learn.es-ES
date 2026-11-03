@@ -39,4 +39,4 @@ ht-degree: 0%
 
 Utilice mensajes en lenguaje sencillo para crear, configurar e iniciar desafíos de lealtad con CX Enterprise Coworker. En este vídeo, aprenderá a definir audiencias, recompensas y horarios, automatizar la configuración de los recorridos y revisar las perspectivas de los desafíos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496541/?captions=spa&learn=on&enablevpops)
