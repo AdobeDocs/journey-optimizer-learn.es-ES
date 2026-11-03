@@ -1,6 +1,6 @@
 ---
-title: Cree un desafío de fidelidad y perspectivas de superficie con CX Enterprise Coworker
-description: Aprenda a utilizar CX Enterprise Coworker para crear, configurar y lanzar desafíos de fidelidad utilizando el lenguaje natural, incluyendo audiencias, recompensas, horarios y configuración automatizada de recorridos.
+title: Cree un desafío de lealtad y perspectivas de superficie con CX Enterprise Coworker
+description: Aprenda a utilizar CX Enterprise Coworker para crear e iniciar desafíos de lealtad en Adobe Journey Optimizer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# Cree un desafío de lealtad y perspectivas de superficie con CX Enterprise Coworker
 
-# Cree un desafío de fidelidad y perspectivas de superficie con CX Enterprise Coworker
-
-Aprenda a utilizar CX Enterprise Coworker para crear, configurar y lanzar desafíos de fidelidad utilizando el lenguaje natural, incluyendo audiencias, recompensas, horarios y configuración automatizada de recorridos.
+Utilice mensajes en lenguaje sencillo para crear, configurar e iniciar desafíos de lealtad con CX Enterprise Coworker. En este vídeo, aprenderá a definir audiencias, recompensas y horarios, automatizar la configuración de los recorridos y revisar las perspectivas de los desafíos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496541/?captions=spa&learn=on&enablevpops)
