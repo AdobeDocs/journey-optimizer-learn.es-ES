@@ -28,10 +28,10 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 53fb6e5aed7d0b3e1782490e938af5dbb5f61082
+source-git-commit: 57f70215cfd0c70b64679061089a853c244be391
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 27%
+source-wordcount: '1197'
+ht-degree: 28%
 ---
 
 # CX Enterprise Coworker en Journey Optimizer
@@ -47,16 +47,16 @@ Para Journey Optimizer, esto significa menos tiempo dedicado a configurar los pa
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/es/docs/coworker/content/home
+* https://experienceleague.adobe.com/en/docs/coworker/content/home
   {title = CX Enterprise Coworker guide}
   {description = A full introduction to Coworker, its capabilities, and supported applications.}
-  {image = https://experienceleague.adobe.com/es/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
   {cta = Get Started}
 
-* https://experienceleague.adobe.com/es/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
   {title = What can Coworker Chat do?}
   {description = Learn how Coworker Chat uses a conversational interface to plan, execute, and complete customer experience work across Adobe and connected systems in minutes.}
-  {image = https://experienceleague.adobe.com/es/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
+  {image = https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium}
   {cta = Watch}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -66,7 +66,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/coworker/content/home" title="Guía de CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Guía de CX Enterprise Coworker"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&amp;format=pjpg&amp;optimize=medium" alt="Guía de CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,8 +88,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/playlists/coworker-get-started-with-chat" title="¿Qué puede hacer el chat de Coworker?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="¿Qué puede hacer el chat de Coworker?"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="¿Qué puede hacer el chat de Coworker?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&amp;format=pjpg&amp;optimize=medium" alt="¿Qué puede hacer el chat de Coworker?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,11 +97,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="¿Qué puede hacer el chat de Coworker?">¿Qué puede hacer Coworker Chat?</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="¿Qué puede hacer el chat de Coworker?">¿Qué puede hacer Coworker Chat?</a>
                     </p>
                     <p class="is-size-6">Conozca cómo el chat de Coworker utiliza una interfaz conversacional para planificar, ejecutar y completar las tareas de la experiencia del cliente en Adobe y los sistemas conectados en cuestión de minutos.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/es/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -117,28 +117,34 @@ Aprenda cómo Coworker transforma su forma de trabajar en Journey Optimizer medi
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language
   {title = Generate journeys from natural language}
   {description = Turn a plain-language prompt into a draft Journey Optimizer journey with Coworker.}
   {image = https://images-tv.adobe.com/mpcv3/13099/3496867/2dacfe4d-cdd2-4a33-8449-1fad8a3a310d/e8788cf105924012acd2a90d56bb1845_1793746003-1920x1080.jpg}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image
   {title = Create a journey from an image}
   {description = Turn a flowchart image into a draft Journey Optimizer journey that you can review and edit.}
   {image = https://images-tv.adobe.com/mpcv3/13968/3504865/d8195c30-94b5-4070-859b-b9dda5515d1d/9026fe8b165e4092b602fa898bba4d6f_1792796167-1920x1080.jpg}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker
   {title = Simulate a journey using Coworker}
   {description = Test journey paths with generated profiles and events. Review proof messages and path coverage before publishing.}
   {image = https://images-tv.adobe.com/mpcv3/14050/3507004/d8195c30-94b5-4070-859b-b9dda5515d1d/c41211c8bf714a43bc5bd2284b6b5a28_1793746064-1920x1080.jpg}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video
+* https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker
   {title = Create, simulate, and analyze cross-channel journeys}
   {description = Build a journey with email and SMS content. Simulate its paths and identify configuration issues with Coworker.}
   {image = https://images-tv.adobe.com/mpcv3/13953/3504706/d8195c30-94b5-4070-859b-b9dda5515d1d/84c8ffc936c64926b227bea57502d15f_1792184436-1920x1080.jpg}
+  {cta = Watch}
+
+* https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison
+  {title = Compare journey versions using Coworker}
+  {description = Compare journey versions with visual comparisons and detailed summaries. Identify changes to activities, branches, and properties, and track when updates were made.}
+  {image = https://images-tv.adobe.com/mpcv3/14061/3507163/d8195c30-94b5-4070-859b-b9dda5515d1d/7c8f011e10e54868b17e9fafbc38e28c_1793823976-1920x1080.jpg}
   {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-loyalty-challenge
@@ -153,7 +159,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" title="Generar recorridos a partir de lenguaje natural" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" title="Generar recorridos a partir de lenguaje natural" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13099/3496867/2dacfe4d-cdd2-4a33-8449-1fad8a3a310d/e8788cf105924012acd2a90d56bb1845_1793746003-1920x1080.jpg" alt="Generar recorridos a partir de lenguaje natural"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -162,11 +168,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" title="Generar recorridos a partir de lenguaje natural">Generar recorridos a partir de idioma natural</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" title="Generar recorridos a partir de lenguaje natural">Generar recorridos a partir de idioma natural</a>
                     </p>
                     <p class="is-size-6">Convierta un mensaje en lenguaje sencillo en un borrador de recorrido de Journey Optimizer con Coworker.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-natural-language" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -176,7 +182,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" title="Creación de un recorrido a partir de una imagen" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" title="Creación de un recorrido a partir de una imagen" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13968/3504865/d8195c30-94b5-4070-859b-b9dda5515d1d/9026fe8b165e4092b602fa898bba4d6f_1792796167-1920x1080.jpg" alt="Creación de un recorrido a partir de una imagen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -185,11 +191,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" title="Creación de un recorrido a partir de una imagen">Crear un recorrido a partir de una imagen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" title="Creación de un recorrido a partir de una imagen">Crear un recorrido a partir de una imagen</a>
                     </p>
                     <p class="is-size-6">Convierta una imagen de diagrama de flujo en un recorrido de borrador de Journey Optimizer que pueda revisar y editar.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-journey-from-image" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -199,7 +205,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" title="Simulación de un recorrido mediante Coworker" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" title="Simulación de un recorrido mediante Coworker" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/14050/3507004/d8195c30-94b5-4070-859b-b9dda5515d1d/c41211c8bf714a43bc5bd2284b6b5a28_1793746064-1920x1080.jpg" alt="Simulación de un recorrido mediante Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -208,11 +214,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" title="Simulación de un recorrido mediante Coworker">Simular un recorrido usando un compañero</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" title="Simulación de un recorrido mediante Coworker">Simular un recorrido usando un compañero</a>
                     </p>
                     <p class="is-size-6">Pruebe las rutas de recorrido con perfiles y eventos generados. Revise los mensajes de prueba y la cobertura de ruta antes de publicar.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -222,7 +228,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video" title="Creación, simulación y análisis de recorridos entre canales" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" title="Creación, simulación y análisis de recorridos entre canales" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/13953/3504706/d8195c30-94b5-4070-859b-b9dda5515d1d/84c8ffc936c64926b227bea57502d15f_1792184436-1920x1080.jpg" alt="Creación, simulación y análisis de recorridos entre canales"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -231,11 +237,34 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video" target="_blank" rel="referrer" title="Creación, simulación y análisis de recorridos entre canales">Crear, simular y analizar recorridos en canales múltiples</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" target="_blank" rel="referrer" title="Creación, simulación y análisis de recorridos entre canales">Crear, simular y analizar recorridos en canales múltiples</a>
                     </p>
                     <p class="is-size-6">Cree un recorrido con contenido de correo electrónico y SMS. Simule sus rutas e identifique los problemas de configuración con Coworker.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/es/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Compare journey versions using Coworker">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" title="Comparar versiones de recorrido mediante Coworker" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://images-tv.adobe.com/mpcv3/14061/3507163/d8195c30-94b5-4070-859b-b9dda5515d1d/7c8f011e10e54868b17e9fafbc38e28c_1793823976-1920x1080.jpg" alt="Comparar versiones de recorrido mediante Coworker"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" title="Comparar versiones de recorrido mediante Coworker">Comparar versiones de recorrido mediante Coworker</a>
+                    </p>
+                    <p class="is-size-6">Comparar versiones de recorridos con comparaciones visuales y resúmenes detallados. Identifique los cambios realizados en las actividades, ramas y propiedades, y realice un seguimiento de las actualizaciones.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/coworker/using/chat/use-cases/journeys/journey-version-comparison" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
