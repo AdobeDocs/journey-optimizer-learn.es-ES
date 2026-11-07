@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Aprenda a utilizar grupos de acción para combinar correo electrónico, push y SMS y, a continuación, optimizar la selección de canales con la prioridad manual, las preferencias del cliente o las puntuaciones de participación de IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505313/?captions=spa&learn=on&enablevpops)
