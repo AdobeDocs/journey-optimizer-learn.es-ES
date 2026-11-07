@@ -35,6 +35,6 @@ ht-degree: 0%
 
 En este ejercicio, se empieza a crear el recorrido de bienvenida, basado en un recorrido existente. Comience por definir los criterios de entrada y, a continuación, cree y redacte primero el mensaje de correo electrónico mediante el Acelerador de contenido de IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505845/?captions=spa&learn=on&enablevpops)
 
 Consulte [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md) y [Caso de uso - Calificación de audiencias](/help/journeys/use-case-audience-qualification.md) para obtener más información sobre este tema.

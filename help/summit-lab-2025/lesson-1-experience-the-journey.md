@@ -33,4 +33,4 @@ ht-degree: 0%
 
 En esta lección, experimenta el recorrido de incorporación de un nuevo cliente de SecurFinancial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505811/?captions=spa&learn=on&enablevpops)

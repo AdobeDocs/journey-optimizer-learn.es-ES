@@ -39,6 +39,6 @@ ht-degree: 0%
 
 En este ejercicio, aplica contenido dinámico al SMS como ejemplo, pero se puede aplicar en todos los canales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505854/?captions=spa&learn=on&enablevpops)
 
 Consulte [Crear contenido dinámico con el generador de reglas de condición](/help/personalize-content/create-dynamic-content.md) para obtener más información sobre este tema.
