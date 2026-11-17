@@ -8,11 +8,9 @@ breadcrumb-url: /docs/journey-optimizer-learn/loyalty-garage-week/overview
 auto-video-transcripts: true
 source-git-commit: daf558af80981d8442108cb97532020087a3c275
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '47'
 ht-degree: 0%
-
 ---
-
 
 # Semana del garaje de fidelización {#loyalty-garage-week}
 
