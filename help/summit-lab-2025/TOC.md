@@ -8,11 +8,9 @@ breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-
 auto-video-transcripts: true
 source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '87'
 ht-degree: 1%
-
 ---
-
 
 # Ampliación de la orquestación a la participación omnicanal {#scaling-orchestration-to-omnichannel-engagement}
 

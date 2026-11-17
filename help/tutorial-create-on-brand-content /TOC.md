@@ -10,21 +10,19 @@ source-git-commit: 6d13297a6b1a8220ce9a55c70bdf0ea5b19e4e26
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
-
 ---
-
 
 # Creación de contenido con tecnología de IA y marca en Adobe Journey Optimizer para especialistas en marketing {#create-on-brand-content}
 
 + [Creación de contenido con tecnología de IA y marca en Adobe Journey Optimizer para especialistas en marketing](./overview.md)
 + Introducción y configuración de marca {#introduction-and-brand-setup}
-   + [Creación de contenido de correo electrónico en la marca con IA](./introduction.md)
-   + [Configuración de una marca para contenido con tecnología de IA en Adobe Journey Optimizer](./configure-brands.md)
-   + [Ampliación de las directrices de marca en herramientas creativas](./brands-tips-and-tricks.md)
+  + [Creación de contenido de correo electrónico en la marca con IA](./introduction.md)
+  + [Configuración de una marca para contenido con tecnología de IA en Adobe Journey Optimizer](./configure-brands.md)
+  + [Ampliación de las directrices de marca en herramientas creativas](./brands-tips-and-tricks.md)
 + Uso de IA para generar contenido {#generate-content}
-   + [Creación de contenido omnicanal desde cero](./create-content-from-scratch.md)
-   + [Editar y personalizar el contenido de la sección](./edit-and-personalize-section-content.md)
-   + [Mejore su contenido visual con IA](./enhance-your-visual-content.md)
-   + [Cree y perfeccione versiones multilingües de su contenido](./create-and-refine-multilingual-content.md)
+  + [Creación de contenido omnicanal desde cero](./create-content-from-scratch.md)
+  + [Editar y personalizar el contenido de la sección](./edit-and-personalize-section-content.md)
+  + [Mejore su contenido visual con IA](./enhance-your-visual-content.md)
+  + [Cree y perfeccione versiones multilingües de su contenido](./create-and-refine-multilingual-content.md)
 + [Garantizar la calidad del contenido, la alineación de la marca y el control](./quality-brand-alignment-and-governance.md)
 
