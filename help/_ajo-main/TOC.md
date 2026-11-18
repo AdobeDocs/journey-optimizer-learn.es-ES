@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: ht
-source-wordcount: '1600'
-ht-degree: 100%
+source-git-commit: 71ab3fccd68cf11ccc392533220ce455e302fb66
+workflow-type: tm+mt
+source-wordcount: '1605'
+ht-degree: 99%
 ---
 
 # Tutoriales de Journey Optimizer {#tutorials}
@@ -16,6 +16,7 @@ ht-degree: 100%
   + [Tutoriales de Journey Optimizer: información general](/help/introduction/journey-optimizer-overview.md)
   + {hide-from-toc}[Introducción a Journey Optimizer](/help/introduction/introduction.md)
   + [Funcionalidades clave](/help/introduction/key-capabilities.md)
+  + [Funciones y la interfaz de usuario](/help/introduction/roles-and-the-user-interface-feature-video.md)
   + {hide-from-toc}[Arquitectura](/help/introduction/architecture.md)
   + [Capacidades de Mobile para especialistas en marketing](/help/channels/mobile-capabilities.md)
   + [Capacidades de Mobile para desarrolladores](/help/channels/mobile-capabilities-for-developers.md)
