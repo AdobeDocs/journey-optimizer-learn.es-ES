@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Obtenga información sobre las funciones clave de Adobe Journey Optimizer, desde los datos de los clientes y los públicos hasta los recorridos, los canales, el contenido, las decisiones y la lealtad, y dónde puede ayudarle la IA con su trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430317?captions=spa&learn=on){transcript=true}

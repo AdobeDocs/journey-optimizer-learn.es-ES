@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Descubra cómo la funcionalidad de IA de Adobe Journey Optimizer convierte las indicaciones en un inglés sencillo en condiciones de recorrido sin necesidad de escribir en el lenguaje de expresiones. Este vídeo muestra cómo utilizar la pertenencia al programa de lealtad y las comprobaciones de usuarios inactivos para crear rutas de cliente más relevantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504897/?captions=spa&learn=on&enablevpops)
