@@ -1,6 +1,6 @@
 ---
 title: Utilice la optimización de canales para llegar a los clientes donde interactúan
-description: Aprenda a utilizar grupos de acción para combinar correo electrónico, push y SMS y, a continuación, optimizar la selección de canales con la prioridad manual, las preferencias del cliente o las puntuaciones de participación de IA.
+description: Aprenda a utilizar grupos de acción para combinar correos electrónicos, notificaciones push y SMS y, a continuación, optimizar la selección de canales con la prioridad manual, las preferencias del cliente o las puntuaciones de participación de IA.
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -22,13 +22,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # Utilice la optimización de canales para llegar a los clientes donde interactúan
 
-Aprenda a utilizar grupos de acción para combinar correo electrónico, push y SMS y, a continuación, optimizar la selección de canales con la prioridad manual, las preferencias del cliente o las puntuaciones de participación de IA.
+Aprenda a utilizar grupos de acción para combinar correos electrónicos, notificaciones push y SMS y, a continuación, optimizar la selección de canales con la prioridad manual, las preferencias del cliente o las puntuaciones de participación de IA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505313/?captions=spa&learn=on&enablevpops)

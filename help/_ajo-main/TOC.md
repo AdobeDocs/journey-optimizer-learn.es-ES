@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Estos son los tutoriales de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1600'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Tutoriales de Journey Optimizer {#tutorials}
@@ -42,7 +42,7 @@ ht-degree: 98%
   + [Introducción al nuevo lienzo de recorrido](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Introducción a la creación de un recorrido](/help/journeys/introduction-to-building-a-journey.md)
   + [Analizar y crear recorridos con IA](/help/ai-agents/journey-agent-overview.md)
-  + [Creación de condiciones de recorrido utilizando lenguaje natural](/help/journeys/create-journey-conditions-using-natural-language.md)
+  + [Crear condiciones de recorrido con un lenguaje natural](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [Crear un perfil de prueba](/help/journeys/test-a-journey.md)
   + [Simular recorridos con público externo](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Acelerar las pruebas de recorrido con Simulación rápida](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [Creación y publicación de instancias del manual de tácticas](https://experienceleague.adobe.com/es/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Ejercicios, laboratorios y retos {#exercises-and-challenges}
   + [Configuración de una zona protegida para pruebas de formación](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[Retostarget="_blank"](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[Retos](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Laboratorios Summit {#summit-labs}
     + [Creación de momentos móviles personalizados con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Escalar la orquestación a la participación omnicanal en Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}

@@ -1,6 +1,6 @@
 ---
-title: Creación de condiciones de Recorrido con lenguaje natural
-description: Aprenda a crear condiciones de recorrido en Adobe Journey Optimizer mediante peticiones de datos en lenguaje natural. Utilice IA para comprobar la pertenencia a la fidelidad e identificar usuarios inactivos.
+title: Crear condiciones de recorrido con un lenguaje natural
+description: Aprenda a crear condiciones de recorrido en Adobe Journey Optimizer mediante indicaciones en un lenguaje natural. Utilice IA para comprobar la pertenencia al programa de lealtad e identificar usuarios inactivos.
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -20,13 +20,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# Creación de condiciones de recorrido utilizando lenguaje natural
+# Crear condiciones de recorrido con un lenguaje natural
 
-Descubra cómo la funcionalidad de IA de Adobe Journey Optimizer convierte los mensajes en inglés sin formato en condiciones de recorrido sin necesidad de escribir lenguaje de expresión. Este vídeo muestra cómo utilizar la pertenencia a grupos de fidelidad y las comprobaciones de usuarios inactivos para crear rutas de cliente más relevantes.
+Descubra cómo la funcionalidad de IA de Adobe Journey Optimizer convierte las indicaciones en un inglés sencillo en condiciones de recorrido sin necesidad de escribir en el lenguaje de expresiones. Este vídeo muestra cómo utilizar la pertenencia al programa de lealtad y las comprobaciones de usuarios inactivos para crear rutas de cliente más relevantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504897/?captions=spa&learn=on&enablevpops)
