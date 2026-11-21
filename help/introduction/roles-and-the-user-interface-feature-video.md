@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo navegar por Adobe Journey Optimizer, comprender las cuatro funciones de usuario clave y encontrar las herramientas y la configuración relevantes para su función. Descubra cómo las organizaciones, los entornos limitados y los permisos configuran el espacio de trabajo antes de crear el primer caso de uso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508506?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508510?captions=spa&learn=on){transcript=true}
