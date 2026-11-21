@@ -44,4 +44,4 @@ ht-degree: 0%
 
 En este ejercicio, vincula una estrategia de selección a una experiencia basada en código para la personalización de banners web en tiempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508543/?captions=spa&learn=on)
